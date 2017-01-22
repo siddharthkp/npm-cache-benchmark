@@ -4,11 +4,19 @@
 
 Benchmark npm with cache vs yarn.
 
-Read article here: [npm cache: the unsung hero]()!
+Read the article here: [npm cache: the unsung hero](https://medium.com/@siddharthkp/npm-cache-the-unsung-hero-11e646c09791#.rmetu4dpg)
+
+&nbsp;
+&nbsp;
 
 ![unsung hero](https://raw.githubusercontent.com/siddharthkp/npm-cache-benchmark/master/hero.png)
 
 &nbsp;
+
+#### TL;DR
+
+Run this on your terminal and profit!
+`npm config set cache-min 9999999`
 
 #### Usage
 
@@ -20,7 +28,6 @@ Read article here: [npm cache: the unsung hero]()!
   npm test express
 
   npm test react
-
 ```
 
 #### Show your support
