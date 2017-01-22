@@ -16,6 +16,7 @@ Read the article here: [npm cache: the unsung hero](https://medium.com/@siddhart
 #### TL;DR
 
 Run this on your terminal and profit!
+
 `npm config set cache-min 9999999`
 
 #### Usage
@@ -33,6 +34,12 @@ Run this on your terminal and profit!
 #### Show your support
 
 :star: this repo
+
+#### Some benchmarks
+
+![react](https://raw.githubusercontent.com/siddharthkp/npm-cache-benchmark/master/screenshots/react.png)
+![express](https://raw.githubusercontent.com/siddharthkp/npm-cache-benchmark/master/screenshots/express.png)
+![webpack](https://raw.githubusercontent.com/siddharthkp/npm-cache-benchmark/master/screenshots/webpack.png)
 
 #### License
 
