@@ -1,0 +1,24 @@
+{
+  "name": "npm-cache-benchmark",
+  "version": "1.0.0",
+  "description": "Benchmark npm cache vs yarn",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "1.1.3",
+    "clear": "0.0.1",
+    "ora": "0.3.0",
+    "sync-exec": "0.6.2"
+  },
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "repository": "siddharthkp/npm-cache-benchmark",
+  "keywords": "benchmark, npm-cache, npm cache, yarn",
+  "engines": {
+    "node": ">= 6.0.0"
+  }
+}
