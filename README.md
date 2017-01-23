@@ -37,9 +37,7 @@ Run this on your terminal and profit!
 
 #### Some benchmarks
 
-![react](https://raw.githubusercontent.com/siddharthkp/npm-cache-benchmark/master/screenshots/react.png)
-![express](https://raw.githubusercontent.com/siddharthkp/npm-cache-benchmark/master/screenshots/express.png)
-![webpack](https://raw.githubusercontent.com/siddharthkp/npm-cache-benchmark/master/screenshots/webpack.png)
+![benchmarks](https://raw.githubusercontent.com/siddharthkp/npm-cache-benchmark/master/benchmark@12Mbps.png)
 
 #### License
 
