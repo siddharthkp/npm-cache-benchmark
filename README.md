@@ -2,7 +2,7 @@
 
 &nbsp;
 
-Benchmark npm with cache vs yarn.
+Benchmark npm with cache vs [shrinkpack](https://github.com/JamieMason/shrinkpack) vs [yarn](https://github.com/yarnpkg/yarn).
 
 Read the article here: [npm cache: the unsung hero](https://medium.com/@siddharthkp/npm-cache-the-unsung-hero-11e646c09791#.rmetu4dpg)
 
@@ -15,20 +15,22 @@ Read the article here: [npm cache: the unsung hero](https://medium.com/@siddhart
 
 #### TL;DR
 
-Run this on your terminal and profit!
-
-`npm config set cache-min 9999999`
++ Run `npm config set cache-min 9999999` on your terminal and profit!
++ To add offline support to npm, check out [shrinkpack](https://github.com/JamieMason/shrinkpack).
++ For offline support and really fast installs, try [yarn](https://github.com/yarnpkg/yarn).
 
 #### Usage
 
+You will need Docker installed to run the benchmarks.
+
 ```
-  git clone git@github.com:siddharthkp/npm-cache-benchmark.git
+git clone git@github.com:siddharthkp/npm-cache-benchmark.git
 
-  npm install
+# you only need to build the docker image once
+npm run build
 
-  npm test express
-
-  npm test react
+# then run this each time you want to run the benchmarks
+npm run benchmark
 ```
 
 #### Show your support
@@ -37,7 +39,13 @@ Run this on your terminal and profit!
 
 #### Some benchmarks
 
-![benchmarks](https://raw.githubusercontent.com/siddharthkp/npm-cache-benchmark/master/benchmark@12Mbps.png)
+```
+npm: 15.556s
+npm-cached: 11.321s
+shrinkpack: 10.857s
+shrinkpack-compressed: 11.961s
+yarn: 6.413s
+```
 
 #### License
 
