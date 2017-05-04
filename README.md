@@ -1,25 +1,8 @@
-#### npm-cache-benchmark
+# npm-cache-benchmark
 
-&nbsp;
+Benchmark npm 4 and 5 with cache vs [shrinkpack](https://github.com/JamieMason/shrinkpack) vs [yarn](https://github.com/yarnpkg/yarn).
 
-Benchmark npm with cache vs [shrinkpack](https://github.com/JamieMason/shrinkpack) vs [yarn](https://github.com/yarnpkg/yarn).
-
-Read the article here: [npm cache: the unsung hero](https://medium.com/@siddharthkp/npm-cache-the-unsung-hero-11e646c09791#.rmetu4dpg)
-
-&nbsp;
-&nbsp;
-
-![unsung hero](https://raw.githubusercontent.com/siddharthkp/npm-cache-benchmark/master/hero.png)
-
-&nbsp;
-
-#### TL;DR
-
-+ Run `npm config set cache-min 9999999` on your terminal and profit!
-+ To add offline support to npm, check out [shrinkpack](https://github.com/JamieMason/shrinkpack).
-+ For offline support and really fast installs, try [yarn](https://github.com/yarnpkg/yarn).
-
-#### Usage
+## Usage
 
 You will need Docker installed to run the benchmarks.
 
@@ -33,20 +16,16 @@ npm run build
 npm run benchmark
 ```
 
-#### Show your support
-
-:star: this repo
-
-#### Some benchmarks
+## Latest Results
 
 ```
-npm: 15.556s
-npm-cached: 11.321s
-shrinkpack: 10.857s
-shrinkpack-compressed: 11.961s
-yarn: 6.413s
+npm: 24.208s
+npm-cached: 14.007s
+shrinkpack: 9.829s
+shrinkpack-compressed: 11.273s
+yarn: 6.5s
+npm5: 20.158s
+npm5-cached: 19.345s
+npm5-shrinkpack: 1.145s
+npm5-shrinkpack-compressed: 9.044s
 ```
-
-#### License
-
-MIT © [siddharthkp](https://github.com/siddharthkp)
