@@ -3,3 +3,13 @@
 logs
 node_modules
 npm-debug.log*
+
+_cacache
+anonymous-cli-metrics.json
+
+npm/node_cache
+npm-package-lock/node_cache
+shrinkpack/node_cache
+shrinkpack-package-lock/node_cache
+shrinkpack-compressed/node_cache
+shrinkpack-compressed-package-lock/node_cache
