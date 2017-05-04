@@ -19,13 +19,13 @@ npm run benchmark
 ## Latest Results
 
 ```
-npm: 24.208s
-npm-cached: 14.007s
-shrinkpack: 9.829s
-shrinkpack-compressed: 11.273s
-yarn: 6.5s
-npm5: 20.158s
-npm5-cached: 19.345s
-npm5-shrinkpack: 1.145s
-npm5-shrinkpack-compressed: 9.044s
+npm: 19.508s
+npm-cached: 17.781s
+shrinkpack: 9.563s
+shrinkpack-compressed: 9.767s
+yarn: 5.776s
+npm5: 15.561s
+npm5-cached: 16.351s
+npm5-shrinkpack: 1.216s
+npm5-shrinkpack-compressed: 8.817s
 ```
