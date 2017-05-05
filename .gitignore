@@ -4,8 +4,11 @@ logs
 node_modules
 npm-debug.log*
 
+**/package/package.json
+
 _cacache
 anonymous-cli-metrics.json
+index.dist.js
 
 npm/node_cache
 npm-package-lock/node_cache
