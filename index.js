@@ -10,6 +10,7 @@ const results = {
   'npm/shrinkpack': { average: 0, runs: [] },
   'npm/shrinkpack-compressed': { average: 0, runs: [] },
   'yarn/yarn': { average: 0, runs: [] },
+  'yarn/yarn-offline': { average: 0, runs: [] },
   'npm5/npm': { average: 0, runs: [] },
   'npm5/npm-cached': { average: 0, runs: [] },
   'npm5/shrinkpack': { average: 0, runs: [] },
@@ -34,19 +35,19 @@ function spawn(cmd, args, options = {}) {
 async function clean(dirPath) {
   await spawn('npm', ['cache', 'clean']);
   await spawn('yarn', ['cache', 'clean']);
-  if (dirPath.includes('-cached') == false) {
+  if (dirPath.includes('-cached') === false) {
     await spawn('rm', ['-rf', path.join(dirPath, 'node_cache')]);
   }
   await spawn('rm', ['-rf', path.join(dirPath, 'node_modules')]);
 }
 
-async function runBenchmark(installer, directory) {
+async function runBenchmark(installer, args, directory) {
   const key = `${installer}/${directory}`;
   const dirPath = path.resolve(directory);
 
   await clean(dirPath);
   const start = new Date().getTime();
-  await spawn(installer, ['install'], { cwd: dirPath });
+  await spawn(installer, args, { cwd: dirPath });
   const end = new Date().getTime();
   await clean(dirPath);
 
@@ -54,7 +55,7 @@ async function runBenchmark(installer, directory) {
   const result = results[key];
   result.runs.push(time);
   result.average = average(result.runs);
-  console.log(`${key}: ${time}s (average ${result.average}s over ${result.runs.length} runs)`);
+  console.log(`${key}: ${time}s (average ${result.average}s)`);
   return time;
 }
 
@@ -63,15 +64,16 @@ async function runAll() {
     const sampleSize = 5;
     for (let i = 1; i <= sampleSize; i++) {
       console.log(chalk.underline(`Run ${i}`));
-      await runBenchmark('npm', 'npm');
-      await runBenchmark('npm', 'npm-cached');
-      await runBenchmark('npm', 'shrinkpack');
-      await runBenchmark('npm', 'shrinkpack-compressed');
-      await runBenchmark('yarn', 'yarn');
-      await runBenchmark('npm5', 'npm');
-      await runBenchmark('npm5', 'npm-cached');
-      await runBenchmark('npm5', 'shrinkpack');
-      await runBenchmark('npm5', 'shrinkpack-compressed');
+      await runBenchmark('npm', ['install'], 'npm');
+      await runBenchmark('npm', ['install'], 'npm-cached');
+      await runBenchmark('npm', ['install'], 'shrinkpack');
+      await runBenchmark('npm', ['install'], 'shrinkpack-compressed');
+      await runBenchmark('yarn', ['install'], 'yarn');
+      await runBenchmark('yarn', ['install', '--offline'], 'yarn-offline');
+      await runBenchmark('npm5', ['install'], 'npm');
+      await runBenchmark('npm5', ['install'], 'npm-cached');
+      await runBenchmark('npm5', ['install'], 'shrinkpack');
+      await runBenchmark('npm5', ['install'], 'shrinkpack-compressed');
       console.log('');
     }
   } catch (err) {
