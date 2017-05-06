@@ -58,7 +58,7 @@ async function runBenchmark(installer, args, directory) {
     const result = results[key];
     result.runs.push(time);
     result.average = average(result.runs);
-    console.log(`${key}: ${time}s (average ${result.average}s)`);
+    console.log(`${key}: ${time.toFixed(2)}s (average ${result.average.toFixed(2)}s)`);
     return time;
   } catch (err) {
     onError(err);
