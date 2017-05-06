@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 const chalk = require('chalk');
 const path = require('path');
 const childProcess = require('child_process');
@@ -17,7 +15,7 @@ const results = {
   'npm5/shrinkpack-compressed': { average: 0, runs: [] }
 };
 
-function average (list) {
+function average(list) {
   return list.reduce((total, value) => total + value, 0) / list.length;
 }
 
@@ -33,30 +31,38 @@ function spawn(cmd, args, options = {}) {
 }
 
 async function clean(dirPath) {
-  await spawn('npm', ['cache', 'clean']);
-  await spawn('yarn', ['cache', 'clean']);
-  if (dirPath.includes('-cached') === false) {
-    await spawn('rm', ['-rf', path.join(dirPath, 'node_cache')]);
+  try {
+    await spawn('npm', ['cache', 'clean']);
+    await spawn('yarn', ['cache', 'clean']);
+    if (dirPath.includes('-cached') === false) {
+      await spawn('rm', ['-rf', path.join(dirPath, 'node_cache')]);
+    }
+    await spawn('rm', ['-rf', path.join(dirPath, 'node_modules')]);
+  } catch (err) {
+    onError(err);
   }
-  await spawn('rm', ['-rf', path.join(dirPath, 'node_modules')]);
 }
 
 async function runBenchmark(installer, args, directory) {
-  const key = `${installer}/${directory}`;
-  const dirPath = path.resolve(directory);
+  try {
+    const key = `${installer}/${directory}`;
+    const dirPath = path.resolve(directory);
 
-  await clean(dirPath);
-  const start = new Date().getTime();
-  await spawn(installer, args, { cwd: dirPath });
-  const end = new Date().getTime();
-  await clean(dirPath);
+    await clean(dirPath);
+    const start = new Date().getTime();
+    await spawn(installer, args, { cwd: dirPath });
+    const end = new Date().getTime();
+    await clean(dirPath);
 
-  const time = (end - start) / 1000;
-  const result = results[key];
-  result.runs.push(time);
-  result.average = average(result.runs);
-  console.log(`${key}: ${time}s (average ${result.average}s)`);
-  return time;
+    const time = (end - start) / 1000;
+    const result = results[key];
+    result.runs.push(time);
+    result.average = average(result.runs);
+    console.log(`${key}: ${time}s (average ${result.average}s)`);
+    return time;
+  } catch (err) {
+    onError(err);
+  }
 }
 
 async function runAll() {
@@ -77,9 +83,13 @@ async function runAll() {
       console.log('');
     }
   } catch (err) {
-    console.error(chalk.red(err));
-    process.exit(1);
+    onError(err);
   }
+}
+
+function onError(err) {
+  console.error(err);
+  process.exit(1);
 }
 
 runAll();
