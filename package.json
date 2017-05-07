@@ -20,9 +20,5 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "repository": "siddharthkp/npm-cache-benchmark",
-  "scripts": {
-    "benchmark": "docker run -w /benchmarks npm-cache-benchmark node index.js",
-    "build": "docker build -t npm-cache-benchmark:latest ./"
-  }
+  "repository": "siddharthkp/npm-cache-benchmark"
 }
