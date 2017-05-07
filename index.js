@@ -1,66 +1,115 @@
-#!/usr/bin/env node
+const path = require('path');
+const childProcess = require('child_process');
 
-const exec = require('sync-exec')
-const chalk = require('chalk')
-const clear = require('clear')
-const ora = require('ora');
+const results = {
+  'npm/npm': {
+    average: 0,
+    name: 'npm 4.x',
+    runs: []
+  },
+  'npm/npm-cached': {
+    average: 0,
+    name: 'npm 4.x (cached)',
+    runs: []
+  },
+  'npm/shrinkpack': {
+    average: 0,
+    name: 'npm 4.x (shrinkpacked)',
+    runs: []
+  },
+  'npm/shrinkpack-compressed': {
+    average: 0,
+    name: 'npm 4.x (shrinkpacked, compressed)',
+    runs: []
+  },
+  'yarn/yarn': {
+    average: 0,
+    name: 'yarn',
+    runs: []
+  },
+  'yarn/yarn-offline': {
+    average: 0,
+    name: 'yarn --offline',
+    runs: []
+  },
+  'npm5/npm': {
+    average: 0,
+    name: 'npm 5.x',
+    runs: []
+  },
+  'npm5/npm-cached': {
+    average: 0,
+    name: 'npm 5.x (cached)',
+    runs: []
+  },
+  'npm5/shrinkpack': {
+    average: 0,
+    name: 'npm 5.x (shrinkpacked)',
+    runs: []
+  },
+  'npm5/shrinkpack-compressed': {
+    average: 0,
+    name: 'npm 5.x (shrinkpacked, compressed)',
+    runs: []
+  }
+};
 
-const package = process.argv.slice(2)[0]
-
-const info = message => console.log(chalk.green(message))
-const warning = message => console.log(chalk.yellow(message))
-
-let install = (package, tool, cache) => {
-  let message = `${package}: ${tool}`
-  if (cache) message += ' with cache'
-  else message += ' without cache'
-
-  const spinner = ora(chalk.yellow('installing ' + message)).start();
-
-  const start = new Date().getTime()
-  if (tool === 'yarn') exec(`yarn add ${package} --cache-folder .yarn_cache`, {stdio: [2]})
-  else if (tool = 'npm') exec(`npm install ${package} --cache .npm_cache --cache-min 999999999`, {stdio: [2]})
-  spinner.stop();
-
-  const end = new Date().getTime()
-  info(`${message}: ${(end - start)/1000}s`)
+function average(list) {
+  return list.reduce((total, value) => total + value, 0) / list.length;
 }
 
-let createFolder = (package, tool) => {
-  exec(`mkdir test-${package}-${tool}`)
-  process.chdir(`test-${package}-${tool}`)
-  exec('npm init -y')
+function spawn(cmd, args, options = {}) {
+  childProcess.spawnSync(cmd, args, options);
 }
 
-let deleteFolder = (package, tool) => {
-  process.chdir('../')
-  exec(`rm -rf test-${package}-${tool}`)
-  info('')
+function clean(dirPath) {
+  spawn('npm', ['cache', 'clean']);
+  spawn('yarn', ['cache', 'clean']);
+  if (dirPath.includes('-cached') === false) {
+    spawn('rm', ['-rf', path.join(dirPath, 'node_cache')]);
+  }
+  spawn('rm', ['-rf', path.join(dirPath, 'node_modules')]);
 }
 
-let cleanUp = () => {
-  exec('rm -rf node_modules')
-  exec('rm yarn.lock')
-  info('')
+function runBenchmark(installer, args, directory) {
+  const key = `${installer}/${directory}`;
+  const dirPath = path.resolve(directory);
+
+  clean(dirPath);
+  const start = new Date().getTime();
+  spawn(installer, args, { cwd: dirPath });
+  const end = new Date().getTime();
+  clean(dirPath);
+
+  const time = (end - start) / 1000;
+  const result = results[key];
+  result.runs.push(time);
+  result.average = average(result.runs);
+
+  console.log(`${result.name}: ${time.toFixed(2)}s (average ${result.average.toFixed(2)}s)`);
 }
 
-let benchmark = (package, tool) => {
-  createFolder(package, tool)
-
-  install (package, tool, false)
-  cleanUp();
-  install (package, tool, true)
-
-  deleteFolder(package, tool)
+function runAll() {
+  const sampleSize = 5;
+  for (let i = 1; i <= sampleSize; i++) {
+    console.log(`Run ${i}`);
+    runBenchmark('npm', ['install'], 'npm');
+    runBenchmark('npm', ['install'], 'npm-cached');
+    runBenchmark('npm', ['install'], 'shrinkpack');
+    runBenchmark('npm', ['install'], 'shrinkpack-compressed');
+    runBenchmark('yarn', ['install'], 'yarn');
+    runBenchmark('yarn', ['install', '--offline'], 'yarn-offline');
+    runBenchmark('npm5', ['install'], 'npm');
+    runBenchmark('npm5', ['install'], 'npm-cached');
+    runBenchmark('npm5', ['install'], 'shrinkpack');
+    runBenchmark('npm5', ['install'], 'shrinkpack-compressed');
+    console.log('');
+  }
 }
 
-if (package) {
-  clear()
-  benchmark(package, 'yarn')
-  benchmark(package, 'npm')
-} else warning(`
-  You forgot to specify package name.
-
-  Example: npm test express
-
-`)
+try {
+  runAll();
+} catch (err) {
+  console.error(err);
+  process.exit(1);
+}
