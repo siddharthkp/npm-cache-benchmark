@@ -1,5 +1,4 @@
 [
-  'bootstrap',
   'chai',
   'classnames',
   'cookie-parser',
@@ -8,7 +7,6 @@
   'dedent',
   'errorhandler',
   'es6-map',
-  'font-awesome',
   'history',
   'invariant',
   'jquery',
@@ -28,7 +26,6 @@
   'react-codemirror',
   'react-dom',
   'react-fontawesome',
-  'react-images',
   'react-motion',
   'react-no-ssr',
   'react-pure-render',

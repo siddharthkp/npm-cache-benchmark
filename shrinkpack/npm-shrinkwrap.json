@@ -12,11 +12,6 @@
       "from": "ajv@>=4.9.1 <5.0.0",
       "resolved": "./node_shrinkwrap/ajv-4.11.8.tar"
     },
-    "aphrodite": {
-      "version": "0.5.0",
-      "from": "aphrodite@>=0.5.0 <0.6.0",
-      "resolved": "./node_shrinkwrap/aphrodite-0.5.0.tar"
-    },
     "asap": {
       "version": "2.0.5",
       "from": "asap@>=2.0.3 <2.1.0",
@@ -73,16 +68,6 @@
       "version": "2.10.1",
       "from": "boom@>=2.0.0 <3.0.0",
       "resolved": "./node_shrinkwrap/boom-2.10.1.tar"
-    },
-    "bootstrap": {
-      "version": "3.3.7",
-      "from": "bootstrap@3.3.7",
-      "resolved": "./node_shrinkwrap/bootstrap-3.3.7.tar"
-    },
-    "bowser": {
-      "version": "1.6.1",
-      "from": "bowser@>=1.0.0 <2.0.0",
-      "resolved": "./node_shrinkwrap/bowser-1.6.1.tar"
     },
     "buffer-shims": {
       "version": "1.0.0",
@@ -396,14 +381,14 @@
       "resolved": "./node_shrinkwrap/domelementtype-1.3.0.tar"
     },
     "domhandler": {
-      "version": "2.3.0",
+      "version": "2.4.1",
       "from": "domhandler@>=2.3.0 <3.0.0",
-      "resolved": "./node_shrinkwrap/domhandler-2.3.0.tar"
+      "resolved": "./node_shrinkwrap/domhandler-2.4.1.tar"
     },
     "domutils": {
-      "version": "1.6.0",
+      "version": "1.6.2",
       "from": "domutils@>=1.5.1 <2.0.0",
-      "resolved": "./node_shrinkwrap/domutils-1.6.0.tar"
+      "resolved": "./node_shrinkwrap/domutils-1.6.2.tar"
     },
     "ee-first": {
       "version": "1.1.1",
@@ -479,11 +464,6 @@
       "version": "0.8.12",
       "from": "fbjs@>=0.8.9 <0.9.0",
       "resolved": "./node_shrinkwrap/fbjs-0.8.12.tar"
-    },
-    "font-awesome": {
-      "version": "4.7.0",
-      "from": "font-awesome@4.7.0",
-      "resolved": "./node_shrinkwrap/font-awesome-4.7.0.tar"
     },
     "foreach": {
       "version": "2.0.5",
@@ -562,11 +542,6 @@
       "from": "http-signature@>=1.1.0 <1.2.0",
       "resolved": "./node_shrinkwrap/http-signature-1.1.1.tar"
     },
-    "hyphenate-style-name": {
-      "version": "1.0.2",
-      "from": "hyphenate-style-name@>=1.0.1 <2.0.0",
-      "resolved": "./node_shrinkwrap/hyphenate-style-name-1.0.2.tar"
-    },
     "iconv-lite": {
       "version": "0.4.17",
       "from": "iconv-lite@>=0.4.0 <0.5.0",
@@ -576,11 +551,6 @@
       "version": "2.0.3",
       "from": "inherits@>=2.0.1 <3.0.0",
       "resolved": "./node_shrinkwrap/inherits-2.0.3.tar"
-    },
-    "inline-style-prefixer": {
-      "version": "2.0.5",
-      "from": "inline-style-prefixer@>=2.0.0 <3.0.0",
-      "resolved": "./node_shrinkwrap/inline-style-prefixer-2.0.5.tar"
     },
     "invariant": {
       "version": "2.2.2",
@@ -890,11 +860,6 @@
       "from": "react@15.5.4",
       "resolved": "./node_shrinkwrap/react-15.5.4.tar"
     },
-    "react-addons-css-transition-group": {
-      "version": "15.5.2",
-      "from": "react-addons-css-transition-group@>=15.3.0 <16.0.0",
-      "resolved": "./node_shrinkwrap/react-addons-css-transition-group-15.5.2.tar"
-    },
     "react-addons-shallow-compare": {
       "version": "15.5.2",
       "from": "react-addons-shallow-compare@15.5.2",
@@ -919,11 +884,6 @@
       "version": "1.6.1",
       "from": "react-fontawesome@1.6.1",
       "resolved": "./node_shrinkwrap/react-fontawesome-1.6.1.tar"
-    },
-    "react-images": {
-      "version": "0.5.2",
-      "from": "react-images@0.5.2",
-      "resolved": "./node_shrinkwrap/react-images-0.5.2.tar"
     },
     "react-motion": {
       "version": "0.5.0",
@@ -974,11 +934,6 @@
       "version": "4.0.8",
       "from": "react-router-redux@4.0.8",
       "resolved": "./node_shrinkwrap/react-router-redux-4.0.8.tar"
-    },
-    "react-scrolllock": {
-      "version": "1.0.5",
-      "from": "react-scrolllock@>=1.0.1 <2.0.0",
-      "resolved": "./node_shrinkwrap/react-scrolllock-1.0.5.tar"
     },
     "react-youtube": {
       "version": "7.4.0",
