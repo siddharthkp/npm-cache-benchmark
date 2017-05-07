@@ -8,16 +8,16 @@ Benchmarks of [npm][1], [npm5][2], [shrinkpack][3], and [yarn][4] install times.
 
 | Installer | Average over 5 runs |
 |:--|--:|
-| npm 5.x (shrinkpacked) | 11.84s |
-| npm 5.x (shrinkpacked, compressed) | 12.08s |
-| npm 5.x (cached) | 12.33s |
-| npm 5.x | 15.16s |
-| npm 4.x (cached) | 15.81s |
-| yarn --offline | 16.71s |
-| yarn | 17.66s |
-| npm 4.x (shrinkpacked) | 20.92s |
-| npm 4.x (shrinkpacked, compressed) | 21.44s |
-| npm 4.x | 28.61s |
+| npm 5.x (shrinkpacked) | 10.80s |
+| npm 5.x (shrinkpacked, compressed) | 10.82s |
+| npm 5.x (cached) | 13.42s |
+| yarn --offline | 13.43s |
+| npm 5.x | 14.21s |
+| yarn | 18.90s |
+| npm 4.x (shrinkpacked, compressed) | 19.42s |
+| npm 4.x (shrinkpacked) | 19.81s |
+| npm 4.x (cached) | 24.79s |
+| npm 4.x | 28.03s |
 
 ## Running the Benchmarks
 
