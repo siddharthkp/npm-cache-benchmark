@@ -71,10 +71,13 @@ function spawn(cmd, args, cwd) {
 }
 
 function clean(dirPath) {
-  spawn('npm', ['cache', 'clean'], dirPath);
-  spawn('yarn', ['cache', 'clean'], dirPath);
   if (dirPath.includes('-cached') === false) {
-    spawn('rm', ['-rf', path.join(dirPath, 'node_cache')]);
+    spawn('npm', ['cache', 'clean'], dirPath);
+    spawn('npm5', ['cache', 'clean', '--force'], dirPath);
+    spawn('yarn', ['cache', 'clean'], dirPath);
+  }
+  if (dirPath.includes('-offline') === false) {
+    spawn('rm', ['-rf', path.join(dirPath, 'npm-packages-offline-cache')]);
   }
   spawn('rm', ['-rf', path.join(dirPath, 'node_modules')]);
 }
