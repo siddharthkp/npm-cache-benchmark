@@ -50,7 +50,7 @@ function runAll() {
     runBenchmark('npm5', ['install'], 'shrinkpack-compressed');
     runBenchmark('pnpm', ['install'], 'pnpm');
     runBenchmark('pnpm', ['install'], 'pnpm-cached');
-    runBenchmark('pnpm', ['install'], 'pnpm-offline');
+    runBenchmark('pnpm', ['install', '--offline'], 'pnpm-offline');
     console.log('');
   }
 }
