@@ -1,0 +1,156 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "d3-chord",
+			"version": "0.0.1",
+			"dependencies": {
+				"d3-path": "~0.1.2"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9b388609409163c4bed8c62b587ff0e77c4b2186",
+				"tarball": "https://registry.npmjs.org/d3-chord/-/d3-chord-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-chord",
+			"version": "0.0.2",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-path": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "246a38bdb7f50437193fbaf40cb402848f98b7b3",
+				"tarball": "https://registry.npmjs.org/d3-chord/-/d3-chord-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-chord",
+			"version": "1.0.0",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-path": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "93d6926bd356447d8d924aa14edc7d3baca74e05",
+				"tarball": "https://registry.npmjs.org/d3-chord/-/d3-chord-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-chord",
+			"version": "1.0.1",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-path": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3e7014d2edda60df3566985f678a94df67893da5",
+				"tarball": "https://registry.npmjs.org/d3-chord/-/d3-chord-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-chord",
+			"version": "1.0.2",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-path": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9b1ac90efe7de448c0b9188309071de52855a99a",
+				"tarball": "https://registry.npmjs.org/d3-chord/-/d3-chord-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-chord",
+			"version": "1.0.3",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-path": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a398bae7cb632a3c4ea687a555a6b9ee4609d990",
+				"tarball": "https://registry.npmjs.org/d3-chord/-/d3-chord-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "d3-chord",
+			"version": "1.0.4",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-path": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7dec4f0ba886f713fe111c45f763414f6f74ca2c",
+				"tarball": "https://registry.npmjs.org/d3-chord/-/d3-chord-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-chord",
+	"dist-tags": {
+		"latest": "1.0.4"
+	},
+	"modified": "2017-03-10T18:21:10.792Z",
+	"_etag": "W/\"58c2ee96-a3c\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:21:10 GMT"
+}

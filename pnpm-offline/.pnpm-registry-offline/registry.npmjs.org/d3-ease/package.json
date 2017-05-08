@@ -1,0 +1,398 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "d3-ease",
+			"version": "0.0.0",
+			"devDependencies": {
+				"d3": "^3.4.4",
+				"smash": "0.0.12",
+				"uglify-js": "^2.4.13"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3c1f59a6121b4163c017686bc3410615d3d338c3",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.0.0.tgz"
+			},
+			"deprecated": "Use package \"d3-transition\" instead",
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "d3-ease",
+			"version": "0.0.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9c4569f3a7d5be1d6f0f84e14a09aa4472966dd8",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-ease",
+			"version": "0.0.2",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "688806a982fa20026c2be6e2a6444c3e6e4f32c6",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-ease",
+			"version": "0.1.0",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0be8c3bef726b8fcfd95e69167a3871c32adf66c",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "d3-ease",
+			"version": "0.1.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "de5855d97bbf80521bb87a70e494d4addafb0d4f",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "d3-ease",
+			"version": "0.1.2",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0c5fbb959d47f3465d73e15135a7ecd60b9d1d57",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "d3-ease",
+			"version": "0.1.3",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d4a8fb5af84ebad5e75fcf0e0f84b40945a33bdc",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.4": {
+			"name": "d3-ease",
+			"version": "0.1.4",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "54f4ec8f6f1fe67659f54ac41bc5abbd6ed568b3",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.5": {
+			"name": "d3-ease",
+			"version": "0.1.5",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "388824ef9f2b91ad07de612b7d651b5e7eaa08e2",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.1.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-ease",
+			"version": "0.2.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e61643df845774c44bd123c96126362c9af43c6e",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-ease",
+			"version": "0.2.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6ffddde0fd4d89aa3768e564acb18a83051c9b71",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-ease",
+			"version": "0.3.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3d0cab15273e67dede5ee0bf6768c0d2e5468704",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-ease",
+			"version": "0.3.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dbacdbae66df22693c93c9587c3140c0203b193c",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-ease",
+			"version": "0.4.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "855ce6c9f4cca9d6ce3604d0e11fd08eb31a6cc8",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "d3-ease",
+			"version": "0.5.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0de3bfa71b5a05fea4c3bd8636fd8c54b8f39bf7",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "d3-ease",
+			"version": "0.5.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "81499fff8bc018c7647b4076287bf27b895afd3d",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.2": {
+			"name": "d3-ease",
+			"version": "0.5.2",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "70d2fb4c40ff529e39a7d3490d92511a5097d93d",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "d3-ease",
+			"version": "0.6.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8807dc37bd4522d4a129c2b9306dbcb6854e27e7",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "d3-ease",
+			"version": "0.7.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1aa5edf58e3d6e7bbd6a000c00a131a9e018103c",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "d3-ease",
+			"version": "0.8.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a633b2d5788314f9083e8c728f6da8bbb70e5821",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-0.8.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-ease",
+			"version": "1.0.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "01981b33f30ca6e83b5e03b7867345f0457d79a5",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-ease",
+			"version": "1.0.1",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a18c2d44e218fb8b9ec6d635bcca587f85979a85",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-ease",
+			"version": "1.0.2",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b486f8f3ca308ca7be38197d65622b6e30983377",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-ease",
+			"version": "1.0.3",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "68bfbc349338a380c44d8acc4fbc3304aa2d8c0e",
+				"tarball": "https://registry.npmjs.org/d3-ease/-/d3-ease-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-ease",
+	"dist-tags": {
+		"latest": "1.0.3"
+	},
+	"modified": "2017-03-10T18:06:56.030Z",
+	"_etag": "W/\"58c2eb40-1c6c\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:06:56 GMT"
+}

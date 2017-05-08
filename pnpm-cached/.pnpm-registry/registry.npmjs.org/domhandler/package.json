@@ -1,0 +1,304 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "domhandler",
+			"version": "1.0.0",
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "a7d75c9eee3b87814305770c787ae9b626c57842",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "domhandler",
+			"version": "1.0.1",
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "0815fde05d5767a0c774ce8d37e4444381d5e499",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "domhandler",
+			"version": "1.1.0",
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "f60d691dfed25ca26aef3538f47d2cc081cdf95d",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "domhandler",
+			"version": "1.2.0",
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "a21967803f677971c629db13c4b883424096a3d5",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "domhandler",
+			"version": "1.3.0",
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "78b2b8d433039ad0fdd1923213a5d1776a089cca",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-1.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.1": {
+			"name": "domhandler",
+			"version": "1.3.1",
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "9421ba3ea870bfeebe117cfa02d967bc346b02af",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-1.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.2": {
+			"name": "domhandler",
+			"version": "1.3.2",
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "b7627a0de883fa83db9e5217d2cfb11d58f4746e",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-1.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "domhandler",
+			"version": "2.0.0",
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "231dd23a1f5b4d1c6a04b19a90e93ef40ff55681",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "domhandler",
+			"version": "2.0.1",
+			"dependencies": {
+				"domelementtype": "1"
+			},
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "c968e41b1bc7bc15d55fbb6811a84ef5ca15e5de",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-2.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "domhandler",
+			"version": "2.0.2",
+			"dependencies": {
+				"domelementtype": "1"
+			},
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "ca597f42c440173c64d80d838cca738164f1b5ac",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-2.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.3": {
+			"name": "domhandler",
+			"version": "2.0.3",
+			"dependencies": {
+				"domelementtype": "1"
+			},
+			"devDependencies": {
+				"htmlparser2": "2.3"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "889f8df626403af0788e29d66d5d5c6f7ebf0fd6",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-2.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "domhandler",
+			"version": "2.1.0",
+			"dependencies": {
+				"domelementtype": "1"
+			},
+			"devDependencies": {
+				"htmlparser2": "2.3",
+				"mocha": "1"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "d2646f5e57f6c3bab11cf6cb05d3c0acf7412594",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "domhandler",
+			"version": "2.2.0",
+			"dependencies": {
+				"domelementtype": "1"
+			},
+			"devDependencies": {
+				"htmlparser2": "3.2",
+				"mocha": "1",
+				"jshint": "~2.3.0"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "ac9febfa988034b43f78ba056ebf7bd373416476",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-2.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.1": {
+			"name": "domhandler",
+			"version": "2.2.1",
+			"dependencies": {
+				"domelementtype": "1"
+			},
+			"devDependencies": {
+				"htmlparser2": "3.2",
+				"mocha": "1",
+				"jshint": "~2.3.0"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "59df9dcd227e808b365ae73e1f6684ac3d946fc2",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-2.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "domhandler",
+			"version": "2.3.0",
+			"dependencies": {
+				"domelementtype": "1"
+			},
+			"devDependencies": {
+				"htmlparser2": "3.8",
+				"mocha": "1",
+				"jshint": "~2.3.0"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "2de59a0822d5027fabff6f032c2b25a2a8abe738",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-2.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.0": {
+			"name": "domhandler",
+			"version": "2.4.0",
+			"dependencies": {
+				"domelementtype": "1"
+			},
+			"devDependencies": {
+				"htmlparser2": "^3.9.0",
+				"mocha": "^3.0.2",
+				"jshint": "^2.9.1"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "d37bd99a1367a4000b0d9cd9548c9d6aaabfd35c",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-2.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.1": {
+			"name": "domhandler",
+			"version": "2.4.1",
+			"dependencies": {
+				"domelementtype": "1"
+			},
+			"devDependencies": {
+				"htmlparser2": "^3.9.0",
+				"mocha": "^3.0.2",
+				"jshint": "^2.9.1"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "892e47000a99be55bbf3774ffea0561d8879c259",
+				"tarball": "https://registry.npmjs.org/domhandler/-/domhandler-2.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "domhandler",
+	"dist-tags": {
+		"latest": "2.4.1"
+	},
+	"modified": "2017-05-07T02:59:06.685Z",
+	"_etag": "W/\"590e8d7a-14c3\"",
+	"_lastModified": "Sun, 07 May 2017 02:59:06 GMT"
+}

@@ -1,0 +1,309 @@
+{
+	"versions": {
+		"0.5.0": {
+			"name": "d3-array",
+			"version": "0.5.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7a488df56c73ab2c33df9a04587a2cbb0408e831",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "d3-array",
+			"version": "0.5.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cac40bad0e43fe980420f14866faea0a8ab8e1b1",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-0.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.2": {
+			"name": "d3-array",
+			"version": "0.5.2",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "96e0c37058a4c9d9f160cc6a90cd8d5a9e4a8d90",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-0.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "d3-array",
+			"version": "0.6.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a388f6c486776c5d8458aec3b9118bdd5467f7b7",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-0.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.1": {
+			"name": "d3-array",
+			"version": "0.6.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e4d58e009befbc3fee6dae7f39e958eba832d4ab",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-0.6.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.2": {
+			"name": "d3-array",
+			"version": "0.6.2",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1c30667b3b6d26b7934dcedfbb41af27fab34eab",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-0.6.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "d3-array",
+			"version": "0.7.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b8aaa6a5792ef793af74870fc5ba6e21328c38dc",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-0.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.1": {
+			"name": "d3-array",
+			"version": "0.7.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a321c21558459d994eb4ad47b478240e64933942",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-0.7.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "d3-array",
+			"version": "0.8.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "103b1fe2b58b572b0a4ac141c509837662053a2c",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-0.8.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.1": {
+			"name": "d3-array",
+			"version": "0.8.1",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bc0a3f2217ec6156c8620e7698ba644fac4661c3",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-0.8.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-array",
+			"version": "1.0.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f0e550e89acca7fdab74cafe491f7d82c87047af",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-array",
+			"version": "1.0.1",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "375c02874fcd96c16ed9f1bcf5b4a7be53f358e7",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-array",
+			"version": "1.0.2",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "174237bf356a852fadd6af87743d928631de7655",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-array",
+			"version": "1.0.3",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "feb54fe0e1ecdbb3ac9a6f412ba3e23956aaf964",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "d3-array",
+			"version": "1.1.0",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bfea66b89d46f9aedf77296d3aad6307b50771cc",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "d3-array",
+			"version": "1.1.1",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a01abe63a25ffb91d3423c3c6d051b4d36bc8a09",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-1.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "d3-array",
+			"version": "1.2.0",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"seedrandom": "2",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "147d269720e174c4057a7f42be8b0f3f2ba53108",
+				"tarball": "https://registry.npmjs.org/d3-array/-/d3-array-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-array",
+	"dist-tags": {
+		"latest": "1.2.0"
+	},
+	"modified": "2017-04-15T05:07:10.407Z",
+	"_etag": "W/\"58f1aa7e-15f5\"",
+	"_lastModified": "Sat, 15 Apr 2017 05:07:10 GMT"
+}

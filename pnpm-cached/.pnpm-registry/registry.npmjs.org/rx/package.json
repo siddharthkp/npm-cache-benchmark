@@ -1,0 +1,2361 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "rx",
+			"version": "0.0.1",
+			"directories": {},
+			"dist": {
+				"shasum": "548ab1e94d73f5c3db9352962977b9f2d0b67c30",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-0.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "rx",
+			"version": "0.0.2",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "7b333b704e7edb49e26fa000cef910267e1a4ef3",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-0.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "rx",
+			"version": "2.0.0",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"grunt": "~0.3.9"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "db6b5b1f8ff7b3a9e7933a35a44e3ffe429c4d68",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "rx",
+			"version": "2.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt": "~0.3.9"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c7284afe9b0edb41ac07c018c6b28788684c83d5",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "rx",
+			"version": "2.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt": "~0.3.9"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1441e3da7554cb3c85fc562af59bf8ee1ceb05ad",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "rx",
+			"version": "2.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt": "~0.4.0",
+				"grunt-contrib-jshint": "~0.1.1",
+				"grunt-contrib-nodeunit": "~0.1.2",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "24ad7ceed50b7b67537b71d90b552720743b5a5c",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "rx",
+			"version": "2.1.1",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt": "~0.4.0",
+				"grunt-contrib-jshint": "~0.1.1",
+				"grunt-contrib-nodeunit": "~0.1.2",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fd14fb80303fb16f91ee5c74138fe6650f8c7dba",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "rx",
+			"version": "2.1.2",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt": "~0.4.0",
+				"grunt-contrib-jshint": "~0.1.1",
+				"grunt-contrib-nodeunit": "~0.1.2",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "18ba12b3841c0a869ab4c72bb3adf81842e79bbb",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.3": {
+			"name": "rx",
+			"version": "2.1.3",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "624e5caca5848d0e14b1488b60afb89e5ef00fd6",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.4": {
+			"name": "rx",
+			"version": "2.1.4",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b74fdf9843a2b66309c1c55e0c5bbcdbc582c8ce",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.5": {
+			"name": "rx",
+			"version": "2.1.5",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dc7aeed9e6dacfa5cad3e06a5379b1c9a645ed07",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.6": {
+			"name": "rx",
+			"version": "2.1.6",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "96ee779c253d5d0b6f3f53f54dcf98ff9c451d4b",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.7": {
+			"name": "rx",
+			"version": "2.1.7",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "01b663cd96666adad5befc847a675566c58cc04d",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.8": {
+			"name": "rx",
+			"version": "2.1.8",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "67ea05be0f75afab45fd2a1bb24ffadbc19b58d0",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.9": {
+			"name": "rx",
+			"version": "2.1.9",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a9be584ede939326caaaa6d7e9eb7cefaaa04b2b",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.9.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.10": {
+			"name": "rx",
+			"version": "2.1.10",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "86cdce022bdad6ad0438ebb56cc51a3234ef8166",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.10.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.11": {
+			"name": "rx",
+			"version": "2.1.11",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "425f70a8f71026757b0b4eb91d8b9acba992b53f",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.11.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.12": {
+			"name": "rx",
+			"version": "2.1.12",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f38dbf5424241c549fb900e3c39f5202c265386d",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.12.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.13": {
+			"name": "rx",
+			"version": "2.1.13",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7471dc46bdd8988646ebba383c3e75c344f5923a",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.13.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.14": {
+			"name": "rx",
+			"version": "2.1.14",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c382177e432de7e6487a67d4da88e1f930956e6e",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.14.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.15": {
+			"name": "rx",
+			"version": "2.1.15",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c1f1e11db47daeaf1fee4db8022d40bb6605b7f9",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.15.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.16": {
+			"name": "rx",
+			"version": "2.1.16",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9bba0c20d0aea5f8ec8f8fe62483bfe00bd7e20d",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.16.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.17": {
+			"name": "rx",
+			"version": "2.1.17",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1efb97d3cad9747488704233f873c809560ed6ad",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.17.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.18": {
+			"name": "rx",
+			"version": "2.1.18",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "77388a406ebe6b6808ac51258e5df70d095444d3",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.18.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.20": {
+			"name": "rx",
+			"version": "2.1.20",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4f99f1e02e75f78f8d1430a9a23c3a50de4072aa",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.20.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.21": {
+			"name": "rx",
+			"version": "2.1.21",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3e95581b203bb5b27c04ab6535f54de5b0a01a02",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.1.21.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "rx",
+			"version": "2.2.0",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "68d796f04c77e189657acd0d7c582517e1863f67",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.2": {
+			"name": "rx",
+			"version": "2.2.2",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "82b09859f7945640ff944b08ba2498eff1b01f42",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.3": {
+			"name": "rx",
+			"version": "2.2.3",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "77ec12e82073f01c51fff637f239e6bf972dd468",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.4": {
+			"name": "rx",
+			"version": "2.2.4",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c47bc7623a23d6aa881ac41f42e1a6a370cce1ad",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.5": {
+			"name": "rx",
+			"version": "2.2.5",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "efcf70c3c5b3c85368d11d1654e09567c344b214",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.7": {
+			"name": "rx",
+			"version": "2.2.7",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7726f0e6e89ddba53c1c3d87b51daac6226a0c7d",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.8": {
+			"name": "rx",
+			"version": "2.2.8",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.1",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5df255a203dc708258645ee2675cfc8ca286a7d0",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.9": {
+			"name": "rx",
+			"version": "2.2.9",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.2",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3d0ae2201e547eb1abf0c2b82ff6432d8aa00506",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.9.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.10": {
+			"name": "rx",
+			"version": "2.2.10",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.2",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "~1.0.0",
+				"load-grunt-tasks": "~0.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d98820ef525c88b78b6d2ad12956d826dafc4694",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.10.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.12": {
+			"name": "rx",
+			"version": "2.2.12",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.2",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "~1.0.0",
+				"load-grunt-tasks": "~0.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "49c10882777b119c481d1b489aa2365e95b0ecf2",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.12.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.13": {
+			"name": "rx",
+			"version": "2.2.13",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.2",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "~1.0.0",
+				"load-grunt-tasks": "~0.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1ff5f684d1eab8177188bbacd916fae005a7f8e2",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.13.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.14": {
+			"name": "rx",
+			"version": "2.2.14",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "aa54e170c37fee8ecaf4aec81a7558317fb7239e",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.14.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.15": {
+			"name": "rx",
+			"version": "2.2.15",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "79b5eb977e9333035f6d07ce6ede0971f59ee23f",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.15.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.16": {
+			"name": "rx",
+			"version": "2.2.16",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6c654995b20a216db6a4b2b8c5479f7568ed34e3",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.16.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.17": {
+			"name": "rx",
+			"version": "2.2.17",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2eb12c50fb073f745f2d85fc457d50c0aea3c938",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.17.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.18": {
+			"name": "rx",
+			"version": "2.2.18",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1244d1cb0e9625be3cd5e481ea8e4cea47f5d7fd",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.18.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.19": {
+			"name": "rx",
+			"version": "2.2.19",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "da7e22a975b5b48615995a2a4da7cb2836744494",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.19.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.20": {
+			"name": "rx",
+			"version": "2.2.20",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "94d5e6be24ef22f6c70e551a1f0e6be447ffc795",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.20.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.21": {
+			"name": "rx",
+			"version": "2.2.21",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a2ce6cf385d7e99f1cde372fd36fd1f9c2a1a32a",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.21.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.22": {
+			"name": "rx",
+			"version": "2.2.22",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "da8fccaa1553532c124f214f731c0485ce843f8a",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.22.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.24": {
+			"name": "rx",
+			"version": "2.2.24",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "65fc5e7c4670aeaad2d8ec26451008ca7976f08c",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.24.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.25": {
+			"name": "rx",
+			"version": "2.2.25",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7414989bab80030b5a5b48a5b5760fd0fe459079",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.25.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.26": {
+			"name": "rx",
+			"version": "2.2.26",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "~0.4.3",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-conventional-changelog": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cf1da8c39b16ea9d72392f15d15b3e3075f03c04",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.26.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.27": {
+			"name": "rx",
+			"version": "2.2.27",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d19e0b2f2d739dd28a4909de898fa42fbe434ceb",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.27.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.28": {
+			"name": "rx",
+			"version": "2.2.28",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2b25d0d0ce24040defdc0014912fc0fa4055e32f",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.2.28.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "rx",
+			"version": "2.3.0",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6e57ed84c4b0d7597ed490f0ceaab34e8ddc7176",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.1": {
+			"name": "rx",
+			"version": "2.3.1",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "012c3b6b4690024a483df234a4366c28897fe415",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.2": {
+			"name": "rx",
+			"version": "2.3.2",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4d3803303be39858f6a82c4efcd134e0173240c3",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.3": {
+			"name": "rx",
+			"version": "2.3.3",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "12b1c34614939907aac3d6c060d57ebd06fc22a1",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.4": {
+			"name": "rx",
+			"version": "2.3.4",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3c3d4d7f84f8ef630d1cbcd4d6dafff31d078bbb",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.5": {
+			"name": "rx",
+			"version": "2.3.5",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a2813a19286babb390952bc532b2bfc378d99fea",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.6": {
+			"name": "rx",
+			"version": "2.3.6",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5b31d762875a40264bd1108340b7e3db82abf8e3",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.7": {
+			"name": "rx",
+			"version": "2.3.7",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dd012eb8ce102de04fb4c9cd5ec85e7f7dadf776",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.8": {
+			"name": "rx",
+			"version": "2.3.8",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3d194b7c7ba8a047f53651c4f522d19fb4e73f85",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.9": {
+			"name": "rx",
+			"version": "2.3.9",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f6eb959a4262935f7334aecd9234c21b8151c784",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.9.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.10": {
+			"name": "rx",
+			"version": "2.3.10",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "84501bd132a4c8953595c22e696f149ea6b98fe5",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.10.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.11": {
+			"name": "rx",
+			"version": "2.3.11",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e7f575765dd41f665956607e0ccc2ba605848c83",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.11.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.12": {
+			"name": "rx",
+			"version": "2.3.12",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9bdc2c8e12cb0a62e528947de458277849f0c2f4",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.12.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.13": {
+			"name": "rx",
+			"version": "2.3.13",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8a42c6079e4bf7a712c17780ed17c408633a6cbc",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.13.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.14": {
+			"name": "rx",
+			"version": "2.3.14",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9e497782e93ce3fe78074fae25bf8fdd2f517b59",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.14.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.16": {
+			"name": "rx",
+			"version": "2.3.16",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b0d0ae6f125bca51829e425e0e777360baa6dfa8",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.16.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.17": {
+			"name": "rx",
+			"version": "2.3.17",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b94a47b24f8249133cc978a0d995693ca87de652",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.17.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.18": {
+			"name": "rx",
+			"version": "2.3.18",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4ae726e3d770db47f070b532f9840c717b2385ba",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.18.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.19": {
+			"name": "rx",
+			"version": "2.3.19",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f8236bc8aeebdef516d9ef6acfb57f48fb5510f9",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.19.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.20": {
+			"name": "rx",
+			"version": "2.3.20",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1b96007ba090e59aec9d8127f604f1c3c7511f19",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.20.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.22": {
+			"name": "rx",
+			"version": "2.3.22",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "031fba769eaba0b74dbad2f0e7aeaed9b1b8199d",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.22.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.23": {
+			"name": "rx",
+			"version": "2.3.23",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2d18535f9fd10bbda38a7e31adaaf0f1d0c581e7",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.23.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.24": {
+			"name": "rx",
+			"version": "2.3.24",
+			"dependencies": {},
+			"devDependencies": {
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "14f950a4217d7e35daa71bbcbe58eff68ea4b2b7",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.24.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.25": {
+			"name": "rx",
+			"version": "2.3.25",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2f7c0550532777b41fa692bb790a7886eaff9731",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.3.25.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.0": {
+			"name": "rx",
+			"version": "2.4.0",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8cd40d4fb393d43851286f4b22aa7db60ac92fe1",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.1": {
+			"name": "rx",
+			"version": "2.4.1",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "486479c72e5bfdb26d0ff1b68a929795d9375c8c",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.3": {
+			"name": "rx",
+			"version": "2.4.3",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "02cc45e996a3350ba3ea8dfadc5129996169521e",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.4.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.5": {
+			"name": "rx",
+			"version": "2.4.5",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "42dce7ed8f0a977a632fe963c5ce240b8f729f63",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.4.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.6": {
+			"name": "rx",
+			"version": "2.4.6",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ac93b9f132f226b5aba76ff24c4f9a869a37aa5b",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.4.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.7": {
+			"name": "rx",
+			"version": "2.4.7",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0a9a84583862df7e9b1d119e0208d37fefc733de",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.4.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.8": {
+			"name": "rx",
+			"version": "2.4.8",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "699b16ee43e2b53450324dfb258e4644903b61e8",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.4.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.9": {
+			"name": "rx",
+			"version": "2.4.9",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e0acb161e1b82b07e26aadbc3c1f51e92d637ffe",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.4.9.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.10": {
+			"name": "rx",
+			"version": "2.4.10",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "999a4519fc22e3600ef1389490697caa36eefa34",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.4.10.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.5.0": {
+			"name": "rx",
+			"version": "2.5.0",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "577be0fc70cf0d80c7a3cff7d60fcf31b2df7503",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.5.1": {
+			"name": "rx",
+			"version": "2.5.1",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "94dcbf79549594bd6b6f4c3a387a1af79f079dc1",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.5.2": {
+			"name": "rx",
+			"version": "2.5.2",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "52f236b5a6d24e538aa1fba88152909322a02886",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.5.3": {
+			"name": "rx",
+			"version": "2.5.3",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "21adc7d80f02002af50dae97fd9dbf248755f566",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-2.5.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "rx",
+			"version": "3.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e9debcd1672db619e98d159a6bb43199123cfb2d",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "rx",
+			"version": "3.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7dddaead8de337658c2f12e96bebf59ed6ac960e",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-3.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "rx",
+			"version": "3.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0999cb9e0afa1717a57b132351ac6d9b49f6c0de",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-3.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.1": {
+			"name": "rx",
+			"version": "3.1.1",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8b4df0d95518d17066699cd86d4b602629dd4027",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-3.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.2": {
+			"name": "rx",
+			"version": "3.1.2",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4fbd8d962cfa66972d71993c588ca7ebf48734a0",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-3.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "rx",
+			"version": "4.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3e423f3c2b18eec855d93b77de90673be5129455",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-4.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.1": {
+			"name": "rx",
+			"version": "4.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b243b182830ed6d431dc364a9d8ed023ad02f0fb",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-4.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.2": {
+			"name": "rx",
+			"version": "4.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6097ad83bdcef631c5ff1aa6d38ab3331c0c62bb",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-4.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.3": {
+			"name": "rx",
+			"version": "4.0.3",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c3d28e6a20f1b5835ec9b14f58caea656cff749e",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-4.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.4": {
+			"name": "rx",
+			"version": "4.0.4",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "89d5cabfe0c369a8fab410ed804920bca155facc",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-4.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.5": {
+			"name": "rx",
+			"version": "4.0.5",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1bb7fa2c26ff54f07f9167e675cbab3f46be20b1",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-4.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.6": {
+			"name": "rx",
+			"version": "4.0.6",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "28774aa84352d0c010514eb699d714125eaea436",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-4.0.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.7": {
+			"name": "rx",
+			"version": "4.0.7",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b7ae4857c594068b5fc561f72f4798c2d057e247",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-4.0.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.8": {
+			"name": "rx",
+			"version": "4.0.8",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "db72f3e994624216adabadee23fd6ee0aec0a4a1",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-4.0.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "rx",
+			"version": "4.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "*",
+				"grunt-cli": "*",
+				"grunt": "*",
+				"grunt-contrib-copy": "*",
+				"grunt-contrib-jshint": "*",
+				"grunt-contrib-connect": "*",
+				"grunt-contrib-uglify": "*",
+				"grunt-contrib-concat": "*",
+				"grunt-contrib-qunit": "*",
+				"grunt-contrib-watch": "*",
+				"grunt-saucelabs": "*",
+				"grunt-jscs": "*",
+				"load-grunt-tasks": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a5f13ff79ef3b740fe30aa803fb09f98805d4782",
+				"tarball": "https://registry.npmjs.org/rx/-/rx-4.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "rx",
+	"dist-tags": {
+		"latest": "4.1.0"
+	},
+	"modified": "2017-04-26T09:35:45.862Z",
+	"_etag": "W/\"590069f1-bbb7\"",
+	"_lastModified": "Wed, 26 Apr 2017 09:35:45 GMT"
+}

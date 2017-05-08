@@ -1,0 +1,74 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "function-bind",
+			"version": "0.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~1.0.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4d356a3bbea3a1226d0dde4749a8a80087cda3e2",
+				"tarball": "https://registry.npmjs.org/function-bind/-/function-bind-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "function-bind",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~2.14.0",
+				"covert": "~0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "00e4e206738ad45ec0017d62a7ef77d9917ab2a2",
+				"tarball": "https://registry.npmjs.org/function-bind/-/function-bind-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "function-bind",
+			"version": "1.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~3.0.0",
+				"covert": "~1.0.0",
+				"jscs": "~1.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c2873b69c5e6d7cefae47d2555172926c8c2e05e",
+				"tarball": "https://registry.npmjs.org/function-bind/-/function-bind-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "function-bind",
+			"version": "1.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "^4.4.0",
+				"covert": "^1.1.0",
+				"jscs": "^2.9.0",
+				"eslint": "^2.0.0",
+				"@ljharb/eslint-config": "^2.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "16176714c801798e4e8f2cf7f7529467bb4a5771",
+				"tarball": "https://registry.npmjs.org/function-bind/-/function-bind-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "function-bind",
+	"dist-tags": {
+		"latest": "1.1.0"
+	},
+	"modified": "2016-02-14T08:28:42.411Z",
+	"_etag": "W/\"56c03aba-568\"",
+	"_lastModified": "Sun, 14 Feb 2016 08:28:42 GMT"
+}

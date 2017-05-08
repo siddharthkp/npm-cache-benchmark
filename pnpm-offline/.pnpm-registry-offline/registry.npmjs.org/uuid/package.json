@@ -1,0 +1,163 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "uuid",
+			"version": "0.0.1",
+			"directories": {},
+			"dist": {
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-0.0.1.tgz",
+				"shasum": "5b43a6840d25914b5a76a0664d71a51601ddec79"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "uuid",
+			"version": "0.0.2",
+			"directories": {},
+			"dist": {
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-0.0.2.tgz",
+				"bin": {
+					"0.4-sunos-5.11": {
+						"shasum": "2ff8d977261ddadfd1446cee661ab87863659e45",
+						"tarball": "http://registry.npmjs.org/uuid/-/uuid-0.0.2-0.4-sunos-5.11.tgz"
+					}
+				},
+				"shasum": "3171f2c4f58895b8b307692a335fb2349ddf6733"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.0": {
+			"name": "uuid",
+			"version": "1.4.0",
+			"directories": {},
+			"dist": {
+				"shasum": "d0d3b84ab56902e99ff952f2a17aa3986d44d36f",
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-1.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.1": {
+			"name": "uuid",
+			"version": "1.4.1",
+			"devDependencies": {
+				"mocha": "1.8.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a337828580d426e375b8ee11bd2bf901a596e0b8",
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-1.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.2": {
+			"name": "uuid",
+			"version": "1.4.2",
+			"devDependencies": {
+				"mocha": "1.8.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "453019f686966a6df83cdc5244e7c990ecc332fc",
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-1.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "uuid",
+			"version": "2.0.0",
+			"devDependencies": {
+				"mocha": "1.8.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "377ab4417736dba5ce379ff0a0c1a539921ebb74",
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "uuid",
+			"version": "2.0.1",
+			"devDependencies": {
+				"mocha": "1.8.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c2a30dedb3e535d72ccf82e343941a50ba8533ac",
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-2.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "uuid",
+			"version": "2.0.2",
+			"devDependencies": {
+				"mocha": "1.8.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "48bd5698f0677e3c7901a1c46ef15b1643794726",
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-2.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.3": {
+			"name": "uuid",
+			"version": "2.0.3",
+			"devDependencies": {
+				"mocha": "1.8.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "67e2e863797215530dff318e5bf9dcebfd47b21a",
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-2.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "uuid",
+			"version": "3.0.0",
+			"devDependencies": {
+				"mocha": "3.1.2"
+			},
+			"bin": {
+				"uuid": "./bin/uuid"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6728fc0459c450d796a99c31837569bdf672d728",
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "uuid",
+			"version": "3.0.1",
+			"devDependencies": {
+				"mocha": "3.1.2"
+			},
+			"bin": {
+				"uuid": "./bin/uuid"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6544bba2dfda8c1cf17e629a3a305e2bb1fee6c1",
+				"tarball": "https://registry.npmjs.org/uuid/-/uuid-3.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "uuid",
+	"dist-tags": {
+		"latest": "3.0.1"
+	},
+	"modified": "2017-05-06T18:22:10.647Z",
+	"_etag": "W/\"590e1452-b45\"",
+	"_lastModified": "Sat, 06 May 2017 18:22:10 GMT"
+}

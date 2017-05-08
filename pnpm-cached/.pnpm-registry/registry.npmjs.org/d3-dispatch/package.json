@@ -1,0 +1,368 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "d3-dispatch",
+			"version": "0.0.0",
+			"devDependencies": {
+				"d3": "^3.4.4",
+				"smash": "0.0.12",
+				"uglify-js": "^2.4.13"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dbd7d7dfcd547a8a80743b4b3b06ced960f21bb1",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "d3-dispatch",
+			"version": "0.0.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "212f03712b17ef8e78e4d83cd28a2ce3f71cf573",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-dispatch",
+			"version": "0.0.2",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d363344cad91a3d71e18571083ead23330fc3f64",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-dispatch",
+			"version": "0.1.0",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b9a33650986f6208254f91e7d0c7bf70ee3c0805",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-dispatch",
+			"version": "0.2.0",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "880bff703310f368e06a0992217e3a3499ca8c0f",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-dispatch",
+			"version": "0.2.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "827ff45eabd0511a81b9c304bc2d281cc2f7c8b6",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "d3-dispatch",
+			"version": "0.2.2",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cc982396f3107ce4160b82983937a93d6e5d7ad4",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "d3-dispatch",
+			"version": "0.2.3",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "703ebacec2e2a75517aa34d42d5af6038c0ce096",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.4": {
+			"name": "d3-dispatch",
+			"version": "0.2.4",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "036f7b82369a1ac35528bcaf8af02a62bc66ff52",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.5": {
+			"name": "d3-dispatch",
+			"version": "0.2.5",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "61d1def321db4bf05a51da000ccbfe2a3f763b85",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.2.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.6": {
+			"name": "d3-dispatch",
+			"version": "0.2.6",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e57df25906cdce5badeae79809ec0f73bbb184ab",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.2.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-dispatch",
+			"version": "0.3.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "80855910e0a11827b45f9263614644c488757125",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-dispatch",
+			"version": "0.4.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "accc3a21e4fdb8972fd6e1ad82436b60c065b09f",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "d3-dispatch",
+			"version": "0.4.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5bf3f94b29b8d17c798d585b57533f4ebb3e144c",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "d3-dispatch",
+			"version": "0.4.2",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0871241fd5be5c5746e247580353ec7a0ff13eb2",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.3": {
+			"name": "d3-dispatch",
+			"version": "0.4.3",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "da694957d68a694d0834cd6e5423f40538774e4e",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.4.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.4": {
+			"name": "d3-dispatch",
+			"version": "0.4.4",
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4bba683e0a4dbcdd2697332c745adc7c112d2a54",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.4.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "d3-dispatch",
+			"version": "0.5.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4e2cf851c2061458914ace856abc9ebec71db93a",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-dispatch",
+			"version": "1.0.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7f36c21649a10f2a32451dcca8798a05416449be",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-dispatch",
+			"version": "1.0.1",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4bd65a43cecff4318deb9df24552aa8bf281a840",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-dispatch",
+			"version": "1.0.2",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5b511e79a46a1f89492841c0a8f656687d5daa0a",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-dispatch",
+			"version": "1.0.3",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "46e1491eaa9b58c358fce5be4e8bed626e7871f8",
+				"tarball": "https://registry.npmjs.org/d3-dispatch/-/d3-dispatch-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-dispatch",
+	"dist-tags": {
+		"latest": "1.0.3"
+	},
+	"modified": "2017-03-10T18:11:10.363Z",
+	"_etag": "W/\"58c2ec3e-1b21\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:11:10 GMT"
+}

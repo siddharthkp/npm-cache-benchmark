@@ -1,0 +1,173 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "extend",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "126c072b00c6053271a0bf4cf1777c33be023f40",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-1.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"deprecated": "Please update to the latest version.",
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "extend",
+			"version": "1.1.0",
+			"directories": {},
+			"dist": {
+				"shasum": "278ce9efe504035f6913edfad2008f6522c0a1b5",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-1.1.0.tgz"
+			},
+			"deprecated": "Please update to the latest version.",
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "extend",
+			"version": "1.1.1",
+			"directories": {},
+			"dist": {
+				"shasum": "feef6f0efa6f8e34062da79b5a46f8b1b5cf748e",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-1.1.1.tgz"
+			},
+			"deprecated": "Please update to the latest version.",
+			"_hasShrinkwrap": false
+		},
+		"1.1.3": {
+			"name": "extend",
+			"version": "1.1.3",
+			"devDependencies": {
+				"buster": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5ae3d12e33009879dfb574e911a2da1e3da29ef4",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-1.1.3.tgz"
+			},
+			"deprecated": "Please update to the latest version.",
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "extend",
+			"version": "1.2.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~1.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "da1a81af472a5a3e7fd607f85cdeaf69c169294d",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "extend",
+			"version": "1.2.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~1.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a0f5fd6cfc83a5fe49ef698d60ec8a624dd4576c",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-1.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "extend",
+			"version": "1.3.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~2.13.2",
+				"covert": "~0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d1516fb0ff5624d2ebf9123ea1dac5a1994004f8",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-1.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "extend",
+			"version": "2.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~3.0.0",
+				"covert": "~1.0.0",
+				"jscs": "~1.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cc3c1e238521df4c28e3f30868b7324bb5898a5c",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "extend",
+			"version": "2.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "^4.0.0",
+				"covert": "^1.0.1",
+				"jscs": "^1.11.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1ee8010689e7395ff9448241c98652bc759a8260",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-2.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "extend",
+			"version": "3.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "^4.0.0",
+				"covert": "^1.1.0",
+				"jscs": "^1.13.1",
+				"eslint": "^0.24.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5a474353b9f3353ddd8176dfd37b91c83a46f1d4",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "extend",
+			"version": "3.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "^4.6.3",
+				"covert": "^1.1.0",
+				"jscs": "^3.0.7",
+				"eslint": "^3.19.0",
+				"@ljharb/eslint-config": "^11.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a755ea7bc1adfcc5a31ce7e762dbaadc5e636444",
+				"tarball": "https://registry.npmjs.org/extend/-/extend-3.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "extend",
+	"dist-tags": {
+		"latest": "3.0.1"
+	},
+	"modified": "2017-05-08T06:34:49.934Z",
+	"_etag": "W/\"59101189-cf7\"",
+	"_lastModified": "Mon, 08 May 2017 06:34:49 GMT"
+}

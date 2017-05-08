@@ -1,0 +1,1049 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "react-motion",
+			"version": "0.0.0",
+			"directories": {},
+			"dist": {
+				"shasum": "c9b89a01227d0d0afcfb5fd39376ba6110fc1367",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "react-motion",
+			"version": "0.0.1",
+			"dependencies": {
+				"react": ">=0.13.2"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.2.17",
+				"babel-loader": "^5.0.0",
+				"react-hot-loader": "^1.2.7",
+				"webpack": "^1.8.11",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "151c93736f213ca0ff85ad39b7850e601c112e92",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "react-motion",
+			"version": "0.0.2",
+			"dependencies": {
+				"react": ">=0.13.2"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.2.17",
+				"babel-loader": "^5.0.0",
+				"react-hot-loader": "^1.2.7",
+				"webpack": "^1.8.11",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "51e286443cde7c03b8b0000820d7365cc86df60d",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "react-motion",
+			"version": "0.0.3",
+			"dependencies": {
+				"react": ">=0.13.2"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.2.17",
+				"babel-loader": "^5.0.0",
+				"react-hot-loader": "^1.2.7",
+				"webpack": "^1.8.11",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "56beb7c69a1a6cc699566661b2f66dcfc37fca57",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "react-motion",
+			"version": "0.1.0",
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"expect": "^1.6.0",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"react-hot-loader": "^1.2.8",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c6742fe6d15c22699ed4fc61bdede9a1cfab7acc",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "react-motion",
+			"version": "0.2.0",
+			"dependencies": {
+				"lodash.isplainobject": "^3.2.0",
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"expect": "^1.6.0",
+				"isparta": "^3.0.3",
+				"lodash.range": "^3.0.1",
+				"mocha": "^2.2.5",
+				"react-hot-loader": "^1.2.8",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8d48312a0aaaf623129df4bb25000066d8a095d1",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "react-motion",
+			"version": "0.2.1",
+			"dependencies": {
+				"lodash.isplainobject": "^3.2.0",
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"inject-loader": "^2.0.0",
+				"isparta-loader": "^0.2.0",
+				"karma": "^0.12.37",
+				"karma-coverage": "^0.4.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-nyan-reporter": "^0.2.1",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.6.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react-hot-loader": "^1.2.8",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6efac5d54cffb33927ced4893977b1fa7a61718f",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "react-motion",
+			"version": "0.2.2",
+			"dependencies": {
+				"lodash.isplainobject": "^3.2.0",
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"inject-loader": "^2.0.0",
+				"isparta-loader": "^0.2.0",
+				"karma": "^0.12.37",
+				"karma-coverage": "^0.4.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-nyan-reporter": "^0.2.1",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.6.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react-hot-loader": "^1.2.8",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8ca1f7fa6b633e628a73c82f488cdc5ae455605e",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "react-motion",
+			"version": "0.2.3",
+			"dependencies": {
+				"lodash.isplainobject": "^3.2.0",
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"inject-loader": "github:plasticine/inject-loader#master",
+				"isparta-loader": "^0.2.0",
+				"karma": "^0.12.37",
+				"karma-coverage": "^0.4.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-nyan-reporter": "^0.2.1",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.6.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react-hot-loader": "^1.2.8",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "51ca386b8f9867cdc8fff772143d4a7548c50344",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.4": {
+			"name": "react-motion",
+			"version": "0.2.4",
+			"dependencies": {
+				"lodash.isplainobject": "^3.2.0",
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"inject-loader": "github:plasticine/inject-loader#master",
+				"isparta-loader": "^0.2.0",
+				"karma": "^0.12.37",
+				"karma-coverage": "^0.4.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-nyan-reporter": "^0.2.1",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.6.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react-hot-loader": "^1.2.8",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b90fb162b852e65328ec5ee56dec5e74814923ef",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.5": {
+			"name": "react-motion",
+			"version": "0.2.5",
+			"dependencies": {
+				"lodash.isplainobject": "^3.2.0",
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"inject-loader": "github:plasticine/inject-loader#master",
+				"isparta-loader": "^0.2.0",
+				"karma": "^0.12.37",
+				"karma-coverage": "^0.4.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-nyan-reporter": "^0.2.1",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.6.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react-codemirror": "^0.1.2",
+				"react-hot-loader": "^1.2.8",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || 0.14.0-beta1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "81f0134d72e389072178a7d2d66ef3d71e350078",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.2.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.6": {
+			"name": "react-motion",
+			"version": "0.2.6",
+			"dependencies": {
+				"lodash.isplainobject": "^3.2.0",
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"inject-loader": "github:plasticine/inject-loader#master",
+				"isparta-loader": "^0.2.0",
+				"karma": "^0.12.37",
+				"karma-coverage": "^0.4.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-nyan-reporter": "^0.2.1",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.6.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react-codemirror": "^0.1.2",
+				"react-hot-loader": "^1.2.8",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || 0.14.0-beta1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3af373042f7fffa8b799dbf5f38861f81c1b67cb",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.2.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.7": {
+			"name": "react-motion",
+			"version": "0.2.7",
+			"dependencies": {
+				"lodash.isplainobject": "^3.2.0",
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"karma": "^0.12.37",
+				"karma-coverage": "^0.4.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-nyan-reporter": "^0.2.1",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "1.6.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react-codemirror": "^0.1.2",
+				"react-hot-loader": "^1.2.8",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14.0-beta1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b348f21bcca618e82ea0d5e4fe561532e1556189",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.2.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "react-motion",
+			"version": "0.3.0",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.12.37",
+				"karma-coverage": "^0.4.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-nyan-reporter": "^0.2.1",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "1.6.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react-codemirror": "^0.1.2",
+				"react-hot-loader": "^1.2.8",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14.0-rc1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0aa3e36c45e66c0b6143ce101020fee919dcca3d",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "react-motion",
+			"version": "0.3.1",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.23",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"colors-mini": "^1.0.2",
+				"css-loader": "^0.19.0",
+				"diff": "^2.1.3",
+				"eslint": "^0.24.1",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-loader": "^0.14.1",
+				"eslint-plugin-react": "^2.7.0",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.isequal": "^3.0.4",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": "^0.14.0",
+				"react-codemirror": "^0.1.2",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ac331083e0c2a0fc02fb782110657b7fa3bd663d",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "react-motion",
+			"version": "0.4.0",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.3",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"css-loader": "^0.19.0",
+				"eslint": "^1.6.0",
+				"eslint-config-airbnb": "0.1.0",
+				"eslint-loader": "^1.1.0",
+				"eslint-plugin-react": "^3.5.1",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-jasmine-diff-reporter": "^0.3.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": ">=0.14.3",
+				"react-addons-test-utils": "^0.14.6",
+				"react-codemirror": ">=0.1.2",
+				"react-dom": ">=0.14.3",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1e097c4f07237fe5e3af406f244b4fe96e979ea0",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "react-motion",
+			"version": "0.4.1",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.3",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"css-loader": "^0.19.0",
+				"eslint": "^1.6.0",
+				"eslint-config-airbnb": "0.1.0",
+				"eslint-loader": "^1.1.0",
+				"eslint-plugin-react": "^3.5.1",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-jasmine-diff-reporter": "^0.3.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": ">=0.14.3",
+				"react-addons-test-utils": "^0.14.6",
+				"react-codemirror": ">=0.1.2",
+				"react-dom": ">=0.14.3",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a0fb8eabba9c4e268d2be866a4777655c0dc37c5",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "react-motion",
+			"version": "0.4.2",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.3",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"css-loader": "^0.19.0",
+				"eslint": "^1.6.0",
+				"eslint-config-airbnb": "0.1.0",
+				"eslint-loader": "^1.1.0",
+				"eslint-plugin-react": "^3.5.1",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-jasmine-diff-reporter": "^0.3.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": ">=0.14.3",
+				"react-addons-test-utils": "^0.14.6",
+				"react-codemirror": ">=0.1.2",
+				"react-dom": ">=0.14.3",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a7b38f9aae9940747e2070387aa5b549f2c935dd",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.3": {
+			"name": "react-motion",
+			"version": "0.4.3",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.3",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"css-loader": "^0.19.0",
+				"eslint": "^1.6.0",
+				"eslint-config-airbnb": "0.1.0",
+				"eslint-loader": "^1.1.0",
+				"eslint-plugin-react": "^3.5.1",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-jasmine-diff-reporter": "^0.3.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": ">=15.0.1",
+				"react-addons-test-utils": "^15.0.1",
+				"react-codemirror": ">=0.1.2",
+				"react-dom": ">=15.0.1",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14 || ^15.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "077127a2735e2a8f68a6fe1445070814a51a94a4",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.4.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.4": {
+			"name": "react-motion",
+			"version": "0.4.4",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.3",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"css-loader": "^0.19.0",
+				"eslint": "^1.6.0",
+				"eslint-config-airbnb": "0.1.0",
+				"eslint-loader": "^1.1.0",
+				"eslint-plugin-react": "^3.5.1",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-jasmine-diff-reporter": "^0.3.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": ">=15.0.1",
+				"react-addons-test-utils": "^15.0.1",
+				"react-codemirror": ">=0.1.2",
+				"react-dom": ">=15.0.1",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14 || ^15.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2e765f130e1bf6cb55a7efc30fe182d6523064cb",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.4.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.5": {
+			"name": "react-motion",
+			"version": "0.4.5",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^6.1.2",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"css-loader": "^0.19.0",
+				"eslint": "^3.5.0",
+				"eslint-config-airbnb": "^11.1.0",
+				"eslint-loader": "^1.1.0",
+				"eslint-plugin-import": "^1.15.0",
+				"eslint-plugin-jsx-a11y": "^2.2.2",
+				"eslint-plugin-react": "^6.3.0",
+				"flow-bin": "^0.32.0",
+				"flow-copy-source": "^1.1.0",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-jasmine-diff-reporter": "^0.3.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": ">=15.0.1",
+				"react-addons-test-utils": "^15.0.1",
+				"react-codemirror": ">=0.1.2",
+				"react-dom": ">=15.0.1",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14 || ^15.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ecc42f692fec9b2de4c92f85e26375071f779b76",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.4.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.6": {
+			"name": "react-motion",
+			"version": "0.4.6",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^6.1.2",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"css-loader": "^0.19.0",
+				"eslint": "^3.5.0",
+				"eslint-config-airbnb": "^11.1.0",
+				"eslint-loader": "^1.1.0",
+				"eslint-plugin-import": "^1.15.0",
+				"eslint-plugin-jsx-a11y": "^2.2.2",
+				"eslint-plugin-react": "^6.3.0",
+				"flow-bin": "^0.32.0",
+				"flow-copy-source": "^1.1.0",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-jasmine-diff-reporter": "^0.3.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": ">=15.0.1",
+				"react-addons-test-utils": "^15.0.1",
+				"react-codemirror": ">=0.1.2",
+				"react-dom": ">=15.0.1",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14 || ^15.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c987492c6c99fc04bf73c583b3f76ff3f00cb232",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.4.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.7": {
+			"name": "react-motion",
+			"version": "0.4.7",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^6.1.2",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"css-loader": "^0.19.0",
+				"eslint": "^3.5.0",
+				"eslint-config-airbnb": "^11.1.0",
+				"eslint-loader": "^1.1.0",
+				"eslint-plugin-import": "^1.15.0",
+				"eslint-plugin-jsx-a11y": "^2.2.2",
+				"eslint-plugin-react": "^6.3.0",
+				"flow-bin": "^0.32.0",
+				"flow-copy-source": "^1.1.0",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-jasmine-diff-reporter": "^0.3.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": ">=15.0.1",
+				"react-addons-test-utils": "^15.0.1",
+				"react-codemirror": ">=0.1.2",
+				"react-dom": ">=15.0.1",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14 || ^15.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f77331ec7920bdb0d0cfc37eb6ffa10571bf42c7",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.4.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.8": {
+			"name": "react-motion",
+			"version": "0.4.8",
+			"dependencies": {
+				"create-react-class": "^15.5.2",
+				"performance-now": "^0.2.0",
+				"prop-types": "^15.5.8",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^6.1.2",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"css-loader": "^0.19.0",
+				"eslint": "^3.5.0",
+				"eslint-config-airbnb": "^11.1.0",
+				"eslint-loader": "^1.1.0",
+				"eslint-plugin-import": "^1.15.0",
+				"eslint-plugin-jsx-a11y": "^2.2.2",
+				"eslint-plugin-react": "^6.3.0",
+				"flow-bin": "^0.32.0",
+				"flow-copy-source": "^1.1.0",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-jasmine-diff-reporter": "^0.3.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": ">=15.0.1",
+				"react-addons-test-utils": "^15.0.1",
+				"react-codemirror": ">=0.1.2",
+				"react-dom": ">=15.0.1",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.2 || ^0.14 || ^15.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "23bb2dd27c2d8e00d229e45572d105efcf40a35e",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.4.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "react-motion",
+			"version": "0.5.0",
+			"dependencies": {
+				"performance-now": "^0.2.0",
+				"prop-types": "^15.5.8",
+				"raf": "^3.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-browser-transform": "^0.1.0",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^6.1.2",
+				"babel-loader": "^5.3.1",
+				"codemirror": "^5.5.0",
+				"css-loader": "^0.19.0",
+				"eslint": "^3.5.0",
+				"eslint-config-airbnb": "^11.1.0",
+				"eslint-loader": "^1.1.0",
+				"eslint-plugin-import": "^1.15.0",
+				"eslint-plugin-jsx-a11y": "^2.2.2",
+				"eslint-plugin-react": "^6.3.0",
+				"flow-bin": "^0.32.0",
+				"flow-copy-source": "^1.1.0",
+				"inject-loader": "^2.0.1",
+				"isparta-loader": "^0.2.0",
+				"jasmine-core": "^2.3.4",
+				"karma": "^0.13.10",
+				"karma-coverage": "^0.5.2",
+				"karma-jasmine": "^0.3.6",
+				"karma-jasmine-diff-reporter": "^0.3.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-webpack": "^1.7.0",
+				"lodash.range": "^3.0.1",
+				"phantomjs": "^1.9.17",
+				"react": ">=15.5.0",
+				"react-codemirror": ">=0.1.2",
+				"react-dom": ">=15.5.0",
+				"react-hot-loader": "^1.2.8",
+				"style-loader": "^0.12.4",
+				"webpack": "^1.10.1",
+				"webpack-dev-server": "^1.10.1"
+			},
+			"peerDependencies": {
+				"react": "^0.14.9 || ^15.3.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1708fc2aee552900d21c1e6bed28346863e017b6",
+				"tarball": "https://registry.npmjs.org/react-motion/-/react-motion-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "react-motion",
+	"dist-tags": {
+		"latest": "0.5.0"
+	},
+	"modified": "2017-04-26T14:16:43.406Z",
+	"_etag": "W/\"5900abcb-5d70\"",
+	"_lastModified": "Wed, 26 Apr 2017 14:16:43 GMT"
+}

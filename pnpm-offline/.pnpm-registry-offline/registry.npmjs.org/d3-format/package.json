@@ -1,0 +1,391 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "d3-format",
+			"version": "0.0.0",
+			"devDependencies": {
+				"d3": "^3.4.4",
+				"smash": "0.0.12",
+				"uglify-js": "^2.4.13"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "feefb1309b555af45b3413ffc3e59cf2648aebe8",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-format",
+			"version": "0.2.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "93813299b8cfacc249d1b601d7d0e75b658c5efb",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "d3-format",
+			"version": "0.2.2",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5aa7436cd63dcc24348653da5a570340a289470a",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "d3-format",
+			"version": "0.2.3",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f4f4abf0d28cda03e3790cb98babaf61c925dc7b",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-format",
+			"version": "0.3.0",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "072901f84ff1254bb12db8b36ea98710c1e442c1",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-format",
+			"version": "0.3.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "412cfaf446dba12b3b8809fb9bb0f244b29585d4",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "d3-format",
+			"version": "0.3.2",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c5713158c451653e829802814aa664db2c346b92",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.3": {
+			"name": "d3-format",
+			"version": "0.3.3",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "97427fa23e9f209dfe4617279c7488b03ffb3e0d",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.3.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.4": {
+			"name": "d3-format",
+			"version": "0.3.4",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "49c32719511a15d6b9f0dcef8a5866bac499ae0e",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.3.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.5": {
+			"name": "d3-format",
+			"version": "0.3.5",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9c9bc43fefee9e654a5e524fbffb690aab2640b4",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.3.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.6": {
+			"name": "d3-format",
+			"version": "0.3.6",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6beb8ed4398b11eba4e36fdd0eef0f5bc8d24f16",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.3.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-format",
+			"version": "0.4.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "484df6c261da32dbbbc6965eeb52a6f3b81ddb1f",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "d3-format",
+			"version": "0.4.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "62d7a95603a7ee7808f6cd9ab1c488d01afa6f3c",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "d3-format",
+			"version": "0.4.2",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "aa759c1e5aae5fa8dabc9ab7819c502fc6b56875",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "d3-format",
+			"version": "0.5.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8d53b9d7dce0490867cae8b5bd417c9f6ddd19ed",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "d3-format",
+			"version": "0.5.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9447d7c95c84b15d34c138975dbf0489a412e405",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "d3-format",
+			"version": "0.6.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bcc1e7f2b2074216302113fb6f143c83480c016a",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-0.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-format",
+			"version": "1.0.0",
+			"devDependencies": {
+				"d3-queue": "3",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7b98d07d990579d084b43e75eb2ebadec12fce4d",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-format",
+			"version": "1.0.1",
+			"devDependencies": {
+				"d3-queue": "3",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ee3f7f6c6dc340ecc26f7124dade2e27123ca183",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-format",
+			"version": "1.0.2",
+			"devDependencies": {
+				"d3-queue": "3",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "138618320b4bbeb43b5c0ff30519079fbbd7375e",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "d3-format",
+			"version": "1.1.0",
+			"devDependencies": {
+				"d3-queue": "3",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "736775d5e6604421bef6c76d5746638a8e70d295",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "d3-format",
+			"version": "1.1.1",
+			"devDependencies": {
+				"d3-queue": "3",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "26e094e7b0fa925d3615aa6f43b265c5ca82b46e",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-1.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "d3-format",
+			"version": "1.2.0",
+			"devDependencies": {
+				"d3-queue": "3",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6b480baa886885d4651dc248a8f4ac9da16db07a",
+				"tarball": "https://registry.npmjs.org/d3-format/-/d3-format-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-format",
+	"dist-tags": {
+		"latest": "1.2.0"
+	},
+	"modified": "2017-04-03T18:45:30.420Z",
+	"_etag": "W/\"58e2984a-1c54\"",
+	"_lastModified": "Mon, 03 Apr 2017 18:45:30 GMT"
+}

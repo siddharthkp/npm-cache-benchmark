@@ -1,0 +1,357 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "d3-quadtree",
+			"version": "0.0.1",
+			"devDependencies": {
+				"d3-arrays": "~0.0.4",
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "22fd00fec7ee70620e451e1b225f532903160970",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-quadtree",
+			"version": "0.0.2",
+			"devDependencies": {
+				"d3-arrays": "~0.1.2",
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6f140dafff48d83798f7c8db1f3a4fe4fd838e4a",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "d3-quadtree",
+			"version": "0.0.3",
+			"devDependencies": {
+				"d3-arrays": "~0.3.1",
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1f75bb1f2da95b28c55dd53316be2eb6500ee9d6",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-quadtree",
+			"version": "0.1.0",
+			"devDependencies": {
+				"d3-array": "~0.6.1",
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "33c73321dc2ad734a16b1c856753378aa3a01ef6",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "d3-quadtree",
+			"version": "0.1.1",
+			"devDependencies": {
+				"d3-array": "~0.7.0",
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5681cb65b30f341fa4452a7cbeee2870918b3d71",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-quadtree",
+			"version": "0.2.0",
+			"devDependencies": {
+				"d3-array": "~0.7.0",
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6f42820795714b5b10525d261cba0c1b12c6316c",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-quadtree",
+			"version": "0.2.1",
+			"devDependencies": {
+				"d3-array": "~0.7.1",
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "22e2b034f1db0468b61a63d7f057a84a78ce5d20",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-quadtree",
+			"version": "0.3.0",
+			"devDependencies": {
+				"d3-array": "0.7",
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9c8f2211e2f865ec3a31ebcd70bfab691ac9c7d3",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-quadtree",
+			"version": "0.4.0",
+			"devDependencies": {
+				"d3-array": "0.7",
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3e3ee5c48d571d35f695129d48faccd8402ff2c7",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "d3-quadtree",
+			"version": "0.5.0",
+			"devDependencies": {
+				"d3-array": "0.7",
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3abb3dd9f25f33969c1082fd2df149850b40f51e",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "d3-quadtree",
+			"version": "0.6.0",
+			"devDependencies": {
+				"d3-array": "0.7",
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7cc3b1131784f297b6b2ac1b67abd9787767b295",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "d3-quadtree",
+			"version": "0.7.0",
+			"devDependencies": {
+				"d3-array": "0.7",
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "edfe44fec2c11843d85ae55b7bd673e16a2009c9",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.1": {
+			"name": "d3-quadtree",
+			"version": "0.7.1",
+			"devDependencies": {
+				"d3-array": "0.7",
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e2f10e15705847208bf3da63a44bdf950fa5c343",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.7.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.2": {
+			"name": "d3-quadtree",
+			"version": "0.7.2",
+			"devDependencies": {
+				"d3-array": "0.7",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3615f1358002c087bb83ca908561bd143c0df454",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.7.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.3": {
+			"name": "d3-quadtree",
+			"version": "0.7.3",
+			"devDependencies": {
+				"d3-array": "0.7",
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4ce182cde9b6edfa8511b01ea17f4509d2adad44",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.7.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "d3-quadtree",
+			"version": "0.8.0",
+			"devDependencies": {
+				"d3-array": "0.8",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "01c8fbb63352e502c3179627c874916b6c560239",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-0.8.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-quadtree",
+			"version": "1.0.0",
+			"devDependencies": {
+				"d3-array": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "43c06891d7b25326656e38fec16c469e596f147e",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-quadtree",
+			"version": "1.0.1",
+			"devDependencies": {
+				"d3-array": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "13be025624f110405ed43536c506aaec199ed591",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-quadtree",
+			"version": "1.0.2",
+			"devDependencies": {
+				"d3-array": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e7e873af06aaa427eaa4af094cc4cbfb350b9e38",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-quadtree",
+			"version": "1.0.3",
+			"devDependencies": {
+				"d3-array": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ac7987e3e23fe805a990f28e1b50d38fcb822438",
+				"tarball": "https://registry.npmjs.org/d3-quadtree/-/d3-quadtree-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-quadtree",
+	"dist-tags": {
+		"latest": "1.0.3"
+	},
+	"modified": "2017-03-10T17:55:15.446Z",
+	"_etag": "W/\"58c2e883-1a3a\"",
+	"_lastModified": "Fri, 10 Mar 2017 17:55:15 GMT"
+}

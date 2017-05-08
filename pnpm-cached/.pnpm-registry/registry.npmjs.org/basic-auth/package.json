@@ -1,0 +1,130 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "basic-auth",
+			"version": "0.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "31ddb65843f6c35c6fea7beb46a987cb8ce18924",
+				"tarball": "https://registry.npmjs.org/basic-auth/-/basic-auth-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "basic-auth",
+			"version": "1.0.0",
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "111b2d9ff8e4e6d136b8c84ea5e096cb87351637",
+				"tarball": "https://registry.npmjs.org/basic-auth/-/basic-auth-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "basic-auth",
+			"version": "1.0.1",
+			"devDependencies": {
+				"istanbul": "0.3.13",
+				"mocha": "~2.2.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4bae1dbfbf0aec4dc5dc47a8d3675b50140f3bf8",
+				"tarball": "https://registry.npmjs.org/basic-auth/-/basic-auth-1.0.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "basic-auth",
+			"version": "1.0.2",
+			"devDependencies": {
+				"istanbul": "0.3.15",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "42900137fb0c91462d14b3739c14bf2bb624171d",
+				"tarball": "https://registry.npmjs.org/basic-auth/-/basic-auth-1.0.2.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "basic-auth",
+			"version": "1.0.3",
+			"devDependencies": {
+				"istanbul": "0.3.17",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "41f55523e589405038ee3567958c62a5ed70551a",
+				"tarball": "https://registry.npmjs.org/basic-auth/-/basic-auth-1.0.3.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "basic-auth",
+			"version": "1.0.4",
+			"devDependencies": {
+				"istanbul": "0.4.3",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "030935b01de7c9b94a824b29f3fccb750d3a5290",
+				"tarball": "https://registry.npmjs.org/basic-auth/-/basic-auth-1.0.4.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "basic-auth",
+			"version": "1.1.0",
+			"devDependencies": {
+				"eslint": "3.10.2",
+				"eslint-config-standard": "6.2.1",
+				"eslint-plugin-markdown": "1.0.0-beta.3",
+				"eslint-plugin-promise": "3.4.0",
+				"eslint-plugin-standard": "2.0.1",
+				"istanbul": "0.4.5",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "45221ee429f7ee1e5035be3f51533f1cdfd29884",
+				"tarball": "https://registry.npmjs.org/basic-auth/-/basic-auth-1.1.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "basic-auth",
+	"dist-tags": {
+		"latest": "1.1.0"
+	},
+	"modified": "2017-04-22T09:16:10.796Z",
+	"_etag": "W/\"58fb1f5a-928\"",
+	"_lastModified": "Sat, 22 Apr 2017 09:16:10 GMT"
+}

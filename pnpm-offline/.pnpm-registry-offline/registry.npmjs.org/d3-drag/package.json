@@ -1,0 +1,360 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "d3-drag",
+			"version": "0.0.1",
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7f0a222e42a37682585999a29b6ac9c6e2bfd04a",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-drag",
+			"version": "0.1.0",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-selection": "~0.7.2"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3a1ed615891c7b952ec410baa266dc88d1e97729",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "d3-drag",
+			"version": "0.1.1",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-selection": "~0.7.2"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "83f9ead8dd02be710c16ae9d1142e8027cc86aa7",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "d3-drag",
+			"version": "0.1.2",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-selection": "~0.7.2"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "046da6d228b57aedf142e1965fd4b85a2c1f9bbf",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "d3-drag",
+			"version": "0.1.3",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-selection": "~0.7.2"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cf70c85e946562fde35f5e431cdc17f5bec646d9",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.4": {
+			"name": "d3-drag",
+			"version": "0.1.4",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-selection": "~0.7.2"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "029026d3b69b636c6b6f54a6d58bc3a32133dd8e",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.5": {
+			"name": "d3-drag",
+			"version": "0.1.5",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-selection": "~0.7.2"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6324ad5e33770a03e811ee93d6a033b17e38253e",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.1.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-drag",
+			"version": "0.2.0",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-selection": "~0.7.2"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "537b39434a0162dff2a7bf1da995412d30ab4a52",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-drag",
+			"version": "0.2.1",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-selection": "~0.7.2"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e92c2bc2fb413ae471eefc724aa84fc7e66047c7",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "d3-drag",
+			"version": "0.2.2",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-selection": "~0.7.2"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "54e6080d2e31c50387284424df40e7772a444361",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-drag",
+			"version": "0.3.0",
+			"dependencies": {
+				"d3-dispatch": "~0.5.0",
+				"d3-selection": "~0.8.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ba2774573f5f9017daa3be11ce4b1b5ff6158d8d",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-drag",
+			"version": "0.3.1",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-selection": "~0.9.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f3489fbccff8040ec43f0ba385a9923beb7b38c6",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-drag",
+			"version": "1.0.0",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-selection": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "34f0cb6265754f94dd1fc342a5746edb60deba6c",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-drag",
+			"version": "1.0.1",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-selection": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "49ad9f5c91865593fb30c86b15f9322d43fec51f",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-drag",
+			"version": "1.0.2",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-selection": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d634cc3f7689f99dd03fd7eb1af2945c0f4339ad",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-drag",
+			"version": "1.0.3",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-selection": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a016d21c696d130ba758babf1cd9e5f049169d0b",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "d3-drag",
+			"version": "1.0.4",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-selection": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a9c1609f11dd5530ae275ebd64377ec54efb9d8f",
+				"tarball": "https://registry.npmjs.org/d3-drag/-/d3-drag-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-drag",
+	"dist-tags": {
+		"latest": "1.0.4"
+	},
+	"modified": "2017-03-10T18:09:54.133Z",
+	"_etag": "W/\"58c2ebf2-18a7\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:09:54 GMT"
+}

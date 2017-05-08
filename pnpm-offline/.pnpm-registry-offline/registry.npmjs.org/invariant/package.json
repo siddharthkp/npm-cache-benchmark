@@ -1,0 +1,197 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "invariant",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "42c5faae85d09f491ba9b23e8f49a2c2561b9cc0",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "invariant",
+			"version": "1.0.1",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "6babcaa50275f578d255cfbc537ee47416783b99",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-1.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "invariant",
+			"version": "1.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "^1.21.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "753c9a32987c5e8077774aad5a62d7a54727ee77",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-1.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "invariant",
+			"version": "2.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "^2.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "431d04ba12b6c63935b129ce6d3f5b009e6b6411",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-2.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "invariant",
+			"version": "2.1.0",
+			"dependencies": {
+				"envify": "^3.0.0"
+			},
+			"devDependencies": {
+				"mocha": "^2.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6d2cc59a6a272ad307c52c1517ad5920219b996e",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-2.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "invariant",
+			"version": "2.1.1",
+			"dependencies": {
+				"loose-envify": "^1.0.0"
+			},
+			"devDependencies": {
+				"browserify": "^11.0.1",
+				"tap": "^1.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e0264e73ca7df84515d5487019a2ddc817bdd31d",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-2.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "invariant",
+			"version": "2.1.2",
+			"dependencies": {
+				"loose-envify": "^1.0.0"
+			},
+			"devDependencies": {
+				"browserify": "^11.0.1",
+				"tap": "^1.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "43f372e09b57414b85a5ebc904dc69260d161129",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-2.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.3": {
+			"name": "invariant",
+			"version": "2.1.3",
+			"dependencies": {
+				"loose-envify": "^1.0.0"
+			},
+			"devDependencies": {
+				"browserify": "^11.0.1",
+				"tap": "^1.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3bf684cc66e0153fa0e9ce517799e95a0f399e7a",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-2.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "invariant",
+			"version": "2.2.0",
+			"dependencies": {
+				"loose-envify": "^1.0.0"
+			},
+			"devDependencies": {
+				"browserify": "^11.0.1",
+				"tap": "^1.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c8d7e847366a49cc18b622f058a689d481e895f2",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-2.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.1": {
+			"name": "invariant",
+			"version": "2.2.1",
+			"dependencies": {
+				"loose-envify": "^1.0.0"
+			},
+			"devDependencies": {
+				"browserify": "^11.0.1",
+				"tap": "^1.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b097010547668c7e337028ebe816ebe36c8a8d54",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-2.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.2": {
+			"name": "invariant",
+			"version": "2.2.2",
+			"dependencies": {
+				"loose-envify": "^1.0.0"
+			},
+			"devDependencies": {
+				"browserify": "^11.0.1",
+				"flow-bin": "^0.35.0",
+				"tap": "^1.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9e1f56ac0acdb6bf303306f338be3b204ae60360",
+				"tarball": "https://registry.npmjs.org/invariant/-/invariant-2.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "invariant",
+	"dist-tags": {
+		"latest": "2.2.2"
+	},
+	"modified": "2017-04-26T04:26:31.502Z",
+	"_etag": "W/\"59002177-dc7\"",
+	"_lastModified": "Wed, 26 Apr 2017 04:26:31 GMT"
+}

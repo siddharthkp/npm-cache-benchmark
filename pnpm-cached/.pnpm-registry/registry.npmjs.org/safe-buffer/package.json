@@ -1,0 +1,105 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "safe-buffer",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"standard": "^5.0.0",
+				"tape": "^4.0.0",
+				"zuul": "^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "10ac4127f54c368becb6879dcae2a2fb96571fa3",
+				"tarball": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "safe-buffer",
+			"version": "2.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"standard": "^5.0.0",
+				"tape": "^4.0.0",
+				"zuul": "^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "311d4a0deefdaa9f8d883fe898bdb04d12d3f14b",
+				"tarball": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "safe-buffer",
+			"version": "3.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"standard": "^5.0.0",
+				"tape": "^4.0.0",
+				"zuul": "^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ab7065a989e2634fb0946df00368343258a759fe",
+				"tarball": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "safe-buffer",
+			"version": "4.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"standard": "^7.0.0",
+				"tape": "^4.0.0",
+				"zuul": "^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b725368f0ec0e8a6faa9e657db34a3d2b332d680",
+				"tarball": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-4.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0": {
+			"name": "safe-buffer",
+			"version": "5.0.0",
+			"devDependencies": {
+				"standard": "^7.0.0",
+				"tape": "^4.0.0",
+				"zuul": "^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a59971ca637f5bcb622c47238a5e1e2c7751f354",
+				"tarball": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.1": {
+			"name": "safe-buffer",
+			"version": "5.0.1",
+			"devDependencies": {
+				"standard": "^7.0.0",
+				"tape": "^4.0.0",
+				"zuul": "^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d263ca54696cd8a306b5ca6551e92de57918fbe7",
+				"tarball": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "safe-buffer",
+	"dist-tags": {
+		"latest": "5.0.1"
+	},
+	"modified": "2016-05-30T06:08:04.471Z",
+	"_etag": "W/\"574bd8c4-7a6\"",
+	"_lastModified": "Mon, 30 May 2016 06:08:04 GMT"
+}

@@ -1,0 +1,608 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "es5-ext",
+			"version": "0.1.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "16b216b0699c3249c3c62382b350d46611eea0eb",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.1.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "es5-ext",
+			"version": "0.2.0",
+			"dependencies": {},
+			"devDependencies": {
+				"test": "0.1.x",
+				"expresso": "0.7.x",
+				"jslint": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "18a7e403db4127b77f0a724ef196ff4edd860856",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.2.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "es5-ext",
+			"version": "0.2.1",
+			"dependencies": {},
+			"devDependencies": {
+				"test": "0.1.x",
+				"expresso": "0.7.x",
+				"jslint": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8ba548d826fc81c858e4f71997f6164b4f7eb8fb",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.2.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "es5-ext",
+			"version": "0.3.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "4920dd1cec7b4e98cf67d28077cdf3d56adc0581",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.3.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "es5-ext",
+			"version": "0.4.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "69dc1d57e2c97485fe58ab662828f7a45a86476f",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.4.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "es5-ext",
+			"version": "0.5.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "7ef8c2135c1bfc992882d7a6e28b73c58442c225",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.5.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "es5-ext",
+			"version": "0.5.1",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "5331943d7aee72dd69b90a8c363119945d54e98f",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.5.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.1.103"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "es5-ext",
+			"version": "0.6.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "25aefc7c7261f6f38a62d2364bdd1ac9f677faa4",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.6.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.1.103"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.1": {
+			"name": "es5-ext",
+			"version": "0.6.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "80c91f3e9dc08e17e155b8de452e5dab8d45b566",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.6.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.1.103"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.2": {
+			"name": "es5-ext",
+			"version": "0.6.2",
+			"dependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "65dfed8b36214e177c83316cc0e6742af2c8c589",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.6.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.1.103"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.3": {
+			"name": "es5-ext",
+			"version": "0.6.3",
+			"dependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "53c14283b92a81474088bd856c021fe186380ba0",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.6.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.1.103"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "es5-ext",
+			"version": "0.7.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1c91f569b16d6667edbb405f6076c2c970635817",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.7.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.1.103"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.1": {
+			"name": "es5-ext",
+			"version": "0.7.1",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a66028700ac031842ad55300bcc792abe6c240fe",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.7.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.1.103"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "es5-ext",
+			"version": "0.8.0",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "954d7794f6e2f6fb9ec9b4a62e4c8bfd567c93ac",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.8.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.1": {
+			"name": "es5-ext",
+			"version": "0.8.1",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5083533c4926afee59f5b71e561d2db5954272a9",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.8.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.2": {
+			"name": "es5-ext",
+			"version": "0.8.2",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "aba8d9e1943a895ac96837a62a39b3f55ecd94ab",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.8.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "es5-ext",
+			"version": "0.9.0",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b0abf436fb7c87b7e7806d787cf46ed59a7baff3",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.9.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.1": {
+			"name": "es5-ext",
+			"version": "0.9.1",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "02d7f637c07347a12414645c876e98ba1b1904b9",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.9.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.2": {
+			"name": "es5-ext",
+			"version": "0.9.2",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"tad": "0.1.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d2e309d1f223b0718648835acf5b8823a8061f8a",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.9.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.1": {
+			"name": "es5-ext",
+			"version": "0.10.1",
+			"devDependencies": {
+				"tad": "~0.1.21"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8eb6d0eb516b3d652d44c431bb1927e2dd5ee77b",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.2": {
+			"name": "es5-ext",
+			"version": "0.10.2",
+			"devDependencies": {
+				"tad": "~0.1.21"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1cb2b0aefe700151c17d08db49e480a85c565568",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.3": {
+			"name": "es5-ext",
+			"version": "0.10.3",
+			"dependencies": {
+				"es6-iterator": "~0.1.1",
+				"es6-symbol": "0.1.x"
+			},
+			"devDependencies": {
+				"tad": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a1c9484880ea9023e110b429f803acb491898b83",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.4": {
+			"name": "es5-ext",
+			"version": "0.10.4",
+			"dependencies": {
+				"es6-iterator": "~0.1.1",
+				"es6-symbol": "0.1.x"
+			},
+			"devDependencies": {
+				"tad": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f4d7d85d45acfbe93379d4c0948fbae6466ec876",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.5": {
+			"name": "es5-ext",
+			"version": "0.10.5",
+			"dependencies": {
+				"es6-iterator": "~0.1.2",
+				"es6-symbol": "~0.1.1"
+			},
+			"devDependencies": {
+				"tad": "0.2",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8393db0e26248dd4fbb16777cae6c51b012564fd",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.6": {
+			"name": "es5-ext",
+			"version": "0.10.6",
+			"dependencies": {
+				"es6-iterator": "~0.1.3",
+				"es6-symbol": "~2.0.1"
+			},
+			"devDependencies": {
+				"tad": "~0.2.1",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e27d5750401a11c08259e3b9b5d3bdd3281df00a",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.7": {
+			"name": "es5-ext",
+			"version": "0.10.7",
+			"dependencies": {
+				"es6-iterator": "~0.1.3",
+				"es6-symbol": "~2.0.1"
+			},
+			"devDependencies": {
+				"tad": "~0.2.2",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dfaea50721301042e2d89c1719d43493fa821656",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.8": {
+			"name": "es5-ext",
+			"version": "0.10.8",
+			"dependencies": {
+				"es6-iterator": "2",
+				"es6-symbol": "3"
+			},
+			"devDependencies": {
+				"tad": "~0.2.3",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f48c43424fa7c7d96f903e2948705cf826f69c32",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.9": {
+			"name": "es5-ext",
+			"version": "0.10.9",
+			"dependencies": {
+				"es6-iterator": "2",
+				"es6-symbol": "~3.0.1"
+			},
+			"devDependencies": {
+				"tad": "~0.2.4",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8f261e2564761f3ae0893393497513c8958e79dd",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.9.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.10": {
+			"name": "es5-ext",
+			"version": "0.10.10",
+			"dependencies": {
+				"es6-iterator": "2",
+				"es6-symbol": "~3.0.1"
+			},
+			"devDependencies": {
+				"tad": "~0.2.4",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d486a3b451c79f9265e59d48fa6402bcb1e51c24",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.10.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.11": {
+			"name": "es5-ext",
+			"version": "0.10.11",
+			"dependencies": {
+				"es6-iterator": "2",
+				"es6-symbol": "~3.0.2"
+			},
+			"devDependencies": {
+				"tad": "~0.2.4",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8184c3e705a820948c2dbe043849379b1dbd0c45",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.11.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.12": {
+			"name": "es5-ext",
+			"version": "0.10.12",
+			"dependencies": {
+				"es6-iterator": "2",
+				"es6-symbol": "~3.1"
+			},
+			"devDependencies": {
+				"tad": "~0.2.4",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "aa84641d4db76b62abba5e45fd805ecbab140047",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.12.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.13": {
+			"name": "es5-ext",
+			"version": "0.10.13",
+			"dependencies": {
+				"es6-iterator": "2",
+				"es6-symbol": "~3.1"
+			},
+			"devDependencies": {
+				"tad": "~0.2.7",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a390ab717bde1ce3b4cbaeabe23ca8fbddcb06f6",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.13.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.14": {
+			"name": "es5-ext",
+			"version": "0.10.14",
+			"dependencies": {
+				"es6-iterator": "2",
+				"es6-symbol": "~3.1"
+			},
+			"devDependencies": {
+				"tad": "~0.2.7",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "625bc9ab9cac0f6fb9dc271525823d1800b3d360",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.14.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.15": {
+			"name": "es5-ext",
+			"version": "0.10.15",
+			"dependencies": {
+				"es6-iterator": "2",
+				"es6-symbol": "~3.1"
+			},
+			"devDependencies": {
+				"tad": "~0.2.7",
+				"xlint": "~0.2.2",
+				"xlint-jslint-medikoo": "~0.1.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c330a5934c1ee21284a7c081a86e5fd937c91ea6",
+				"tarball": "https://registry.npmjs.org/es5-ext/-/es5-ext-0.10.15.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "es5-ext",
+	"dist-tags": {
+		"latest": "0.10.15"
+	},
+	"modified": "2017-03-20T16:34:20.721Z",
+	"_etag": "W/\"58d0048c-2ad9\"",
+	"_lastModified": "Mon, 20 Mar 2017 16:34:20 GMT"
+}

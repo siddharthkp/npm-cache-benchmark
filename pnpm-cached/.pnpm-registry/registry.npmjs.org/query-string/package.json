@@ -1,0 +1,607 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "query-string",
+			"version": "0.1.0",
+			"devDependencies": {
+				"mocha": "~1.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1da57678ae837d324abc30b324cb394cd447bb0e",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-0.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "query-string",
+			"version": "0.1.1",
+			"devDependencies": {
+				"mocha": "~1.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "29b0b212dc8df7782143437e11f88650b07f8d07",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-0.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "query-string",
+			"version": "0.2.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "198d8d86da7d295bc23a4aeb6f8beb3e639d0480",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-0.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "query-string",
+			"version": "0.3.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ccee1b1fd6a9db1355f8902c02129b502e9118cb",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-0.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "query-string",
+			"version": "0.3.1",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a250aee01afcafa8896d3f24e1f30e342ce9e9f7",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-0.3.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "query-string",
+			"version": "0.4.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d59a94786444be226cd2bd356b035543ecd05a5f",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-0.4.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "query-string",
+			"version": "0.4.1",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ac823a3d9414bc58887ed4ac4113db640d2b44da",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-0.4.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "query-string",
+			"version": "1.0.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c1bc6af99fa698a5395922ae5b3de3efe978c59b",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "query-string",
+			"version": "1.0.1",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "63ac953352499ad670a9681a75680f6bf3dd1faf",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-1.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "query-string",
+			"version": "2.0.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "433a0c45e8a9939672983bf9b794aae523553b57",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-2.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "query-string",
+			"version": "2.1.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "62cdd524f82680ed6f0d55297fad1b1c82c9ad4c",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-2.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "query-string",
+			"version": "2.2.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b069235aeccd2f60f5ebb3434170b7a1750b21b5",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-2.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "query-string",
+			"version": "2.3.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4e016c5449c04c483da72b651eac4262ef6fe394",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-2.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.0": {
+			"name": "query-string",
+			"version": "2.4.0",
+			"dependencies": {
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fe32743ca2e33ee63250e0f68c4384568a93f76f",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-2.4.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.1": {
+			"name": "query-string",
+			"version": "2.4.1",
+			"dependencies": {
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "092dbcc0758fa564172333002eb4484674684c35",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-2.4.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.2": {
+			"name": "query-string",
+			"version": "2.4.2",
+			"dependencies": {
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7db0666420804baa92ae9f268962855a76143dfb",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-2.4.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "query-string",
+			"version": "3.0.0",
+			"dependencies": {
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "02fd306f0432040b91b11063f9404fe1bbd4ba7b",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-3.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "query-string",
+			"version": "3.0.1",
+			"dependencies": {
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f04a0758902ab2788582d8177203db9cd9e6a0ad",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-3.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.2": {
+			"name": "query-string",
+			"version": "3.0.2",
+			"dependencies": {
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "30c0824b6fda9f210600771616b9eee146450363",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-3.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.3": {
+			"name": "query-string",
+			"version": "3.0.3",
+			"dependencies": {
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ae2e14b4d05071d4e9b9eb4873c35b0dcd42e638",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-3.0.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "query-string",
+			"version": "4.0.0",
+			"dependencies": {
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e8d4abba4382465ea5842c6da65a233b98d67bbb",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.2": {
+			"name": "query-string",
+			"version": "4.0.2",
+			"dependencies": {
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "04a81d3420fdf009cf029d37dec47c07d2099bd2",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "query-string",
+			"version": "4.1.0",
+			"dependencies": {
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a092273bcef2dddad4a2f0d4e1796701beb35a23",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.2.0": {
+			"name": "query-string",
+			"version": "4.2.0",
+			"dependencies": {
+				"object-assign": "^4.1.0",
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "253927ee1bc829ac0e943d8c8ce4806295cc5609",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.2.1": {
+			"name": "query-string",
+			"version": "4.2.1",
+			"dependencies": {
+				"object-assign": "^4.1.0",
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "88bd7028d6631d23393e8e0238e37fbcdc83672c",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.2.2": {
+			"name": "query-string",
+			"version": "4.2.2",
+			"dependencies": {
+				"object-assign": "^4.1.0",
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "888a6fcb6f76070ba39f2f3025c87099defa1645",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.2.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.2.3": {
+			"name": "query-string",
+			"version": "4.2.3",
+			"dependencies": {
+				"object-assign": "^4.1.0",
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9f27273d207a25a8ee4c7b8c74dcd45d556db822",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.2.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.3.0": {
+			"name": "query-string",
+			"version": "4.3.0",
+			"dependencies": {
+				"object-assign": "^4.1.0",
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "^0.17.0",
+				"xo": "^0.16.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6f39ee0ce2f713b28a6517809b4a974a623fbb42",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.3.1": {
+			"name": "query-string",
+			"version": "4.3.1",
+			"dependencies": {
+				"object-assign": "^4.1.0",
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "^0.17.0",
+				"xo": "^0.16.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "54baada6713eafc92be75c47a731f2ebd09cd11d",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.3.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.3.2": {
+			"name": "query-string",
+			"version": "4.3.2",
+			"dependencies": {
+				"object-assign": "^4.1.0",
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "^0.17.0",
+				"xo": "^0.16.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ec0fd765f58a50031a3968c2431386f8947a5cdd",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.3.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.3.3": {
+			"name": "query-string",
+			"version": "4.3.3",
+			"dependencies": {
+				"object-assign": "^4.1.0",
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "^0.17.0",
+				"xo": "^0.16.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "91c90ff7173d9acd9e088b3cc223f9b437865692",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.3.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.3.4": {
+			"name": "query-string",
+			"version": "4.3.4",
+			"dependencies": {
+				"object-assign": "^4.1.0",
+				"strict-uri-encode": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "^0.17.0",
+				"xo": "^0.16.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bbb693b9ca915c232515b228b1a02b609043dbeb",
+				"tarball": "https://registry.npmjs.org/query-string/-/query-string-4.3.4.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "query-string",
+	"dist-tags": {
+		"latest": "4.3.4"
+	},
+	"modified": "2017-05-08T12:19:17.314Z",
+	"_etag": "W/\"59106245-29b5\"",
+	"_lastModified": "Mon, 08 May 2017 12:19:17 GMT"
+}

@@ -1,0 +1,1121 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "react-youtube",
+			"version": "0.0.1",
+			"dependencies": {
+				"require-sdk": "0.0.2",
+				"envify": "~1.2.1",
+				"react": "~0.11.0"
+			},
+			"devDependencies": {
+				"watchify": "~0.10.2",
+				"browserify": "~4.2.1",
+				"reactify": "~0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4fb22261e23a9e1a5f9c3613e49f14dc4f0bd14b",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "react-youtube",
+			"version": "0.0.2",
+			"dependencies": {
+				"require-sdk": "0.0.2",
+				"react": "~0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8bd0bc0daf7bebc8c78da7b5cd63014e43f6f698",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "react-youtube",
+			"version": "1.0.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"randomstring": "^1.0.3",
+				"react": "^0.11.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"browserify": "^6.2.0",
+				"http-server": "^0.7.2",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.11.0",
+				"reactify": "~0.14.0",
+				"watchify": "^2.1.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f603c614f3e02b831231ecaac801d9a4407beae4",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "react-youtube",
+			"version": "1.0.1",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"randomstring": "^1.0.3",
+				"react": "^0.11.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"browserify": "^6.2.0",
+				"http-server": "^0.7.2",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.11.0",
+				"reactify": "~0.14.0",
+				"watchify": "^2.1.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c33b9b150e15e10d4750a740837b407c3f658f4d",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "react-youtube",
+			"version": "1.0.2",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"randomstring": "^1.0.3",
+				"react": "^0.11.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"browserify": "^6.2.0",
+				"http-server": "^0.7.2",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.11.0",
+				"reactify": "~0.14.0",
+				"watchify": "^2.1.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a71ddabef17d40d62c0c54b88f8ee912bd39120d",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "react-youtube",
+			"version": "1.0.3",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"randomstring": "^1.0.3",
+				"react": "^0.11.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"browserify": "^6.2.0",
+				"http-server": "^0.7.2",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.11.0",
+				"reactify": "~0.14.0",
+				"watchify": "^2.1.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "af78ba7e428fdeb93685ca358430de6b6f7380f1",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "react-youtube",
+			"version": "1.1.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"randomstring": "^1.0.3",
+				"react": "^0.11.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"browserify": "^6.2.0",
+				"http-server": "^0.7.2",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.11.0",
+				"reactify": "~0.14.0",
+				"watchify": "^2.1.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "323e6150074890c926951c240a5c786395cd3e95",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "react-youtube",
+			"version": "1.2.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"randomstring": "^1.0.3",
+				"react": "^0.11.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"browserify": "^6.2.0",
+				"http-server": "^0.7.2",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.11.0",
+				"reactify": "~0.14.0",
+				"watchify": "^2.1.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ed354dba9cf669a6482436dab883aef2e3ef89b3",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "react-youtube",
+			"version": "1.3.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"randomstring": "^1.0.3",
+				"react": "^0.12.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"browserify": "^6.2.0",
+				"http-server": "^0.7.2",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.12.1",
+				"reactify": "^0.17.1",
+				"watchify": "^2.1.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "948fd62b107b7b1f8e6cae3c3bed19b6c14785d4",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-1.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "react-youtube",
+			"version": "2.0.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"react": "^0.12.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"autoprefixer": "^4.0.0",
+				"browserify": "^6.2.0",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.12.1",
+				"reactify": "^0.17.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "76a6d11371d02a95720c303d3d98ef2edd92dfec",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "react-youtube",
+			"version": "2.1.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"react": "^0.12.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"autoprefixer": "^4.0.0",
+				"browserify": "^6.2.0",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.12.1",
+				"reactify": "^0.17.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "750799b386f406668a07244c3c0f9a422c2499c9",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "react-youtube",
+			"version": "2.1.1",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"react": "^0.12.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"autoprefixer": "^4.0.0",
+				"browserify": "^6.2.0",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.12.1",
+				"reactify": "^0.17.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b3d148891b10025d91ac2b39016e8479901fa543",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-2.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "react-youtube",
+			"version": "2.1.2",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"react": "^0.12.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"autoprefixer": "^4.0.0",
+				"browserify": "^6.2.0",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.12.1",
+				"reactify": "^0.17.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d7c6f19858821835f55b15e44eee64440fd09780",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-2.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.3": {
+			"name": "react-youtube",
+			"version": "2.1.3",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"react": "^0.12.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"autoprefixer": "^4.0.0",
+				"browserify": "^6.2.0",
+				"jest-cli": "^0.1.18",
+				"react-tools": "^0.12.1",
+				"reactify": "^0.17.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2867e42f036cc8c0987b9dd047d02cf97115cd70",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-2.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "react-youtube",
+			"version": "2.2.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"react": "^0.12.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"autoprefixer": "^4.0.0",
+				"browserify": "^6.2.0",
+				"jest-cli": "^0.1.18"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2fced72d7699e48d490704510dc5ae9ae1c619ad",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-2.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.1": {
+			"name": "react-youtube",
+			"version": "2.2.1",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"react": "^0.12.1",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"autoprefixer": "^4.0.0",
+				"browserify": "^6.2.0",
+				"jest-cli": "^0.1.18"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7b52c6f12a3bc09236a70d3c169da092f8f73d83",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-2.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.2": {
+			"name": "react-youtube",
+			"version": "2.2.2",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"random-global": "^1.0.0",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"autoprefixer": "^5.1.0",
+				"browserify": "^8.1.3",
+				"jest-cli": "^0.2.2"
+			},
+			"peerDependencies": {
+				"react": "^0.12.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "83700902be4e6ae6adb2e4eb22ec5a059a594e4d",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-2.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "react-youtube",
+			"version": "3.0.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"object-assign": "^2.0.0",
+				"random-global": "^1.0.0",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"autoprefixer-loader": "^1.1.0",
+				"css-loader": "^0.9.1",
+				"eslint": "^0.17.1",
+				"jest-cli": "^0.4.0",
+				"react": "^0.12.2",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.5.3"
+			},
+			"peerDependencies": {
+				"react": "^0.12.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c61a2f96d3ce6b8d20e1dd1f3a8cf5729772a599",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "react-youtube",
+			"version": "3.0.1",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"object-assign": "^2.0.0",
+				"random-global": "^1.0.0",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"autoprefixer-loader": "^1.1.0",
+				"css-loader": "^0.9.1",
+				"eslint": "^0.17.1",
+				"jest-cli": "^0.4.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.5.3"
+			},
+			"peerDependencies": {
+				"react": ">=0.12.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d813be37a0c993f473fad8a51e2a4ed0fbae7b22",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-3.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "react-youtube",
+			"version": "3.1.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"object-assign": "^2.0.0",
+				"random-global": "^1.0.0",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"babel": "^5.0.8",
+				"babel-eslint": "^2.0.2",
+				"babel-jest": "^5.0.1",
+				"eslint": "^0.18.0",
+				"jest-cli": "^0.4.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "216b9bf9a904862b16a6d1c774d1235e8aa221b5",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-3.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.0": {
+			"name": "react-youtube",
+			"version": "3.2.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"object-assign": "^2.0.0",
+				"random-global": "^1.0.0",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"babel": "^5.0.8",
+				"babel-eslint": "^2.0.2",
+				"babel-jest": "^5.0.1",
+				"eslint": "^0.18.0",
+				"jest-cli": "^0.4.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7fc343f44bb5757f852924abb4c8b3fcc866fe6f",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-3.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.3.0": {
+			"name": "react-youtube",
+			"version": "3.3.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"object-assign": "^3.0.0",
+				"random-global": "^1.0.0",
+				"require-sdk": "0.0.2"
+			},
+			"devDependencies": {
+				"babel": "^5.0.8",
+				"babel-eslint": "^2.0.2",
+				"babel-jest": "^5.0.1",
+				"eslint": "^0.18.0",
+				"jest-cli": "^0.4.0",
+				"react": "^0.13.3"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "24a4805c56404ad5e2f172866bb81928a6210340",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-3.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "react-youtube",
+			"version": "4.0.0",
+			"dependencies": {
+				"get-youtube-id": "^0.1.3",
+				"object-assign": "^3.0.0",
+				"random-global": "^1.0.0",
+				"random-string": "^0.1.2",
+				"youtube-iframe": "^1.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-eslint": "^3.1.18",
+				"babel-jest": "^5.0.1",
+				"eslint": "^0.23.0",
+				"eslint-plugin-react": "^2.5.2",
+				"jest-cli": "^0.4.0",
+				"react": "^0.13.3"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a7d0e91db4934bf347e23c8697636122ffd1db1e",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-4.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "react-youtube",
+			"version": "4.1.0",
+			"dependencies": {
+				"get-youtube-id": "^1.0.0",
+				"random-global": "^1.0.0",
+				"random-string": "^0.1.2",
+				"youtube-iframe": "^1.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-eslint": "^4.1.1",
+				"babel-jest": "^5.0.1",
+				"eslint": "^1.3.1",
+				"eslint-config-airbnb": "0.0.8",
+				"eslint-plugin-react": "^3.3.1",
+				"jest-cli": "^0.5.1",
+				"react": "^0.13.3"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4fd0119846695137d56c233f76f368126fce8350",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-4.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.1": {
+			"name": "react-youtube",
+			"version": "4.1.1",
+			"dependencies": {
+				"get-youtube-id": "^1.0.0",
+				"random-global": "^1.0.0",
+				"random-string": "^0.1.2",
+				"youtube-iframe": "^1.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-eslint": "^4.1.1",
+				"babel-jest": "^5.0.1",
+				"eslint": "^1.3.1",
+				"eslint-config-airbnb": "0.0.8",
+				"eslint-plugin-react": "^3.3.1",
+				"jest-cli": "^0.5.1",
+				"react": "^0.13.3"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "736afab1de52f2a1c46b7c46ed84807b093a2bf7",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-4.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.2": {
+			"name": "react-youtube",
+			"version": "4.1.2",
+			"dependencies": {
+				"get-youtube-id": "^1.0.0",
+				"random-global": "^1.0.0",
+				"random-string": "^0.1.2",
+				"youtube-iframe": "^1.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-eslint": "^4.1.1",
+				"babel-jest": "^5.0.1",
+				"eslint": "^1.3.1",
+				"eslint-config-airbnb": "0.0.8",
+				"eslint-plugin-react": "^3.3.1",
+				"jest-cli": "^0.5.1",
+				"react": "^0.13.3"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e79326e63004dd50cfd3d2830b6a42d929162103",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-4.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0": {
+			"name": "react-youtube",
+			"version": "5.0.0",
+			"dependencies": {
+				"lodash": "3.x",
+				"youtube-player": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-core": "^6.1.2",
+				"babel-eslint": "^4.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-preset-es2015": "^6.1.2",
+				"babel-preset-react": "^6.1.2",
+				"babel-preset-stage-0": "^6.1.2",
+				"eslint": "^1.3.1",
+				"eslint-config-airbnb": "^0.1.0",
+				"eslint-plugin-react": "^3.3.1",
+				"expect": "^1.12.2",
+				"jsdom": "^7.0.2",
+				"mocha": "^2.3.3",
+				"proxyquire": "^1.7.3",
+				"react": "^0.14.1",
+				"react-addons-test-utils": "^0.14.1",
+				"react-dom": "^0.14.1",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d87589d292c5eaebb786a4a208eb1ae06675b4ee",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-5.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.1": {
+			"name": "react-youtube",
+			"version": "5.0.1",
+			"dependencies": {
+				"lodash": "^4.0.0",
+				"youtube-player": "^3.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-core": "^6.1.2",
+				"babel-eslint": "^4.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-preset-es2015": "^6.1.2",
+				"babel-preset-react": "^6.1.2",
+				"babel-preset-stage-0": "^6.1.2",
+				"eslint": "^1.3.1",
+				"eslint-config-airbnb": "^0.1.0",
+				"eslint-plugin-react": "^3.3.1",
+				"expect": "^1.12.2",
+				"jsdom": "^8.0.0",
+				"mocha": "^2.3.3",
+				"proxyquire": "^1.7.3",
+				"react": "^0.14.1",
+				"react-addons-test-utils": "^0.14.1",
+				"react-dom": "^0.14.1",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "533fd98fd16bc1edd6e0a4745ec2990b84fdf62c",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-5.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.1.0": {
+			"name": "react-youtube",
+			"version": "5.1.0",
+			"dependencies": {
+				"lodash": "^4.0.0",
+				"youtube-player": "^3.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-core": "^6.1.2",
+				"babel-eslint": "^4.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-preset-es2015": "^6.1.2",
+				"babel-preset-react": "^6.1.2",
+				"babel-preset-stage-0": "^6.1.2",
+				"eslint": "^1.3.1",
+				"eslint-config-airbnb": "^0.1.0",
+				"eslint-plugin-react": "^3.3.1",
+				"expect": "^1.12.2",
+				"jsdom": "^8.0.0",
+				"mocha": "^2.3.3",
+				"proxyquire": "^1.7.3",
+				"react": "^0.14.1",
+				"react-addons-test-utils": "^0.14.1",
+				"react-dom": "^0.14.1",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a52b5c738c415a80937b94ab026e3e8e1a374df9",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-5.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.0.0": {
+			"name": "react-youtube",
+			"version": "6.0.0",
+			"dependencies": {
+				"lodash": "^4.0.0",
+				"youtube-player": "^3.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-core": "^6.1.2",
+				"babel-eslint": "^4.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-preset-es2015": "^6.1.2",
+				"babel-preset-react": "^6.1.2",
+				"babel-preset-stage-0": "^6.1.2",
+				"eslint": "^1.3.1",
+				"eslint-config-airbnb": "^0.1.0",
+				"eslint-plugin-react": "^3.3.1",
+				"expect": "^1.12.2",
+				"jsdom": "^8.0.0",
+				"mocha": "^2.3.3",
+				"proxyquire": "^1.7.3",
+				"react": "^0.14.1",
+				"react-addons-test-utils": "^0.14.1",
+				"react-dom": "^0.14.1",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b1facaec4501720ccaac26fd66c814474af93187",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-6.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.1.0": {
+			"name": "react-youtube",
+			"version": "6.1.0",
+			"dependencies": {
+				"lodash": "^4.0.0",
+				"youtube-player": "^3.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-core": "^6.1.2",
+				"babel-eslint": "^6.0.0",
+				"babel-loader": "^6.2.0",
+				"babel-preset-es2015": "^6.1.2",
+				"babel-preset-react": "^6.1.2",
+				"babel-preset-stage-0": "^6.1.2",
+				"eslint": "^2.0.0",
+				"eslint-config-airbnb": "^6.0.0",
+				"eslint-plugin-react": "^4.0.0",
+				"expect": "^1.12.2",
+				"jsdom": "^8.0.0",
+				"mocha": "^2.3.3",
+				"proxyquire": "^1.7.3",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2cbc6095d87547d025e5a3d0d29ac2dad07de6cc",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-6.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"7.0.0": {
+			"name": "react-youtube",
+			"version": "7.0.0",
+			"dependencies": {
+				"lodash.isequal": "^4.0.0",
+				"youtube-player": "^3.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-core": "^6.1.2",
+				"babel-eslint": "^6.0.0",
+				"babel-loader": "^6.2.0",
+				"babel-preset-es2015": "^6.1.2",
+				"babel-preset-react": "^6.1.2",
+				"babel-preset-stage-0": "^6.1.2",
+				"eslint": "^2.0.0",
+				"eslint-config-airbnb": "^9.0.0",
+				"eslint-plugin-import": "^1.8.1",
+				"eslint-plugin-jsx-a11y": "^1.3.0",
+				"eslint-plugin-react": "^5.0.0",
+				"expect": "^1.12.2",
+				"jsdom": "^9.0.0",
+				"mocha": "^2.3.3",
+				"proxyquire": "^1.7.3",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ec3fa987c6aa7ec12ef18dd0080dc0ca57d6cbb7",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-7.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"7.0.1": {
+			"name": "react-youtube",
+			"version": "7.0.1",
+			"dependencies": {
+				"lodash.isequal": "^4.0.0",
+				"youtube-player": "^3.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-core": "^6.1.2",
+				"babel-eslint": "^6.0.0",
+				"babel-loader": "^6.2.0",
+				"babel-preset-es2015": "^6.1.2",
+				"babel-preset-react": "^6.1.2",
+				"babel-preset-stage-0": "^6.1.2",
+				"eslint": "^2.0.0",
+				"eslint-config-airbnb": "^9.0.0",
+				"eslint-plugin-import": "^1.8.1",
+				"eslint-plugin-jsx-a11y": "^1.3.0",
+				"eslint-plugin-react": "^5.0.0",
+				"expect": "^1.12.2",
+				"jsdom": "^9.0.0",
+				"mocha": "^2.3.3",
+				"proxyquire": "^1.7.3",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5536f6c49c1f87624f8ed84da9a5c1eddbc0740b",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-7.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"7.1.0": {
+			"name": "react-youtube",
+			"version": "7.1.0",
+			"dependencies": {
+				"lodash.isequal": "^4.0.0",
+				"youtube-player": "^3.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-core": "^6.1.2",
+				"babel-eslint": "^6.0.0",
+				"babel-loader": "^6.2.0",
+				"babel-preset-es2015": "^6.1.2",
+				"babel-preset-react": "^6.1.2",
+				"babel-preset-stage-0": "^6.1.2",
+				"eslint": "^3.0.0",
+				"eslint-config-airbnb": "^10.0.0",
+				"eslint-plugin-import": "^1.8.1",
+				"eslint-plugin-jsx-a11y": "^2.0.0",
+				"eslint-plugin-react": "^6.0.0",
+				"expect": "^1.12.2",
+				"jsdom": "^9.0.0",
+				"mocha": "^3.0.0",
+				"proxyquire": "^1.7.3",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d21258b05152e0f02607bbcc39406d2295c97742",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-7.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"7.1.1": {
+			"name": "react-youtube",
+			"version": "7.1.1",
+			"dependencies": {
+				"lodash.isequal": "^4.0.0",
+				"youtube-player": "^3.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-core": "^6.1.2",
+				"babel-eslint": "^6.0.0",
+				"babel-loader": "^6.2.0",
+				"babel-preset-es2015": "^6.1.2",
+				"babel-preset-react": "^6.1.2",
+				"babel-preset-stage-0": "^6.1.2",
+				"eslint": "^3.0.0",
+				"eslint-config-airbnb": "^10.0.0",
+				"eslint-plugin-import": "^1.8.1",
+				"eslint-plugin-jsx-a11y": "^2.0.0",
+				"eslint-plugin-react": "^6.0.0",
+				"expect": "^1.12.2",
+				"jsdom": "^9.0.0",
+				"mocha": "^3.0.0",
+				"proxyquire": "^1.7.3",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1758864694849c1783e4191feb03efa5b346e919",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-7.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"7.2.0": {
+			"name": "react-youtube",
+			"version": "7.2.0",
+			"dependencies": {
+				"lodash.isequal": "^4.0.0",
+				"youtube-player": "^3.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-core": "^6.1.2",
+				"babel-eslint": "^6.0.0",
+				"babel-loader": "^6.2.0",
+				"babel-preset-es2015": "^6.1.2",
+				"babel-preset-react": "^6.1.2",
+				"babel-preset-stage-0": "^6.1.2",
+				"eslint": "^3.0.0",
+				"eslint-config-airbnb": "^12.0.0",
+				"eslint-plugin-import": "^1.8.1",
+				"eslint-plugin-jsx-a11y": "^2.0.0",
+				"eslint-plugin-react": "^6.0.0",
+				"expect": "^1.12.2",
+				"jsdom": "^9.0.0",
+				"mocha": "^3.0.0",
+				"proxyquire": "^1.7.3",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "31b0c3a41e23b1c31adfb47e3e4cfbab98839d3d",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-7.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"7.3.0": {
+			"name": "react-youtube",
+			"version": "7.3.0",
+			"dependencies": {
+				"youtube-player": "^4.0.1",
+				"lodash.isequal": "^4.4.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.16.0",
+				"babel-core": "^6.16.0",
+				"babel-eslint": "^7.0.0",
+				"babel-loader": "^6.2.5",
+				"babel-preset-es2015": "^6.16.0",
+				"babel-preset-react": "^6.16.0",
+				"babel-preset-stage-0": "^6.16.0",
+				"eslint": "^3.6.1",
+				"eslint-config-airbnb": "^12.0.0",
+				"eslint-plugin-import": "^2.0.0",
+				"eslint-plugin-jsx-a11y": "^2.2.2",
+				"eslint-plugin-react": "^6.3.0",
+				"expect": "^1.20.2",
+				"jsdom": "^9.5.0",
+				"mocha": "^3.1.0",
+				"proxyquire": "^1.7.10",
+				"react": "^15.3.2",
+				"react-addons-test-utils": "^15.3.2",
+				"react-dom": "^15.3.2",
+				"webpack": "^1.13.2",
+				"webpack-dev-server": "^1.16.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eb1228866f48124ceb7f9825e7d4b562294584ef",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-7.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"7.4.0": {
+			"name": "react-youtube",
+			"version": "7.4.0",
+			"dependencies": {
+				"lodash.isequal": "^4.4.0",
+				"prop-types": "^15.5.3",
+				"youtube-player": "^4.2.3"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.16.0",
+				"babel-core": "^6.16.0",
+				"babel-eslint": "^7.0.0",
+				"babel-loader": "^6.2.5",
+				"babel-preset-es2015": "^6.16.0",
+				"babel-preset-react": "^6.16.0",
+				"babel-preset-stage-0": "^6.16.0",
+				"cross-env": "^4.0.0",
+				"eslint": "^3.6.1",
+				"eslint-config-airbnb": "^14.1.0",
+				"eslint-plugin-import": "^2.0.0",
+				"eslint-plugin-jsx-a11y": "^4.0.0",
+				"eslint-plugin-react": "^6.3.0",
+				"expect": "^1.20.2",
+				"jsdom": "^9.5.0",
+				"lodash.assign": "^4.2.0",
+				"mocha": "^3.1.0",
+				"npm-run-all": "^4.0.2",
+				"proxyquire": "^1.7.10",
+				"react": "^15.3.2",
+				"react-dom": "^15.3.2",
+				"webpack": "^2.3.3",
+				"webpack-dev-server": "^2.4.2"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d346c30ec77eec61871e8c0784cef2cb2c69b63d",
+				"tarball": "https://registry.npmjs.org/react-youtube/-/react-youtube-7.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "react-youtube",
+	"dist-tags": {
+		"latest": "7.4.0"
+	},
+	"modified": "2017-04-12T15:37:31.250Z",
+	"_etag": "W/\"58ee49bb-5b6c\"",
+	"_lastModified": "Wed, 12 Apr 2017 15:37:31 GMT"
+}

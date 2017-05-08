@@ -1,0 +1,701 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "normalizr",
+			"version": "0.1.0",
+			"directories": {},
+			"dist": {
+				"shasum": "0f70501adf4ff91a44d55ef321a1612a60dab193",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "normalizr",
+			"version": "0.1.1",
+			"dependencies": {
+				"lodash-node": "^2.4.1"
+			},
+			"devDependencies": {
+				"chai": "^1.9.1",
+				"mocha": "^1.21.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b02c5b936e96c472716c8d6b28c94998086570a6",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "normalizr",
+			"version": "0.1.2",
+			"dependencies": {
+				"lodash-node": "^2.4.1"
+			},
+			"devDependencies": {
+				"chai": "^1.9.1",
+				"mocha": "^1.21.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2e9c4c6c3f1ecd26a0d6c6e4954775dcf85f1d9a",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "normalizr",
+			"version": "0.1.3",
+			"dependencies": {
+				"lodash": "^3.0.0"
+			},
+			"devDependencies": {
+				"chai": "^1.9.1",
+				"mocha": "^1.21.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7a9e4a9d906f7204f6152110cfda3297b00f9dac",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-0.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "normalizr",
+			"version": "1.0.0",
+			"dependencies": {
+				"lodash": "^3.10.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.3",
+				"babel-core": "^5.8.3",
+				"babel-loader": "^5.3.2",
+				"chai": "^3.2.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.10.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7181e311362e71830db91c0eadc9d844821fe051",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "normalizr",
+			"version": "1.1.0",
+			"dependencies": {
+				"lodash": "^3.10.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.3",
+				"babel-core": "^5.8.3",
+				"babel-loader": "^5.3.2",
+				"chai": "^3.2.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.10.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1e61f5bd5a38f461ab8699a3258452e8a05def3b",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "normalizr",
+			"version": "1.2.0",
+			"dependencies": {
+				"lodash": "^3.10.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.3",
+				"babel-core": "^5.8.3",
+				"babel-loader": "^5.3.2",
+				"chai": "^3.2.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.10.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8eb48b05609a3537ce25c6764f2701f1b4d324c1",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "normalizr",
+			"version": "1.3.0",
+			"dependencies": {
+				"lodash": "^3.10.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.3",
+				"babel-core": "^5.8.3",
+				"babel-loader": "^5.3.2",
+				"chai": "^3.2.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.10.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "87b6088f0df7280137442d24cf7aa3f165f41a32",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-1.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.1": {
+			"name": "normalizr",
+			"version": "1.3.1",
+			"dependencies": {
+				"lodash": "^3.10.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.3",
+				"babel-core": "^5.8.3",
+				"babel-loader": "^5.3.2",
+				"chai": "^3.2.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.10.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1b097a65e560fee0b8dae17accad2a885d5e1c07",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-1.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.0": {
+			"name": "normalizr",
+			"version": "1.4.0",
+			"dependencies": {
+				"lodash": "^3.10.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.3",
+				"babel-core": "^5.8.3",
+				"babel-loader": "^5.3.2",
+				"chai": "^3.2.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.10.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "21f51f7a65c74a13f326642a7eb36f3bd12ba051",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-1.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.1": {
+			"name": "normalizr",
+			"version": "1.4.1",
+			"dependencies": {
+				"lodash": "^3.10.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.3",
+				"babel-core": "^5.8.3",
+				"babel-loader": "^5.3.2",
+				"chai": "^3.2.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.10.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "aa387c2465f13611caf3aae42baf98f705e8a2ce",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-1.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "normalizr",
+			"version": "2.0.0",
+			"dependencies": {
+				"lodash": "^4.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.3",
+				"babel-core": "^5.8.3",
+				"babel-loader": "^5.3.2",
+				"chai": "^3.2.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.10.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b5f856959192a87050693b790d1fdd05fc23da2e",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "normalizr",
+			"version": "2.0.1",
+			"dependencies": {
+				"lodash": "^4.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.3",
+				"babel-core": "^5.8.3",
+				"babel-loader": "^5.3.2",
+				"chai": "^3.2.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.10.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "da0e2c87c25021aa13a7b8c4a9889c705e282a87",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-2.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "normalizr",
+			"version": "2.0.2",
+			"dependencies": {
+				"lodash": "^4.11.2"
+			},
+			"devDependencies": {
+				"babel": "^5.8.3",
+				"babel-core": "^5.8.3",
+				"babel-loader": "^5.3.2",
+				"chai": "^3.2.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.10.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "80eac366520ddaf27831032ece3c686fca89de0e",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-2.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "normalizr",
+			"version": "2.1.0",
+			"dependencies": {
+				"lodash": "^4.11.2"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.8.0",
+				"babel-core": "^6.8.0",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-1": "^6.5.0",
+				"babel-register": "^6.8.0",
+				"chai": "^3.2.0",
+				"mocha": "^2.4.5",
+				"rimraf": "^2.4.2",
+				"webpack": "^1.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "58a0324d175411c6bd6033d6bb0ac517cc098cac",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "normalizr",
+			"version": "2.2.0",
+			"dependencies": {
+				"lodash": "^4.11.2"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.8.0",
+				"babel-core": "^6.8.0",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-1": "^6.5.0",
+				"babel-register": "^6.8.0",
+				"chai": "^3.2.0",
+				"mocha": "^2.4.5",
+				"rimraf": "^2.4.2",
+				"typescript": "^1.8.10",
+				"typescript-definition-tester": "0.0.4",
+				"webpack": "^1.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "478ff8a71238367d9cc84dd19b35c8a770417f00",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-2.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.1": {
+			"name": "normalizr",
+			"version": "2.2.1",
+			"dependencies": {
+				"lodash": "^4.11.2"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.8.0",
+				"babel-core": "^6.8.0",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-1": "^6.5.0",
+				"babel-register": "^6.8.0",
+				"chai": "^3.2.0",
+				"mocha": "^2.4.5",
+				"rimraf": "^2.4.2",
+				"typescript": "^1.8.10",
+				"typescript-definition-tester": "0.0.4",
+				"webpack": "^1.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d4e5217b30d2a1a5b918bf3466ff0f8914507be5",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-2.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "normalizr",
+			"version": "2.3.0",
+			"dependencies": {
+				"lodash": "^4.17.2"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-core": "^6.18.2",
+				"babel-loader": "^6.2.7",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"babel-register": "^6.18.0",
+				"copy-webpack-plugin": "^4.0.1",
+				"jest": "^17.0.3",
+				"rimraf": "^2.4.2",
+				"typescript": "1.8.10",
+				"typescript-definition-tester": "^0.0.5",
+				"webpack": "^1.13.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e2d76b1c729bbf600190353bbb7061e6388a0b69",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-2.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.1": {
+			"name": "normalizr",
+			"version": "2.3.1",
+			"dependencies": {
+				"lodash": "^4.17.2"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-core": "^6.18.2",
+				"babel-loader": "^6.2.7",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"babel-register": "^6.18.0",
+				"copy-webpack-plugin": "^4.0.1",
+				"jest": "^17.0.3",
+				"rimraf": "^2.4.2",
+				"typescript": "1.8.10",
+				"typescript-definition-tester": "^0.0.5",
+				"webpack": "^1.13.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ac12d771ce1fe6a43094c3d828caada4ed9a4540",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-2.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0-beta": {
+			"name": "normalizr",
+			"version": "3.0.0-beta",
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-eslint": "^7.1.1",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-es2015-rollup": "^3.0.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"coveralls": "^2.11.15",
+				"eslint": "^3.12.2",
+				"flow-bin": "^0.37.1",
+				"jest": "^18.0.0",
+				"mkdirp": "^0.5.1",
+				"npm-run-all": "^3.1.2",
+				"rimraf": "^2.5.4",
+				"rollup": "^0.37.0",
+				"rollup-plugin-babel": "^2.7.1",
+				"rollup-plugin-filesize": "^1.0.1",
+				"rollup-plugin-uglify": "^1.0.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9f3cb52efd98504f6d6525dd9d584c56c7cee2de",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-3.0.0-beta.tgz"
+			},
+			"deprecated": "critical bug fix for schema.Array in 3.0.1",
+			"_hasShrinkwrap": false
+		},
+		"3.0.0-beta.2": {
+			"name": "normalizr",
+			"version": "3.0.0-beta.2",
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-eslint": "^7.1.1",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-es2015-rollup": "^3.0.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"coveralls": "^2.11.15",
+				"eslint": "^3.12.2",
+				"flow-bin": "^0.37.1",
+				"jest": "^18.0.0",
+				"mkdirp": "^0.5.1",
+				"npm-run-all": "^3.1.2",
+				"rimraf": "^2.5.4",
+				"rollup": "^0.37.0",
+				"rollup-plugin-babel": "^2.7.1",
+				"rollup-plugin-filesize": "^1.0.1",
+				"rollup-plugin-uglify": "^1.0.1",
+				"typescript": "^2.1.4",
+				"typescript-definition-tester": "0.0.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a58aa11c0956388445fab62558c2785ae944f36f",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-3.0.0-beta.2.tgz"
+			},
+			"deprecated": "critical bug fix for schema.Array in 3.0.1",
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "normalizr",
+			"version": "3.0.0",
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-eslint": "^7.1.1",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-es2015-rollup": "^3.0.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"coveralls": "^2.11.15",
+				"eslint": "^3.12.2",
+				"flow-bin": "^0.37.1",
+				"jest": "^18.0.0",
+				"mkdirp": "^0.5.1",
+				"npm-run-all": "^3.1.2",
+				"rimraf": "^2.5.4",
+				"rollup": "^0.37.0",
+				"rollup-plugin-babel": "^2.7.1",
+				"rollup-plugin-filesize": "^1.0.1",
+				"rollup-plugin-uglify": "^1.0.1",
+				"typescript": "^2.1.4",
+				"typescript-definition-tester": "0.0.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "43099e099c102762f9b270fad02a7ca69620310e",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-3.0.0.tgz"
+			},
+			"deprecated": "critical bug fix for schema.Array in 3.0.1",
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "normalizr",
+			"version": "3.0.1",
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-eslint": "^7.1.1",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-es2015-rollup": "^3.0.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"coveralls": "^2.11.15",
+				"eslint": "^3.12.2",
+				"flow-bin": "^0.37.1",
+				"jest": "^18.0.0",
+				"mkdirp": "^0.5.1",
+				"npm-run-all": "^3.1.2",
+				"rimraf": "^2.5.4",
+				"rollup": "^0.37.0",
+				"rollup-plugin-babel": "^2.7.1",
+				"rollup-plugin-filesize": "^1.0.1",
+				"rollup-plugin-uglify": "^1.0.1",
+				"typescript": "^2.1.4",
+				"typescript-definition-tester": "0.0.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "45c8fffa4e253f10f9d2c44e2d94290c3c08e2c5",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-3.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.2": {
+			"name": "normalizr",
+			"version": "3.0.2",
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-eslint": "^7.1.1",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-es2015-rollup": "^3.0.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"coveralls": "^2.11.15",
+				"eslint": "^3.12.2",
+				"flow-bin": "^0.37.1",
+				"jest": "^18.0.0",
+				"mkdirp": "^0.5.1",
+				"npm-run-all": "^3.1.2",
+				"rimraf": "^2.5.4",
+				"rollup": "^0.37.0",
+				"rollup-plugin-babel": "^2.7.1",
+				"rollup-plugin-filesize": "^1.0.1",
+				"rollup-plugin-uglify": "^1.0.1",
+				"typescript": "^2.1.4",
+				"typescript-definition-tester": "0.0.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ac51ab65af807e9022b9f16a767fb1449c0dae6a",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-3.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "normalizr",
+			"version": "3.1.0",
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-eslint": "^7.1.1",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-es2015-rollup": "^3.0.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"coveralls": "^2.11.15",
+				"eslint": "^3.12.2",
+				"flow-bin": "^0.37.1",
+				"jest": "^18.0.0",
+				"mkdirp": "^0.5.1",
+				"npm-run-all": "^3.1.2",
+				"rimraf": "^2.5.4",
+				"rollup": "^0.37.0",
+				"rollup-plugin-babel": "^2.7.1",
+				"rollup-plugin-filesize": "^1.0.1",
+				"rollup-plugin-uglify": "^1.0.1",
+				"typescript": "^2.1.4",
+				"typescript-definition-tester": "0.0.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5a1eaa334d91b88d2bf7f3c33559e4ed16a56370",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-3.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.0": {
+			"name": "normalizr",
+			"version": "3.2.0",
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-eslint": "^7.1.1",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-es2015-rollup": "^3.0.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"coveralls": "^2.11.15",
+				"eslint": "^3.12.2",
+				"flow-bin": "^0.37.1",
+				"immutable": "^3.8.1",
+				"jest": "^18.0.0",
+				"mkdirp": "^0.5.1",
+				"npm-run-all": "^3.1.2",
+				"rimraf": "^2.5.4",
+				"rollup": "^0.37.0",
+				"rollup-plugin-babel": "^2.7.1",
+				"rollup-plugin-filesize": "^1.0.1",
+				"rollup-plugin-uglify": "^1.0.1",
+				"typescript": "^2.1.4",
+				"typescript-definition-tester": "0.0.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d68491b331a556ad481d8962765cc120381b6d6d",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-3.2.0.tgz"
+			},
+			"deprecated": "Critical denormalize bug fix in 3.2.1, reverts incorrect recursive denormaliziation",
+			"_hasShrinkwrap": false
+		},
+		"3.2.1": {
+			"name": "normalizr",
+			"version": "3.2.1",
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-eslint": "^7.1.1",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-es2015-rollup": "^3.0.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"coveralls": "^2.11.15",
+				"eslint": "^3.12.2",
+				"flow-bin": "^0.37.1",
+				"immutable": "^3.8.1",
+				"jest": "^18.0.0",
+				"mkdirp": "^0.5.1",
+				"npm-run-all": "^3.1.2",
+				"rimraf": "^2.5.4",
+				"rollup": "^0.37.0",
+				"rollup-plugin-babel": "^2.7.1",
+				"rollup-plugin-filesize": "^1.0.1",
+				"rollup-plugin-uglify": "^1.0.1",
+				"typescript": "^2.1.4",
+				"typescript-definition-tester": "0.0.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "85a2d3d0ffb9c3b08f4131cb8d8fbfb7e9211b35",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-3.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.2": {
+			"name": "normalizr",
+			"version": "3.2.2",
+			"devDependencies": {
+				"babel-cli": "^6.18.0",
+				"babel-eslint": "^7.1.1",
+				"babel-preset-es2015": "^6.18.0",
+				"babel-preset-es2015-rollup": "^3.0.0",
+				"babel-preset-stage-1": "^6.16.0",
+				"coveralls": "^2.11.15",
+				"eslint": "^3.12.2",
+				"flow-bin": "^0.37.1",
+				"immutable": "^3.8.1",
+				"jest": "^18.0.0",
+				"mkdirp": "^0.5.1",
+				"npm-run-all": "^3.1.2",
+				"rimraf": "^2.5.4",
+				"rollup": "^0.37.0",
+				"rollup-plugin-babel": "^2.7.1",
+				"rollup-plugin-filesize": "^1.0.1",
+				"rollup-plugin-uglify": "^1.0.1",
+				"typescript": "^2.1.4",
+				"typescript-definition-tester": "0.0.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "542e915a260ca53279b76a63fb554185e9225f90",
+				"tarball": "https://registry.npmjs.org/normalizr/-/normalizr-3.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "normalizr",
+	"dist-tags": {
+		"latest": "3.2.2",
+		"beta": "3.0.0-beta.2"
+	},
+	"modified": "2017-04-23T13:03:19.518Z",
+	"_etag": "W/\"58fca617-39da\"",
+	"_lastModified": "Sun, 23 Apr 2017 13:03:19 GMT"
+}

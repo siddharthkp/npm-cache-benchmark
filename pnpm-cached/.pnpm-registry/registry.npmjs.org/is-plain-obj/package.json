@@ -1,0 +1,43 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "is-plain-obj",
+			"version": "1.0.0",
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f8d5dc92b99fa4fd077984ba30b798908a0566e7",
+				"tarball": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "is-plain-obj",
+			"version": "1.1.0",
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "71a50c8429dfca773c92a390a4a03b39fcd51d3e",
+				"tarball": "https://registry.npmjs.org/is-plain-obj/-/is-plain-obj-1.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "is-plain-obj",
+	"dist-tags": {
+		"latest": "1.1.0"
+	},
+	"modified": "2017-03-05T11:41:45.500Z",
+	"_etag": "W/\"58bbf979-2b1\"",
+	"_lastModified": "Sun, 05 Mar 2017 11:41:45 GMT"
+}

@@ -1,0 +1,224 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "d3-polygon",
+			"version": "0.0.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b799d7d0ff4a606aa47c3c5af5124ee6e5d4bfd6",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-polygon",
+			"version": "0.0.2",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "665c1647a4fc2253712c3b8e6d222c2a0ca7c1c7",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "d3-polygon",
+			"version": "0.0.3",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "46a722147708393421773bcacbe8fef7cf5b9338",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "d3-polygon",
+			"version": "0.0.4",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "636cf10c1efd94839399bc6b8379e46d36343200",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-0.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "d3-polygon",
+			"version": "0.0.5",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "de786e7d0041a3c4d2e3f73a534407b050578fc2",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-0.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-polygon",
+			"version": "0.1.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4421f4eb60a321ec067ea07a4d614080548612ba",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-polygon",
+			"version": "0.2.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1627d0aa8392d5565f26685a62f9b14dd3db2c0f",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-polygon",
+			"version": "0.2.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b03f3ca4f9cc282c2d18546e4f2140547070fcd1",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-polygon",
+			"version": "0.3.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "54b8109b3ff62a20c3a6a5c6bc6c5fc988946d40",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-polygon",
+			"version": "1.0.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "58079585d75a04a2f2eb260bc37e663219fd3144",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-polygon",
+			"version": "1.0.1",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c1e710cc715b082f18494d102e41bdaaf8c44d03",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-polygon",
+			"version": "1.0.2",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6552c0fb03aa2d05023351da6e0e8adc4df0202b",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-polygon",
+			"version": "1.0.3",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "16888e9026460933f2b179652ad378224d382c62",
+				"tarball": "https://registry.npmjs.org/d3-polygon/-/d3-polygon-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-polygon",
+	"dist-tags": {
+		"latest": "1.0.3"
+	},
+	"modified": "2017-03-10T17:56:33.705Z",
+	"_etag": "W/\"58c2e8d1-1032\"",
+	"_lastModified": "Fri, 10 Mar 2017 17:56:33 GMT"
+}

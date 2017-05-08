@@ -1,0 +1,68 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "react-pure-render",
+			"version": "1.0.0",
+			"dependencies": {
+				"babel-eslint": "^3.0.1",
+				"eslint": "^0.20.0"
+			},
+			"optionalDependencies": {
+				"babel-eslint": "^3.0.1",
+				"eslint": "^0.20.0"
+			},
+			"devDependencies": {
+				"babel": "^5.2.9"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "190b538a26e78842a15ce3720a1b4666824f06a6",
+				"tarball": "https://registry.npmjs.org/react-pure-render/-/react-pure-render-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "react-pure-render",
+			"version": "1.0.1",
+			"dependencies": {
+				"babel-eslint": "^3.0.1",
+				"eslint": "^0.20.0"
+			},
+			"optionalDependencies": {
+				"babel-eslint": "^3.0.1",
+				"eslint": "^0.20.0"
+			},
+			"devDependencies": {
+				"babel": "^5.2.9"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "36fecc139ca2ab9dc63148fc9ca2e063e3e0b1ec",
+				"tarball": "https://registry.npmjs.org/react-pure-render/-/react-pure-render-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "react-pure-render",
+			"version": "1.0.2",
+			"devDependencies": {
+				"babel": "^5.2.9",
+				"babel-eslint": "^3.0.1",
+				"eslint": "^0.20.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9d8a928c7f2c37513c2d064e57b3e3c356e9fabb",
+				"tarball": "https://registry.npmjs.org/react-pure-render/-/react-pure-render-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "react-pure-render",
+	"dist-tags": {
+		"latest": "1.0.2"
+	},
+	"modified": "2017-04-04T06:34:21.664Z",
+	"_etag": "W/\"58e33e6d-4e1\"",
+	"_lastModified": "Tue, 04 Apr 2017 06:34:21 GMT"
+}

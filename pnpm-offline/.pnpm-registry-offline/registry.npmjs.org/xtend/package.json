@@ -1,0 +1,289 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "xtend",
+			"version": "1.0.0",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "d3ab250423ff0c0e3bf05d66379af5dc2cf583ff",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "xtend",
+			"version": "1.0.1",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "86452b658fae1c959aea2bd8c57048d8ced4b010",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-1.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "xtend",
+			"version": "1.0.2",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "127e37ce5e4050de5f175f439b2a0649297dc14b",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-1.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "xtend",
+			"version": "1.0.3",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "3f5d937353cced8e085399a563fdb22541c2960a",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-1.0.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "xtend",
+			"version": "2.0.1",
+			"devDependencies": {
+				"tape": "~0.2.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "008f40eede59ba58a2c14b1b64cc28b97513248d",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-2.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "xtend",
+			"version": "2.0.2",
+			"devDependencies": {
+				"tape": "~0.2.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2bd96b92d6e4c85573084a0d2f104a50947b9b85",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-2.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.3": {
+			"name": "xtend",
+			"version": "2.0.3",
+			"devDependencies": {
+				"tape": "~0.2.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "62600900f096ad6a111e3ca37dbb908776493094",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-2.0.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.4": {
+			"name": "xtend",
+			"version": "2.0.4",
+			"dependencies": {
+				"is-object": "~0.1.2",
+				"object-keys": "~0.2.0"
+			},
+			"devDependencies": {
+				"tape": "~1.0.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "af09e545bd860909a88682af042680ec179a2208",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-2.0.4.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.5": {
+			"name": "xtend",
+			"version": "2.0.5",
+			"dependencies": {
+				"is-object": "~0.1.2",
+				"object-keys": "~0.2.0"
+			},
+			"devDependencies": {
+				"tape": "~1.0.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "51e23655b93e7aa1ef84e485369a4c7b5ebe6dbc",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-2.0.5.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.6": {
+			"name": "xtend",
+			"version": "2.0.6",
+			"dependencies": {
+				"is-object": "~0.1.2",
+				"object-keys": "~0.2.0"
+			},
+			"devDependencies": {
+				"tape": "~1.0.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5ea657a6dba447069c2e59c58a1138cb0c5e6cee",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-2.0.6.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "xtend",
+			"version": "2.1.1",
+			"dependencies": {
+				"object-keys": "~0.4.0"
+			},
+			"devDependencies": {
+				"tape": "~1.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d97a083e97cef3a331c4e9bd0201356711849b9f",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-2.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "xtend",
+			"version": "2.1.2",
+			"dependencies": {
+				"object-keys": "~0.4.0"
+			},
+			"devDependencies": {
+				"tape": "~1.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6efecc2a4dad8e6962c4901b337ce7ba87b5d28b",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-2.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "xtend",
+			"version": "2.2.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~1.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eef6b1f198c1c8deafad8b1765a04dad4a01c5a9",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-2.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "xtend",
+			"version": "3.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~1.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5cce7407baf642cba7becda568111c493f59665a",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-3.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "xtend",
+			"version": "4.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~1.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8bc36ff87aedbe7ce9eaf0bca36b2354a743840f",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-4.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.1": {
+			"name": "xtend",
+			"version": "4.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~1.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a5c6d532be656e23db820efb943a1f04998d63af",
+				"tarball": "https://registry.npmjs.org/xtend/-/xtend-4.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.4"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "xtend",
+	"dist-tags": {
+		"latest": "4.0.1"
+	},
+	"modified": "2017-05-03T14:14:28.233Z",
+	"_etag": "W/\"5909e5c4-1305\"",
+	"_lastModified": "Wed, 03 May 2017 14:14:28 GMT"
+}

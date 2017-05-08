@@ -1,0 +1,3231 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "validator",
+			"version": "0.1.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.1.0.tgz",
+				"shasum": "27c3e1b1c16a4b8453261fbc43efa590b2b95046"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "validator",
+			"version": "0.1.1",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.1.1.tgz",
+				"shasum": "5d8f635f095036016defe6239f4d43df4087f70b"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "validator",
+			"version": "0.1.2",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "93a1c57dd3c95693cff774609dcfb62c141e4390",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "validator",
+			"version": "0.1.3",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "cd9f50577e178fc1561ee1f241cb305e1b5f9b70",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.1.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.4": {
+			"name": "validator",
+			"version": "0.1.4",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "8c55e800800ec7a09cee48cef211fd7c31302ff8",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.1.4.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.5": {
+			"name": "validator",
+			"version": "0.1.5",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "79273eeb714a86342685072c859d1cba31e598c3",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.1.5.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.6": {
+			"name": "validator",
+			"version": "0.1.6",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "b2b34a5ffe7bed4ca25cdc29ffd0665356cfa541",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.1.6.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.7": {
+			"name": "validator",
+			"version": "0.1.7",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "69fa095c35350ce21fca08074ce18f9d00b98019",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.1.7.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.8": {
+			"name": "validator",
+			"version": "0.1.8",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "e3efc9e02485f1ec08773951a84d4b92b6684a10",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.1.8.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.9": {
+			"name": "validator",
+			"version": "0.1.9",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "96ac092d439dcdb914a0798fe8e627f4225cc246",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.1.9.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "validator",
+			"version": "0.2.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "6110812b7a2a0c4c1ada473eb99477c1a96bd497",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "validator",
+			"version": "0.2.1",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "52f5de3acc32abd08911e86b5df35ee47477448c",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "validator",
+			"version": "0.2.2",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "fb2bf4aa9be1e5a5e45fb625ebb8db22ab72802c",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.2.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "validator",
+			"version": "0.2.3",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "78398f89fabeeaa310c706e6379f5ed1c86feb22",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.2.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.4": {
+			"name": "validator",
+			"version": "0.2.4",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "84da50b62c08dd957351c406ffb2637648e954fd",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.2.4.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.5": {
+			"name": "validator",
+			"version": "0.2.5",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "9e7adaa063e316add290fce65fbcc5b15339ee62",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.2.5.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.6": {
+			"name": "validator",
+			"version": "0.2.6",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "fe47b084d482e5b313536ee4e6652b1779acdec0",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.2.6.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.7": {
+			"name": "validator",
+			"version": "0.2.7",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "488308ab979d3c2f7071909a7afc96a56b1f2d59",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.2.7.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.8": {
+			"name": "validator",
+			"version": "0.2.8",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "859778929c4d8cb173a0480395da708151c357f8",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.2.8.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.9": {
+			"name": "validator",
+			"version": "0.2.9",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "be1fd17861625e6ad0c7b8fc25a3842b639b1273",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.2.9.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "validator",
+			"version": "0.3.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "07ae8dac920edfc93616103c99aaa7eaeb6a588c",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "validator",
+			"version": "0.3.1",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "31bbac9a5bfb80bcc5ad06720f8d1db1cd33549e",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.3.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "validator",
+			"version": "0.3.2",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "0b8fa2f7476e84e0db13500c30403a5decdae889",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.3.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.4": {
+			"name": "validator",
+			"version": "0.3.4",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "49cf6dbd470a4088cfee86c94588f72e5359e52f",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.3.4.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.5": {
+			"name": "validator",
+			"version": "0.3.5",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "15be44f1d54cb8d75f293b5274ca28ea9303a8ef",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.3.5.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.6": {
+			"name": "validator",
+			"version": "0.3.6",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "93c21ff42f6f15896d6be4809a9a341cbac8d1d3",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.3.6.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.7": {
+			"name": "validator",
+			"version": "0.3.7",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "e8d38700b79a60d657f5cf8d8e16f06acbd53316",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.3.7.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.8": {
+			"name": "validator",
+			"version": "0.3.8",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "11805bf03861de16741278295ed3b519431a689f",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.3.8.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.9": {
+			"name": "validator",
+			"version": "0.3.9",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "95ce993ae81f837dd59dc36f47903dd151dff810",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.3.9.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "validator",
+			"version": "0.4.0",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "e166c507c2b1648f76ea02dacc4798ac1bdf071b",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "validator",
+			"version": "0.4.1",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "8d2dc65d2284d7059ebf281f62228dfa0f2d3f79",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "validator",
+			"version": "0.4.2",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "f94fc9699bc1e5999927642b75fa2c6504087be8",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.3": {
+			"name": "validator",
+			"version": "0.4.3",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "df63de20e42d6904077b2dce3180004eb81eddf4",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.4": {
+			"name": "validator",
+			"version": "0.4.4",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "34d1f2a4a0cbb9adf1a49ae5052562ecea788b17",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.4.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.5": {
+			"name": "validator",
+			"version": "0.4.5",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "4769ba970555143e892bab239ec5ca0b1d61ff69",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.5.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.6": {
+			"name": "validator",
+			"version": "0.4.6",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "cbd921ef8f497db2d02f3fec9eaeab027ff2b430",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.6.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.6-1": {
+			"name": "validator",
+			"version": "0.4.6-1",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "d2fbddc5c44beb029fd7c11eacfbb4c33c6f9b34",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.6-1.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.6-2": {
+			"name": "validator",
+			"version": "0.4.6-2",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "5deef8c8545a785e93d85f45b4f4ba87ea963bce",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.6-2.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.6-3": {
+			"name": "validator",
+			"version": "0.4.6-3",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "7c9bfeb03e8005e12b6d177a00b903c4fe4db6e3",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.6-3.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.7": {
+			"name": "validator",
+			"version": "0.4.7",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "a357524a1707cabc0eb4b6c6002b37615f3fe065",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.7.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.8": {
+			"name": "validator",
+			"version": "0.4.8",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "d7944e726d20674e3e06815d870bc47d77f66058",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.8.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.9": {
+			"name": "validator",
+			"version": "0.4.9",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "0f2421e35abe4321054383ed5cc154264a984a94",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.9.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.10": {
+			"name": "validator",
+			"version": "0.4.10",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "0afc4d59a11c5cf8ab2152fef4e0dbbf58118781",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.10.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.11": {
+			"name": "validator",
+			"version": "0.4.11",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "ad47826b0cf9733bf7eb90d0367cf90528ba4e0b",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.11.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.12": {
+			"name": "validator",
+			"version": "0.4.12",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "1304bd948eef9bf806e5e31b3e08a45751b1cacc",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.12.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.13": {
+			"name": "validator",
+			"version": "0.4.13",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "500240046e8fd182fc31f797586191832b862878",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.13.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.15": {
+			"name": "validator",
+			"version": "0.4.15",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "845842e768db60469b96d761a333d60e84385fe5",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.15.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.16": {
+			"name": "validator",
+			"version": "0.4.16",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "a0d91e62147c0a7e417dc59e251dcb030000b40c",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.16.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.17": {
+			"name": "validator",
+			"version": "0.4.17",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "eb9d740d95e59dac661acac0bbff69d9264cac16",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.17.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.18": {
+			"name": "validator",
+			"version": "0.4.18",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "0ac23ed6726fcf4e6b1d727c600956510103a4cd",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.18.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.19": {
+			"name": "validator",
+			"version": "0.4.19",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "0cd014f0274f1b8db2dc0eed4430dfef7ecb5a60",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.19.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.20": {
+			"name": "validator",
+			"version": "0.4.20",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "fad0c99af2de43ff04b8acc59cbfac321e7bab4a",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.20.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.21": {
+			"name": "validator",
+			"version": "0.4.21",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "327bcf9d7a024ae87abad2f9716dbda0c6a37d21",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.21.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.22": {
+			"name": "validator",
+			"version": "0.4.22",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "5277e05ee24c25bf46cc8296550323098ec09720",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.22.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.23": {
+			"name": "validator",
+			"version": "0.4.23",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "dd31edb0f149a3f9d276272f47b38b2180679b42",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.23.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.24": {
+			"name": "validator",
+			"version": "0.4.24",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "9d88e88809114a861ec69bc0ddcb85322c98499a",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.24.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.25": {
+			"name": "validator",
+			"version": "0.4.25",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "42ddf4392f9b3072f2bdefd9201ee7cf1f5cd191",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.25.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.27": {
+			"name": "validator",
+			"version": "0.4.27",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "f183825d8eb5d62cbfc8ef9eca2bfa4507509e53",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.27.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.28": {
+			"name": "validator",
+			"version": "0.4.28",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "311d439ae6cf3fbe6f85da6ebaccd0c7007986f4",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.4.28.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "validator",
+			"version": "0.5.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "d0836098811262864e5a47522c81657ab181f000",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-0.5.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "validator",
+			"version": "1.0.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "9f83f5b19c99623b02e2e8fa11eac9ccabb1e864",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "validator",
+			"version": "1.1.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "28f34aa55a769db14a88bc6c652c6d87fd70c754",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "validator",
+			"version": "1.1.1",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "fea40abf8b5f82ced5bc8bfceeffd942fa3bab5a",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "validator",
+			"version": "1.1.2",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "f0e08e60832e0a7311e9c87d4147475e9e542c2d",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.3": {
+			"name": "validator",
+			"version": "1.1.3",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "0ed8cb7c3b0b8852bb853b09ef8fcde1d1d4545b",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.1.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "validator",
+			"version": "1.2.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "6c0a0892402e92188f784e6378e60e49d7a2dc55",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "validator",
+			"version": "1.2.1",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "9317a843b47b8c19c70f3ace0f88f08daf7578aa",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.2": {
+			"name": "validator",
+			"version": "1.2.2",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "2a3decc21806e158db979d44e484d43ba300a164",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.2.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "validator",
+			"version": "1.3.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "7404bde47052c196dbca673511b83a69bf0c0108",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.0": {
+			"name": "validator",
+			"version": "1.4.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "0f38e1a40774f84646bbe59e8b3410f214e908a8",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.4.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.5.0": {
+			"name": "validator",
+			"version": "1.5.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "a4647eed9d00a9d7338e9e23b66d25df654a3c6b",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.5.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.5.1": {
+			"name": "validator",
+			"version": "1.5.1",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "7ab356cbbcbbb000ab85c43b8cda12621b1344c0",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-1.5.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "validator",
+			"version": "2.0.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "bffd2667fac2f79677750543b10a0fb6f9ba078c",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-2.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.2.2"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "validator",
+			"version": "2.1.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"browserify": "latest",
+				"uglify-js": "1.3.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "63276570def208adcf1c032c1f4e6a17d2bd8d8b",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-2.1.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "validator",
+			"version": "3.0.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0acaf092e221c9fda46125392655a0fd56252831",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.0.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "validator",
+			"version": "3.1.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2ea1ff7e92254d69367f385f015299e5ead8755b",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.1.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.0": {
+			"name": "validator",
+			"version": "3.2.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3fe0c9f75a61b741cdee5162ba8cde5dbb33f971",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.2.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.1": {
+			"name": "validator",
+			"version": "3.2.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "46aac59ae1739ab7faeacfeadb7e71425551a28d",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.2.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.3.0": {
+			"name": "validator",
+			"version": "3.3.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1822194e0a46b11f8c23b18bc130efc560ad4d87",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.3.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.4.0": {
+			"name": "validator",
+			"version": "3.4.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "353019f3f9302f85d50d251b090a02bcc7d97c21",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.4.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.5.0": {
+			"name": "validator",
+			"version": "3.5.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a03904603fd1affb51cc9e21a65f83c5ec66fdb1",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.5.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.5.1": {
+			"name": "validator",
+			"version": "3.5.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "96a3e73bbc9f867b9745633c45c57e5f2041b91c",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.5.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.6.0": {
+			"name": "validator",
+			"version": "3.6.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "72c4cef48815d81b8b595f8fd050c29628ec49ca",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.6.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.7.0": {
+			"name": "validator",
+			"version": "3.7.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2e61c002078cd82d231ab5f9e10744cb71564d19",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.7.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.8.0": {
+			"name": "validator",
+			"version": "3.8.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ce78b0cbf1e80a8d7ae98974e829790514e6a35a",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.8.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.9.0": {
+			"name": "validator",
+			"version": "3.9.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c114b5736759b2316cc103566101babd15fcb4d8",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.9.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.10.0": {
+			"name": "validator",
+			"version": "3.10.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1b4dad1404d9579c0acf936640dcdfe201f179f4",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.10.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.11.0": {
+			"name": "validator",
+			"version": "3.11.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6129a2cffa88c1d2355b93db37d0721cc0c528e4",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.11.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.11.1": {
+			"name": "validator",
+			"version": "3.11.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2a35064dad52b718c6f6091eb2060535190e07ce",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.11.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.11.2": {
+			"name": "validator",
+			"version": "3.11.2",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c7af1b53bdcfea0bc8f7dea910ec49191c66e518",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.11.2.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.12.0": {
+			"name": "validator",
+			"version": "3.12.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1ebe3d8b22ce3a17646301900f890cc24f9440f9",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.12.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.13.0": {
+			"name": "validator",
+			"version": "3.13.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2a1e92043159b30971b7901a9dc8d6e25a58bd08",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.13.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.14.0": {
+			"name": "validator",
+			"version": "3.14.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ae8c38d9c1e7255ed932a4db9eccc8f97527790c",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.14.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.14.1": {
+			"name": "validator",
+			"version": "3.14.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "471498bfdffedeb4c251bf3700f218650d14e2b1",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.14.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.15.0": {
+			"name": "validator",
+			"version": "3.15.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f58e4b6ddee1cfc21f644f413c961691f11a8146",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.15.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.16.0": {
+			"name": "validator",
+			"version": "3.16.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ec2c6c3a8be5f7e7085cb79e1b1681fc5bd27846",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.16.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.16.1": {
+			"name": "validator",
+			"version": "3.16.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dbc2d6b52d643528a973289ed1a1e9cd4b2260ba",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.16.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.17.0": {
+			"name": "validator",
+			"version": "3.17.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6b40b37a57cde0c6fb45fe1ffcc315f458446580",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.17.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.17.1": {
+			"name": "validator",
+			"version": "3.17.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cb6c3561902b0f0806ec384f971322a95ecae02b",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.17.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.17.2": {
+			"name": "validator",
+			"version": "3.17.2",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "977c306c09b7c983322be0ec44dd01e187adb60f",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.17.2.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.18.0": {
+			"name": "validator",
+			"version": "3.18.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c7f876656789e64ba0682e2394469e1cbc545918",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.18.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.18.1": {
+			"name": "validator",
+			"version": "3.18.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9858d36f8d89716d8c497465cd4cf3359521ef55",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.18.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.19.0": {
+			"name": "validator",
+			"version": "3.19.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ed9ddb57c3ec7f9a46f0a11ca35f7f283eff6e94",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.19.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.19.1": {
+			"name": "validator",
+			"version": "3.19.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8cae5ce48c5aa66ab1160094f48493568579318f",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.19.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.20.0": {
+			"name": "validator",
+			"version": "3.20.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "43fc064f222ee5997d6eb036995392a334be5e8b",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.20.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.21.0": {
+			"name": "validator",
+			"version": "3.21.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "77901fae4037c2f99c97a9ed09c82fa8cc100f4c",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.21.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.22.0": {
+			"name": "validator",
+			"version": "3.22.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d72ab13155c4ff99a7693e53eb92f6d7f1e43745",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.22.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.22.1": {
+			"name": "validator",
+			"version": "3.22.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7d53c56ff87b3f894e024843b3afdbb88b8aeb29",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.22.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.22.2": {
+			"name": "validator",
+			"version": "3.22.2",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6f297ae67f7f82acc76d0afdb49f18d9a09c18c0",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.22.2.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.23.0": {
+			"name": "validator",
+			"version": "3.23.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fcba7365ce22e937a9d77da789874925460503de",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.23.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.24.0": {
+			"name": "validator",
+			"version": "3.24.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4daf3fb8ddf5e9b8e90698659d7586fced9e82c8",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.24.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.25.0": {
+			"name": "validator",
+			"version": "3.25.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "447724a9216db9af7d9293cffc01299dfff756bd",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.25.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.26.0": {
+			"name": "validator",
+			"version": "3.26.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d6ff007b7cfc9a32179ca3fe02b6d7da04138c7f",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.26.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.27.0": {
+			"name": "validator",
+			"version": "3.27.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "46c4d8452e1d9774bca2d4f41609bc9335c2f9fb",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.27.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.28.0": {
+			"name": "validator",
+			"version": "3.28.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e73d1911490912923742096cb1d9733ca50b4502",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.28.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.29.0": {
+			"name": "validator",
+			"version": "3.29.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0b4d5570a71c22a47bcef391afc7289538010208",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.29.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.30.0": {
+			"name": "validator",
+			"version": "3.30.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6cd20307f08f818ea4550fed78f14af8326d0330",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.30.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.32.0": {
+			"name": "validator",
+			"version": "3.32.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f5ea0e8796ba861919608047ea0c7ea9b176d1ba",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.32.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.33.0": {
+			"name": "validator",
+			"version": "3.33.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cd406ee217a1ca37c3aa4e62a73f074444ff8dec",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.33.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.34.0": {
+			"name": "validator",
+			"version": "3.34.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "67cb418121f8fbaef597d97376d61b0db5937cc6",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.34.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.35.0": {
+			"name": "validator",
+			"version": "3.35.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3f07249402c1fc8fc093c32c6e43d72a79cca1dc",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.35.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.36.0": {
+			"name": "validator",
+			"version": "3.36.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "51203acce9e988441f768205b4eababedddddd30",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.36.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.37.0": {
+			"name": "validator",
+			"version": "3.37.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "412bb2bbbbc7dd87489a188c6cbd90c61a068382",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.37.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.38.0": {
+			"name": "validator",
+			"version": "3.38.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "01bd6c561aa766d1e7b0325408c07240f6064355",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.38.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.39.0": {
+			"name": "validator",
+			"version": "3.39.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cce1ca55b161bf31a7a1afa1aa8b4c08872f00f8",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.39.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.40.0": {
+			"name": "validator",
+			"version": "3.40.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6bd1c0be3deadc954b09f7e3ed29b17aaaac3d65",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.40.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.40.1": {
+			"name": "validator",
+			"version": "3.40.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "932a96be466e9e4e92592c859831bda505b7a4dc",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.40.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.41.0": {
+			"name": "validator",
+			"version": "3.41.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e2812b00d21baf92ed88a9b2b27a25cf46384deb",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.41.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.41.1": {
+			"name": "validator",
+			"version": "3.41.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "92bfdcd01afac6fca36b64914a263657e6b92ba8",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.41.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.41.2": {
+			"name": "validator",
+			"version": "3.41.2",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2e4807a7353451b765f2316ea9bc3c4e177ac4db",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.41.2.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.41.3": {
+			"name": "validator",
+			"version": "3.41.3",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bd214a4f7372db32ba78b899525f5f91adb3d217",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.41.3.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.42.0": {
+			"name": "validator",
+			"version": "3.42.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "18ad7106113592c589e0c43eef5743590e416e41",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.42.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.43.0": {
+			"name": "validator",
+			"version": "3.43.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "96464b992d4196833d97a194bf40b19ff54bae05",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-3.43.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "validator",
+			"version": "4.0.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2615c74416428bd8cb3669076e00287ad862eaa1",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.0.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.1": {
+			"name": "validator",
+			"version": "4.0.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0d2bfebb680ca6b59dc4551aeef0be90344d3bfe",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.0.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.2": {
+			"name": "validator",
+			"version": "4.0.2",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "70a1c2525ec4744e409971c1b298aa69a7534251",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.0.2.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.3": {
+			"name": "validator",
+			"version": "4.0.3",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5dc965b918ff91eecec28ff8f02edb6932fadca0",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.0.3.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.4": {
+			"name": "validator",
+			"version": "4.0.4",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f145567378feb8a3fd8deb34f349251a74ba1056",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.0.4.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.5": {
+			"name": "validator",
+			"version": "4.0.5",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8c4f777253505ce9c80fd30e12ad069844241c02",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.0.5.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.6": {
+			"name": "validator",
+			"version": "4.0.6",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest",
+				"contextify": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "86a581c707b5d6b371721e4ffae3bf4cf64c05d0",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.0.6.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "validator",
+			"version": "4.1.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5ea370a8d477abeda13d8ccf3a96f59d1836dc0b",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.1.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.2.0": {
+			"name": "validator",
+			"version": "4.2.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f428a295e1c10b4e9da0e5925ed08f953071ce1d",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.2.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.2.1": {
+			"name": "validator",
+			"version": "4.2.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c4a8316242e515cd784171986296f8f81fc2ab35",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.2.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.3.0": {
+			"name": "validator",
+			"version": "4.3.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f041c015009eaa5d94c26003aebde6a5652041b2",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.3.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.0": {
+			"name": "validator",
+			"version": "4.4.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "35e29555dd5f7826f970a4eaecff9e6df6df3da6",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.4.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.5.0": {
+			"name": "validator",
+			"version": "4.5.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "90685db4e19d0f913d4718229beaca4e33ff9e33",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.5.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.5.1": {
+			"name": "validator",
+			"version": "4.5.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "40ae97630ee52cd96f437f0d49a9daab5c0b1baf",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.5.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.5.2": {
+			"name": "validator",
+			"version": "4.5.2",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "440fd5180f85771fc74c8240c3dcbb011310fa9f",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.5.2.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.6.0": {
+			"name": "validator",
+			"version": "4.6.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1884323707676eb4624294d09077fdb74c4614e3",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.6.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.6.1": {
+			"name": "validator",
+			"version": "4.6.1",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f734ec60da5492b689beb3c422a8a0b013c3f984",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.6.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.7.0": {
+			"name": "validator",
+			"version": "4.7.0",
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9b0e8c8dcf72fe243eaec7fb7cf0c54fbc002ef0",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.7.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.7.1": {
+			"name": "validator",
+			"version": "4.7.1",
+			"dependencies": {
+				"depd": "1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "011f20ebbaf0ad6a35b8bab82f345e156e7fc82e",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.7.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.8.0": {
+			"name": "validator",
+			"version": "4.8.0",
+			"dependencies": {
+				"depd": "1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "be7e4ddaa346305a235ffba255fa98e0bf45db1d",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.8.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.9.0": {
+			"name": "validator",
+			"version": "4.9.0",
+			"dependencies": {
+				"depd": "1.1.0"
+			},
+			"devDependencies": {
+				"mocha": "latest",
+				"istanbul": "latest",
+				"jshint": "latest",
+				"uglify-js": "latest",
+				"coveralls": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "082ffce2a76148ff07a8e89e9c2ba43aaf12ec4c",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-4.9.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0": {
+			"name": "validator",
+			"version": "5.0.0",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-plugin-add-module-exports": "^0.1.2",
+				"babel-preset-es2015": "^6.5.0",
+				"babel-preset-es2015-rollup": "^1.1.1",
+				"coveralls": "latest",
+				"eslint": "^2.2.0",
+				"eslint-config-airbnb": "^6.0.0",
+				"istanbul": "latest",
+				"mocha": "latest",
+				"rollup": "^0.25.4",
+				"rollup-plugin-babel": "^2.3.9",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c0b54a5b831f8ef8f6dd6fe49a9c707600ec65ef",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-5.0.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.1.0": {
+			"name": "validator",
+			"version": "5.1.0",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-plugin-add-module-exports": "^0.1.2",
+				"babel-preset-es2015": "^6.5.0",
+				"babel-preset-es2015-rollup": "^1.1.1",
+				"coveralls": "latest",
+				"eslint": "^2.2.0",
+				"eslint-config-airbnb": "^6.0.0",
+				"istanbul": "latest",
+				"mocha": "latest",
+				"rollup": "^0.25.4",
+				"rollup-plugin-babel": "^2.3.9",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "394d3bf23e6f9d405e819d9069307fdd97d10d85",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-5.1.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.2.0": {
+			"name": "validator",
+			"version": "5.2.0",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-plugin-add-module-exports": "^0.1.2",
+				"babel-preset-es2015": "^6.5.0",
+				"babel-preset-es2015-rollup": "^1.1.1",
+				"coveralls": "latest",
+				"eslint": "^2.2.0",
+				"eslint-config-airbnb": "^6.0.0",
+				"istanbul": "latest",
+				"mocha": "latest",
+				"rollup": "^0.25.4",
+				"rollup-plugin-babel": "^2.3.9",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e66fb3ec352348c1f7232512328738d8d66a9689",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-5.2.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.3.0": {
+			"name": "validator",
+			"version": "5.3.0",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-plugin-add-module-exports": "^0.1.2",
+				"babel-preset-es2015": "^6.5.0",
+				"babel-preset-es2015-rollup": "^1.1.1",
+				"coveralls": "latest",
+				"eslint": "^2.2.0",
+				"eslint-config-airbnb": "^6.0.0",
+				"istanbul": "latest",
+				"mocha": "latest",
+				"rollup": "^0.25.4",
+				"rollup-plugin-babel": "^2.3.9",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "49ef2f107e6385482c80946099c9bc0ef28fe7b3",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-5.3.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.4.0": {
+			"name": "validator",
+			"version": "5.4.0",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-plugin-add-module-exports": "^0.1.2",
+				"babel-preset-es2015": "^6.5.0",
+				"babel-preset-es2015-rollup": "^1.1.1",
+				"coveralls": "latest",
+				"eslint": "^2.2.0",
+				"eslint-config-airbnb": "^6.0.0",
+				"istanbul": "latest",
+				"mocha": "latest",
+				"rollup": "^0.25.4",
+				"rollup-plugin-babel": "2.4.0",
+				"uglify-js": "latest"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4420ddc9fdc2094d904b85303e1b4a138f84e71e",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-5.4.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.5.0": {
+			"name": "validator",
+			"version": "5.5.0",
+			"devDependencies": {
+				"babel-cli": "^6.9.0",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.9.0",
+				"babel-preset-es2015-rollup": "^1.1.1",
+				"coveralls": "^2.11.9",
+				"eslint": "^2.11.1",
+				"eslint-config-airbnb": "^9.0.1",
+				"eslint-plugin-import": "^1.8.1",
+				"istanbul": "^0.4.3",
+				"mocha": "^2.5.3",
+				"rollup": "^0.29.1",
+				"rollup-plugin-babel": "^2.5.1",
+				"uglify-js": "^2.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "726145e7293b46e3346042471be80fe7dfa775b7",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-5.5.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.6.0": {
+			"name": "validator",
+			"version": "5.6.0",
+			"devDependencies": {
+				"babel-cli": "^6.9.0",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.9.0",
+				"babel-preset-es2015-rollup": "^1.1.1",
+				"coveralls": "^2.11.9",
+				"eslint": "^2.11.1",
+				"eslint-config-airbnb": "^9.0.1",
+				"eslint-plugin-import": "^1.8.1",
+				"istanbul": "^0.4.3",
+				"mocha": "^2.5.3",
+				"rollup": "^0.29.1",
+				"rollup-plugin-babel": "^2.5.1",
+				"uglify-js": "^2.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9d77a82171f6d0e7d15ba5778a52b2f21a3560ac",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-5.6.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.7.0": {
+			"name": "validator",
+			"version": "5.7.0",
+			"devDependencies": {
+				"babel-cli": "^6.9.0",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.9.0",
+				"babel-preset-es2015-rollup": "^1.1.1",
+				"coveralls": "^2.11.9",
+				"eslint": "^2.11.1",
+				"eslint-config-airbnb": "^9.0.1",
+				"eslint-plugin-import": "^1.8.1",
+				"istanbul": "^0.4.3",
+				"mocha": "^2.5.3",
+				"rollup": "^0.29.1",
+				"rollup-plugin-babel": "^2.5.1",
+				"uglify-js": "^2.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7a87a58146b695ac486071141c0c49d67da05e5c",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-5.7.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.0.0": {
+			"name": "validator",
+			"version": "6.0.0",
+			"devDependencies": {
+				"babel-cli": "^6.9.0",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.9.0",
+				"babel-preset-es2015-rollup": "^1.1.1",
+				"coveralls": "^2.11.9",
+				"eslint": "^2.11.1",
+				"eslint-config-airbnb": "^9.0.1",
+				"eslint-plugin-import": "^1.8.1",
+				"istanbul": "^0.4.3",
+				"mocha": "^2.5.3",
+				"rollup": "^0.29.1",
+				"rollup-plugin-babel": "^2.5.1",
+				"uglify-js": "^2.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "305c296d3691cfd9d0db1b3d449036eede2f542f",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-6.0.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.1.0": {
+			"name": "validator",
+			"version": "6.1.0",
+			"devDependencies": {
+				"babel-cli": "^6.16.0",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.16.0",
+				"babel-preset-es2015-rollup": "^1.2.0",
+				"coveralls": "^2.11.9",
+				"eslint": "^2.11.1",
+				"eslint-config-airbnb": "^9.0.1",
+				"eslint-plugin-import": "^1.8.1",
+				"istanbul": "^0.4.3",
+				"mocha": "^2.5.3",
+				"rollup": "^0.29.1",
+				"rollup-plugin-babel": "^2.5.1",
+				"uglify-js": "^2.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "39aab9a3a5724399a164bda4f5cf9261bb7d0e76",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-6.1.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.2.0": {
+			"name": "validator",
+			"version": "6.2.0",
+			"devDependencies": {
+				"babel-cli": "^6.16.0",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.16.0",
+				"babel-preset-es2015-rollup": "^1.2.0",
+				"coveralls": "^2.11.9",
+				"eslint": "^3.8.1",
+				"eslint-config-airbnb-base": "^9.0.0",
+				"eslint-plugin-import": "^2.0.1",
+				"istanbul": "^0.4.3",
+				"mocha": "^3.1.2",
+				"rollup": "^0.29.1",
+				"rollup-plugin-babel": "^2.5.1",
+				"uglify-js": "^2.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b2cccdc49ff0f4b8ee4e61dba2ddd3dde13f23e7",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-6.2.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.2.1": {
+			"name": "validator",
+			"version": "6.2.1",
+			"devDependencies": {
+				"babel-cli": "^6.16.0",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.16.0",
+				"babel-preset-es2015-rollup": "^1.2.0",
+				"coveralls": "^2.11.9",
+				"eslint": "^3.8.1",
+				"eslint-config-airbnb-base": "^9.0.0",
+				"eslint-plugin-import": "^2.0.1",
+				"istanbul": "^0.4.3",
+				"mocha": "^3.1.2",
+				"rollup": "^0.29.1",
+				"rollup-plugin-babel": "^2.5.1",
+				"uglify-js": "^2.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bc575b78d15beb2e338a665ba9530c7f409ef667",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-6.2.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.3.0": {
+			"name": "validator",
+			"version": "6.3.0",
+			"devDependencies": {
+				"babel-cli": "^6.16.0",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.16.0",
+				"babel-preset-es2015-rollup": "^1.2.0",
+				"coveralls": "^2.11.9",
+				"eslint": "^3.8.1",
+				"eslint-config-airbnb-base": "^9.0.0",
+				"eslint-plugin-import": "^2.0.1",
+				"istanbul": "^0.4.3",
+				"mocha": "^3.1.2",
+				"rollup": "^0.29.1",
+				"rollup-plugin-babel": "^2.5.1",
+				"uglify-js": "^2.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "47ce23ed8d4eaddfa9d4b8ef0071b6cf1078d7c8",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-6.3.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		},
+		"7.0.0": {
+			"name": "validator",
+			"version": "7.0.0",
+			"devDependencies": {
+				"babel-cli": "^6.16.0",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.16.0",
+				"babel-preset-es2015-rollup": "^1.2.0",
+				"coveralls": "^2.11.9",
+				"eslint": "^3.8.1",
+				"eslint-config-airbnb-base": "^9.0.0",
+				"eslint-plugin-import": "^2.0.1",
+				"istanbul": "^0.4.3",
+				"mocha": "^3.1.2",
+				"rollup": "^0.29.1",
+				"rollup-plugin-babel": "^2.5.1",
+				"uglify-js": "^2.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c74deb8063512fac35547938e6f0b1504a282fd2",
+				"tarball": "https://registry.npmjs.org/validator/-/validator-7.0.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.10"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "validator",
+	"dist-tags": {
+		"latest": "7.0.0"
+	},
+	"modified": "2017-05-06T20:14:55.781Z",
+	"_etag": "W/\"590e2ebf-e97b\"",
+	"_lastModified": "Sat, 06 May 2017 20:14:55 GMT"
+}

@@ -1,0 +1,75 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "dom-serializer",
+			"version": "0.0.0",
+			"dependencies": {
+				"domelementtype": "~1.1.1",
+				"entities": "~1.1.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "~0.3.1",
+				"lodash": "~2.4.1",
+				"jshint": "~2.3.0",
+				"cheerio": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2a207dcae76ce52fbb1793f34f5df202fd1bdc4c",
+				"tarball": "https://registry.npmjs.org/dom-serializer/-/dom-serializer-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "dom-serializer",
+			"version": "0.0.1",
+			"dependencies": {
+				"domelementtype": "~1.1.1",
+				"entities": "~1.1.1"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "~0.3.1",
+				"lodash": "~2.4.1",
+				"jshint": "~2.3.0",
+				"cheerio": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9589827f1e32d22c37c829adabd59b3247af8eaf",
+				"tarball": "https://registry.npmjs.org/dom-serializer/-/dom-serializer-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "dom-serializer",
+			"version": "0.1.0",
+			"dependencies": {
+				"domelementtype": "~1.1.1",
+				"entities": "~1.1.1"
+			},
+			"devDependencies": {
+				"cheerio": "*",
+				"expect.js": "~0.3.1",
+				"jshint": "~2.3.0",
+				"lodash": "~2.4.1",
+				"mocha": "*",
+				"xyz": "0.4.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "073c697546ce0780ce23be4a28e293e40bc30c82",
+				"tarball": "https://registry.npmjs.org/dom-serializer/-/dom-serializer-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "dom-serializer",
+	"dist-tags": {
+		"latest": "0.1.0"
+	},
+	"modified": "2016-11-01T17:14:49.937Z",
+	"_etag": "W/\"5818cd89-529\"",
+	"_lastModified": "Tue, 01 Nov 2016 17:14:49 GMT"
+}

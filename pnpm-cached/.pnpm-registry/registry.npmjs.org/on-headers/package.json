@@ -1,0 +1,67 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "on-headers",
+			"version": "0.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "~1.18.2",
+				"supertest": "~0.12.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ee2817f8344325785cd9c2df2b242bbc17caf4c4",
+				"tarball": "https://registry.npmjs.org/on-headers/-/on-headers-0.0.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "on-headers",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"istanbul": "0.3.0",
+				"mocha": "~1.21.4",
+				"supertest": "~0.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2c75b5da4375513d0161c6052e7fcbe4953fca5d",
+				"tarball": "https://registry.npmjs.org/on-headers/-/on-headers-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "on-headers",
+			"version": "1.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"istanbul": "0.3.21",
+				"mocha": "2.3.3",
+				"supertest": "1.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "928f5d0f470d49342651ea6794b0857c100693f7",
+				"tarball": "https://registry.npmjs.org/on-headers/-/on-headers-1.0.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "on-headers",
+	"dist-tags": {
+		"latest": "1.0.1"
+	},
+	"modified": "2017-03-02T04:16:11.616Z",
+	"_etag": "W/\"58b79c8b-466\"",
+	"_lastModified": "Thu, 02 Mar 2017 04:16:11 GMT"
+}

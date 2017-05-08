@@ -1,0 +1,278 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "depd",
+			"version": "0.0.0",
+			"dependencies": {
+				"supports-color": "0.2.0"
+			},
+			"devDependencies": {
+				"istanbul": "0.2.10",
+				"mocha": "~1.20.1",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f0cdb7651bf4f7cad646b01f747afab94aedad0b",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.0.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "depd",
+			"version": "0.0.1",
+			"dependencies": {
+				"supports-color": "0.2.0"
+			},
+			"devDependencies": {
+				"istanbul": "0.2.10",
+				"mocha": "~1.20.1",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ff5cd1c93fa3d941539314c6f226da1b4d2ad9e2",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.0.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "depd",
+			"version": "0.1.0",
+			"dependencies": {
+				"supports-color": "0.2.0"
+			},
+			"devDependencies": {
+				"istanbul": "0.2.10",
+				"mocha": "~1.20.1",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "16c10b0c8b3848a5cd4e29dc3ab6b9725b46d509",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.1.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "depd",
+			"version": "0.2.0",
+			"devDependencies": {
+				"istanbul": "0.2.10",
+				"mocha": "~1.20.1",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cdae0ed2e0ec4e10455e71532b0085e903a9b453",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.2.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "depd",
+			"version": "0.3.0",
+			"devDependencies": {
+				"istanbul": "0.2.10",
+				"mocha": "~1.20.1",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "11c9bc28e425325fbd8b38940beff69fa5326883",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.3.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "depd",
+			"version": "0.4.0",
+			"devDependencies": {
+				"istanbul": "0.3.0",
+				"mocha": "~1.20.1",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "708b0f636d3f4bf5eb593a88591da04d34858504",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.4.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "depd",
+			"version": "0.4.1",
+			"devDependencies": {
+				"istanbul": "0.3.0",
+				"mocha": "~1.20.1",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2939465411bd56deb66be29800eb28b1a6be7491",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.4.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "depd",
+			"version": "0.4.2",
+			"devDependencies": {
+				"istanbul": "0.3.0",
+				"mocha": "~1.20.1",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a4bc8a0e4801770a66363daa6d35138f3e3b54dd",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.4.2.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.3": {
+			"name": "depd",
+			"version": "0.4.3",
+			"devDependencies": {
+				"istanbul": "0.3.0",
+				"mocha": "~1.20.1",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7c5118b16eb8cf123de65e98e45c8d868b44146e",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.4.3.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.4": {
+			"name": "depd",
+			"version": "0.4.4",
+			"devDependencies": {
+				"istanbul": "0.3.0",
+				"mocha": "~1.20.1",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "07091fae75f97828d89b4a02a2d4778f0e7c0662",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.4.4.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.5": {
+			"name": "depd",
+			"version": "0.4.5",
+			"devDependencies": {
+				"benchmark": "1.0.0",
+				"beautify-benchmark": "0.2.4",
+				"istanbul": "0.3.2",
+				"mocha": "~1.21.4",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1a664b53388b4a6573e8ae67b5f767c693ca97f1",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-0.4.5.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "depd",
+			"version": "1.0.0",
+			"devDependencies": {
+				"benchmark": "1.0.0",
+				"beautify-benchmark": "0.2.4",
+				"istanbul": "0.3.2",
+				"mocha": "~1.21.4",
+				"should": "~4.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2fda0d00e98aae2845d4991ab1bf1f2a199073d5",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "depd",
+			"version": "1.0.1",
+			"devDependencies": {
+				"benchmark": "1.0.0",
+				"beautify-benchmark": "0.2.4",
+				"istanbul": "0.3.5",
+				"mocha": "~1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "80aec64c9d6d97e65cc2a9caa93c0aa6abf73aaa",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-1.0.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "depd",
+			"version": "1.1.0",
+			"devDependencies": {
+				"benchmark": "1.0.0",
+				"beautify-benchmark": "0.2.4",
+				"istanbul": "0.3.5",
+				"mocha": "~1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e1bd82c6aab6ced965b97b88b17ed3e528ca18c3",
+				"tarball": "https://registry.npmjs.org/depd/-/depd-1.1.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "depd",
+	"dist-tags": {
+		"latest": "1.1.0"
+	},
+	"modified": "2017-02-24T20:17:58.505Z",
+	"_etag": "W/\"58b094f6-1262\"",
+	"_lastModified": "Fri, 24 Feb 2017 20:17:58 GMT"
+}

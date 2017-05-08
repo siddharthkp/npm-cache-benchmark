@@ -1,0 +1,170 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "deep-equal",
+			"version": "0.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "0.0.x"
+			},
+			"directories": {
+				"lib": ".",
+				"example": "example",
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "99679d3bbd047156fcd450d3d01eeb9068691e83",
+				"tarball": "https://registry.npmjs.org/deep-equal/-/deep-equal-0.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "deep-equal",
+			"version": "0.1.0",
+			"devDependencies": {
+				"tap": "~0.3.0",
+				"tape": "~0.0.5"
+			},
+			"directories": {
+				"lib": ".",
+				"example": "example",
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "81fcefc84551d9d67cccdd80e1fced7f355e146f",
+				"tarball": "https://registry.npmjs.org/deep-equal/-/deep-equal-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "deep-equal",
+			"version": "0.1.1",
+			"devDependencies": {
+				"tap": "~0.3.0",
+				"tape": "~0.0.5"
+			},
+			"directories": {
+				"lib": ".",
+				"example": "example",
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "8a55b7eddb6ea545a55231fe0a405ebf05077e62",
+				"tarball": "https://registry.npmjs.org/deep-equal/-/deep-equal-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "deep-equal",
+			"version": "0.1.2",
+			"devDependencies": {
+				"tape": "~2.3.2"
+			},
+			"directories": {
+				"lib": ".",
+				"example": "example",
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "b246c2b80a570a47c11be1d9bd1070ec878b87ce",
+				"tarball": "https://registry.npmjs.org/deep-equal/-/deep-equal-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "deep-equal",
+			"version": "0.2.0",
+			"devDependencies": {
+				"tape": "~2.3.2"
+			},
+			"directories": {
+				"lib": ".",
+				"example": "example",
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "81994cd7332efcf72a373e7f2ba490b2763159b5",
+				"tarball": "https://registry.npmjs.org/deep-equal/-/deep-equal-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "deep-equal",
+			"version": "0.2.1",
+			"devDependencies": {
+				"tape": "~2.3.2"
+			},
+			"directories": {
+				"lib": ".",
+				"example": "example",
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "fad7a793224cbf0c3c7786f92ef780e4fc8cc878",
+				"tarball": "https://registry.npmjs.org/deep-equal/-/deep-equal-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "deep-equal",
+			"version": "0.2.2",
+			"devDependencies": {
+				"tape": "^3.5.0"
+			},
+			"directories": {
+				"lib": ".",
+				"example": "example",
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "84b745896f34c684e98f2ce0e42abaf43bba017d",
+				"tarball": "https://registry.npmjs.org/deep-equal/-/deep-equal-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "deep-equal",
+			"version": "1.0.0",
+			"devDependencies": {
+				"tape": "^3.5.0"
+			},
+			"directories": {
+				"lib": ".",
+				"example": "example",
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "d4564f07d2f0ab3e46110bec16592abd7dc2e326",
+				"tarball": "https://registry.npmjs.org/deep-equal/-/deep-equal-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "deep-equal",
+			"version": "1.0.1",
+			"devDependencies": {
+				"tape": "^3.5.0"
+			},
+			"directories": {
+				"lib": ".",
+				"example": "example",
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "f5d260292b660e084eff4cdbc9f08ad3247448b5",
+				"tarball": "https://registry.npmjs.org/deep-equal/-/deep-equal-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "deep-equal",
+	"dist-tags": {
+		"latest": "1.0.1"
+	},
+	"modified": "2017-04-15T07:59:39.816Z",
+	"_etag": "W/\"58f1d2eb-b41\"",
+	"_lastModified": "Sat, 15 Apr 2017 07:59:39 GMT"
+}

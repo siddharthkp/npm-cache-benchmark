@@ -1,0 +1,101 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "sort-keys",
+			"version": "0.1.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "aaae2d5563d6b8cf914215e9f65b7aea30cab469",
+				"tarball": "https://registry.npmjs.org/sort-keys/-/sort-keys-0.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "sort-keys",
+			"version": "1.0.0",
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "96d8a4314dc24728b66842a6bbb38759c1ca520f",
+				"tarball": "https://registry.npmjs.org/sort-keys/-/sort-keys-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "sort-keys",
+			"version": "1.1.0",
+			"dependencies": {
+				"is-obj": "^1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ef24501898b1abf450c0344c95710cc354f2901e",
+				"tarball": "https://registry.npmjs.org/sort-keys/-/sort-keys-1.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "sort-keys",
+			"version": "1.1.1",
+			"dependencies": {
+				"is-plain-obj": "^1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a791c26071df66c356bf5dcad9cfb57a7b2f826e",
+				"tarball": "https://registry.npmjs.org/sort-keys/-/sort-keys-1.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "sort-keys",
+			"version": "1.1.2",
+			"dependencies": {
+				"is-plain-obj": "^1.0.0"
+			},
+			"devDependencies": {
+				"mocha": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "441b6d4d346798f1b4e49e8920adfba0e543f9ad",
+				"tarball": "https://registry.npmjs.org/sort-keys/-/sort-keys-1.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "sort-keys",
+	"dist-tags": {
+		"latest": "1.1.2"
+	},
+	"modified": "2017-03-05T11:58:13.716Z",
+	"_etag": "W/\"58bbfd55-661\"",
+	"_lastModified": "Sun, 05 Mar 2017 11:58:13 GMT"
+}

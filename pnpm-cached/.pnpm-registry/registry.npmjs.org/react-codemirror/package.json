@@ -1,0 +1,375 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "react-codemirror",
+			"version": "0.1.0",
+			"dependencies": {
+				"classnames": "^2.1.1",
+				"codemirror": "^5.3.0",
+				"react": "^0.13.3"
+			},
+			"devDependencies": {
+				"react-component-gulp-tasks": "^0.7.0",
+				"gulp": "^3.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e73de1e473a09a7b05bc7fa09cdcceb2189c49a7",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "react-codemirror",
+			"version": "0.1.1",
+			"dependencies": {
+				"classnames": "^2.1.1",
+				"codemirror": "^5.3.0",
+				"react": "^0.13.3"
+			},
+			"devDependencies": {
+				"react-component-gulp-tasks": "^0.7.0",
+				"gulp": "^3.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "752ed51c96dac5bdfe9f610ab795e51ebdd1ca35",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "react-codemirror",
+			"version": "0.1.2",
+			"dependencies": {
+				"classnames": "^2.1.2",
+				"codemirror": "^5.3.0",
+				"react": "^0.13.3"
+			},
+			"devDependencies": {
+				"react-component-gulp-tasks": "^0.7.0",
+				"gulp": "^3.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "282d3fd1d05ec546f6ee481e39c26642ec88906d",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "react-codemirror",
+			"version": "0.1.3",
+			"dependencies": {
+				"classnames": "^2.1.2",
+				"codemirror": "^5.3.0",
+				"react": "^0.13.3"
+			},
+			"devDependencies": {
+				"gulp": "^3.8.11",
+				"happiness": "^1.0.5",
+				"react-component-gulp-tasks": "^0.7.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2bf4b771bc08ecc69321ef9313e91c788747c6a5",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.4": {
+			"name": "react-codemirror",
+			"version": "0.1.4",
+			"dependencies": {
+				"classnames": "^2.1.3",
+				"codemirror": "^5.6.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^0.13.3",
+				"react-component-gulp-tasks": "^0.7.0"
+			},
+			"peerDependencies": {
+				"react": "^0.13.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dcbe1621c02f52413229e2fb53015013782668be",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.5": {
+			"name": "react-codemirror",
+			"version": "0.1.5",
+			"dependencies": {
+				"classnames": "^2.1.3",
+				"codemirror": "^5.6.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^0.13.3",
+				"react-component-gulp-tasks": "^0.7.0"
+			},
+			"peerDependencies": {
+				"react": "^0.13 || ^0.14.0-beta"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "821e4a751c6c2a07f8e36488e45579e83d94ced2",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.1.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.6": {
+			"name": "react-codemirror",
+			"version": "0.1.6",
+			"dependencies": {
+				"classnames": "^2.1.5",
+				"codemirror": "^5.7.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^0.13.3",
+				"react-component-gulp-tasks": "^0.7.6"
+			},
+			"peerDependencies": {
+				"react": "^0.13 || ^0.14.0-beta"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2a1911323912054e58431a809a0921e525b868ec",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.1.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.7": {
+			"name": "react-codemirror",
+			"version": "0.1.7",
+			"dependencies": {
+				"classnames": "^2.1.5",
+				"codemirror": "^5.7.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^0.13.3",
+				"react-component-gulp-tasks": "^0.7.6"
+			},
+			"peerDependencies": {
+				"react": "^0.13 || ^0.14.0-beta"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ba86c8a9cf389f04fba61b158cc209f7ae6e3946",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.1.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "react-codemirror",
+			"version": "0.2.0",
+			"dependencies": {
+				"classnames": "^2.2.0",
+				"codemirror": "^5.8.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"react-component-gulp-tasks": "^0.7.7"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "68eddf60f619fafcafd50ba7021148827e01c9e4",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "react-codemirror",
+			"version": "0.2.1",
+			"dependencies": {
+				"classnames": "^2.2.0",
+				"codemirror": "^5.8.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"react-component-gulp-tasks": "^0.7.7"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "808a23f71267ab2eaa8baa6bd8aa30a282d7c08e",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "react-codemirror",
+			"version": "0.2.2",
+			"dependencies": {
+				"classnames": "^2.2.0",
+				"codemirror": "^5.8.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"react-component-gulp-tasks": "^0.7.7"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1d4e06a697428988a004a7bb1b3416a5c3016dbf",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "react-codemirror",
+			"version": "0.2.3",
+			"dependencies": {
+				"classnames": "^2.2.1",
+				"codemirror": "^5.10.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"react-component-gulp-tasks": "^0.7.7"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ede37eb956b63d1bbfaa81a534faf148e933d783",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.4": {
+			"name": "react-codemirror",
+			"version": "0.2.4",
+			"dependencies": {
+				"classnames": "^2.2.3",
+				"codemirror": "^5.10.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"react-component-gulp-tasks": "^0.7.7"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d3d0fc082ed2804794f97579460e604b0e4a1bda",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.5": {
+			"name": "react-codemirror",
+			"version": "0.2.5",
+			"dependencies": {
+				"classnames": "^2.2.3",
+				"codemirror": "^5.10.0"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"react-component-gulp-tasks": "^0.7.7"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "873d4b46435df140c0dce1baa19257f8bb042dc2",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.2.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.6": {
+			"name": "react-codemirror",
+			"version": "0.2.6",
+			"dependencies": {
+				"classnames": "^2.2.3",
+				"codemirror": "^5.13.4",
+				"lodash.debounce": "^4.0.4"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.0",
+				"happiness": "^1.0.7",
+				"react": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"react-component-gulp-tasks": "^0.7.7"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e71e35717ce6effae68df1dbf2b5a75b84a44f84",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.2.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "react-codemirror",
+			"version": "0.3.0",
+			"dependencies": {
+				"classnames": "^2.2.5",
+				"codemirror": "^5.18.2",
+				"lodash.debounce": "^4.0.8"
+			},
+			"devDependencies": {
+				"gulp": "^3.9.1",
+				"happiness": "^7.1.2",
+				"react": "^15.3.1",
+				"react-dom": "^15.3.1",
+				"react-component-gulp-tasks": "^0.7.7"
+			},
+			"peerDependencies": {
+				"react": ">=0.14 <16",
+				"react-dom": ">=0.14 <16"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cd6bd6ef458ec1e035cfd8b3fe7b30c8c7883c6c",
+				"tarball": "https://registry.npmjs.org/react-codemirror/-/react-codemirror-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "react-codemirror",
+	"dist-tags": {
+		"latest": "0.3.0"
+	},
+	"modified": "2017-04-11T11:04:45.229Z",
+	"_etag": "W/\"58ecb84d-1d22\"",
+	"_lastModified": "Tue, 11 Apr 2017 11:04:45 GMT"
+}

@@ -1,0 +1,434 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "d3-zoom",
+			"version": "0.0.1",
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "282ecdfe76d3396b802783e52a384d1dc947c308",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-zoom",
+			"version": "0.0.2",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-interpolate": "~0.7.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "afcf993332d3fdb3186966b299ae66903aaad1ee",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-zoom",
+			"version": "0.1.0",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7657f2b47c43e9d531efbf55da6d98ce8a535dbf",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-zoom",
+			"version": "0.2.0",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2a6c5ec3d9b9420dd0d6c531c9f64bf36cbcb1ed",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-zoom",
+			"version": "0.2.1",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "257030c3dbe317e24bf32fff5711a2f91c7838d5",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "d3-zoom",
+			"version": "0.2.2",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "91e650ce1994beca02d9f1213f25a610d0dcad5e",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-zoom",
+			"version": "0.3.0",
+			"dependencies": {
+				"d3-dispatch": "~0.5.0",
+				"d3-drag": "~0.3.0",
+				"d3-interpolate": "~0.9.0",
+				"d3-selection": "~0.8.0",
+				"d3-transition": "~0.3.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0834121c7c53b540d5e2cca67316ccaa004271bf",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-zoom",
+			"version": "0.3.1",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "~0.3.1",
+				"d3-interpolate": "1",
+				"d3-selection": "~0.9.0",
+				"d3-transition": "~0.3.1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "79ee899a14d51077328e93723f54526e4cbfe57b",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-zoom",
+			"version": "1.0.0",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "84084445ee66db89c6d3d75cb82a8461cdb2c4e0",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-zoom",
+			"version": "1.0.1",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "99b4b65d567c7242cb8d28b6153a4984e34fd577",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-zoom",
+			"version": "1.0.2",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e9d03928cafce6e11f2409510d9300827c0a18b9",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-zoom",
+			"version": "1.0.3",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b36bfb517e535dff0e179088dbeb3d7899a6050e",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "d3-zoom",
+			"version": "1.0.4",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dfbc414b955f398c001337289effb0f3e719467f",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "d3-zoom",
+			"version": "1.1.0",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "29869cfd164928dd238aaa4365145741dcf1301f",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "d3-zoom",
+			"version": "1.1.1",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d2362d8f7043c1fc5d96a438de69f4e02ef1e67b",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "d3-zoom",
+			"version": "1.1.2",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a8944947e92a12bc5d5a3fb4dccf1a40e7de5fb3",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.3": {
+			"name": "d3-zoom",
+			"version": "1.1.3",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0bd488622f22dc0534894f744a40ec979599fdc4",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.4": {
+			"name": "d3-zoom",
+			"version": "1.1.4",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "903fd2c988b5cace43f00dcf7aae09470c9cc12d",
+				"tarball": "https://registry.npmjs.org/d3-zoom/-/d3-zoom-1.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-zoom",
+	"dist-tags": {
+		"latest": "1.1.4"
+	},
+	"modified": "2017-03-24T15:54:29.315Z",
+	"_etag": "W/\"58d54135-1e28\"",
+	"_lastModified": "Fri, 24 Mar 2017 15:54:29 GMT"
+}

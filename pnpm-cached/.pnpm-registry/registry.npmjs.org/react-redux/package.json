@@ -1,0 +1,3043 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "react-redux",
+			"version": "0.1.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.15",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": ">=1.0.0-alpha",
+				"react": "^0.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fdc7b3baeba23a912ed67af0c74cf6660c2455ac",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.1.0.tgz"
+			},
+			"deprecated": "BROKEN RELEASE! Use 0.2.1 instead. Thanks.",
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-alpha": {
+			"name": "react-redux",
+			"version": "1.0.0-alpha",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.15",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": ">=1.0.0-alpha",
+				"react": "^0.13.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9c7c91d614dde18d117adfb7fb0667912a51d60f",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-1.0.0-alpha.tgz"
+			},
+			"deprecated": "OOPS! It wasn't a great idea to call it 1.0 alpha because we're still iterating on connector APIs. Please use 0.2.1 instead.",
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "react-redux",
+			"version": "0.2.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.15",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-alpha || 1.0.0-rc",
+				"react": "^0.13.0 || 0.14.0-beta1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "51850d990762ac85f7d82bf11b2b3fe3ddaf2c7d",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "react-redux",
+			"version": "0.2.1",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.15",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-alpha || 1.0.0-rc",
+				"react": "^0.13.0 || 0.14.0-beta1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2c9b7f31c1c35baa34bbdae8256d1fcc9a19433b",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "react-redux",
+			"version": "0.2.2",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.15",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-alpha || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "509e742550469796a10e76702dfceb901826a305",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "react-redux",
+			"version": "0.3.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-alpha || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "67fe33a0a9755ff1ca7fd2b0e3da109526feb7dd",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "react-redux",
+			"version": "0.4.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-alpha || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "514e06098374211e6c780f7baf69a0b30d2f9d87",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "react-redux",
+			"version": "0.5.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f775a2e2609fc3ed10db9da93e02cad0990d5824",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "react-redux",
+			"version": "0.5.1",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c83f68aa8cbb0963f5fd1a5f5768be4e70ae489e",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.2": {
+			"name": "react-redux",
+			"version": "0.5.2",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1213be87fd8b1643ac36b62a34d8d25bb8130587",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.3": {
+			"name": "react-redux",
+			"version": "0.5.3",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b100277e02ed9dc0287ec60c3a0ed6bed7303dec",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.5.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "react-redux",
+			"version": "0.6.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3420effd021a5407d252237a69629b47cbb89c0d",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.6.0.tgz"
+			},
+			"deprecated": "This release breaks React Native, please consider updating.",
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "react-redux",
+			"version": "0.7.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "332628502070bf54041e8bbebab835ed22d6bc8b",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "react-redux",
+			"version": "0.8.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d5fbeb71a2e6102e4401694b4e2c0c1546a09e44",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.8.0.tgz"
+			},
+			"deprecated": "0.8.0 is deprecated because it has critical issues with updating. Use 0.8.2 or 0.9.0 instead.",
+			"_hasShrinkwrap": false
+		},
+		"0.8.1": {
+			"name": "react-redux",
+			"version": "0.8.1",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "61b9d1b097cf8250533e5ed6ae21e9fbad16ed65",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.8.1.tgz"
+			},
+			"deprecated": "0.8.1 is deprecated because it has critical issues with updating. Use 0.8.2 or 0.9.0 instead.",
+			"_hasShrinkwrap": false
+		},
+		"0.8.2": {
+			"name": "react-redux",
+			"version": "0.8.2",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4b1076349e5e7ec1559157b441233e81b75c5c6f",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.8.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "react-redux",
+			"version": "0.9.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"redux": ">=1.0.0-alpha",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6e075d755689e6ac42f6c765516a997c0d5f7cf4",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-0.9.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "react-redux",
+			"version": "1.0.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-beta3",
+				"react-addons-test-utils": "^0.14.0-beta3",
+				"redux": "^1.0.1",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "41f0eabd324a6d2e5a4f2a55dbb47bbffe190101",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "react-redux",
+			"version": "1.0.1",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-beta3",
+				"react-addons-test-utils": "^0.14.0-beta3",
+				"redux": "^1.0.1",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^1.0.0 || 1.0.0-rc"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c4c4b689ffd35b27651fb8e87b2c8bdc7bc57040",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "react-redux",
+			"version": "2.0.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-beta3",
+				"react-addons-test-utils": "^0.14.0-beta3",
+				"redux": "^2.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^2.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c8ec1872189e2668ca0baa7d38e08786840b099d",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "react-redux",
+			"version": "2.1.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-beta3",
+				"react-addons-test-utils": "^0.14.0-beta3",
+				"redux": "^2.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^2.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8ce235578e3eedba3c0cd94099b28686b7f43682",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "react-redux",
+			"version": "2.1.1",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-beta3",
+				"react-addons-test-utils": "^0.14.0-beta3",
+				"react-dom": "^0.14.0-beta3",
+				"redux": "^2.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^2.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "35beac44a11708166ab9b5afc129f497205b8f3e",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-2.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "react-redux",
+			"version": "2.1.2",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-beta3",
+				"react-addons-test-utils": "^0.14.0-beta3",
+				"react-dom": "^0.14.0-beta3",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4b26e02a7e049d1dc8ba5200999a3e153b28afc7",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-2.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0-alpha": {
+			"name": "react-redux",
+			"version": "3.0.0-alpha",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-rc1",
+				"react-addons-test-utils": "^0.14.0-rc1",
+				"react-dom": "^0.14.0-rc1",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0f539bad4bca7837aa9a81ed73191c4c793d3510",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-3.0.0-alpha.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "react-redux",
+			"version": "3.0.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-rc1",
+				"react-addons-test-utils": "^0.14.0-rc1",
+				"react-dom": "^0.14.0-rc1",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6aa0f9be5fa8fba1513051d4f61459c2871ff7fc",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "react-redux",
+			"version": "3.0.1",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-rc1",
+				"react-addons-test-utils": "^0.14.0-rc1",
+				"react-dom": "^0.14.0-rc1",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7dbd7ebfcd82b714d778f5b450b50f4e6640f244",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-3.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "react-redux",
+			"version": "3.1.0",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-rc1",
+				"react-addons-test-utils": "^0.14.0-rc1",
+				"react-dom": "^0.14.0-rc1",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "04597ba448ad79237c412e7644769ff5921ce53a",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-3.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "react-redux",
+			"version": "4.0.0",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fc32f6aa16922ef1a914ffc3dc04f613f6bc4346",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.1": {
+			"name": "react-redux",
+			"version": "3.1.1",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-rc1",
+				"react-addons-test-utils": "^0.14.0-rc1",
+				"react-dom": "^0.14.0-rc1",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e00e19716f00cd8c9ab3791cadeea53a34dc0695",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-3.1.1.tgz"
+			},
+			"deprecated": "This release is broken and missing 'react-redux/native' entry point. Please use 3.1.2 if you're on React Native, or 4.x otherwise instead.",
+			"_hasShrinkwrap": false
+		},
+		"4.0.1": {
+			"name": "react-redux",
+			"version": "4.0.1",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.1.20",
+				"babel-eslint": "^5.0.0-beta4",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-preset-es2015-loose": "^6.1.3",
+				"babel-preset-react": "^6.3.13",
+				"babel-preset-stage-0": "^6.3.13",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3e138bf8edd57ef234165387b4518da22f239966",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.2": {
+			"name": "react-redux",
+			"version": "3.1.2",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-core": "^5.8.22",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.3.2",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"isparta": "^3.0.3",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.14.0-rc1",
+				"react-addons-test-utils": "^0.14.0-rc1",
+				"react-dom": "^0.14.0-rc1",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2a888b124e9d01144853612acee19f81d498a836",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-3.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.2": {
+			"name": "react-redux",
+			"version": "4.0.2",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.1.20",
+				"babel-eslint": "^5.0.0-beta4",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-preset-es2015-loose": "^6.1.3",
+				"babel-preset-react": "^6.3.13",
+				"babel-preset-stage-0": "^6.3.13",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b3e46d12f861be39ba6b8ffc0458bb7d5c90f3fc",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.3": {
+			"name": "react-redux",
+			"version": "4.0.3",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.1.20",
+				"babel-eslint": "^5.0.0-beta4",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-preset-es2015-loose": "^6.1.3",
+				"babel-preset-react": "^6.3.13",
+				"babel-preset-stage-0": "^6.3.13",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d67e6b5f495ebc38a2bb17e8c583a2f0a44860ed",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.4": {
+			"name": "react-redux",
+			"version": "4.0.4",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.1.20",
+				"babel-eslint": "^5.0.0-beta4",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-preset-es2015-loose": "^6.1.3",
+				"babel-preset-react": "^6.3.13",
+				"babel-preset-stage-0": "^6.3.13",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f4fa72b97b57ecabb174349085a2597fb82f5a9e",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.5": {
+			"name": "react-redux",
+			"version": "4.0.5",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.1.20",
+				"babel-eslint": "^5.0.0-beta4",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-preset-es2015-loose": "^6.1.3",
+				"babel-preset-react": "^6.3.13",
+				"babel-preset-stage-0": "^6.3.13",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "057979781a3383b37eeeb3c017e083b7c8986a5e",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.6": {
+			"name": "react-redux",
+			"version": "4.0.6",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta4",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-preset-es2015-loose": "^6.1.4",
+				"babel-preset-react": "^6.3.13",
+				"babel-preset-stage-0": "^6.3.13",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "083ce9eb632cf73a5eb9cb28df77147a640e6245",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.0.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "react-redux",
+			"version": "4.1.0",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta4",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-preset-es2015-loose": "^6.1.4",
+				"babel-preset-react": "^6.3.13",
+				"babel-preset-stage-0": "^6.3.13",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8286cabeebf21e2171f83eef4c40b9cda009ed7b",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.1.0.tgz"
+			},
+			"deprecated": "This version breaks the build on Browserify due to a missing loose-envify dependency. Update to 4.1.1 or newer.",
+			"_hasShrinkwrap": false
+		},
+		"4.1.1": {
+			"name": "react-redux",
+			"version": "4.1.1",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta4",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-preset-es2015-loose": "^6.1.4",
+				"babel-preset-react": "^6.3.13",
+				"babel-preset-stage-0": "^6.3.13",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9a0fd12aa22b8043cd82a19415b17fddd2e18b53",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.2": {
+			"name": "react-redux",
+			"version": "4.1.2",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta4",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-preset-es2015-loose": "^6.1.4",
+				"babel-preset-react": "^6.3.13",
+				"babel-preset-stage-0": "^6.3.13",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a8f391c4361e27dacbfde69d034a3b1ad2ce0c45",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.2.0": {
+			"name": "react-redux",
+			"version": "4.2.0",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.1.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta4",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-preset-es2015-loose": "^6.1.4",
+				"babel-preset-react": "^6.3.13",
+				"babel-preset-stage-0": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e3538426dd479a48ae23393d0c73570eb7ce5a3f",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.2.1": {
+			"name": "react-redux",
+			"version": "4.2.1",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d651a9cf98e07fbec2b41adb83bc0a92c37f08ee",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.3.0": {
+			"name": "react-redux",
+			"version": "4.3.0",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ff7cc13687755891cc05e6cce3ea74ee42099ccd",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.0": {
+			"name": "react-redux",
+			"version": "4.4.0",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c272eecb6552a077f91a007ec08880ae1748dd7c",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.1": {
+			"name": "react-redux",
+			"version": "4.4.1",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-rc.1",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f0be889d3dff0b9caf9f4e31fdcc0d0b481aa311",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.2": {
+			"name": "react-redux",
+			"version": "4.4.2",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "963486fa0fbebe50b8f3012cb1f9179ce29973f8",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.3": {
+			"name": "react-redux",
+			"version": "4.4.3",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5fca05f00110562929fcf0fb3ce4a5c493575c08",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.4.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.4": {
+			"name": "react-redux",
+			"version": "4.4.4",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3b5aea75c852ed6d7ca28840e0fae697e1f95a69",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.4.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.5": {
+			"name": "react-redux",
+			"version": "4.4.5",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f509a2981be2252d10c629ef7c559347a4aec457",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.4.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0-alpha.1": {
+			"name": "react-redux",
+			"version": "5.0.0-alpha.1",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0117b7c6a63952c96d2cac7e4793ae8d0d9e74f0",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.0-alpha.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0-beta.1": {
+			"name": "react-redux",
+			"version": "5.0.0-beta.1",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^6.1.2",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-istanbul": "^2.0.0",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"codecov": "^1.0.1",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-import": "^1.13.0",
+				"eslint-plugin-react": "^6.1.1",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"istanbul": "^0.4.4",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"nyc": "^8.1.0",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "59fc0e07abdd8c5aa04b218024e9132af923808a",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.0-beta.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0-beta.2": {
+			"name": "react-redux",
+			"version": "5.0.0-beta.2",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"lodash-es": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^6.1.2",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-istanbul": "^2.0.0",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"codecov": "^1.0.1",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-import": "^1.13.0",
+				"eslint-plugin-react": "^6.1.1",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"istanbul": "^0.4.4",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"nyc": "^8.1.0",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3ae2fcbb65f05c0427127b80090c7d27c3bb283a",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.0-beta.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0-beta.3": {
+			"name": "react-redux",
+			"version": "5.0.0-beta.3",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"lodash-es": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^6.1.2",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-istanbul": "^2.0.0",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"codecov": "^1.0.1",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-import": "^1.13.0",
+				"eslint-plugin-react": "^6.1.1",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"istanbul": "^0.4.4",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"nyc": "^8.1.0",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d50bfb00799cf7d2a9fd55fe34d6b3ecc24d3072",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.0-beta.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.6": {
+			"name": "react-redux",
+			"version": "4.4.6",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0 || ^15.4.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4b9d32985307a11096a2dd61561980044fcc6209",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.4.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0-rc.1": {
+			"name": "react-redux",
+			"version": "5.0.0-rc.1",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"lodash-es": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^7.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-istanbul": "^3.0.0",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"codecov": "^1.0.1",
+				"cross-env": "^3.1.3",
+				"es3ify": "^0.2.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-import": "^2.2.0",
+				"eslint-plugin-react": "^6.1.1",
+				"expect": "^1.8.0",
+				"glob": "^7.1.1",
+				"istanbul": "^0.4.4",
+				"jsdom": "^9.8.3",
+				"mocha": "^3.2.0",
+				"nyc": "^10.0.0",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0bcbb394ab6bd96bc21685af54a9f7fec0fa80e7",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0-rc.2": {
+			"name": "react-redux",
+			"version": "5.0.0-rc.2",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"lodash-es": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^7.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-istanbul": "^3.0.0",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"codecov": "^1.0.1",
+				"cross-env": "^3.1.3",
+				"es3ify": "^0.2.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-import": "^2.2.0",
+				"eslint-plugin-react": "^6.1.1",
+				"expect": "^1.8.0",
+				"glob": "^7.1.1",
+				"istanbul": "^0.4.4",
+				"jsdom": "^9.8.3",
+				"mocha": "^3.2.0",
+				"nyc": "^10.0.0",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a2e228c6c3e66581e9e710e73684c4a8ccc6a63b",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0": {
+			"name": "react-redux",
+			"version": "5.0.0",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"lodash-es": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^7.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-istanbul": "^3.0.0",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"codecov": "^1.0.1",
+				"cross-env": "^3.1.3",
+				"es3ify": "^0.2.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-import": "^2.2.0",
+				"eslint-plugin-react": "^6.1.1",
+				"expect": "^1.8.0",
+				"glob": "^7.1.1",
+				"istanbul": "^0.4.4",
+				"jsdom": "^9.8.3",
+				"mocha": "^3.2.0",
+				"nyc": "^10.0.0",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2693227b19876b6e0047f4b94eb4910f43b677ca",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.1": {
+			"name": "react-redux",
+			"version": "5.0.1",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"lodash-es": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^7.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-istanbul": "^3.0.0",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"codecov": "^1.0.1",
+				"cross-env": "^3.1.3",
+				"es3ify": "^0.2.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-import": "^2.2.0",
+				"eslint-plugin-react": "^6.1.1",
+				"expect": "^1.8.0",
+				"glob": "^7.1.1",
+				"istanbul": "^0.4.4",
+				"jsdom": "^9.8.3",
+				"mocha": "^3.2.0",
+				"nyc": "^10.0.0",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "84a41bd4cdd180452bb6922bc79ad25bd5abb7c4",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.2": {
+			"name": "react-redux",
+			"version": "5.0.2",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"lodash-es": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^7.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-istanbul": "^3.0.0",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"codecov": "^1.0.1",
+				"cross-env": "^3.1.3",
+				"es3ify": "^0.2.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-import": "^2.2.0",
+				"eslint-plugin-react": "^6.1.1",
+				"expect": "^1.8.0",
+				"glob": "^7.1.1",
+				"istanbul": "^0.4.4",
+				"jsdom": "^9.8.3",
+				"mocha": "^3.2.0",
+				"nyc": "^10.0.0",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3d9878f5f71c6fafcd45de1fbb162ea31f389814",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.3": {
+			"name": "react-redux",
+			"version": "5.0.3",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"lodash-es": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^7.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-istanbul": "^4.0.0",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"codecov": "^1.0.1",
+				"cross-env": "^3.1.3",
+				"es3ify": "^0.2.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-import": "^2.2.0",
+				"eslint-plugin-react": "^6.1.1",
+				"expect": "^1.8.0",
+				"glob": "^7.1.1",
+				"istanbul": "^0.4.4",
+				"jsdom": "^9.8.3",
+				"mocha": "^3.2.0",
+				"nyc": "^10.0.0",
+				"react": "^15.0.0",
+				"react-addons-test-utils": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0 || ^16.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "86c3b68d56e74294a42e2a740ab66117ef6c019f",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.7": {
+			"name": "react-redux",
+			"version": "4.4.7",
+			"dependencies": {
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^0.14.0",
+				"react-addons-test-utils": "^0.14.0",
+				"react-dom": "^0.14.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0 || ^15.4.0-0 || ^16.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "74fbea055e81591aacb14dac0dfb80c6428424db",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.4.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.4": {
+			"name": "react-redux",
+			"version": "5.0.4",
+			"dependencies": {
+				"create-react-class": "^15.5.1",
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"lodash-es": "^4.2.0",
+				"loose-envify": "^1.1.0",
+				"prop-types": "^15.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^7.1.1",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-istanbul": "^4.0.0",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"codecov": "^1.0.1",
+				"cross-env": "^3.1.3",
+				"es3ify": "^0.2.0",
+				"eslint": "^3.3.1",
+				"eslint-plugin-import": "^2.2.0",
+				"eslint-plugin-react": "^6.1.1",
+				"expect": "^1.8.0",
+				"glob": "^7.1.1",
+				"istanbul": "^0.4.4",
+				"jsdom": "^9.8.3",
+				"mocha": "^3.2.0",
+				"nyc": "^10.0.0",
+				"react": "^15.0.0",
+				"react-dom": "^15.0.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0 || ^16.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1563babadcfb2672f57f9ceaa439fb16bf85d55b",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-5.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.8": {
+			"name": "react-redux",
+			"version": "4.4.8",
+			"dependencies": {
+				"create-react-class": "^15.5.1",
+				"hoist-non-react-statics": "^1.0.3",
+				"invariant": "^2.0.0",
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0",
+				"prop-types": "^15.5.4"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.17",
+				"babel-core": "^6.3.26",
+				"babel-eslint": "^5.0.0-beta9",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-syntax-jsx": "^6.3.13",
+				"babel-plugin-transform-decorators-legacy": "^1.2.0",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-plugin-transform-react-display-name": "^6.4.0",
+				"babel-plugin-transform-react-jsx": "^6.4.0",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.1.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"glob": "^6.0.4",
+				"isparta": "4.0.0",
+				"istanbul": "^0.3.17",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"react": "^15.5.0",
+				"react-dom": "^15.5.0",
+				"redux": "^3.0.0",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.11.0"
+			},
+			"peerDependencies": {
+				"react": "^0.14.0 || ^15.0.0-0 || ^15.4.0-0 || ^16.0.0-0",
+				"redux": "^2.0.0 || ^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e7bc1dd100e8b64e96ac8212db113239b9e2e08f",
+				"tarball": "https://registry.npmjs.org/react-redux/-/react-redux-4.4.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "react-redux",
+	"dist-tags": {
+		"latest": "5.0.4",
+		"next": "5.0.4",
+		"previous": "4.4.8"
+	},
+	"modified": "2017-05-06T09:56:07.032Z",
+	"_etag": "W/\"590d9db7-13cc8\"",
+	"_lastModified": "Sat, 06 May 2017 09:56:07 GMT"
+}

@@ -1,0 +1,254 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "combined-stream",
+			"version": "0.0.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "45550d8a25ee3b42de817cf675690732240e45d7",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-0.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "combined-stream",
+			"version": "0.0.1",
+			"dependencies": {
+				"delayed-stream": "0.0.5"
+			},
+			"devDependencies": {
+				"far": "0.0.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dff7a316813a9ec58ef03bde5c1fc7133a35f944",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-0.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "combined-stream",
+			"version": "0.0.2",
+			"dependencies": {
+				"delayed-stream": "0.0.5"
+			},
+			"devDependencies": {
+				"far": "0.0.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6c1691577cfb5f842f7ac1fecd8515a13cb99c9c",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-0.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "combined-stream",
+			"version": "0.0.3",
+			"dependencies": {
+				"delayed-stream": "0.0.5"
+			},
+			"devDependencies": {
+				"far": "0.0.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a1d6223c463a000b21c9937c4b15ef41ba001f78",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-0.0.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "combined-stream",
+			"version": "0.0.4",
+			"dependencies": {
+				"delayed-stream": "0.0.5"
+			},
+			"devDependencies": {
+				"far": "0.0.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2d1a43347dbe9515a4a2796732e5b88473840b22",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-0.0.4.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "combined-stream",
+			"version": "0.0.5",
+			"dependencies": {
+				"delayed-stream": "0.0.5"
+			},
+			"devDependencies": {
+				"far": "~0.0.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "29ed76e5c9aad07c4acf9ca3d32601cce28697a2",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-0.0.5.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.7": {
+			"name": "combined-stream",
+			"version": "0.0.7",
+			"dependencies": {
+				"delayed-stream": "0.0.5"
+			},
+			"devDependencies": {
+				"far": "~0.0.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0137e657baa5a7541c57ac37ac5fc07d73b4dc1f",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-0.0.7.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "combined-stream",
+			"version": "1.0.0",
+			"dependencies": {
+				"delayed-stream": "0.0.5"
+			},
+			"devDependencies": {
+				"far": "~0.0.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d451d5a5f94340b3480e49b38bfd1811ab1b2110",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "combined-stream",
+			"version": "1.0.1",
+			"dependencies": {
+				"delayed-stream": "^1.0.0"
+			},
+			"devDependencies": {
+				"far": "~0.0.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d29988ca26d4a0fb85d384650ba8db5948d2f41b",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "combined-stream",
+			"version": "1.0.2",
+			"dependencies": {
+				"delayed-stream": "^1.0.0"
+			},
+			"devDependencies": {
+				"far": "~0.0.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6ae58023aef4deae6b0993948ab9a0d0af2b4b72",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.2.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "combined-stream",
+			"version": "1.0.3",
+			"dependencies": {
+				"delayed-stream": "^1.0.0"
+			},
+			"devDependencies": {
+				"far": "~0.0.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c224cc35d3cb98e25dead532472a18e8f75df5ab",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.3.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "combined-stream",
+			"version": "1.0.4",
+			"dependencies": {
+				"delayed-stream": "^1.0.0"
+			},
+			"devDependencies": {
+				"far": "~0.0.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f988793ed1a59c5e5c9e1e395c4207d409527c8b",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.4.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "combined-stream",
+			"version": "1.0.5",
+			"dependencies": {
+				"delayed-stream": "~1.0.0"
+			},
+			"devDependencies": {
+				"far": "~0.0.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "938370a57b4a51dea2c77c15d5c5fdf895164009",
+				"tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.5.tgz"
+			},
+			"engines": {
+				"node": ">= 0.8"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "combined-stream",
+	"dist-tags": {
+		"latest": "1.0.5"
+	},
+	"modified": "2017-01-13T08:43:18.560Z",
+	"_etag": "W/\"58789326-118c\"",
+	"_lastModified": "Fri, 13 Jan 2017 08:43:18 GMT"
+}

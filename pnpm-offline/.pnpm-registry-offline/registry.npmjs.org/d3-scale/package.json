@@ -1,0 +1,889 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "d3-scale",
+			"version": "0.0.0",
+			"devDependencies": {
+				"d3": "^3.4.4",
+				"smash": "0.0.12",
+				"uglify-js": "^2.4.13"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8dac92144b0c9e293c57435c5e9b3f8725fbbfd1",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "d3-scale",
+			"version": "0.0.1",
+			"devDependencies": {
+				"d3-arrays": "~0.0.4",
+				"d3-bundler": "~0.2.5",
+				"d3-color": "~0.2.1",
+				"d3-format": "~0.2.1",
+				"d3-interpolate": "~0.1.1",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b06c35f41ad4ef10e80e93dde83945ce2c8b6662",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-scale",
+			"version": "0.0.2",
+			"devDependencies": {
+				"d3-arrays": "~0.0.4",
+				"d3-bundler": "~0.2.5",
+				"d3-color": "~0.2.1",
+				"d3-format": "~0.2.1",
+				"d3-interpolate": "~0.1.1",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "33a29aa06f64a3d87193f73e8e8ccc79aca0d72c",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-scale",
+			"version": "0.1.0",
+			"devDependencies": {
+				"d3-arrays": "~0.0.4",
+				"d3-bundler": "~0.2.5",
+				"d3-color": "~0.2.1",
+				"d3-format": "~0.2.1",
+				"d3-interpolate": "~0.1.1",
+				"d3-time": "~0.0.2",
+				"d3-time-format": "~0.0.1",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e667ca4732b4c25a8c4aa570d68f6017809dacfc",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "d3-scale",
+			"version": "0.1.1",
+			"devDependencies": {
+				"d3-arrays": "~0.0.4",
+				"d3-bundler": "~0.2.5",
+				"d3-color": "~0.2.1",
+				"d3-format": "~0.2.1",
+				"d3-interpolate": "~0.1.1",
+				"d3-time": "~0.0.2",
+				"d3-time-format": "~0.0.1",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8dde1a4ec2cc03f84688410819a14eabc88e8d5c",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "d3-scale",
+			"version": "0.1.2",
+			"devDependencies": {
+				"d3-arrays": "~0.1.1",
+				"d3-bundler": "~0.2.5",
+				"d3-color": "~0.2.6",
+				"d3-format": "~0.3.3",
+				"d3-interpolate": "~0.1.1",
+				"d3-time": "~0.0.5",
+				"d3-time-format": "~0.1.2",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4e40a3fdbce4f069a63ec205fa931e32fbee6928",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "d3-scale",
+			"version": "0.1.3",
+			"dependencies": {
+				"d3-arrays": "~0.1.1",
+				"d3-color": "~0.2.6",
+				"d3-format": "~0.3.3",
+				"d3-interpolate": "~0.1.2",
+				"d3-time": "~0.0.5",
+				"d3-time-format": "~0.1.3"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"d3-bundler": "0.4",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fe38ec69bb6ea61ff3edfab8a440b032b09e1b92",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.4": {
+			"name": "d3-scale",
+			"version": "0.1.4",
+			"dependencies": {
+				"d3-arrays": "~0.1.1",
+				"d3-color": "~0.2.6",
+				"d3-format": "~0.3.3",
+				"d3-interpolate": "~0.1.2",
+				"d3-time": "~0.0.5",
+				"d3-time-format": "~0.1.3"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"d3-bundler": "0.4",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "72375b445aa64237fc9907ab1a0b6ec6507b68ca",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.5": {
+			"name": "d3-scale",
+			"version": "0.1.5",
+			"dependencies": {
+				"d3-arrays": "~0.3.1",
+				"d3-color": "~0.2.8",
+				"d3-format": "~0.3.6",
+				"d3-interpolate": "~0.1.4",
+				"d3-time": "~0.0.7",
+				"d3-time-format": "~0.1.5"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6dd3922ad3ebf0b1949d3d035a23a1b5b8d3e185",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.1.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-scale",
+			"version": "0.2.0",
+			"dependencies": {
+				"d3-arrays": "~0.4.0",
+				"d3-color": "~0.3.1",
+				"d3-format": "~0.4.0",
+				"d3-interpolate": "~0.2.0",
+				"d3-time": "~0.1.0",
+				"d3-time-format": "~0.2.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8c1b3ede7b0da40bdb2dbef0e63157f2bc5bb5f5",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-scale",
+			"version": "0.3.0",
+			"dependencies": {
+				"d3-array": "~0.6.0",
+				"d3-color": "~0.3.1",
+				"d3-format": "~0.4.0",
+				"d3-interpolate": "~0.2.0",
+				"d3-time": "~0.1.0",
+				"d3-time-format": "~0.2.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "736caa6d7e805ae2ae7eab8501f89facb6f85f27",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-scale",
+			"version": "0.4.0",
+			"dependencies": {
+				"d3-array": "~0.6.1",
+				"d3-color": "~0.3.2",
+				"d3-format": "~0.4.1",
+				"d3-interpolate": "~0.3.0",
+				"d3-time": "~0.1.1",
+				"d3-time-format": "~0.2.1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "21970057ccee419f0b3a1f85ba572fddab4db1c3",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "d3-scale",
+			"version": "0.4.1",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.3.2",
+				"d3-format": "~0.4.1",
+				"d3-interpolate": "~0.3.0",
+				"d3-time": "~0.1.1",
+				"d3-time-format": "~0.2.1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "62af8a6c64df35fd9956a1cd0c88a25d8d466095",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "d3-scale",
+			"version": "0.5.0",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.3.3",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.4.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b17506a4a9508e9118b55591b9ee1cc06e96293f",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "d3-scale",
+			"version": "0.5.1",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.3.3",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.4.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b15e6a43affa9547f169fcf7a868e844ab63b015",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.2": {
+			"name": "d3-scale",
+			"version": "0.5.2",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.3.3",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.4.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "55791079de160da75c80dffbf3cc5f6c190a7852",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.3": {
+			"name": "d3-scale",
+			"version": "0.5.3",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.3.3",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.4.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "12720fd8e35a399f5c8abc4a296a35037d8fa936",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.5.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "d3-scale",
+			"version": "0.6.0",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.3.3",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.5.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "21646a25fc1c798c77ffef29f1c51c2e2e56e824",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.1": {
+			"name": "d3-scale",
+			"version": "0.6.1",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.4.0",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.5.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9b19461dcfa7209b1d247e4446a550114a5f1460",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.6.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.2": {
+			"name": "d3-scale",
+			"version": "0.6.2",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.4.0",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.5.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dc09a951a3ccbe44698d259b1c85dddd0ba1417a",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.6.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.3": {
+			"name": "d3-scale",
+			"version": "0.6.3",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.4.0",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.6.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c7e479d9d0f135d0fa7a488ecf427929d6a31dfb",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.6.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.4": {
+			"name": "d3-scale",
+			"version": "0.6.4",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.4.0",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.7.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e398e146fa53dec5370ed1f045ef0426c1a3fd90",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.6.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "d3-scale",
+			"version": "0.7.0",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.1.0",
+				"d3-color": "~0.4.0",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.7.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "92a2d5fe2b1718dc854148170c3f421b0712ea62",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.1": {
+			"name": "d3-scale",
+			"version": "0.7.1",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.2.0",
+				"d3-color": "~0.4.0",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2fac3c17e2a017faff52430aeac28c30eacc2369",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.7.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.2": {
+			"name": "d3-scale",
+			"version": "0.7.2",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.2.0",
+				"d3-color": "~0.4.0",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6b2cd8b9f4fb82b8d4a6c6879a1ef89077961105",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.7.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "d3-scale",
+			"version": "0.8.0",
+			"dependencies": {
+				"d3-array": "~0.7.0",
+				"d3-collection": "~0.2.0",
+				"d3-color": "~0.4.0",
+				"d3-format": "~0.5.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-time": "~0.2.0",
+				"d3-time-format": "~0.3.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "907b2ca96a16c2a3d21bc23b13ef996dc65e794c",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.8.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "d3-scale",
+			"version": "0.9.0",
+			"dependencies": {
+				"d3-array": "~0.8.0",
+				"d3-collection": "~0.3.0",
+				"d3-color": "~0.5.0",
+				"d3-format": "~0.6.0",
+				"d3-interpolate": "~0.9.0",
+				"d3-time": "~0.3.0",
+				"d3-time-format": "~0.4.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "96e808247c5ca7212d606cdbf6a94e9133b6377e",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.9.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.1": {
+			"name": "d3-scale",
+			"version": "0.9.1",
+			"dependencies": {
+				"d3-array": "~0.8.0",
+				"d3-collection": "~0.3.0",
+				"d3-color": "~0.5.0",
+				"d3-format": "~0.6.0",
+				"d3-interpolate": "~0.9.0",
+				"d3-time": "~0.3.0",
+				"d3-time-format": "~0.4.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d9ba32b7a80a3434a8947e5e1bfcd3ff17224033",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.9.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.2": {
+			"name": "d3-scale",
+			"version": "0.9.2",
+			"dependencies": {
+				"d3-array": "~0.8.0",
+				"d3-collection": "~0.3.0",
+				"d3-color": "~0.5.0",
+				"d3-format": "~0.6.0",
+				"d3-interpolate": "~0.9.0",
+				"d3-time": "~0.3.0",
+				"d3-time-format": "~0.4.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f62e263d0dd99a2d3fe436f2122f07d2b4a8e4a0",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.9.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.3": {
+			"name": "d3-scale",
+			"version": "0.9.3",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-collection": "1",
+				"d3-color": "1",
+				"d3-format": "~0.6.0",
+				"d3-interpolate": "1",
+				"d3-time": "1",
+				"d3-time-format": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b64555fc817a182988bc405ec12d3c903dcb30e1",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-0.9.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-scale",
+			"version": "1.0.0",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-collection": "1",
+				"d3-color": "1",
+				"d3-format": "1",
+				"d3-interpolate": "1",
+				"d3-time": "1",
+				"d3-time-format": "2"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0b4175ca31cbe65e254427e4662dfaefc373462d",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-scale",
+			"version": "1.0.1",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-collection": "1",
+				"d3-color": "1",
+				"d3-format": "1",
+				"d3-interpolate": "1",
+				"d3-time": "1",
+				"d3-time-format": "2"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0e988692379666d0f252afdc307a10ca179656f3",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-scale",
+			"version": "1.0.2",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-collection": "1",
+				"d3-color": "1",
+				"d3-format": "1",
+				"d3-interpolate": "1",
+				"d3-time": "1",
+				"d3-time-format": "2"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c42a857e532e12d3a8394cd678783e35d55b466c",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-scale",
+			"version": "1.0.3",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-collection": "1",
+				"d3-color": "1",
+				"d3-format": "1",
+				"d3-interpolate": "1",
+				"d3-time": "1",
+				"d3-time-format": "2"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4f9e8f0cc2ea0f3925ff04ac27adc09045fa4c90",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "d3-scale",
+			"version": "1.0.4",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-collection": "1",
+				"d3-color": "1",
+				"d3-format": "1",
+				"d3-interpolate": "1",
+				"d3-time": "1",
+				"d3-time-format": "2"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "50e28bf6a193b706745528515ed9b3d44205a033",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "d3-scale",
+			"version": "1.0.5",
+			"dependencies": {
+				"d3-array": "1",
+				"d3-collection": "1",
+				"d3-color": "1",
+				"d3-format": "1",
+				"d3-interpolate": "1",
+				"d3-time": "1",
+				"d3-time-format": "2"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "418506f0fb18eb052b385e196398acc2a4134858",
+				"tarball": "https://registry.npmjs.org/d3-scale/-/d3-scale-1.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-scale",
+	"dist-tags": {
+		"latest": "1.0.5"
+	},
+	"modified": "2017-03-10T17:49:45.360Z",
+	"_etag": "W/\"58c2e739-4031\"",
+	"_lastModified": "Fri, 10 Mar 2017 17:49:45 GMT"
+}

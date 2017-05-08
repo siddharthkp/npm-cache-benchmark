@@ -1,0 +1,67 @@
+{
+	"versions": {
+		"0.0.2": {
+			"name": "load-script",
+			"version": "0.0.2",
+			"directories": {},
+			"dist": {
+				"shasum": "81d771718ac6c56e4f7733178550ab29f972c201",
+				"tarball": "https://registry.npmjs.org/load-script/-/load-script-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "load-script",
+			"version": "0.0.3",
+			"directories": {},
+			"dist": {
+				"shasum": "0663aa1e0bd770bf317e6d7af58e6cdf48de5774",
+				"tarball": "https://registry.npmjs.org/load-script/-/load-script-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "load-script",
+			"version": "0.0.4",
+			"directories": {},
+			"dist": {
+				"shasum": "659bad9d950d660c09041784b542cd27a3f0af5d",
+				"tarball": "https://registry.npmjs.org/load-script/-/load-script-0.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "load-script",
+			"version": "0.0.5",
+			"devDependencies": {
+				"zuul": "~1.5.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cbd54b27cd7309902b749640c70e996f4c643b63",
+				"tarball": "https://registry.npmjs.org/load-script/-/load-script-0.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "load-script",
+			"version": "1.0.0",
+			"devDependencies": {
+				"zuul": "~2.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0491939e0bee5643ee494a7e3da3d2bac70c6ca4",
+				"tarball": "https://registry.npmjs.org/load-script/-/load-script-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "load-script",
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"modified": "2017-03-03T02:11:13.920Z",
+	"_etag": "W/\"58b8d0c1-515\"",
+	"_lastModified": "Fri, 03 Mar 2017 02:11:13 GMT"
+}

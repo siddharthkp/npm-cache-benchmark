@@ -1,0 +1,437 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "d3-time",
+			"version": "0.0.0",
+			"devDependencies": {
+				"d3": "^3.4.4",
+				"smash": "0.0.12",
+				"uglify-js": "^2.4.13"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7d05a194017e9329a2a512e9e6117fe75e1d5616",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-time",
+			"version": "0.0.2",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "56d4bef1f8fdfd48121b189faedb33bb67b74ee5",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "d3-time",
+			"version": "0.0.3",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b6fbc3b88b4c717e2a159dfcd1006c51ffb023df",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "d3-time",
+			"version": "0.0.4",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "76633639eca9f8127979c6e0d64dd97740d62e74",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "d3-time",
+			"version": "0.0.5",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9dbbbc0cf55b9f157f601b0feba33e63e9348c8c",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.6": {
+			"name": "d3-time",
+			"version": "0.0.6",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f9325d61549b5cad4c750b27f9fbddb4bf653e73",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.0.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.7": {
+			"name": "d3-time",
+			"version": "0.0.7",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "663d7a926ad3852e4bb4fd89618d1e97b61f1334",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.0.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-time",
+			"version": "0.1.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5430ae06640dd0ea31f3760f80ecd69d8f4a830b",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "d3-time",
+			"version": "0.1.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "38ce2a7bb47a4031613823dde4688e58e892ae5b",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-time",
+			"version": "0.2.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "11e2ad44286ee600e70653eda6399159f980dce2",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-time",
+			"version": "0.2.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c996e0322085538cd7155e6e22813786fd4af663",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "d3-time",
+			"version": "0.2.2",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e1fb69efd876bc9f26d8a102676bcad81c1902d2",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "d3-time",
+			"version": "0.2.3",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cbd0919f70d0ef65616c55f89f7e778684072f58",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.4": {
+			"name": "d3-time",
+			"version": "0.2.4",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ecc6cbafc6930d5897f3add5e757067437db242b",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.5": {
+			"name": "d3-time",
+			"version": "0.2.5",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6fc06e52ea39afed8cd01fa76aa3ad8c44e54cbb",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.2.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.6": {
+			"name": "d3-time",
+			"version": "0.2.6",
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "587553e9ea9e055462d419c7aa94e9477be15cb0",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.2.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-time",
+			"version": "0.3.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3eacbedf095da559c3c6f7ad6fc5dea440f022da",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-time",
+			"version": "0.3.1",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e3007add326467068ea03dd3c8a941000f7ce617",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "d3-time",
+			"version": "0.3.2",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "41a23b9b6f41d1bd9cb0d9598958e9affe346503",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-0.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-time",
+			"version": "1.0.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bbfe5e78ddb313f072c2ba00cbb6e96e1d419c7f",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-time",
+			"version": "1.0.1",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fe53cff6586471343810ad30ce543f3564bbfb3f",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-time",
+			"version": "1.0.2",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "25da641a7061af8f68ad08ca173101717b7430fc",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-time",
+			"version": "1.0.3",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.35",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "84c07a70eded01360f39a3ef66b6259221ab70ac",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "d3-time",
+			"version": "1.0.4",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2ceba09a76b7450c992a1ded4e10fc6195e69649",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "d3-time",
+			"version": "1.0.5",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ef07a27d4b56522d984a41c27b1c67aa80b0cdd9",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-1.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.6": {
+			"name": "d3-time",
+			"version": "1.0.6",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a55b13d7d15d3a160ae91708232e0835f1d5e945",
+				"tarball": "https://registry.npmjs.org/d3-time/-/d3-time-1.0.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-time",
+	"dist-tags": {
+		"latest": "1.0.6"
+	},
+	"modified": "2017-03-10T17:46:15.385Z",
+	"_etag": "W/\"58c2e667-1f0f\"",
+	"_lastModified": "Fri, 10 Mar 2017 17:46:15 GMT"
+}

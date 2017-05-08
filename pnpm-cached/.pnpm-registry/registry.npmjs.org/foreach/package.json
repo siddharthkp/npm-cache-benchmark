@@ -1,0 +1,100 @@
+{
+	"versions": {
+		"1.3.3": {
+			"name": "foreach",
+			"version": "1.3.3",
+			"directories": {},
+			"dist": {
+				"shasum": "e62a2e940fc9e4aef2e15e8a3e5490e1acbcdf2b",
+				"tarball": "https://registry.npmjs.org/foreach/-/foreach-1.3.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "foreach",
+			"version": "2.0.0",
+			"directories": {},
+			"dist": {
+				"shasum": "7c291920158391f6fd9520ce5deb3ebff6706dbf",
+				"tarball": "https://registry.npmjs.org/foreach/-/foreach-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "foreach",
+			"version": "2.0.1",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "b2012840c53ff141808bf5cf9428cb1d76c7b96b",
+				"tarball": "https://registry.npmjs.org/foreach/-/foreach-2.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "foreach",
+			"version": "2.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "11f9643de13bf5b6fa71779f7313c4f932329c17",
+				"tarball": "https://registry.npmjs.org/foreach/-/foreach-2.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.3": {
+			"name": "foreach",
+			"version": "2.0.3",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3085ef139c560594b4c78d7cafd53710d9536e03",
+				"tarball": "https://registry.npmjs.org/foreach/-/foreach-2.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.4": {
+			"name": "foreach",
+			"version": "2.0.4",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cc5d0d8ae1d46cc9a555c2682f910977859935df",
+				"tarball": "https://registry.npmjs.org/foreach/-/foreach-2.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.5": {
+			"name": "foreach",
+			"version": "2.0.5",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "*",
+				"covert": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0bee005018aeb260d0a3af3ae658dd0136ec1b99",
+				"tarball": "https://registry.npmjs.org/foreach/-/foreach-2.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "foreach",
+	"dist-tags": {
+		"latest": "2.0.5"
+	},
+	"modified": "2014-09-22T06:29:58.002Z",
+	"_etag": "W/\"541fc1e6-72f\"",
+	"_lastModified": "Mon, 22 Sep 2014 06:29:58 GMT"
+}

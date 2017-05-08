@@ -1,0 +1,265 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "create-react-class",
+			"version": "1.0.0",
+			"dependencies": {
+				"fs": "0.0.1-security",
+				"yargs": "6.5.0"
+			},
+			"devDependencies": {
+				"chai": "3.5.0",
+				"mocha": "3.2.0"
+			},
+			"bin": {
+				"create-react-class": "./bin/start.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3e12c55055fbeb82dc23fff5c8413e87c32e715f",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "create-react-class",
+			"version": "1.0.1",
+			"dependencies": {
+				"fs": "0.0.1-security",
+				"yargs": "6.5.0"
+			},
+			"devDependencies": {
+				"chai": "3.5.0",
+				"mocha": "3.2.0"
+			},
+			"bin": {
+				"create-react-class": "./bin/start.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8700f42735605c7cc5a87bbb8cc13ec3dfb7eb04",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "create-react-class",
+			"version": "1.1.0",
+			"dependencies": {
+				"fs": "0.0.1-security",
+				"yargs": "6.5.0"
+			},
+			"devDependencies": {
+				"chai": "3.5.0",
+				"mocha": "3.2.0"
+			},
+			"bin": {
+				"create-react-class": "./bin/start.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9545ae56fcabb9fd117556ec60f4265d0bf193cf",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "create-react-class",
+			"version": "1.1.1",
+			"dependencies": {
+				"fs": "0.0.1-security",
+				"fs-extra": "1.0.0",
+				"yargs": "6.5.0"
+			},
+			"devDependencies": {
+				"chai": "3.5.0",
+				"mocha": "3.2.0"
+			},
+			"bin": {
+				"create-react-class": "./bin/start.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d8009c8c0ba7148eddda0d1585858c7f396057d3",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "create-react-class",
+			"version": "1.2.0",
+			"dependencies": {
+				"fs": "0.0.1-security",
+				"fs-extra": "1.0.0",
+				"yargs": "6.5.0"
+			},
+			"devDependencies": {
+				"chai": "3.5.0",
+				"mocha": "3.2.0"
+			},
+			"bin": {
+				"create-react-class": "./bin/start.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f505608e6d74e0c02031fe5d33207c9ff3f8f6cb",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "create-react-class",
+			"version": "1.2.1",
+			"dependencies": {
+				"fs": "0.0.1-security",
+				"fs-extra": "1.0.0",
+				"yargs": "6.5.0"
+			},
+			"devDependencies": {
+				"chai": "3.5.0",
+				"mocha": "3.2.0"
+			},
+			"bin": {
+				"create-react-class": "./bin/start.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "34026d3157a13ca7dde353f20f84a5a87ef1d306",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.2": {
+			"name": "create-react-class",
+			"version": "1.2.2",
+			"dependencies": {
+				"fs": "0.0.1-security",
+				"fs-extra": "1.0.0",
+				"yargs": "6.5.0"
+			},
+			"devDependencies": {
+				"chai": "3.5.0",
+				"mocha": "3.2.0"
+			},
+			"bin": {
+				"create-react-class": "./bin/start.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "713bad57fc1f9e2bcd394638c1ee03aa975fda8d",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.3": {
+			"name": "create-react-class",
+			"version": "1.2.3",
+			"dependencies": {
+				"fs": "0.0.1-security",
+				"fs-extra": "1.0.0",
+				"yargs": "6.5.0"
+			},
+			"devDependencies": {
+				"chai": "3.5.0",
+				"mocha": "3.2.0"
+			},
+			"bin": {
+				"create-react-class": "./bin/start.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8a87c5e1164199a7fa338eb814c3ae3d6593b1dd",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.4": {
+			"name": "create-react-class",
+			"version": "1.2.4",
+			"dependencies": {
+				"fs": "0.0.1-security",
+				"fs-extra": "1.0.0",
+				"yargs": "6.5.0"
+			},
+			"devDependencies": {
+				"chai": "3.5.0",
+				"mocha": "3.2.0"
+			},
+			"bin": {
+				"create-react-class": "./bin/start.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "137f3c6deec0a4ed7c26ad70f60c54fc24f3568c",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-1.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.0": {
+			"name": "create-react-class",
+			"version": "15.5.0",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^15.4.2",
+				"react-addons-test-utils": "^15.4.2",
+				"react-dom": "^15.4.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7508ffcad56a0804fb244d6ff70b07648abfe5fb",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.1": {
+			"name": "create-react-class",
+			"version": "15.5.1",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^15.4.2",
+				"react-addons-test-utils": "^15.4.2",
+				"react-dom": "^15.4.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "25a138a42d1c9df6d5c70fea29ec6ccf5ae165b8",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.2": {
+			"name": "create-react-class",
+			"version": "15.5.2",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"object-assign": "^4.1.1"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^15.5.0",
+				"react-addons-test-utils": "^15.5.0",
+				"react-dom": "^15.5.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6a8758348df660b88326a0e764d569f274aad681",
+				"tarball": "https://registry.npmjs.org/create-react-class/-/create-react-class-15.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "create-react-class",
+	"dist-tags": {
+		"latest": "15.5.2",
+		"dev": "15.5.0"
+	},
+	"modified": "2017-04-26T19:36:46.783Z",
+	"_etag": "W/\"5900f6ce-13a9\"",
+	"_lastModified": "Wed, 26 Apr 2017 19:36:46 GMT"
+}

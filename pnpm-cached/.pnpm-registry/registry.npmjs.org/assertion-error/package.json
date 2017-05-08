@@ -1,0 +1,79 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "assertion-error",
+			"version": "0.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"component": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "555cb007e89be44ba73e7b9600c3907dc381ce2b",
+				"tarball": "https://registry.npmjs.org/assertion-error/-/assertion-error-0.1.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "assertion-error",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"component": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c7f85438fdd466bc7ca16ab90c81513797a5d23b",
+				"tarball": "https://registry.npmjs.org/assertion-error/-/assertion-error-1.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "assertion-error",
+			"version": "1.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"component": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "35aaeec33097f11f42399ecadf33faccd27f5c4c",
+				"tarball": "https://registry.npmjs.org/assertion-error/-/assertion-error-1.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "assertion-error",
+			"version": "1.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"component": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "13ca515d86206da0bac66e834dd397d87581094c",
+				"tarball": "https://registry.npmjs.org/assertion-error/-/assertion-error-1.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "assertion-error",
+	"dist-tags": {
+		"latest": "1.0.2"
+	},
+	"modified": "2016-06-06T18:25:29.009Z",
+	"_etag": "W/\"5755c019-554\"",
+	"_lastModified": "Mon, 06 Jun 2016 18:25:29 GMT"
+}

@@ -1,0 +1,556 @@
+{
+	"versions": {
+		"0.2.0": {
+			"name": "d3-request",
+			"version": "0.2.0",
+			"dependencies": {
+				"d3-arrays": "~0.3.0",
+				"d3-dispatch": "~0.2.3",
+				"d3-dsv": "~0.1.6"
+			},
+			"devDependencies": {
+				"d3-bundler": "~0.4.2",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6f412990135bf1b3b65632843f09485f7896eeb7",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-request",
+			"version": "0.2.1",
+			"dependencies": {
+				"d3-arrays": "~0.3.1",
+				"d3-dispatch": "~0.2.4",
+				"d3-dsv": "~0.1.9"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e5fdd01150e430603359f9445ef75f9ba77e6d97",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "d3-request",
+			"version": "0.2.2",
+			"dependencies": {
+				"d3-arrays": "~0.3.1",
+				"d3-dispatch": "~0.2.4",
+				"d3-dsv": "~0.1.9"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "21df54f93ed612e09031b792d70dacbb19ef30d9",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "d3-request",
+			"version": "0.2.3",
+			"dependencies": {
+				"d3-arrays": "~0.3.1",
+				"d3-dispatch": "~0.2.4",
+				"d3-dsv": "~0.1.9"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2b72a06376f1faa9be6d23d3c540b2570d266eac",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.4": {
+			"name": "d3-request",
+			"version": "0.2.4",
+			"dependencies": {
+				"d3-array": "~0.6.1",
+				"d3-dispatch": "~0.2.4",
+				"d3-dsv": "~0.1.13"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "921d80287c0d16045bc5de3acf4f4e824402cc15",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.5": {
+			"name": "d3-request",
+			"version": "0.2.5",
+			"dependencies": {
+				"d3-array": "~0.6.1",
+				"d3-dispatch": "~0.2.4",
+				"d3-dsv": "~0.1.13"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4bc9675cad384ba591f4baa8b76abd3507ccb3c8",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.2.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.6": {
+			"name": "d3-request",
+			"version": "0.2.6",
+			"dependencies": {
+				"d3-collection": "~0.1.0",
+				"d3-dispatch": "~0.2.4",
+				"d3-dsv": "~0.1.13"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "99c11c3c8fdedb363cdbe2fe028539fab4ca4069",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.2.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-request",
+			"version": "0.3.0",
+			"dependencies": {
+				"d3-collection": "~0.1.0",
+				"d3-dispatch": "~0.2.5",
+				"d3-dsv": "~0.1.13"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6f6bf532bdd08c3a22336860659ce753fa6d81b3",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-request",
+			"version": "0.3.1",
+			"dependencies": {
+				"d3-collection": "~0.1.0",
+				"d3-dispatch": "~0.2.5",
+				"d3-dsv": "~0.1.13"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dd39e11940c359aa74bc823dc366aa1a383edbc8",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "d3-request",
+			"version": "0.3.2",
+			"dependencies": {
+				"d3-collection": "~0.1.1",
+				"d3-dispatch": "~0.2.6",
+				"d3-dsv": "~0.1.14"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ae87559554550e3a682ca6c01ad6c8ab2eba2c9a",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-request",
+			"version": "0.4.0",
+			"dependencies": {
+				"d3-collection": "~0.1.1",
+				"d3-dispatch": "~0.2.6",
+				"d3-dsv": "~0.2.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "09a1369942faf3a036b8884f22f307f769c90b50",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "d3-request",
+			"version": "0.4.1",
+			"dependencies": {
+				"d3-collection": "~0.1.1",
+				"d3-dispatch": "~0.3.0",
+				"d3-dsv": "~0.2.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "90db5970bef055d1fbf6e218afb8ca6e9b1b358a",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "d3-request",
+			"version": "0.4.2",
+			"dependencies": {
+				"d3-collection": "~0.1.1",
+				"d3-dispatch": "~0.4.0",
+				"d3-dsv": "~0.2.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9dfd75a1403ac93950f3fa936678beb4b349ab79",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.3": {
+			"name": "d3-request",
+			"version": "0.4.3",
+			"dependencies": {
+				"d3-collection": "~0.1.1",
+				"d3-dispatch": "~0.4.0",
+				"d3-dsv": "~0.2.0",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5495a3ad42c0ca76d11f1e1fbcad45406c2691eb",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.4.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.4": {
+			"name": "d3-request",
+			"version": "0.4.4",
+			"dependencies": {
+				"d3-collection": "~0.1.1",
+				"d3-dispatch": "~0.4.0",
+				"d3-dsv": "~0.3.0",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bd271933e53e1d8d4e7752005666cf35ef3fe442",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.4.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.5": {
+			"name": "d3-request",
+			"version": "0.4.5",
+			"dependencies": {
+				"d3-collection": "~0.1.1",
+				"d3-dispatch": "~0.4.0",
+				"d3-dsv": "~0.3.0",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c2510816c938c3cab6e91df853d9aafc8790efe1",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.4.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.6": {
+			"name": "d3-request",
+			"version": "0.4.6",
+			"dependencies": {
+				"d3-collection": "~0.1.1",
+				"d3-dispatch": "~0.4.0",
+				"d3-dsv": "~0.3.0",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0d57e37aa69b6fc496e773b2f266a92f1daeb153",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.4.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.7": {
+			"name": "d3-request",
+			"version": "0.4.7",
+			"dependencies": {
+				"d3-collection": "~0.2.0",
+				"d3-dispatch": "~0.4.0",
+				"d3-dsv": "~0.3.0",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ff1e8d6a172e2699615dbadde9b2e19e80ba8529",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.4.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "d3-request",
+			"version": "0.5.0",
+			"dependencies": {
+				"d3-collection": "~0.3.0",
+				"d3-dispatch": "~0.5.0",
+				"d3-dsv": "~0.4.0",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f1a9db6213be3e560649c069720d35c9e1f4f741",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-request",
+			"version": "1.0.0",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-dsv": "1",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "abb2bbc86c386904df318d300089857986eaeddf",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-request",
+			"version": "1.0.1",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-dsv": "1",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b4c58d79286fb846a1254c882514b6671939b1f1",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-request",
+			"version": "1.0.2",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-dsv": "1",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "98083736d4146fdd28703b5aa8ef7e7328ba3f69",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-request",
+			"version": "1.0.3",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-dsv": "1",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "63fc7dfd784607db0df5d535d7cb898fceba755a",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "d3-request",
+			"version": "1.0.4",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-dsv": "1",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e04f559644f98639af24d75f8fcf99e3d27f1f53",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "d3-request",
+			"version": "1.0.5",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-dsv": "1",
+				"xmlhttprequest": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4daae946d1dd0d57dfe01f022956354958d51f23",
+				"tarball": "https://registry.npmjs.org/d3-request/-/d3-request-1.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-request",
+	"dist-tags": {
+		"latest": "1.0.5"
+	},
+	"modified": "2017-03-10T17:50:56.581Z",
+	"_etag": "W/\"58c2e780-2730\"",
+	"_lastModified": "Fri, 10 Mar 2017 17:50:56 GMT"
+}
