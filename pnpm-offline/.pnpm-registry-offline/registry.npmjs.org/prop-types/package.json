@@ -1,0 +1,332 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "prop-types",
+			"version": "0.1.0",
+			"devDependencies": {
+				"babel-core": "^4.0.1",
+				"babel-loader": "^4.0.0",
+				"jasmine-core": "^2.1.3",
+				"karma": "^0.12.30",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-jasmine": "^0.3.3",
+				"karma-phantomjs2-launcher": "^0.1.4",
+				"karma-webpack": "^1.3.1",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "e664bbaa7672482cb155617dd4d7b222afef57ab",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "prop-types",
+			"version": "0.2.0",
+			"dependencies": {
+				"invariant": "^2.2.0"
+			},
+			"devDependencies": {
+				"babel-core": "^4.0.1",
+				"babel-loader": "^4.0.0",
+				"eslint": "^0.14.1",
+				"jasmine-core": "^2.1.3",
+				"karma": "^0.12.30",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-jasmine": "^0.3.3",
+				"karma-phantomjs2-launcher": "^0.1.4",
+				"karma-webpack": "^1.3.1",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"directories": {
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "b52108434bd826e1083570548d143d57f8474c31",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.0-alpha.0": {
+			"name": "prop-types",
+			"version": "15.5.0-alpha.0",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^15.4.2",
+				"react-dom": "^15.4.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a342108678256db125eee3d1ae2f889af3531bd7",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.0-alpha.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.0": {
+			"name": "prop-types",
+			"version": "15.5.0",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^15.4.2",
+				"react-dom": "^15.4.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "489d10598b03121cd11e7e656cb22de72421be2c",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.0.tgz"
+			},
+			"deprecated": "There are known issues in prop-types < 15.5.7. Please update your prop-types dependency to use ^15.5.7 or higher.",
+			"_hasShrinkwrap": false
+		},
+		"15.5.1": {
+			"name": "prop-types",
+			"version": "15.5.1",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^15.4.2",
+				"react-dom": "^15.4.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8cc590cc55b8afcd05dd66f18481890f8fe64281",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.1.tgz"
+			},
+			"deprecated": "There are known issues in prop-types < 15.5.7. Please update your prop-types dependency to use ^15.5.7 or higher.",
+			"_hasShrinkwrap": false
+		},
+		"15.5.2": {
+			"name": "prop-types",
+			"version": "15.5.2",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"babel-jest": "^19.0.0",
+				"babel-preset-react": "^6.24.1",
+				"browserify": "^14.3.0",
+				"jest": "^19.0.2",
+				"react": "^15.5.1",
+				"uglifyjs": "^2.4.10"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d89cfc2b595906cf79511103466cbb845fa21b66",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.2.tgz"
+			},
+			"deprecated": "There are known issues in prop-types < 15.5.7. Please update your prop-types dependency to use ^15.5.7 or higher.",
+			"_hasShrinkwrap": false
+		},
+		"15.5.3": {
+			"name": "prop-types",
+			"version": "15.5.3",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"babel-jest": "^19.0.0",
+				"babel-preset-react": "^6.24.1",
+				"browserify": "^14.3.0",
+				"jest": "^19.0.2",
+				"react": "^15.5.1",
+				"uglifyjs": "^2.4.10"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "91e5d35f6d8878ed957fd1fb4c8491155a2c63e8",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.3.tgz"
+			},
+			"deprecated": "There are known issues in prop-types < 15.5.7. Please update your prop-types dependency to use ^15.5.7 or higher.",
+			"_hasShrinkwrap": false
+		},
+		"15.5.4": {
+			"name": "prop-types",
+			"version": "15.5.4",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"babel-jest": "^19.0.0",
+				"babel-preset-react": "^6.24.1",
+				"browserify": "^14.3.0",
+				"envify": "^4.0.0",
+				"jest": "^19.0.2",
+				"react": "^15.5.1",
+				"uglifyjs": "^2.4.10"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2ed3692716a5060f8cc020946d8238e7419d92c0",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.4.tgz"
+			},
+			"deprecated": "There are known issues in prop-types < 15.5.7. Please update your prop-types dependency to use ^15.5.7 or higher.",
+			"_hasShrinkwrap": false
+		},
+		"15.5.5": {
+			"name": "prop-types",
+			"version": "15.5.5",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"babel-jest": "^19.0.0",
+				"babel-preset-react": "^6.24.1",
+				"browserify": "^14.3.0",
+				"envify": "^4.0.0",
+				"jest": "^19.0.2",
+				"react": "^15.5.1",
+				"uglifyjs": "^2.4.10"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6f9f99347da15e5dc5260632f28a84f7537ca02d",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.5.tgz"
+			},
+			"deprecated": "There are known issues in prop-types < 15.5.7. Please update your prop-types dependency to use ^15.5.7 or higher.",
+			"_hasShrinkwrap": false
+		},
+		"15.5.6": {
+			"name": "prop-types",
+			"version": "15.5.6",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"babel-jest": "^19.0.0",
+				"babel-preset-react": "^6.24.1",
+				"browserify": "^14.3.0",
+				"envify": "^4.0.0",
+				"jest": "^19.0.2",
+				"react": "^15.5.1",
+				"uglifyjs": "^2.4.10"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "797a915b1714b645ebb7c5d6cc690346205bd2aa",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.6.tgz"
+			},
+			"deprecated": "There are known issues in prop-types < 15.5.7. Please update your prop-types dependency to use ^15.5.7 or higher.",
+			"_hasShrinkwrap": false
+		},
+		"15.5.7-alpha": {
+			"name": "prop-types",
+			"version": "15.5.7-alpha",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"babel-jest": "^19.0.0",
+				"babel-preset-react": "^6.24.1",
+				"browserify": "^14.3.0",
+				"bundle-collapser": "^1.2.1",
+				"envify": "^4.0.0",
+				"jest": "^19.0.2",
+				"react": "^15.5.1",
+				"uglifyify": "^3.0.4",
+				"uglifyjs": "^2.4.10"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "030803566311a6c8772fa7f79da04feb913dd79a",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.7-alpha.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.7-alpha.1": {
+			"name": "prop-types",
+			"version": "15.5.7-alpha.1",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"babel-jest": "^19.0.0",
+				"babel-preset-react": "^6.24.1",
+				"browserify": "^14.3.0",
+				"bundle-collapser": "^1.2.1",
+				"envify": "^4.0.0",
+				"jest": "^19.0.2",
+				"react": "^15.5.1",
+				"uglifyify": "^3.0.4",
+				"uglifyjs": "^2.4.10"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3403122b39c1aa21f6e5dd1b944e06773f46cb01",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.7-alpha.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.7": {
+			"name": "prop-types",
+			"version": "15.5.7",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"babel-jest": "^19.0.0",
+				"babel-preset-react": "^6.24.1",
+				"browserify": "^14.3.0",
+				"bundle-collapser": "^1.2.1",
+				"envify": "^4.0.0",
+				"jest": "^19.0.2",
+				"react": "^15.5.1",
+				"uglifyify": "^3.0.4",
+				"uglifyjs": "^2.4.10"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "231c4f29cdd82e355011d4889386ca9059544dd1",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.8": {
+			"name": "prop-types",
+			"version": "15.5.8",
+			"dependencies": {
+				"fbjs": "^0.8.9"
+			},
+			"devDependencies": {
+				"babel-jest": "^19.0.0",
+				"babel-preset-react": "^6.24.1",
+				"browserify": "^14.3.0",
+				"bundle-collapser": "^1.2.1",
+				"envify": "^4.0.0",
+				"jest": "^19.0.2",
+				"react": "^15.5.1",
+				"uglifyify": "^3.0.4",
+				"uglifyjs": "^2.4.10"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6b7b2e141083be38c8595aa51fc55775c7199394",
+				"tarball": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "prop-types",
+	"dist-tags": {
+		"latest": "15.5.8",
+		"dev": "15.5.0-alpha.0",
+		"next": "15.5.7-alpha.1"
+	},
+	"modified": "2017-05-08T16:29:21.150Z",
+	"_etag": "W/\"59109ce1-1c67\"",
+	"_lastModified": "Mon, 08 May 2017 16:29:21 GMT"
+}

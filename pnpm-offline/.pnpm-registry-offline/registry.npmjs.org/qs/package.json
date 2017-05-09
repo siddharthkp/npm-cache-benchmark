@@ -1,0 +1,1310 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "qs",
+			"version": "0.0.1",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "ce6017433e83b67231af788c6eb00ba0dba3f964",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "qs",
+			"version": "0.0.2",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "b4a180d16b43d7f592128e9f6b609e3f225a8d7a",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "qs",
+			"version": "0.0.3",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "e16a190316d4eca7555c6d361f1aa9f1ff4ce124",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.0.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "qs",
+			"version": "0.0.4",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "5484dfa3cb8f58cca93ba1247d8a3015be0d9cfa",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.0.4.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "qs",
+			"version": "0.0.5",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "54e6adc62a8bfd1d837d81cd6bf1d68ff203aba5",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.0.5.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.6": {
+			"name": "qs",
+			"version": "0.0.6",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "481659b7e5bf6a5ea898010de5aed35eb469e124",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.0.6.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.7": {
+			"name": "qs",
+			"version": "0.0.7",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "7a85d1c3cd17ad9ba94211cbb24b57f88f75ec40",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.0.7.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "qs",
+			"version": "0.1.0",
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "9a0d2d70d01f63d3401ea4b050822601b462ee6b",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.1.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "qs",
+			"version": "0.2.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "b39234e77a55f6276a9ca305210db02304792487",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.2.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "qs",
+			"version": "0.3.0",
+			"dependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "502ec1168b8f778921c31d0e4351759bb97cfb84",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.3.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "qs",
+			"version": "0.3.1",
+			"dependencies": {},
+			"devDependencies": {
+				"expresso": "0.9.2",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "42871928506939d6b29d1b192f20e2a28b2c69f4",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.3.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "qs",
+			"version": "0.3.2",
+			"dependencies": {},
+			"devDependencies": {
+				"expresso": "0.9.2",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "099df444cab947bbadb2bfedda56d33519d6815c",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.3.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "qs",
+			"version": "0.4.0",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "32343c3df5937fcd46e10bd0521b31a01b062705",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.4.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "qs",
+			"version": "0.4.1",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bea85a35a4f29c80864db6e3955725d2594417a2",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.4.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "qs",
+			"version": "0.4.2",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3cac4c861e371a8c9c4770ac23cda8de639b8e5f",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.4.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "qs",
+			"version": "0.5.0",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fda53429faaa8a3a72f630941d4851144a24d34e",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.5.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "qs",
+			"version": "0.5.1",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9f6bf5d9ac6c76384e95d36d15b48980e5e4add0",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.5.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.2": {
+			"name": "qs",
+			"version": "0.5.2",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e5734acb7009fb918e800fd5c60c2f5b94a7ff43",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.5.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.3": {
+			"name": "qs",
+			"version": "0.5.3",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1f6a85d62780de8c0b3b8c1090e39e1c316f306f",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.5.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.4": {
+			"name": "qs",
+			"version": "0.5.4",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6f0f27c3e2df2fb10733c002695d0f7e9450df10",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.5.4.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.5": {
+			"name": "qs",
+			"version": "0.5.5",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b07f0d7ffe3efc6fc2fcde6c66a20775641423f3",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.5.5.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.6": {
+			"name": "qs",
+			"version": "0.5.6",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "31b1ad058567651c526921506b9a8793911a0384",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.5.6.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "qs",
+			"version": "0.6.0",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e3377a4fd406e45f5ba378fdd6b91c00a17fc0ce",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.6.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.1": {
+			"name": "qs",
+			"version": "0.6.1",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "37353130532742683ddf4aa1edc5661612a7cc7d",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.6.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.2": {
+			"name": "qs",
+			"version": "0.6.2",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "905c808930742348ad765bcc7a7445c08e4655ef",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.6.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.3": {
+			"name": "qs",
+			"version": "0.6.3",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a2a5ae9baa5d720d0f8cd0ca6bfad31398e33e99",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.6.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.4": {
+			"name": "qs",
+			"version": "0.6.4",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8d17ddcfc864ace3f03477382126740ef25b234f",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.6.4.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.5": {
+			"name": "qs",
+			"version": "0.6.5",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "294b268e4b0d4250f6dde19b3b8b34935dff14ef",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.6.5.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.6": {
+			"name": "qs",
+			"version": "0.6.6",
+			"devDependencies": {
+				"mocha": "*",
+				"expect.js": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6e015098ff51968b8a3c819001d5f2c89bc4b107",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-0.6.6.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "qs",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "544f2e30a836ea6b5f28326efb6661244d73de1e",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "qs",
+			"version": "1.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cd2edc5257070bcccac68715e855c4524be71ef1",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "qs",
+			"version": "1.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "50a93e2b5af6691c31bcea5dae78ee6ea1903768",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "qs",
+			"version": "1.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2845cd9df462b2db28a90370e142d492c5a45dde",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "qs",
+			"version": "1.2.0",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ed079be28682147e6fd9a34cc2b0c1e0ec6453ee",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "qs",
+			"version": "1.2.1",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "09d0872abc0d187910af0c793f31d0ce335c57f8",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-1.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.2": {
+			"name": "qs",
+			"version": "1.2.2",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "19b57ff24dc2a99ce1f8bdf6afcda59f8ef61f88",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-1.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "qs",
+			"version": "2.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "423344d2a1324a8eb721e27586d79518ff0787cf",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "qs",
+			"version": "2.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "959d7b2c89ecc3e2f8a4b2766b4fb00b25e36de5",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "qs",
+			"version": "2.2.0",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1c18d6eaba0e09a38984f2473a94dd03811f5634",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.1": {
+			"name": "qs",
+			"version": "2.2.1",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2ccc1a02b69108091f1d82de88a316ad94df9cce",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.2": {
+			"name": "qs",
+			"version": "2.2.2",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dfe783f1854b1ac2b3ade92775ad03e27e03218c",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.3": {
+			"name": "qs",
+			"version": "2.2.3",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "4.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6139c1f47960eff5655e56aab0ef9f6dd16d4eeb",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.4": {
+			"name": "qs",
+			"version": "2.2.4",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "4.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2e9fbcd34b540e3421c924ecd01e90aa975319c8",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.5": {
+			"name": "qs",
+			"version": "2.2.5",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "4.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1088abaf9dcc0ae5ae45b709e6c6b5888b23923c",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.2.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "qs",
+			"version": "2.3.0",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "4.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ea0c8161775cbb4f3673ad36571b5d5a3f3e72fb",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.1": {
+			"name": "qs",
+			"version": "2.3.1",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "4.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "24e448bc4ee726201995a3c0c768c3bf19494c1c",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.2": {
+			"name": "qs",
+			"version": "2.3.2",
+			"dependencies": {},
+			"devDependencies": {
+				"lab": "4.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d45ec249e4b9b029af008829a101d5ff7e972790",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.3": {
+			"name": "qs",
+			"version": "2.3.3",
+			"dependencies": {},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e9e85adbe75da0bbe4c8e0476a086290f863b404",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.3.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.0": {
+			"name": "qs",
+			"version": "2.4.0",
+			"dependencies": {},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "988dfa14e3ca66b54baa4b754e359f299486e212",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.1": {
+			"name": "qs",
+			"version": "2.4.1",
+			"dependencies": {},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "68cbaea971013426a80c1404fad6b1a6b1175245",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.2": {
+			"name": "qs",
+			"version": "2.4.2",
+			"dependencies": {},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f7ce788e5777df0b5010da7f7c4e73ba32470f5a",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-2.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "qs",
+			"version": "3.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^10.2.1",
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bd3b4549424f0960bd6923724eeb29e4ffbc2af8",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "qs",
+			"version": "3.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^10.2.1",
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d0e9ae745233a12dc43fb4f3055bba446261153c",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-3.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "qs",
+			"version": "4.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^10.2.1",
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c31d9b74ec27df75e543a86c78728ed8d4623607",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-4.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0": {
+			"name": "qs",
+			"version": "5.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^10.2.1",
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9e0dcfe32021927b3bca69ecbb9d7694fb9a97aa",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-5.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.1.0": {
+			"name": "qs",
+			"version": "5.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^10.2.1",
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4d932e5c7ea411cca76a312d39a606200fd50cd9",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-5.1.0.tgz"
+			},
+			"engines": ">=0.10.40",
+			"_hasShrinkwrap": false
+		},
+		"5.2.0": {
+			"name": "qs",
+			"version": "5.2.0",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^10.2.1",
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a9f31142af468cb72b25b30136ba2456834916be",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-5.2.0.tgz"
+			},
+			"engines": ">=0.10.40",
+			"_hasShrinkwrap": false
+		},
+		"6.0.0": {
+			"name": "qs",
+			"version": "6.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^10.2.1",
+				"code": "2.x.x",
+				"lab": "7.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "de99c0c58c54eae49fff949510672338691110e8",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.0.0.tgz"
+			},
+			"engines": ">=4.0.0",
+			"_hasShrinkwrap": false
+		},
+		"6.0.1": {
+			"name": "qs",
+			"version": "6.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^10.2.1",
+				"code": "2.x.x",
+				"lab": "7.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ee8b7fcd64fcbe6e36c922bd2c464ee7c54766c3",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.0.2": {
+			"name": "qs",
+			"version": "6.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^12.0.1",
+				"tape": "^4.3.0",
+				"covert": "^1.1.0",
+				"mkdirp": "^0.5.1",
+				"eslint": "^1.10.3",
+				"@ljharb/eslint-config": "^1.6.1",
+				"parallelshell": "^2.0.0",
+				"evalmd": "^0.0.16"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "88c68d590e8ed56c76c79f352c17b982466abfcd",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.1.0": {
+			"name": "qs",
+			"version": "6.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^12.0.1",
+				"tape": "^4.3.0",
+				"covert": "^1.1.0",
+				"mkdirp": "^0.5.1",
+				"eslint": "^1.10.3",
+				"@ljharb/eslint-config": "^1.6.1",
+				"parallelshell": "^2.0.0",
+				"evalmd": "^0.0.16"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ec1d1626b24278d99f0fdf4549e524e24eceeb26",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.2.0": {
+			"name": "qs",
+			"version": "6.2.0",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^13.0.1",
+				"tape": "^4.5.1",
+				"covert": "^1.1.0",
+				"mkdirp": "^0.5.1",
+				"eslint": "^2.9.0",
+				"@ljharb/eslint-config": "^4.0.0",
+				"parallelshell": "^2.0.0",
+				"iconv-lite": "^0.4.13",
+				"evalmd": "^0.0.17"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3b7848c03c2dece69a9522b0fae8c4126d745f3b",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.2.1": {
+			"name": "qs",
+			"version": "5.2.1",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^10.2.1",
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "801fee030e0b9450d6385adc48a4cc55b44aedfc",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-5.2.1.tgz"
+			},
+			"engines": ">=0.10.40",
+			"_hasShrinkwrap": false
+		},
+		"6.2.1": {
+			"name": "qs",
+			"version": "6.2.1",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^13.0.1",
+				"tape": "^4.6.0",
+				"covert": "^1.1.0",
+				"mkdirp": "^0.5.1",
+				"eslint": "^3.1.0",
+				"@ljharb/eslint-config": "^6.0.0",
+				"parallelshell": "^2.0.0",
+				"iconv-lite": "^0.4.13",
+				"qs-iconv": "^1.0.3",
+				"evalmd": "^0.0.17"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ce03c5ff0935bc1d9d69a9f14cbd18e568d67625",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.3.0": {
+			"name": "qs",
+			"version": "6.3.0",
+			"dependencies": {},
+			"devDependencies": {
+				"@ljharb/eslint-config": "^8.0.0",
+				"browserify": "^13.1.0",
+				"covert": "^1.1.0",
+				"eslint": "^3.8.0",
+				"evalmd": "^0.0.17",
+				"iconv-lite": "^0.4.13",
+				"mkdirp": "^0.5.1",
+				"parallelshell": "^2.0.0",
+				"qs-iconv": "^1.0.3",
+				"safe-publish-latest": "^1.1.1",
+				"tape": "^4.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f403b264f23bc01228c74131b407f18d5ea5d442",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.3.1": {
+			"name": "qs",
+			"version": "6.3.1",
+			"dependencies": {},
+			"devDependencies": {
+				"@ljharb/eslint-config": "^11.0.0",
+				"browserify": "^14.1.0",
+				"covert": "^1.1.0",
+				"eslint": "^3.15.0",
+				"evalmd": "^0.0.17",
+				"iconv-lite": "^0.4.15",
+				"mkdirp": "^0.5.1",
+				"parallelshell": "^2.0.0",
+				"qs-iconv": "^1.0.4",
+				"safe-publish-latest": "^1.1.1",
+				"tape": "^4.6.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "918c0b3bcd36679772baf135b1acb4c1651ed79d",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.3.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.1.1": {
+			"name": "qs",
+			"version": "6.1.1",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^12.0.1",
+				"tape": "^4.3.0",
+				"covert": "^1.1.0",
+				"mkdirp": "^0.5.1",
+				"eslint": "^1.10.3",
+				"@ljharb/eslint-config": "^1.6.1",
+				"parallelshell": "^2.0.0",
+				"evalmd": "^0.0.16"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9e671fca6df2881dde2e2922479f659752baad45",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.0.3": {
+			"name": "qs",
+			"version": "6.0.3",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^12.0.1",
+				"tape": "^4.3.0",
+				"covert": "^1.1.0",
+				"mkdirp": "^0.5.1",
+				"eslint": "^1.10.3",
+				"@ljharb/eslint-config": "^1.6.1",
+				"parallelshell": "^2.0.0",
+				"evalmd": "^0.0.16"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "95f870b23e70268fba18704e80667515905af06c",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.0.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.2.2": {
+			"name": "qs",
+			"version": "6.2.2",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^13.0.1",
+				"tape": "^4.6.0",
+				"covert": "^1.1.0",
+				"mkdirp": "^0.5.1",
+				"eslint": "^3.1.0",
+				"@ljharb/eslint-config": "^6.0.0",
+				"parallelshell": "^2.0.0",
+				"iconv-lite": "^0.4.13",
+				"qs-iconv": "^1.0.3",
+				"evalmd": "^0.0.17"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d506a5ad5b2cae1fd35c4f54ec182e267e3ef586",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.2.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.4.0": {
+			"name": "qs",
+			"version": "6.4.0",
+			"dependencies": {},
+			"devDependencies": {
+				"@ljharb/eslint-config": "^11.0.0",
+				"browserify": "^14.1.0",
+				"covert": "^1.1.0",
+				"eslint": "^3.17.0",
+				"evalmd": "^0.0.17",
+				"iconv-lite": "^0.4.15",
+				"mkdirp": "^0.5.1",
+				"parallelshell": "^2.0.0",
+				"qs-iconv": "^1.0.4",
+				"safe-publish-latest": "^1.1.1",
+				"tape": "^4.6.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "13e26d28ad6b0ffaa91312cd3bf708ed351e7233",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.4.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.3.2": {
+			"name": "qs",
+			"version": "6.3.2",
+			"dependencies": {},
+			"devDependencies": {
+				"@ljharb/eslint-config": "^11.0.0",
+				"browserify": "^14.1.0",
+				"covert": "^1.1.0",
+				"eslint": "^3.17.0",
+				"evalmd": "^0.0.17",
+				"iconv-lite": "^0.4.15",
+				"mkdirp": "^0.5.1",
+				"parallelshell": "^2.0.0",
+				"qs-iconv": "^1.0.4",
+				"safe-publish-latest": "^1.1.1",
+				"tape": "^4.6.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e75bd5f6e268122a2a0e0bda630b2550c166502c",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.3.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.2.3": {
+			"name": "qs",
+			"version": "6.2.3",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^13.0.1",
+				"tape": "^4.6.0",
+				"covert": "^1.1.0",
+				"mkdirp": "^0.5.1",
+				"eslint": "^3.1.0",
+				"@ljharb/eslint-config": "^6.0.0",
+				"parallelshell": "^2.0.0",
+				"iconv-lite": "^0.4.13",
+				"qs-iconv": "^1.0.3",
+				"evalmd": "^0.0.17"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1cfcb25c10a9b2b483053ff39f5dfc9233908cfe",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.2.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.1.2": {
+			"name": "qs",
+			"version": "6.1.2",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^12.0.1",
+				"tape": "^4.3.0",
+				"covert": "^1.1.0",
+				"mkdirp": "^0.5.1",
+				"eslint": "^1.10.3",
+				"@ljharb/eslint-config": "^1.6.1",
+				"parallelshell": "^2.0.0",
+				"evalmd": "^0.0.16"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b59d8925d0c999ef6d63acf4ac5abb0adaa24b54",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.0.4": {
+			"name": "qs",
+			"version": "6.0.4",
+			"dependencies": {},
+			"devDependencies": {
+				"browserify": "^12.0.1",
+				"tape": "^4.3.0",
+				"covert": "^1.1.0",
+				"mkdirp": "^0.5.1",
+				"eslint": "^1.10.3",
+				"@ljharb/eslint-config": "^1.6.1",
+				"parallelshell": "^2.0.0",
+				"evalmd": "^0.0.16"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "51019d84720c939b82737e84556a782338ecea7b",
+				"tarball": "https://registry.npmjs.org/qs/-/qs-6.0.4.tgz"
+			},
+			"engines": {
+				"node": ">=0.6"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "qs",
+	"dist-tags": {
+		"latest": "6.4.0",
+		"v5.x-latest": "5.2.1"
+	},
+	"modified": "2017-05-03T08:18:35.805Z",
+	"_etag": "W/\"5909925b-580e\"",
+	"_lastModified": "Wed, 03 May 2017 08:18:35 GMT"
+}

@@ -1,0 +1,221 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "rw",
+			"version": "0.0.1",
+			"directories": {},
+			"dist": {
+				"shasum": "25735d1da1da7f744685a5bb24203b2f5395c94a",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "rw",
+			"version": "0.0.2",
+			"directories": {},
+			"dist": {
+				"shasum": "b6b376ffde2b0f1e579a80cf4e6172e00b429e79",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "rw",
+			"version": "0.0.3",
+			"directories": {},
+			"dist": {
+				"shasum": "b5301f0abe1cc491a998faf05a59dc475bc7ae2c",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "rw",
+			"version": "0.0.4",
+			"directories": {},
+			"dist": {
+				"shasum": "de27b1ed5b9175772eaa22a79662510bd0598c4c",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.8": {
+			"name": "rw",
+			"version": "0.0.8",
+			"directories": {},
+			"dist": {
+				"shasum": "7b88442871b72403638b8716458847aad09813a1",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.0.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.10": {
+			"name": "rw",
+			"version": "0.0.10",
+			"directories": {},
+			"dist": {
+				"shasum": "bdeb860fb476d08b0a326c67a37c5e8d2845a3d0",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.0.10.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "rw",
+			"version": "0.1.0",
+			"directories": {},
+			"dist": {
+				"shasum": "c0d44c3bd70a0b8da1b6a92421ebea48426be633",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "rw",
+			"version": "0.1.1",
+			"directories": {},
+			"dist": {
+				"shasum": "eb36f850962a114641f54335689ac28b8ffa6a14",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "rw",
+			"version": "0.1.2",
+			"directories": {},
+			"dist": {
+				"shasum": "e24f86a446200688617ed0fd469731e57bd59b99",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "rw",
+			"version": "0.1.3",
+			"directories": {},
+			"dist": {
+				"shasum": "a095e9dec70ecf6760c1e6e290c83ca498493715",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.4": {
+			"name": "rw",
+			"version": "0.1.4",
+			"directories": {},
+			"dist": {
+				"shasum": "4903cbd80248ae0ede685bf58fd236a7a9b29a3e",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-0.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "rw",
+			"version": "1.0.0",
+			"directories": {},
+			"dist": {
+				"shasum": "1e638315ee1fb80fd83827d3b12a07778740d3f5",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "rw",
+			"version": "1.1.0",
+			"directories": {},
+			"dist": {
+				"shasum": "b4fdae659183b66a03fff6b673bf8bce6f9bf5c0",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "rw",
+			"version": "1.1.1",
+			"devDependencies": {
+				"d3-queue": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "413644087ebc269a83a5d66b8dfb8606c2d531ad",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-1.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "rw",
+			"version": "1.2.0",
+			"devDependencies": {
+				"d3-queue": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "70b6bcd4a85b68951ff4afa56a63b82ff4560891",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-1.2.0.tgz"
+			},
+			"deprecated": "Replaced by rw@1.3.0.",
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "rw",
+			"version": "1.3.0",
+			"devDependencies": {
+				"d3-queue": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "540a82a442dbf89df6caf64cb4565deb643e82ae",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-1.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.1": {
+			"name": "rw",
+			"version": "1.3.1",
+			"devDependencies": {
+				"d3-queue": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fc9b96b39816d8f40f3abcaec38baa41043ad059",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-1.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.2": {
+			"name": "rw",
+			"version": "1.3.2",
+			"devDependencies": {
+				"d3-queue": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "14ef5137ff7547c73ecf0e0af1f0aee07e5401ee",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-1.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.3": {
+			"name": "rw",
+			"version": "1.3.3",
+			"devDependencies": {
+				"d3-queue": "3",
+				"eslint": "3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3f862dfa91ab766b14885ef4d01124bfda074fb4",
+				"tarball": "https://registry.npmjs.org/rw/-/rw-1.3.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "rw",
+	"dist-tags": {
+		"latest": "1.3.3"
+	},
+	"modified": "2017-01-20T17:13:07.806Z",
+	"_etag": "W/\"58824523-1018\"",
+	"_lastModified": "Fri, 20 Jan 2017 17:13:07 GMT"
+}

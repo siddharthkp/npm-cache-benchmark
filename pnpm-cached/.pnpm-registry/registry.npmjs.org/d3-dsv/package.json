@@ -1,0 +1,623 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "d3-dsv",
+			"version": "0.1.0",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7b2f1a114df46c00370750e89572bf6ede318a80",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "d3-dsv",
+			"version": "0.1.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "11dd20f3fe1a95f147e8eecf663cf1a47632146c",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "d3-dsv",
+			"version": "0.1.2",
+			"dependencies": {
+				"rw": "~0.1.4"
+			},
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8b81155c0bf8f0913332a184e82f346652d55e34",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "d3-dsv",
+			"version": "0.1.3",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9deabf08552e7a56d7a65cc5039d0410e9c4713b",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.5": {
+			"name": "d3-dsv",
+			"version": "0.1.5",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "882e5eb557d98ecba6897d73540a846e036301da",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.6": {
+			"name": "d3-dsv",
+			"version": "0.1.6",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "17aed56c32a7982d69409182b85208d400651bdb",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.7": {
+			"name": "d3-dsv",
+			"version": "0.1.7",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0515a4a6f4325681816866ec8f2c3c5c7a9739bc",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.8": {
+			"name": "d3-dsv",
+			"version": "0.1.8",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d1fe56c3ad473b6e0bfbab9c572e5a688ea797fa",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.9": {
+			"name": "d3-dsv",
+			"version": "0.1.9",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6b376840eb00e0a8ca7f9df27e9c44468f5e50aa",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.9.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.10": {
+			"name": "d3-dsv",
+			"version": "0.1.10",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fd4eb3190c97ace76e83fcecaf6dbc4b6510033c",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.10.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.11": {
+			"name": "d3-dsv",
+			"version": "0.1.11",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7fa1e1828f5519119b8a161893fa7968e042e4c4",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.11.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.12": {
+			"name": "d3-dsv",
+			"version": "0.1.12",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3dd15b52a5901c6501731b850b78bd13f11328b4",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.12.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.13": {
+			"name": "d3-dsv",
+			"version": "0.1.13",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c58cca3af114aebebe90ecd1e63dc18427e43ce9",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.13.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.14": {
+			"name": "d3-dsv",
+			"version": "0.1.14",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9833cd61a5a3e81e03263a1ce78f74de56a1dbb8",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.1.14.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-dsv",
+			"version": "0.2.0",
+			"dependencies": {
+				"rw": "~1.1.1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "70d8049f5b8c62b83e3e3483df89c7a2716dfb9e",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-dsv",
+			"version": "0.3.0",
+			"dependencies": {
+				"rw": "~1.1.1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a82ca655cfc3dd0f1e6dac150299f0d7aa4f1860",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-dsv",
+			"version": "0.3.1",
+			"dependencies": {
+				"rw": "1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a301f76c85890db383f3b30f8bb9469fafb1ada8",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "d3-dsv",
+			"version": "0.3.2",
+			"dependencies": {
+				"rw": "1"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4699f8288d0252dcc671a909ab815ac633188d1d",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-dsv",
+			"version": "0.4.0",
+			"dependencies": {
+				"rw": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3f18ca78f7e6d2288ab781c1502f8e486cfd2d83",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-dsv",
+			"version": "1.0.0",
+			"dependencies": {
+				"rw": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "45142f4d84ffb6220ef09c177b62fe7f2281a813",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-dsv",
+			"version": "1.0.1",
+			"dependencies": {
+				"rw": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d495347c04cb1e0d26557bbdc4775c4d11a245ea",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-dsv",
+			"version": "1.0.2",
+			"dependencies": {
+				"commander": "2",
+				"iconv-lite": "0.4",
+				"rw": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2tsv": "./bin/csv2tsv",
+				"csv2json": "./bin/csv2json",
+				"tsv2csv": "./bin/tsv2csv",
+				"tsv2json": "./bin/tsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6ec9176e6066ab8442a062f3443e37b374a6ddc7",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-dsv",
+			"version": "1.0.3",
+			"dependencies": {
+				"commander": "2",
+				"iconv-lite": "0.4",
+				"rw": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2json": "bin/dsv2json",
+				"csv2tsv": "bin/dsv2dsv",
+				"dsv2dsv": "bin/dsv2dsv",
+				"dsv2json": "bin/dsv2json",
+				"json2csv": "bin/json2dsv",
+				"json2dsv": "bin/json2dsv",
+				"json2tsv": "bin/json2dsv",
+				"tsv2csv": "bin/dsv2dsv",
+				"tsv2json": "bin/dsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "049fe43c0f5f60c7ff7d376616bc76d6fc9d378f",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "d3-dsv",
+			"version": "1.0.4",
+			"dependencies": {
+				"commander": "2",
+				"iconv-lite": "0.4",
+				"rw": "1"
+			},
+			"devDependencies": {
+				"csv-spectrum": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"bin": {
+				"csv2json": "bin/dsv2json",
+				"csv2tsv": "bin/dsv2dsv",
+				"dsv2dsv": "bin/dsv2dsv",
+				"dsv2json": "bin/dsv2json",
+				"json2csv": "bin/json2dsv",
+				"json2dsv": "bin/json2dsv",
+				"json2tsv": "bin/json2dsv",
+				"tsv2csv": "bin/dsv2dsv",
+				"tsv2json": "bin/dsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2f491bcf00729d9ee6734f7cfb7049ddcc5e981d",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "d3-dsv",
+			"version": "1.0.5",
+			"dependencies": {
+				"commander": "2",
+				"iconv-lite": "0.4",
+				"rw": "1"
+			},
+			"devDependencies": {
+				"csv-spectrum": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"bin": {
+				"csv2json": "bin/dsv2json",
+				"csv2tsv": "bin/dsv2dsv",
+				"dsv2dsv": "bin/dsv2dsv",
+				"dsv2json": "bin/dsv2json",
+				"json2csv": "bin/json2dsv",
+				"json2dsv": "bin/json2dsv",
+				"json2tsv": "bin/json2dsv",
+				"tsv2csv": "bin/dsv2dsv",
+				"tsv2json": "bin/dsv2json"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "419f7db47f628789fc3fdb636e678449d0821136",
+				"tarball": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-1.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-dsv",
+	"dist-tags": {
+		"latest": "1.0.5"
+	},
+	"modified": "2017-03-10T18:08:31.214Z",
+	"_etag": "W/\"58c2eb9f-2b80\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:08:31 GMT"
+}

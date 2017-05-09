@@ -1,0 +1,291 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "d3-voronoi",
+			"version": "0.0.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bdb0b200a7a3df25818698656648fd665c97a6a0",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-voronoi",
+			"version": "0.0.2",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "82546e9ff1850d09383ea0c846ca32a4c82b3e5d",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "d3-voronoi",
+			"version": "0.0.3",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "82b06014800056e631ffca7941b2ce3e54450077",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-voronoi",
+			"version": "0.1.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "36447da3c31b5d47015647f9c1ef0b8df42645ee",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-voronoi",
+			"version": "0.2.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6b16d0df8593f0e67ce21881a947486082ca8d95",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-voronoi",
+			"version": "0.2.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5eb4c5bfeb46ce8e42d15b925a00a2991c88afbd",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-voronoi",
+			"version": "0.3.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.24",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d0ad9c5633a089b8c0901234e4159a2df89322b9",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-voronoi",
+			"version": "0.3.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5bc77af4adbab36f3e026864fb33605d3bdfac2b",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "d3-voronoi",
+			"version": "0.3.2",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b8acec654ed6af388096a43d957fc21cd2238682",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.3": {
+			"name": "d3-voronoi",
+			"version": "0.3.3",
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1bc4bd41da679ad8c097986673627d04f74c06f3",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.3.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-voronoi",
+			"version": "0.4.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "be32afe72b8196a0a7bed20b6bff1a7d43f2fe15",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-voronoi",
+			"version": "1.0.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "118a02d765e2e304cb242798902d07d1a267f827",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-voronoi",
+			"version": "1.0.1",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "51867633ab2bc20490f4039f89085d0c4dca99b3",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-voronoi",
+			"version": "1.0.2",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "09b1a3a7891c4ed8376d9ffdb2e770430f3f55c3",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "d3-voronoi",
+			"version": "1.1.0",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "69ea59563cf1e75d1c6c45edc803c6583768f628",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "d3-voronoi",
+			"version": "1.1.1",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.40",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "998544dca98ef0e89a6c40c0bac3510d1bc1b8b9",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-1.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "d3-voronoi",
+			"version": "1.1.2",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1687667e8f13a2d158c80c1480c5a29cb0d8973c",
+				"tarball": "https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-1.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-voronoi",
+	"dist-tags": {
+		"latest": "1.1.2"
+	},
+	"modified": "2017-03-10T18:23:22.568Z",
+	"_etag": "W/\"58c2ef1a-1520\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:23:22 GMT"
+}

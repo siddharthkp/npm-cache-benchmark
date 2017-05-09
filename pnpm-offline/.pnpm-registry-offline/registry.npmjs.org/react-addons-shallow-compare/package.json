@@ -1,0 +1,849 @@
+{
+	"versions": {
+		"0.14.0-beta1": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.0-beta1",
+			"peerDependencies": {
+				"react": "^0.14.0-beta1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "820f6bc604686bbac45359e72e3392465aa86160",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.0-beta1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.0-beta2": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.0-beta2",
+			"peerDependencies": {
+				"react": "^0.14.0-beta2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a408a293e985507b23e931e47ea16dfe90c5f191",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.0-beta2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.0-beta3": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.0-beta3",
+			"peerDependencies": {
+				"react": "^0.14.0-beta3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "69d5a50275f5321e5da3d2836c3fbfa308e30ba3",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.0-beta3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.0-rc1": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.0-rc1",
+			"peerDependencies": {
+				"react": "^0.14.0-rc1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "51e99604b48ca5c26fdd078050adb7096640ad40",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.0-rc1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.0": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.0",
+			"peerDependencies": {
+				"react": "^0.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5206ae0acb8b0bde3e024749e5a3c3b23084ba80",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.1",
+			"peerDependencies": {
+				"react": "^0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fea5aef8d5e245a8ec575230c52b39a2b1f809a2",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.2",
+			"peerDependencies": {
+				"react": "^0.14.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "669fb3da5606e90d3f2e8125c70fce641f716f3d",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.3": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.3",
+			"peerDependencies": {
+				"react": "^0.14.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f6a41b9354877cb49fe36434a6a1930693e7de64",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.4": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.4",
+			"peerDependencies": {
+				"react": "^0.14.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1e299c9c4b458a7345f5a37ead86753d8d8b4678",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.5": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.5",
+			"peerDependencies": {
+				"react": "^0.14.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "db6b2f2ae9e7b250aa8a45adbad6a93ee1b96f6a",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.6": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.6",
+			"peerDependencies": {
+				"react": "^0.14.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5bd01a7c3738a97e401cf0890760113e57bf7496",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.15.0-alpha.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.15.0-alpha.1",
+			"peerDependencies": {
+				"react": "^0.15.0-alpha.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "44e43e5ea85fbd18290dafe0c52a4ba0efd61747",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.15.0-alpha.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.7": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.7",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^0.14.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1c43dcde4024761f12fe848af49ae2eb7e2b5093",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.0-rc.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.0-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.0-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b8b53353e0b86ea96fa0d5aea764c10c277621f3",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.0-rc.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.0-rc.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.0-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "607edc2c185cf70996812675d5b78422dae5cc9d",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.8": {
+			"name": "react-addons-shallow-compare",
+			"version": "0.14.8",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^0.14.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1f26533d78cadabf4639756ec0dae5ab45427a74",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-0.14.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.0": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.0",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "532ba06fe27bf01e1ed7809685797df5b8c1a49a",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bd37a6aca140b8897c85126e7ed5bdf189424682",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.2-alpha.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.2-alpha.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.2-alpha.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "05bf0a7aa29a4cefc916365c782d7103ed87985c",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.2-alpha.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.2-alpha.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.2-alpha.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.2-alpha.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f0ce9ae63a34edfb71cefcb2dde7293c8724e4d3",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.2-alpha.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.2-alpha.3": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.2-alpha.3",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.2-alpha.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c3e5cd8203898bc68cfc981a3fedd31622cebd73",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.2-alpha.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.2-alpha.4": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.2-alpha.4",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.2-alpha.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5d0c9f0820a0da32b985da27e00e883223ac2554",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.2-alpha.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d61242402f96840163e29206561da13175a6bf24",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.3-alpha.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.3-alpha.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.3-alpha.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ba9c22889eb907b97110bd8815676aedacc2b96c",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.3-alpha.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.3-alpha.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.0.3-alpha.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.3-alpha.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c630dd0bc7e6e8336a3b0bc50054e55d3e66a903",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.0.3-alpha.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.1.0-alpha.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.1.0-alpha.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.1.0-alpha.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2e27228b6d1bd3fc287276d880339d7698f26244",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.1.0-alpha.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.1.0": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.1.0",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "39446525acc631fd3fa0fe3f8744460239cb6fca",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.2.0-rc.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.2.0-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.2.0-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a3cd3f6c9e194c90b36486e019d3fbe9c5f79506",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.2.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.2.0-rc.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.2.0-rc.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.2.0-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c6c82027973e293f160acd55992e2ddb5e29d011",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.2.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.2.0": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.2.0",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cfdb15f3d2863dfce92a8fc988caa5020816d0a4",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.2.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.2.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.2.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b7b6b52e94a3f7c5185c2d4a258eb7e9cd7e963a",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.0-rc.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.3.0-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.0-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1438198e8f6f7440a9745e2d1942b92235b40520",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.3.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.0-rc.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.3.0-rc.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.0-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c23159a9b43ab6de658450a7b111fb0d421e581e",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.3.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.0-rc.3": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.3.0-rc.3",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.0-rc.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "611db2119fdfd72544f08c72618fe44b538a3f6f",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.3.0-rc.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.0": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.3.0",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4a411935a1cf07cea98e0e1cb22732293febfa34",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.1-rc.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.3.1-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.1-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8797208459cc309e6b5e3d46e0196ec1e496b996",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.3.1-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.1-rc.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.3.1-rc.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.1-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "893b4e1a91a4f5cbae60929c97c6846517453d5d",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.3.1-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.3.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "06697c97b44b27e28bcc9205e555ff55200b7092",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.2-rc.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.3.2-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.2-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e92c0c0ddae844109dc184de96f4a585fff88d15",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.3.2-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.3.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c9edba49b9eab44d0c59024d289beb1ab97318b5",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.0-rc.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.4.0-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.4.0-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ce26732662409b3dd152f5428641aaa8f40df8af",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.4.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.0-rc.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.4.0-rc.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.4.0-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e8fb25d0e2172cbb322b09c9e3141a417cd47551",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.4.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.0-rc.3": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.4.0-rc.3",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.4.0-rc.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7da910a1fda70bfda1fe8d9f31885387ba49597b",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.4.0-rc.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.0-rc.4": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.4.0-rc.4",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.4.0-rc.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "deeddaf3537dc11d56ca0b70a827fb41cb7ee40c",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.4.0-rc.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.0": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.4.0",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "17b2cced1928937bbcdb4832fb200bc34bd47871",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.4.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.4.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b68103dd4d13144cb221065f6021de1822bd435a",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.4.2",
+			"dependencies": {
+				"fbjs": "^0.8.4",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^15.4.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "027ffd9720e3a1e0b328dcd8fc62e214a0d174a5",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha": {
+			"name": "react-addons-shallow-compare",
+			"version": "16.0.0-alpha",
+			"dependencies": {
+				"fbjs": "^0.8.4",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eebb4e4064f5ba2f3c2bb93ce293d373d829e148",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-16.0.0-alpha.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.0": {
+			"name": "react-addons-shallow-compare",
+			"version": "16.0.0-alpha.0",
+			"dependencies": {
+				"fbjs": "^0.8.4",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1e12bdf448026955682a2237e577ea6b1df2ca7e",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-16.0.0-alpha.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "16.0.0-alpha.2",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a5848da5c577e9c330bff8fcbf3ec6f9885227eb",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-16.0.0-alpha.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.3": {
+			"name": "react-addons-shallow-compare",
+			"version": "16.0.0-alpha.3",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "487e23fecf57c84dd79210162b509a940cccdcc4",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-16.0.0-alpha.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.0-alpha.0": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.5.0-alpha.0",
+			"dependencies": {
+				"fbjs": "^0.8.4",
+				"object-assign": "^4.1.0"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^16.0.0-alpha.4",
+				"react-addons-test-utils": "^16.0.0-alpha.3",
+				"react-dom": "^16.0.0-alpha.4"
+			},
+			"peerDependencies": {
+				"react": "^15.5.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c19da4ec4b14691f299812e55b1d980b34960b76",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.5.0-alpha.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.0": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.5.0",
+			"dependencies": {
+				"fbjs": "^0.8.4",
+				"object-assign": "^4.1.0"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^16.0.0-alpha.6",
+				"react-addons-test-utils": "^16.0.0-alpha.3",
+				"react-dom": "^16.0.0-alpha.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4d95c68a5537ccb75f395169b64db1745617fab5",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.0-rc.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.5.0-rc.1",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^15.5.0-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fa2d80f749a8b0b1be765eb4b9e5876629b8a5ac",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.5.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.0-rc.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.5.0-rc.2",
+			"dependencies": {
+				"fbjs": "^0.8.4",
+				"object-assign": "^4.1.0"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^15.4.2",
+				"react-addons-test-utils": "^15.4.2",
+				"react-dom": "^15.4.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "83ab613feec38124729ab2739b9fd712d88b12d3",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.5.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.1": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.5.1",
+			"dependencies": {
+				"fbjs": "^0.8.4",
+				"object-assign": "^4.1.0"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^15.4.2",
+				"react-addons-test-utils": "^15.4.2",
+				"react-dom": "^15.4.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4cd195d72efe7790dee532b37b50473dca9c9fc6",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.2": {
+			"name": "react-addons-shallow-compare",
+			"version": "15.5.2",
+			"dependencies": {
+				"fbjs": "^0.8.4",
+				"object-assign": "^4.1.0"
+			},
+			"devDependencies": {
+				"jest": "^19.0.2",
+				"react": "^15.4.2",
+				"react-addons-test-utils": "^15.4.2",
+				"react-dom": "^15.4.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7cb0ee7acc8d7c93fcc202df0bf47ba916a7bdad",
+				"tarball": "https://registry.npmjs.org/react-addons-shallow-compare/-/react-addons-shallow-compare-15.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "react-addons-shallow-compare",
+	"dist-tags": {
+		"latest": "15.5.2",
+		"dev": "15.5.0-rc.2"
+	},
+	"modified": "2017-04-09T03:22:52.321Z",
+	"_etag": "W/\"58e9a90c-512a\"",
+	"_lastModified": "Sun, 09 Apr 2017 03:22:52 GMT"
+}

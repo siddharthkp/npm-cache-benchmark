@@ -1,0 +1,88 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "warning",
+			"version": "1.0.0",
+			"directories": {},
+			"dist": {
+				"shasum": "fdb5867eac00ce17214686a4efe6617d5c8e2aa8",
+				"tarball": "https://registry.npmjs.org/warning/-/warning-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "warning",
+			"version": "1.0.1",
+			"directories": {},
+			"dist": {
+				"shasum": "58e9b758c0c79c10f8b13984a43c9195ec3e6f50",
+				"tarball": "https://registry.npmjs.org/warning/-/warning-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "warning",
+			"version": "1.0.2",
+			"directories": {},
+			"dist": {
+				"shasum": "5716cfb37147b4534b3e164480afffa6a255f0d9",
+				"tarball": "https://registry.npmjs.org/warning/-/warning-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "warning",
+			"version": "2.0.0",
+			"dependencies": {
+				"envify": "^3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "34235ed1061fbe75fff52fd9be23d730d9b4b6e0",
+				"tarball": "https://registry.npmjs.org/warning/-/warning-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "warning",
+			"version": "2.1.0",
+			"dependencies": {
+				"loose-envify": "^1.0.0"
+			},
+			"devDependencies": {
+				"browserify": "^11.0.1",
+				"tap": "^1.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "21220d9c63afc77a8c92111e011af705ce0c6901",
+				"tarball": "https://registry.npmjs.org/warning/-/warning-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "warning",
+			"version": "3.0.0",
+			"dependencies": {
+				"loose-envify": "^1.0.0"
+			},
+			"devDependencies": {
+				"browserify": "^11.0.1",
+				"tap": "^1.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "32e5377cb572de4ab04753bdf8821c01ed605b7c",
+				"tarball": "https://registry.npmjs.org/warning/-/warning-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "warning",
+	"dist-tags": {
+		"latest": "3.0.0"
+	},
+	"modified": "2016-10-17T14:49:53.962Z",
+	"_etag": "W/\"5804e511-64b\"",
+	"_lastModified": "Mon, 17 Oct 2016 14:49:53 GMT"
+}

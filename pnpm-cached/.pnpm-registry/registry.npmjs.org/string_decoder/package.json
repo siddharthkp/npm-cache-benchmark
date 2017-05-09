@@ -1,0 +1,140 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "string_decoder",
+			"version": "0.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~1.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e185bd651285845d5599d23cf7bff58dd4ad7c18",
+				"tarball": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "string_decoder",
+			"version": "0.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.4.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f5472d0a8d1650ec823752d24e6fd627b39bf141",
+				"tarball": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.24": {
+			"name": "string_decoder",
+			"version": "0.10.24",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.4.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6902abf7be76f35e9c92292583328ba4c07e86c3",
+				"tarball": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.24.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.11.10": {
+			"name": "string_decoder",
+			"version": "0.11.10",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.4.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f0a31205d59b2f1f2e90fdd5032d670a5f9ecf4a",
+				"tarball": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.11.10.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.25": {
+			"name": "string_decoder",
+			"version": "0.10.25",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.4.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "668c9da4f8efbdc937a4a6b6bf1cfbec4e9a82e2",
+				"tarball": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.25.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.11.10-1": {
+			"name": "string_decoder",
+			"version": "0.11.10-1",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.4.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eb35282cf4612b6e5662fb411b7deeabaa757468",
+				"tarball": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.11.10-1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.25-1": {
+			"name": "string_decoder",
+			"version": "0.10.25-1",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.4.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f387babd95d23a2bb73b1fbf2cb3efab6f78baab",
+				"tarball": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.25-1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.31": {
+			"name": "string_decoder",
+			"version": "0.10.31",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.4.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "62e203bc41766c6c28c9fc84301dab1c5310fa94",
+				"tarball": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.31.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "string_decoder",
+			"version": "1.0.0",
+			"dependencies": {
+				"buffer-shims": "~1.0.0"
+			},
+			"devDependencies": {
+				"babel-polyfill": "^6.23.0",
+				"tap": "~0.4.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f06f41157b664d86069f84bdbdc9b0d8ab281667",
+				"tarball": "https://registry.npmjs.org/string_decoder/-/string_decoder-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "string_decoder",
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"modified": "2017-04-06T13:38:19.155Z",
+	"_etag": "W/\"58e644cb-ae5\"",
+	"_lastModified": "Thu, 06 Apr 2017 13:38:19 GMT"
+}

@@ -1,0 +1,71 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "stringstream",
+			"version": "0.0.0",
+			"directories": {},
+			"dist": {
+				"shasum": "4228912fb3a96ca3254b233359df50f9da804e1e",
+				"tarball": "https://registry.npmjs.org/stringstream/-/stringstream-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "stringstream",
+			"version": "0.0.1",
+			"directories": {},
+			"dist": {
+				"shasum": "93c24069089395a0a095222ce032aaf453d71f45",
+				"tarball": "https://registry.npmjs.org/stringstream/-/stringstream-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "stringstream",
+			"version": "0.0.2",
+			"directories": {},
+			"dist": {
+				"shasum": "663f1171cd94d7951b14074037a622b92bde8669",
+				"tarball": "https://registry.npmjs.org/stringstream/-/stringstream-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "stringstream",
+			"version": "0.0.3",
+			"directories": {},
+			"dist": {
+				"shasum": "db9412bd6d349058a437dd483dfabc65b4578b48",
+				"tarball": "https://registry.npmjs.org/stringstream/-/stringstream-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "stringstream",
+			"version": "0.0.4",
+			"directories": {},
+			"dist": {
+				"shasum": "0f0e3423f942960b5692ac324a57dd093bc41a92",
+				"tarball": "https://registry.npmjs.org/stringstream/-/stringstream-0.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "stringstream",
+			"version": "0.0.5",
+			"directories": {},
+			"dist": {
+				"shasum": "4e484cd4de5a0bbbee18e46307710a8a81621878",
+				"tarball": "https://registry.npmjs.org/stringstream/-/stringstream-0.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "stringstream",
+	"dist-tags": {
+		"latest": "0.0.5"
+	},
+	"modified": "2017-02-20T19:24:55.153Z",
+	"_etag": "W/\"58ab4287-5c1\"",
+	"_lastModified": "Mon, 20 Feb 2017 19:24:55 GMT"
+}

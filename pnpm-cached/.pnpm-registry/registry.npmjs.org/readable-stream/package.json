@@ -1,0 +1,1298 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "readable-stream",
+			"version": "0.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f3efb2ca59b6e7c615f14a2e935ffdd042a46845",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "readable-stream",
+			"version": "0.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cce59fac644aac782792573201ebb346b257717f",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "readable-stream",
+			"version": "0.0.3",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f2fbbe635e3455bf1c7ea05c5e2ed8bf7eb8de62",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "readable-stream",
+			"version": "0.0.4",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f32d76e3fb863344a548d79923007173665b3b8d",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-0.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "readable-stream",
+			"version": "0.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "35476301be1584653b5a0101f288cd40b33cf39e",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "readable-stream",
+			"version": "0.2.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c237bf773b27acf9472a576435a9cb9b71504e0d",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "readable-stream",
+			"version": "0.3.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9ae8f414672ded571ca65b5ce12e7f03e5ec4452",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "readable-stream",
+			"version": "0.3.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "82476ce7bbc0ae58e1d5e11f17df86ba6d76c23f",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "readable-stream",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "805b14feb790400d17f314e337d12affcc3549bc",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "readable-stream",
+			"version": "1.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "04f99de4c0697c86ab65679330b0c9d167b2b9b3",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "readable-stream",
+			"version": "1.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "213ce36864fc1f0d4e98e03b9eb92c64042299d4",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.15": {
+			"name": "readable-stream",
+			"version": "1.0.15",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a2c160237235951da985a1572d0a3af585e4be95",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.15.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.17": {
+			"name": "readable-stream",
+			"version": "1.0.17",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cbc295fdf394dfa1225d225d02e6b6d0f409fd4b",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.17.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.7": {
+			"name": "readable-stream",
+			"version": "1.1.7",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"debuglog": "0.0.2"
+			},
+			"optionalDependencies": {
+				"debuglog": "0.0.2"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9fac85f615c91d8123d6797a37bb6492f3400d34",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.8": {
+			"name": "readable-stream",
+			"version": "1.1.8",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"debuglog": "0.0.2"
+			},
+			"optionalDependencies": {
+				"debuglog": "0.0.2"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "28d42847e0feedfd2013931f37fb326fc4e25b7e",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.9": {
+			"name": "readable-stream",
+			"version": "1.1.9",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"debuglog": "0.0.2"
+			},
+			"optionalDependencies": {
+				"debuglog": "0.0.2"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d87130fbf8f9ee9c3b4058b3c58a3e30db2fcfdd",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.9.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.24": {
+			"name": "readable-stream",
+			"version": "1.0.24",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b5659d5772cd06992dffe5a3bee2eec480f1c2fe",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.24.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.25": {
+			"name": "readable-stream",
+			"version": "1.0.25",
+			"dependencies": {
+				"string_decoder": "~0.10.x"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "df19f64e6f74fd37ecf9d3ab8dbf1e2d11c9a045",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.25.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.10": {
+			"name": "readable-stream",
+			"version": "1.1.10",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"string_decoder": "~0.10.x",
+				"debuglog": "0.0.2"
+			},
+			"optionalDependencies": {
+				"debuglog": "0.0.2"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d4dc2e5319e9c90d1e71c69390ef62cd90827f65",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.10.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.25-1": {
+			"name": "readable-stream",
+			"version": "1.0.25-1",
+			"dependencies": {
+				"string_decoder": "~0.10.x"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fec786621eed34dcc3fbe5aad596c915c14683bf",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.25-1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.11": {
+			"name": "readable-stream",
+			"version": "1.1.11",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"string_decoder": "~0.10.x",
+				"debuglog": "0.0.2"
+			},
+			"optionalDependencies": {
+				"debuglog": "0.0.2"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "76ae0d88df2ac36c59e7c205e0cafc81c57bc07d",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.11.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.26": {
+			"name": "readable-stream",
+			"version": "1.0.26",
+			"dependencies": {
+				"string_decoder": "~0.10.x"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "12a9c4415f6a85374abe18b7831ba52d43105766",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.26.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.26-1": {
+			"name": "readable-stream",
+			"version": "1.0.26-1",
+			"dependencies": {
+				"string_decoder": "~0.10.x"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "94a13c24ef8cc52af8a4fa6b3e1ef12444f68a0b",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.26-1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.11-1": {
+			"name": "readable-stream",
+			"version": "1.1.11-1",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"string_decoder": "~0.10.x",
+				"debuglog": "0.0.2"
+			},
+			"optionalDependencies": {
+				"debuglog": "0.0.2"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a06bc4edc4861e1efd58a70d38a44f6c6cc9f3fe",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.11-1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.26-2": {
+			"name": "readable-stream",
+			"version": "1.0.26-2",
+			"dependencies": {
+				"string_decoder": "~0.10.x"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7883b21c63c1ce9373adfb1c23aa78c2906fa062",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.26-2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.12": {
+			"name": "readable-stream",
+			"version": "1.1.12",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "^2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "960d442bbf5f6690b6b20550413931021af8e506",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.12.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.26-3": {
+			"name": "readable-stream",
+			"version": "1.0.26-3",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "^2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "58c1ef8dc375793221e7ea823e3328a7e7868e77",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.26-3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.26-4": {
+			"name": "readable-stream",
+			"version": "1.0.26-4",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1768852af9df316572227710fafbfa93c90fe3f9",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.26-4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.12-1": {
+			"name": "readable-stream",
+			"version": "1.1.12-1",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5a1e464880bb91ef70005e7ee850d56f5b9e012f",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.12-1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.27-1": {
+			"name": "readable-stream",
+			"version": "1.0.27-1",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6b67983c20357cefd07f0165001a16d710d91078",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.27-1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.13-1": {
+			"name": "readable-stream",
+			"version": "1.1.13-1",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fc6f04f3366bf37bae21bec2e411c1b4d2cf1a46",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.13-1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.31": {
+			"name": "readable-stream",
+			"version": "1.0.31",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8f2502e0bc9e3b0da1b94520aabb4e2603ecafae",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.31.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.13": {
+			"name": "readable-stream",
+			"version": "1.1.13",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f6eef764f514c89e2b9e23146a75ba106756d23e",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.13.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.32": {
+			"name": "readable-stream",
+			"version": "1.0.32",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6b44a88ba984cd0ec0834ae7d59a47c39aef48ec",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.32.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.32-1": {
+			"name": "readable-stream",
+			"version": "1.0.32-1",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "069b9f04e0592d0cb2a3fc515108c0624b1facdd",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.32-1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.33-1": {
+			"name": "readable-stream",
+			"version": "1.0.33-1",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "40d0d91338691291a9117c05d78adb5497c37810",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.33-1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.33-2": {
+			"name": "readable-stream",
+			"version": "1.0.33-2",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d89cbf08789ebd903d24b86bd1d7e502c88af8a1",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.33-2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.33": {
+			"name": "readable-stream",
+			"version": "1.0.33",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3a360dd66c1b1d7fd4705389860eda1d0f61126c",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.33.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "readable-stream",
+			"version": "2.0.0",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"process-nextick-args": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ab6e292d8ae392ef888151310554e7078fcb38ca",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "readable-stream",
+			"version": "2.0.1",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "0.0.1",
+				"process-nextick-args": "~1.0.0",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6",
+				"tape": "~4.0.0",
+				"zuul": "~3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "633479b7bd2fbe7a1e869825b40a0b333b9f2bfc",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "readable-stream",
+			"version": "2.0.2",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "0.0.1",
+				"process-nextick-args": "~1.0.0",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6",
+				"tape": "~4.0.0",
+				"zuul": "~3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bec81beae8cf455168bc2e5b2b31f5bcfaed9b1b",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.3": {
+			"name": "readable-stream",
+			"version": "2.0.3",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "0.0.1",
+				"process-nextick-args": "~1.0.0",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6",
+				"tape": "~4.0.0",
+				"zuul": "~3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4ab16b2aba452374b542a3f4f528634b9b45bb5a",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.4": {
+			"name": "readable-stream",
+			"version": "2.0.4",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "0.0.1",
+				"process-nextick-args": "~1.0.0",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6",
+				"tape": "~4.0.0",
+				"zuul": "~3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2523ef27ffa339d7ba9da8603f2d0599d06edbd8",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.5": {
+			"name": "readable-stream",
+			"version": "2.0.5",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "0.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6",
+				"tape": "~4.0.0",
+				"zuul": "~3.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a2426f8dcd4551c77a33f96edf2886a23c829669",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.6": {
+			"name": "readable-stream",
+			"version": "2.0.6",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "~1.0.0",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6",
+				"tape": "~4.5.1",
+				"zuul": "~3.9.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8f90341e68a53ccc928788dacfcd11b36eb9b78e",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.0.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.34": {
+			"name": "readable-stream",
+			"version": "1.0.34",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "125820e34bc842d2f2aaafafe4c2916ee32c157c",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.0.34.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.14": {
+			"name": "readable-stream",
+			"version": "1.1.14",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"isarray": "0.0.1",
+				"string_decoder": "~0.10.x",
+				"inherits": "~2.0.1"
+			},
+			"devDependencies": {
+				"tap": "~0.2.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7cf4c54ef648e3813084c636dd2079e166c081d9",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.14.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "readable-stream",
+			"version": "2.1.0",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"inline-process-browser": "~2.0.1",
+				"isarray": "~1.0.0",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"unreachable-branch-transform": "~0.5.0",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.9.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "36f42ea0424eb29a985e4a81d31be2f96e1f2f80",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "readable-stream",
+			"version": "2.1.1",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "~1.0.0",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.9.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cbbe2f857ec4fafee422a8addbf31513e891c8ed",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "readable-stream",
+			"version": "2.1.2",
+			"dependencies": {
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "~1.0.0",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.9.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a92b6e854f13ff0685e4ca7dce6cf73d3e319422",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.3": {
+			"name": "readable-stream",
+			"version": "2.1.3",
+			"dependencies": {
+				"buffer-shims": "^1.0.0",
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "~1.0.0",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.9.0",
+				"assert": "~1.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9db8ec4025b4c71e69aec60b453b590c8afeb0df",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.4": {
+			"name": "readable-stream",
+			"version": "2.1.4",
+			"dependencies": {
+				"buffer-shims": "^1.0.0",
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "~1.0.0",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.9.0",
+				"zuul-ngrok": "^4.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "70b9791c6fcb8480db44bd155a0f6bb58f172468",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.5": {
+			"name": "readable-stream",
+			"version": "2.1.5",
+			"dependencies": {
+				"buffer-shims": "^1.0.0",
+				"core-util-is": "~1.0.0",
+				"inherits": "~2.0.1",
+				"isarray": "~1.0.0",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "66fa8b720e1438b364681f2ad1a63c618448c9d0",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.1.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "readable-stream",
+			"version": "2.2.0",
+			"dependencies": {
+				"buffer-shims": "^1.0.0",
+				"core-util-is": "~1.0.0",
+				"isarray": "~1.0.0",
+				"inherits": "~2.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"buffer": "^4.9.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"bundleDependencies": [
+				"buffer-shims",
+				"core-util-is",
+				"isarray",
+				"process-nextick-args",
+				"util-deprecate"
+			],
+			"directories": {},
+			"dist": {
+				"shasum": "bb2d810631416edf095ebdadc246f68cec65bf2c",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.1": {
+			"name": "readable-stream",
+			"version": "2.2.1",
+			"dependencies": {
+				"buffer-shims": "^1.0.0",
+				"core-util-is": "~1.0.0",
+				"isarray": "~1.0.0",
+				"inherits": "~2.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"buffer": "^4.9.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c459a6687ad6195f936b959870776edef27a7655",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.2": {
+			"name": "readable-stream",
+			"version": "2.2.2",
+			"dependencies": {
+				"buffer-shims": "^1.0.0",
+				"core-util-is": "~1.0.0",
+				"isarray": "~1.0.0",
+				"inherits": "~2.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"buffer": "^4.9.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a9e6fec3c7dda85f8bb1b3ba7028604556fc825e",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.3": {
+			"name": "readable-stream",
+			"version": "2.2.3",
+			"dependencies": {
+				"buffer-shims": "^1.0.0",
+				"core-util-is": "~1.0.0",
+				"isarray": "~1.0.0",
+				"inherits": "~2.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"buffer": "^4.9.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9cf49463985df016c8ae8813097a9293a9b33729",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.4": {
+			"name": "readable-stream",
+			"version": "2.2.4",
+			"dependencies": {
+				"buffer-shims": "^1.0.0",
+				"core-util-is": "~1.0.0",
+				"isarray": "~1.0.0",
+				"inherits": "~2.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"buffer": "^4.9.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1a8da72653a38450ba275eca1f3c602027afda0a",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.5": {
+			"name": "readable-stream",
+			"version": "2.2.5",
+			"dependencies": {
+				"buffer-shims": "^1.0.0",
+				"core-util-is": "~1.0.0",
+				"isarray": "~1.0.0",
+				"inherits": "~2.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"buffer": "^4.9.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a0b187304e05bab01a4ce2b4cc9c607d5aa1d606",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.6": {
+			"name": "readable-stream",
+			"version": "2.2.6",
+			"dependencies": {
+				"buffer-shims": "^1.0.0",
+				"core-util-is": "~1.0.0",
+				"isarray": "~1.0.0",
+				"inherits": "~2.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~0.10.x",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"buffer": "^4.9.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8b43aed76e71483938d12a8d46c6cf1a00b1f816",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.7": {
+			"name": "readable-stream",
+			"version": "2.2.7",
+			"dependencies": {
+				"buffer-shims": "~1.0.0",
+				"core-util-is": "~1.0.0",
+				"isarray": "~1.0.0",
+				"inherits": "~2.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~1.0.0",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"buffer": "^4.9.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "07057acbe2467b22042d36f98c5ad507054e95b1",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.8": {
+			"name": "readable-stream",
+			"version": "2.2.8",
+			"dependencies": {
+				"buffer-shims": "~1.0.0",
+				"core-util-is": "~1.0.0",
+				"isarray": "~1.0.0",
+				"inherits": "~2.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~1.0.0",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"buffer": "^4.9.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ad28b686f3554c73d39bc32347fa058356624705",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.9": {
+			"name": "readable-stream",
+			"version": "2.2.9",
+			"dependencies": {
+				"buffer-shims": "~1.0.0",
+				"core-util-is": "~1.0.0",
+				"isarray": "~1.0.0",
+				"inherits": "~2.0.1",
+				"process-nextick-args": "~1.0.6",
+				"string_decoder": "~1.0.0",
+				"util-deprecate": "~1.0.1"
+			},
+			"devDependencies": {
+				"assert": "~1.4.0",
+				"babel-polyfill": "^6.9.1",
+				"buffer": "^4.9.0",
+				"nyc": "^6.4.0",
+				"tap": "~0.7.1",
+				"tape": "~4.5.1",
+				"zuul": "~3.10.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cf78ec6f4a6d1eb43d26488cac97f042e74b7fc8",
+				"tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.9.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "readable-stream",
+	"dist-tags": {
+		"latest": "2.2.9",
+		"1.1": "1.1.13",
+		"streams2": "1.0.34",
+		"backport-1.1.x": "1.1.14"
+	},
+	"modified": "2017-04-21T19:02:02.726Z",
+	"_etag": "W/\"58fa572a-663e\"",
+	"_lastModified": "Fri, 21 Apr 2017 19:02:02 GMT"
+}

@@ -1,0 +1,407 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "type-detect",
+			"version": "0.1.0",
+			"dependencies": {},
+			"devDependencies": {
+				"component": "*",
+				"coveralls": "2.0.16",
+				"jscoverage": "0.3.7",
+				"mocha": "*",
+				"mocha-lcov-reporter": "0.0.1",
+				"mocha-phantomjs": "*",
+				"simple-assert": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "81ed3ab764cd5139388b67d052eb01610edc1a57",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-0.1.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "type-detect",
+			"version": "0.1.1",
+			"dependencies": {},
+			"devDependencies": {
+				"component": "*",
+				"coveralls": "2.0.16",
+				"jscoverage": "0.3.7",
+				"mocha": "*",
+				"mocha-lcov-reporter": "0.0.1",
+				"mocha-phantomjs": "*",
+				"simple-assert": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0ba5ec2a885640e470ea4e8505971900dac58822",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-0.1.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "type-detect",
+			"version": "0.1.2",
+			"dependencies": {},
+			"devDependencies": {
+				"component": "*",
+				"coveralls": "2.0.16",
+				"jscoverage": "0.3.7",
+				"mocha": "*",
+				"mocha-lcov-reporter": "0.0.1",
+				"mocha-phantomjs": "*",
+				"simple-assert": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c88e853e54e5abd88f1bf3194b477c853c94f854",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-0.1.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "type-detect",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"component": "*",
+				"coveralls": "2.0.16",
+				"jscoverage": "0.3.7",
+				"mocha": "*",
+				"mocha-lcov-reporter": "0.0.1",
+				"mocha-phantomjs": "*",
+				"simple-assert": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "762217cc06db258ec48908a1298e8b95121e8ea2",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-1.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "type-detect",
+			"version": "2.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"coveralls": "2.11.8",
+				"eslint": "^2.4.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^0.13.22",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^0.5.5",
+				"karma-mocha": "^0.2.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^0.3.1",
+				"lcov-result-merger": "^1.0.2",
+				"mocha": "^2.4.5",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b5a567196997808f0b94d7a9e089d4585266e3b8",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-2.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "type-detect",
+			"version": "2.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"coveralls": "2.11.9",
+				"eslint": "^2.9.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^0.13.22",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^1.0.0",
+				"karma-mocha": "^1.0.1",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^1.0.0",
+				"lcov-result-merger": "^1.2.0",
+				"mocha": "^2.4.5",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "42d3ff2358743068a26ca3715e941c4e65236507",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-2.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "type-detect",
+			"version": "2.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"coveralls": "2.11.9",
+				"eslint": "^2.9.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^1.1.2",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^1.0.0",
+				"karma-mocha": "^1.0.1",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^1.0.0",
+				"lcov-result-merger": "^1.2.0",
+				"mocha": "^2.4.5",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "356ef98aa8fed1bba5f732ab55bf1bf3641b9228",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-2.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "type-detect",
+			"version": "3.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"coveralls": "2.11.9",
+				"eslint": "^2.9.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^1.1.2",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^1.0.0",
+				"karma-mocha": "^1.0.1",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^1.0.0",
+				"lcov-result-merger": "^1.2.0",
+				"mocha": "^3.0.0",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "46d0cc8553abb7b13a352b0d6dea2fd58f2d9b55",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-3.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "type-detect",
+			"version": "4.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"coveralls": "2.11.9",
+				"eslint": "^2.9.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^1.1.2",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^1.0.0",
+				"karma-mocha": "^1.0.1",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^1.0.0",
+				"lcov-result-merger": "^1.2.0",
+				"mocha": "^3.0.0",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "62053883542a321f2f7b25746dc696478b18ff6b",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-4.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.1": {
+			"name": "type-detect",
+			"version": "4.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"coveralls": "2.11.9",
+				"eslint": "^2.9.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^1.1.2",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^1.0.0",
+				"karma-mocha": "^1.0.1",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^1.0.0",
+				"lcov-result-merger": "^1.2.0",
+				"mocha": "^3.0.0",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c2473c08dc6f975232ca7e3317570f187bf7f3e2",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-4.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.2": {
+			"name": "type-detect",
+			"version": "4.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^14.3.0",
+				"browserify-istanbul": "^2.0.0",
+				"coveralls": "2.13.0",
+				"eslint": "^3.19.0",
+				"eslint-config-strict": "^13.0.0",
+				"eslint-plugin-filenames": "^1.1.0",
+				"husky": "^0.13.3",
+				"istanbul": "^0.4.2",
+				"karma": "^1.1.2",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^1.0.0",
+				"karma-mocha": "^1.0.1",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^1.0.0",
+				"lcov-result-merger": "^1.2.0",
+				"mocha": "^3.0.0",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^6.3.2",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "60e134a1b49bde16c08ce265e596059351d74852",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-4.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.3": {
+			"name": "type-detect",
+			"version": "4.0.3",
+			"dependencies": {},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^14.3.0",
+				"browserify-istanbul": "^2.0.0",
+				"coveralls": "2.13.0",
+				"eslint": "^3.19.0",
+				"eslint-config-strict": "^13.0.0",
+				"eslint-plugin-filenames": "^1.1.0",
+				"husky": "^0.13.3",
+				"istanbul": "^0.4.2",
+				"karma": "^1.1.2",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^1.0.0",
+				"karma-mocha": "^1.0.1",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^1.0.0",
+				"lcov-result-merger": "^1.2.0",
+				"mocha": "^3.0.0",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^6.3.2",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0e3f2670b44099b0b46c284d136a7ef49c74c2ea",
+				"tarball": "https://registry.npmjs.org/type-detect/-/type-detect-4.0.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "type-detect",
+	"dist-tags": {
+		"latest": "4.0.3"
+	},
+	"modified": "2017-04-20T03:43:15.845Z",
+	"_etag": "W/\"58f82e53-21e0\"",
+	"_lastModified": "Thu, 20 Apr 2017 03:43:15 GMT"
+}

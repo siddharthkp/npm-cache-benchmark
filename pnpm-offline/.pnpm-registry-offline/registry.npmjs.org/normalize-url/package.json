@@ -1,0 +1,459 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "normalize-url",
+			"version": "1.0.0",
+			"dependencies": {
+				"prepend-http": "^1.0.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5de7c54eafde9019b259886bb56fb42466051c27",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "normalize-url",
+			"version": "1.0.1",
+			"dependencies": {
+				"prepend-http": "^1.0.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bf89d349bcd1aff0471a0e09b94672b26e99c73c",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "normalize-url",
+			"version": "1.0.2",
+			"dependencies": {
+				"prepend-http": "^1.0.0",
+				"query-string": "^1.0.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cd47da42c87c1712d528ef717a48f89239db9722",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "normalize-url",
+			"version": "1.1.0",
+			"dependencies": {
+				"object-assign": "^2.0.0",
+				"prepend-http": "^1.0.0",
+				"query-string": "^1.0.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "aab4f80c4f6c5892800eb5ee5c636381f984444c",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "normalize-url",
+			"version": "1.2.0",
+			"dependencies": {
+				"object-assign": "^2.0.0",
+				"prepend-http": "^1.0.0",
+				"query-string": "^1.0.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6e0893fc7b9ec03e55e9e728d35cded6a048fd43",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "normalize-url",
+			"version": "1.2.1",
+			"dependencies": {
+				"object-assign": "^2.0.0",
+				"prepend-http": "^1.0.0",
+				"query-string": "^2.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "27b160982dd59358e739085b3e7ea3917a8e0926",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "normalize-url",
+			"version": "1.3.0",
+			"dependencies": {
+				"object-assign": "^3.0.0",
+				"prepend-http": "^1.0.0",
+				"query-string": "^2.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "420279aa9cf1dffa109f1b5f947bf4b781cc53a4",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.1": {
+			"name": "normalize-url",
+			"version": "1.3.1",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^2.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "28f605629aad3a14ce356ae9937a76ff072886a7",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.3.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.0": {
+			"name": "normalize-url",
+			"version": "1.4.0",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^3.0.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8ae93e97ddf66f17544c1f12a2dc0c0e4b5762ff",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.4.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.1": {
+			"name": "normalize-url",
+			"version": "1.4.1",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^3.0.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b3007f2593b1f8d015b4d5a5a628ce22bf3c6f13",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.4.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.5.0": {
+			"name": "normalize-url",
+			"version": "1.5.0",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^4.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2f2ea22f1c66d29659461310fec21b4a9b715c18",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.5.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.5.1": {
+			"name": "normalize-url",
+			"version": "1.5.1",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^4.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fa308496336c39200f13d6224e206df6c053691e",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.5.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.5.2": {
+			"name": "normalize-url",
+			"version": "1.5.2",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^4.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9c5a984fae36ec1fbed90c2645a9757c0e4b4f86",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.5.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.5.3": {
+			"name": "normalize-url",
+			"version": "1.5.3",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^4.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8a59bb488ee6ad83196781742346c33787f9f4e3",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.5.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.6.0": {
+			"name": "normalize-url",
+			"version": "1.6.0",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^4.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8e517ea05499655236cb34c23c01aa6b208ddda3",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.6.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.6.1": {
+			"name": "normalize-url",
+			"version": "1.6.1",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^4.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a9f254fa065bbc2934461c0c09423815976155a2",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.6.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.7.0": {
+			"name": "normalize-url",
+			"version": "1.7.0",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^4.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "^0.16.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d82452d98d38821cffddab4d77a5f8d20ce66db0",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.7.0.tgz"
+			},
+			"engines": {
+				"node": ">=4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.8.0": {
+			"name": "normalize-url",
+			"version": "1.8.0",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^4.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "^0.16.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a9550b079aa3523c85d78df24eef1959fce359ab",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.8.0.tgz"
+			},
+			"engines": {
+				"node": ">=4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.9.0": {
+			"name": "normalize-url",
+			"version": "1.9.0",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^4.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "^0.16.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c2bb50035edee62cd81edb2d45da68dc25e3423e",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.9.0.tgz"
+			},
+			"engines": {
+				"node": ">=4"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.9.1": {
+			"name": "normalize-url",
+			"version": "1.9.1",
+			"dependencies": {
+				"object-assign": "^4.0.1",
+				"prepend-http": "^1.0.0",
+				"query-string": "^4.1.0",
+				"sort-keys": "^1.0.0"
+			},
+			"devDependencies": {
+				"ava": "*",
+				"xo": "^0.16.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2cc0d66b31ea23036458436e3620d85954c66c3c",
+				"tarball": "https://registry.npmjs.org/normalize-url/-/normalize-url-1.9.1.tgz"
+			},
+			"engines": {
+				"node": ">=4"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "normalize-url",
+	"dist-tags": {
+		"latest": "1.9.1"
+	},
+	"modified": "2017-03-11T10:06:51.111Z",
+	"_etag": "W/\"58c3cc3b-1fec\"",
+	"_lastModified": "Sat, 11 Mar 2017 10:06:51 GMT"
+}

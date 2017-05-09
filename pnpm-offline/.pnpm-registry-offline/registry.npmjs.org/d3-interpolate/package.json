@@ -1,0 +1,513 @@
+{
+	"versions": {
+		"0.1.1": {
+			"name": "d3-interpolate",
+			"version": "0.1.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.6",
+				"d3-color": "~0.2.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4809295fc6329531243d22433087d6de51c0ddd2",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "d3-interpolate",
+			"version": "0.1.2",
+			"devDependencies": {
+				"d3-bundler": "~0.2.9",
+				"d3-color": "~0.2.6",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "63916e6b7619ca9bf3167f1d9407b935ab97b203",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "d3-interpolate",
+			"version": "0.1.3",
+			"dependencies": {
+				"d3-color": "~0.2.7"
+			},
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "28be485964088a1661ceaa5da037d6886df93095",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.4": {
+			"name": "d3-interpolate",
+			"version": "0.1.4",
+			"dependencies": {
+				"d3-color": "~0.2.8"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "19295ec21c7c0604d4d61cf36a949b6b97b0885b",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-interpolate",
+			"version": "0.2.0",
+			"dependencies": {
+				"d3-color": "~0.3.1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e9fb73a306f3b70e29980ac4c60d969b4a520fd9",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-interpolate",
+			"version": "0.2.1",
+			"dependencies": {
+				"d3-color": "~0.3.2"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0f0d7364e40ab5e7f2ebd010de1539c5e6711991",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-interpolate",
+			"version": "0.3.0",
+			"dependencies": {
+				"d3-color": "~0.3.2"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "74124ac750b08ff8f064540672b7663294bd3656",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-interpolate",
+			"version": "0.4.0",
+			"dependencies": {
+				"d3-color": "~0.3.3"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "49fcc6c65ea7d7d8c227a8cd29aacf7d1050e6d6",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "d3-interpolate",
+			"version": "0.4.1",
+			"dependencies": {
+				"d3-color": "~0.3.4"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9e1da74320509771b6211a92ae490a4062475123",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "d3-interpolate",
+			"version": "0.5.0",
+			"dependencies": {
+				"d3-color": "~0.3.4"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "28d64fc2e282120e1b6719251e88caf867bfee24",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "d3-interpolate",
+			"version": "0.5.1",
+			"dependencies": {
+				"d3-color": "~0.3.4"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0d8c6289241f6dd909c1c6689b7b2d83c8a7e01d",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.2": {
+			"name": "d3-interpolate",
+			"version": "0.5.2",
+			"dependencies": {
+				"d3-color": "~0.4.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ba621cd92bc84d0387bdb83f88ad14d88479c701",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "d3-interpolate",
+			"version": "0.6.0",
+			"dependencies": {
+				"d3-color": "~0.4.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b79869c2b3b2801c255bec15aaa821dee74ffde2",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "d3-interpolate",
+			"version": "0.7.0",
+			"dependencies": {
+				"d3-color": "~0.4.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1f9ff17cd8c90b7f121f6743e6ef1062dfe898d1",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "d3-interpolate",
+			"version": "0.8.0",
+			"dependencies": {
+				"d3-color": "~0.4.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "57f1dccc30bc37a49665c1f2fe82af1141d2599d",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.8.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.1": {
+			"name": "d3-interpolate",
+			"version": "0.8.1",
+			"dependencies": {
+				"d3-color": "~0.4.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "33421fca1ed3d74f1c89ec8798233f915203320a",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.8.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.2": {
+			"name": "d3-interpolate",
+			"version": "0.8.2",
+			"dependencies": {
+				"d3-color": "~0.4.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fa6843951d177c081a528cec013f138911199a4f",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.8.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.3": {
+			"name": "d3-interpolate",
+			"version": "0.8.3",
+			"dependencies": {
+				"d3-color": "~0.4.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a8e564a60f6dc384ef112c206e51a19e6d884981",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.8.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "d3-interpolate",
+			"version": "0.9.0",
+			"dependencies": {
+				"d3-color": "~0.5.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a136cefc10c9c876fba1d525039ffb77edab3a0e",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-0.9.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-interpolate",
+			"version": "1.0.0",
+			"dependencies": {
+				"d3-color": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e90ea90bee58268e08643290d160445f26511dfa",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-interpolate",
+			"version": "1.0.1",
+			"dependencies": {
+				"d3-color": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ad2d2fb7d9e12e025d8cd4d5687da04e826a003f",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "d3-interpolate",
+			"version": "1.1.0",
+			"dependencies": {
+				"d3-color": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4f7bda62433d4df1f639cc5c8850cdd2f3f1e7d7",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "d3-interpolate",
+			"version": "1.1.1",
+			"dependencies": {
+				"d3-color": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f9ad4f9a421b22cad8838cf53d9bd2cbad0b8fd7",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-1.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "d3-interpolate",
+			"version": "1.1.2",
+			"dependencies": {
+				"d3-color": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b52e6927a04fe1fe2a4cffc139e5389ed3e5e790",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-1.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.3": {
+			"name": "d3-interpolate",
+			"version": "1.1.3",
+			"dependencies": {
+				"d3-color": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e119c91b6be4941e581675ca3e1279bb92bd2c9b",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-1.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.4": {
+			"name": "d3-interpolate",
+			"version": "1.1.4",
+			"dependencies": {
+				"d3-color": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a43ec5b3bee350d8516efdf819a4c08c053db302",
+				"tarball": "https://registry.npmjs.org/d3-interpolate/-/d3-interpolate-1.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-interpolate",
+	"dist-tags": {
+		"latest": "1.1.4"
+	},
+	"modified": "2017-03-10T18:27:16.185Z",
+	"_etag": "W/\"58c2f004-24b9\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:27:16 GMT"
+}

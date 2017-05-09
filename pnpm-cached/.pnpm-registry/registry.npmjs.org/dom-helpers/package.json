@@ -1,0 +1,475 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "dom-helpers",
+			"version": "1.0.0",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.2.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"expect.js": "^0.3.1",
+				"get-saucelabs-browsers": "^1.0.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-html2js-preprocessor": "^0.1.0",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sauce-launcher": "^0.2.3",
+				"karma-sourcemap-loader": "^0.3.4",
+				"karma-webpack": "^1.5.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "~1.9.10",
+				"rimraf": "^2.2.8",
+				"simulant": "^0.1.3",
+				"sinon-chai": "^2.6.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2b853208952b4fb72afb1884661b55349f1fcb4b",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "dom-helpers",
+			"version": "1.0.1",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.2.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"expect.js": "^0.3.1",
+				"get-saucelabs-browsers": "^1.0.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-html2js-preprocessor": "^0.1.0",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sauce-launcher": "^0.2.3",
+				"karma-sourcemap-loader": "^0.3.4",
+				"karma-webpack": "^1.5.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "~1.9.10",
+				"rimraf": "^2.2.8",
+				"simulant": "^0.1.3",
+				"sinon-chai": "^2.6.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a641e4b5a6f1bec0c118fb07334db3dc9e439f5c",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "dom-helpers",
+			"version": "1.0.2",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.2.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"expect.js": "^0.3.1",
+				"get-saucelabs-browsers": "^1.0.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-html2js-preprocessor": "^0.1.0",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sauce-launcher": "^0.2.3",
+				"karma-sourcemap-loader": "^0.3.4",
+				"karma-webpack": "^1.5.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "~1.9.10",
+				"rimraf": "^2.2.8",
+				"simulant": "^0.1.3",
+				"sinon-chai": "^2.6.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3371f0cc44a9aebbdc60d6c5dd84c03bdc147987",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "dom-helpers",
+			"version": "1.1.0",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.2.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"expect.js": "^0.3.1",
+				"get-saucelabs-browsers": "^1.0.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-html2js-preprocessor": "^0.1.0",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sauce-launcher": "^0.2.3",
+				"karma-sourcemap-loader": "^0.3.4",
+				"karma-webpack": "^1.5.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "~1.9.10",
+				"rimraf": "^2.2.8",
+				"simulant": "^0.1.3",
+				"sinon-chai": "^2.6.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ea4eab5f870cb08b2f779c52d7164932429cd8b5",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "dom-helpers",
+			"version": "1.2.0",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.2.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"expect.js": "^0.3.1",
+				"get-saucelabs-browsers": "^1.0.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-html2js-preprocessor": "^0.1.0",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sauce-launcher": "^0.2.3",
+				"karma-sourcemap-loader": "^0.3.4",
+				"karma-webpack": "^1.5.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "~1.9.10",
+				"rimraf": "^2.2.8",
+				"simulant": "^0.1.3",
+				"sinon-chai": "^2.6.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4674a75ebc9f9c62df526d879f8356b87fb6b521",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "dom-helpers",
+			"version": "1.2.1",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.2.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"expect.js": "^0.3.1",
+				"get-saucelabs-browsers": "^1.0.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-html2js-preprocessor": "^0.1.0",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sauce-launcher": "^0.2.3",
+				"karma-sourcemap-loader": "^0.3.4",
+				"karma-webpack": "^1.5.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "~1.9.10",
+				"rimraf": "^2.2.8",
+				"simulant": "^0.1.3",
+				"sinon-chai": "^2.6.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f256557703e0104baa38fe5809bb3a0b2c8b3713",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.2": {
+			"name": "dom-helpers",
+			"version": "1.2.2",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.2.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"expect.js": "^0.3.1",
+				"get-saucelabs-browsers": "^1.0.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-html2js-preprocessor": "^0.1.0",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sauce-launcher": "^0.2.3",
+				"karma-sourcemap-loader": "^0.3.4",
+				"karma-webpack": "^1.5.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "~1.9.10",
+				"rimraf": "^2.2.8",
+				"simulant": "^0.1.3",
+				"sinon-chai": "^2.6.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fada4ebdf90edc1423f980654862e419bdee9773",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.3": {
+			"name": "dom-helpers",
+			"version": "1.2.3",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.2.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"expect.js": "^0.3.1",
+				"get-saucelabs-browsers": "^1.0.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-html2js-preprocessor": "^0.1.0",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sauce-launcher": "^0.2.3",
+				"karma-sourcemap-loader": "^0.3.4",
+				"karma-webpack": "^1.5.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "~1.9.10",
+				"rimraf": "^2.2.8",
+				"simulant": "^0.1.3",
+				"sinon-chai": "^2.6.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "88138b15ba2c3d8bf05b27432dcf395552d3bf31",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.4": {
+			"name": "dom-helpers",
+			"version": "1.2.4",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.2.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"expect.js": "^0.3.1",
+				"get-saucelabs-browsers": "^1.0.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-html2js-preprocessor": "^0.1.0",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sauce-launcher": "^0.2.3",
+				"karma-sourcemap-loader": "^0.3.4",
+				"karma-webpack": "^1.5.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "~1.9.10",
+				"rimraf": "^2.2.8",
+				"simulant": "^0.1.3",
+				"sinon-chai": "^2.6.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "49045b5317c49a4fa2a8cae1abbc03f67514dc37",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.1": {
+			"name": "dom-helpers",
+			"version": "1.3.1",
+			"directories": {},
+			"dist": {
+				"shasum": "2a00763e78f088369fbe4c38c799ae9fa1fbcea3",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.2": {
+			"name": "dom-helpers",
+			"version": "1.3.2",
+			"directories": {},
+			"dist": {
+				"shasum": "8012489151e995d1a1884733f4f769147fdf6e97",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.3": {
+			"name": "dom-helpers",
+			"version": "1.3.3",
+			"directories": {},
+			"dist": {
+				"shasum": "84eeca63344e139058d57a8815083b4d91a065db",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-1.3.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "dom-helpers",
+			"version": "2.0.0",
+			"directories": {},
+			"dist": {
+				"shasum": "eb736cb22ef1ace34635dd98699766d868cb51a9",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "dom-helpers",
+			"version": "2.1.0",
+			"directories": {},
+			"dist": {
+				"shasum": "0776dcb430dc46f011184e09bb6fc12c4b5ab55e",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "dom-helpers",
+			"version": "2.2.0",
+			"directories": {},
+			"dist": {
+				"shasum": "47b85e4f97c671502c6d12619efecb7a39f5d19b",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-2.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.2": {
+			"name": "dom-helpers",
+			"version": "2.2.2",
+			"directories": {},
+			"dist": {
+				"shasum": "634971ffdc00d7860fe1f0aab4bddb13a3b6231a",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-2.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.4": {
+			"name": "dom-helpers",
+			"version": "2.2.4",
+			"directories": {},
+			"dist": {
+				"shasum": "18826f9c5007b8fe38b965a8dd927d6767ee2dcb",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-2.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "dom-helpers",
+			"version": "2.3.0",
+			"directories": {},
+			"dist": {
+				"shasum": "13487683f1c394a8cfc75777a0a1435d7ad7b6c2",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-2.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.0": {
+			"name": "dom-helpers",
+			"version": "2.4.0",
+			"directories": {},
+			"dist": {
+				"shasum": "9bb4b245f637367b1fa670274272aa28fe06c367",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-2.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "dom-helpers",
+			"version": "3.0.0",
+			"directories": {},
+			"dist": {
+				"shasum": "124869cea3f09dbff84256fede7f36616ccfee23",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "dom-helpers",
+			"version": "3.1.0",
+			"directories": {},
+			"dist": {
+				"shasum": "69a90181d863d8df42f1367ce223cf188456e3f4",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-3.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.0": {
+			"name": "dom-helpers",
+			"version": "3.2.0",
+			"directories": {},
+			"dist": {
+				"shasum": "70af056e6b1507a71084abc1aac0f93a23f7ea1c",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-3.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.1": {
+			"name": "dom-helpers",
+			"version": "3.2.1",
+			"directories": {},
+			"dist": {
+				"shasum": "3203e07fed217bd1f424b019735582fc37b2825a",
+				"tarball": "https://registry.npmjs.org/dom-helpers/-/dom-helpers-3.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "dom-helpers",
+	"dist-tags": {
+		"latest": "3.2.1"
+	},
+	"modified": "2017-03-24T14:05:09.207Z",
+	"_etag": "W/\"58d52795-2a3e\"",
+	"_lastModified": "Fri, 24 Mar 2017 14:05:09 GMT"
+}

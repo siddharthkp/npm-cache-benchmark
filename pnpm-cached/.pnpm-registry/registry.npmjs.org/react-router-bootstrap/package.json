@@ -1,0 +1,2401 @@
+{
+	"versions": {
+		"0.0.2": {
+			"name": "react-router-bootstrap",
+			"version": "0.0.2",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "32559a264a981d4c32ea0a711167ea781a2f9d4e",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "react-router-bootstrap",
+			"version": "0.0.3",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2211fac34a33f8e2b9d0dac76c085a0f96842777",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.1.0",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ca9fa94d92763c9bc2edd1da45ea0f3a798e47f4",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.2.0",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a79de5c97153226a9ee97065d124793bdfb8ca31",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.3.0",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fad37555af8a1e2a1c34bec3f0389e79e065b856",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.3.1",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1aaa8208ff964f19acccde0bc935dc188f1fa1e0",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.4.0",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6649adce13b25ddef12ecf265075a636238f90ee",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.4.1",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f034a5bab19f44610f8c1240a8c7a694fa991feb",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "react-router-bootstrap",
+			"version": "0.4.2",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d5f902be2f1854bbf7e7521c7fe3209502f15ebe",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.3": {
+			"name": "react-router-bootstrap",
+			"version": "0.4.3",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d8816851227418324aa57fa6100e7bdf178e8365",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.4.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.4": {
+			"name": "react-router-bootstrap",
+			"version": "0.4.4",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2bb6c595bb377fbc9253035b67ae58a14a5c2ac9",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.4.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.5": {
+			"name": "react-router-bootstrap",
+			"version": "0.4.5",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "987f74b2e5442ca5ba492f7286fefd61ba96e338",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.4.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.6": {
+			"name": "react-router-bootstrap",
+			"version": "0.4.6",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4"
+			},
+			"peerDependencies": {
+				"react-bootstrap": "^0.11.1",
+				"react-router": "^0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8aa2be5ca2f79554c8d2506ecbfd651b02691879",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.4.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.5.0",
+			"devDependencies": {
+				"coffee-script": "^1.7.1",
+				"gulp": "^3.8.7",
+				"gulp-cjsx": "^0.3.0",
+				"gulp-plumber": "^0.6.4",
+				"gulp-rimraf": "^0.1.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f14b83f63cd559c909822c6571b64733b82b19ab",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.6.0",
+			"devDependencies": {
+				"react-tools": "^0.12.1"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.11",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d59ce86baed2062d9756e77a3be6a978f3a81707",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.7.0",
+			"devDependencies": {
+				"react-tools": "^0.12.1"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8a9df4b144ec8fa9ee46c54c9a75c4ba116721f1",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.7.1",
+			"devDependencies": {
+				"react-tools": "^0.12.1"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2ec3e5696ddc4c8abb3488ebc10de64c79729ed0",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.7.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.2": {
+			"name": "react-router-bootstrap",
+			"version": "0.7.2",
+			"devDependencies": {
+				"react-tools": "^0.12.1"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "45d2be9e2771518018bd74b2ac77f33cd682ca1f",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.7.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.8.0",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "^0.12.2",
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c5cf1f60e536fb59b0617ff78b057b241c935db4",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.8.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.8.1",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "^0.12.2",
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "940ce36c3bffb81c00a03febbfe2c03cfe841654",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.8.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.2": {
+			"name": "react-router-bootstrap",
+			"version": "0.8.2",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "^0.12.2",
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cfb307e6233984b0acc7ab5a42e11d75ccfcdb28",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.8.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.3": {
+			"name": "react-router-bootstrap",
+			"version": "0.8.3",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "^0.12.2",
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.12",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b8e6fec8d4b7a8eb1b0f554f9d42f87dfacc5e07",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.8.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.9.0",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "^0.12.2",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.5.1",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "12191c2e2e925294d2c8a045188131333aaeb8c1",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.9.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.9.1",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "^0.12.2",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.5.1",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6af09a222eced9ff455a1197f786a6ba0b0efbcc",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.9.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.10.0",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.5.1",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eb50206631354ab6ebcdbfe0b61bf1643660c733",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.10.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.11.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.11.0",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bdfd5dd59d9c08c829492a2ba13bef6e975d5ac2",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.11.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.12.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.12.0",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"classnames": ">=1.2.0",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"classnames": ">=1.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8b3a0d6fcf31c5f691f65f1eedb5dc139399c282",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.12.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.12.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.12.1",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"classnames": ">=1.2.0",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"classnames": ">=1.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d58f68875d05547afc9318a6e36747e7b58d2d14",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.12.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.13.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.13.0",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"classnames": ">=1.2.0",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"classnames": ">=1.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dbd7b99fb6b16c7ec0b716058b89234df89c4065",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.13.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.13.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.13.1",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^1.10.0",
+				"css-loader": "^0.9.1",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.12.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"classnames": ">=1.2.0",
+				"react-tools": "^0.12.1",
+				"style-loader": "^0.8.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"classnames": ">=1.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eeb2665056f1fb2a332d2508fd615a3f983e4bb9",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.13.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.13.2": {
+			"name": "react-router-bootstrap",
+			"version": "0.13.2",
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^2.3.0",
+				"css-loader": "^0.12.0",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.13.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"classnames": ">=1.2.0",
+				"react-tools": "^0.13.2",
+				"style-loader": "^0.12.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"classnames": ">=1.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0ac5f99cc5b9170febb19cbd4cbba18881f8cf10",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.13.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.13.3": {
+			"name": "react-router-bootstrap",
+			"version": "0.13.3",
+			"dependencies": {
+				"classnames": "^2.0.0"
+			},
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^2.3.0",
+				"css-loader": "^0.12.0",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.13.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"react-tools": "^0.13.2",
+				"style-loader": "^0.12.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "caf4724026369aab6a98a35f97ddd6d8df20332c",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.13.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.13.4": {
+			"name": "react-router-bootstrap",
+			"version": "0.13.4",
+			"dependencies": {
+				"classnames": "^2.0.0"
+			},
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^2.3.0",
+				"css-loader": "^0.12.0",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.13.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"react-tools": "^0.13.2",
+				"style-loader": "^0.12.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bae3f3b4a0476a1bdf2203f943cd5892f953c949",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.13.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.13.5": {
+			"name": "react-router-bootstrap",
+			"version": "0.13.5",
+			"dependencies": {
+				"classnames": "^2.0.0"
+			},
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^2.3.0",
+				"css-loader": "^0.12.0",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.13.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"react-tools": "^0.13.2",
+				"style-loader": "^0.12.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.22",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "95f2f7abcd8cd3f877f83e26ae742851a7e17717",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.13.5.tgz"
+			},
+			"deprecated": "Peer dependency violates semver constraints for backwards compatibility",
+			"_hasShrinkwrap": false
+		},
+		"0.13.6": {
+			"name": "react-router-bootstrap",
+			"version": "0.13.6",
+			"dependencies": {
+				"classnames": "^2.0.0"
+			},
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^2.3.0",
+				"css-loader": "^0.12.0",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.13.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"react-tools": "^0.13.2",
+				"style-loader": "^0.12.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f5526a6ac48cbb464cc11bcc3851af4436e97c28",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.13.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.14.0",
+			"dependencies": {
+				"classnames": "^2.0.0"
+			},
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^2.3.0",
+				"css-loader": "^0.12.0",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.13.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"react-tools": "^0.13.2",
+				"style-loader": "^0.12.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.22",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cbaf996a764dd60e5fbe388e2dbefeeef635ea44",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.14.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.15.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.15.0",
+			"dependencies": {
+				"classnames": "^2.0.0"
+			},
+			"devDependencies": {
+				"bootstrap": "^3.3.1",
+				"chai": "^2.3.0",
+				"css-loader": "^0.12.0",
+				"file-loader": "^0.8.1",
+				"jshint-loader": "^0.8.0",
+				"jsx-loader": "^0.13.2",
+				"karma": "^0.12.31",
+				"karma-chrome-launcher": "^0.1.7",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.1.4",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"phantomjs": "^1.9.13",
+				"react": "*",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"react-tools": "^0.13.2",
+				"style-loader": "^0.12.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.22.4",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cbb0d0b6a651c594192473e4faf8fbfce422498d",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.15.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.16.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.16.0",
+			"dependencies": {
+				"classnames": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.6",
+				"babel-core": "^5.5.6",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"bootstrap": "^3.3.1",
+				"chai": "^3.0.0",
+				"css-loader": "^0.14.4",
+				"eslint": "^0.22.1",
+				"eslint-plugin-mocha": "^0.2.2",
+				"eslint-plugin-react": "^2.5.0",
+				"file-loader": "^0.8.1",
+				"karma": "^0.12.31",
+				"karma-cli": "0.0.4",
+				"karma-mocha": "^0.1.10",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"node-libs-browser": "^0.5.2",
+				"phantomjs": "^1.9.13",
+				"react": ">0.10.0",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"style-loader": "^0.12.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.22.4",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2fe01423f432dc6c43581b282ba6c2387c287d6d",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.16.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.17.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.17.0",
+			"devDependencies": {
+				"babel": "^5.5.6",
+				"babel-core": "^5.5.6",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"bootstrap": "^3.3.1",
+				"chai": "^3.0.0",
+				"css-loader": "^0.14.4",
+				"eslint": "^0.24.0",
+				"eslint-plugin-babel": "^1.0.0",
+				"eslint-plugin-mocha": "^0.4.0",
+				"eslint-plugin-react": "^2.5.0",
+				"file-loader": "^0.8.1",
+				"karma": "^0.12.31",
+				"karma-cli": "^0.1.0",
+				"karma-mocha": "^0.2.0",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"node-libs-browser": "^0.5.2",
+				"phantomjs": "^1.9.13",
+				"react": ">0.10.0",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"style-loader": "^0.12.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.22.4",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "41c2c7d9339d7e16e8615f23020aaeb9bd3062e8",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.17.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.17.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.17.1",
+			"devDependencies": {
+				"babel": "^5.5.6",
+				"babel-core": "^5.5.6",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"bootstrap": "^3.3.1",
+				"chai": "^3.0.0",
+				"css-loader": "^0.14.4",
+				"eslint": "^0.24.0",
+				"eslint-plugin-babel": "^1.0.0",
+				"eslint-plugin-mocha": "^0.4.0",
+				"eslint-plugin-react": "^2.5.0",
+				"file-loader": "^0.8.1",
+				"karma": "^0.12.31",
+				"karma-cli": "^0.1.0",
+				"karma-mocha": "^0.2.0",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.2.0",
+				"less-loader": "^2.0.0",
+				"mocha": "^2.1.0",
+				"node-libs-browser": "^0.5.2",
+				"phantomjs": "^1.9.13",
+				"react": ">0.10.0",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"style-loader": "^0.12.2",
+				"url-loader": "^0.5.5",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.22.4",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ba834cc2ff3eac3588ff8a127026edb08078f164",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.17.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.17.2": {
+			"name": "react-router-bootstrap",
+			"version": "0.17.2",
+			"devDependencies": {
+				"babel": "^5.5.6",
+				"babel-core": "^5.5.6",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"bootstrap": "^3.3.1",
+				"chai": "^3.0.0",
+				"colors": "^1.1.2",
+				"eslint": "^0.24.0",
+				"eslint-plugin-babel": "^1.0.0",
+				"eslint-plugin-mocha": "^0.4.0",
+				"eslint-plugin-react": "^2.5.0",
+				"karma": "^0.12.31",
+				"karma-cli": "^0.1.0",
+				"karma-mocha": "^0.2.0",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.5.0",
+				"lodash": "^3.10.0",
+				"mocha": "^2.1.0",
+				"mt-changelog": "^0.5.3",
+				"node-libs-browser": "^0.5.2",
+				"phantomjs": "^1.9.13",
+				"react": ">0.10.0",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"release-script": "^0.1.0",
+				"shelljs": "^0.5.1",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0",
+				"yargs": "^3.15.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.22.4",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e27978420e589beacf5d4478e12503d03dca51ee",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.17.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.18.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.18.0",
+			"devDependencies": {
+				"babel": "^5.5.6",
+				"babel-core": "^5.5.6",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"bootstrap": "^3.3.1",
+				"chai": "^3.0.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.15.3",
+				"eslint": "^0.24.0",
+				"eslint-plugin-babel": "^1.0.0",
+				"eslint-plugin-mocha": "^0.4.0",
+				"eslint-plugin-react": "^2.5.0",
+				"karma": "^0.12.31",
+				"karma-cli": "^0.1.0",
+				"karma-mocha": "^0.2.0",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.5.1",
+				"less-loader": "^2.2.0",
+				"lodash": "^3.10.0",
+				"mocha": "^2.1.0",
+				"mt-changelog": "^0.6.1",
+				"node-libs-browser": "^0.5.2",
+				"phantomjs": "^1.9.13",
+				"react": ">0.10.0",
+				"react-bootstrap": ">=0.15",
+				"react-router": ">=0.13.1",
+				"release-script": "^0.2.1",
+				"shelljs": "^0.5.1",
+				"style-loader": "^0.12.3",
+				"url-loader": "^0.5.6",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0",
+				"yargs": "^3.15.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.22.4",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3deebcc158bb0dbef6a7920e65deba767c187ae1",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.18.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.18.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.18.1",
+			"devDependencies": {
+				"babel": "^5.5.6",
+				"babel-core": "^5.5.6",
+				"babel-eslint": "^4.0.5",
+				"babel-loader": "^5.1.4",
+				"bootstrap": "^3.3.1",
+				"chai": "^3.0.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.15.3",
+				"eslint": "^1.0.0",
+				"eslint-plugin-babel": "^1.0.0",
+				"eslint-plugin-mocha": "^0.4.0",
+				"eslint-plugin-react": "^3.1.0",
+				"karma": "^0.13.3",
+				"karma-cli": "^0.1.0",
+				"karma-mocha": "^0.2.0",
+				"karma-mocha-reporter": "^1.0.2",
+				"karma-phantomjs-launcher": "^0.2.0",
+				"karma-webpack": "^1.5.0",
+				"less": "^2.5.1",
+				"less-loader": "^2.2.0",
+				"lodash": "^3.10.0",
+				"mocha": "^2.1.0",
+				"mt-changelog": "^0.6.1",
+				"node-libs-browser": "^0.5.2",
+				"phantomjs": "^1.9.13",
+				"react": ">0.10.0",
+				"react-bootstrap": ">=0.22.4",
+				"react-router": ">=0.13.1",
+				"release-script": "^0.2.1",
+				"shelljs": "^0.5.1",
+				"style-loader": "^0.12.3",
+				"url-loader": "^0.5.6",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0",
+				"yargs": "^3.15.0"
+			},
+			"peerDependencies": {
+				"react-bootstrap": ">=0.22.4",
+				"react-router": ">=0.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "830ea2a6aa55b23b849cca967527d5a1d247a9d4",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.18.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.19.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.19.0",
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-core": "^5.8.24",
+				"babel-eslint": "^4.1.2",
+				"babel-loader": "^5.3.2",
+				"bootstrap": "^3.3.5",
+				"css-loader": "^0.18.0",
+				"es5-shim": "^4.1.13",
+				"eslint": "1.3.x",
+				"eslint-config-airbnb": "0.0.8",
+				"eslint-plugin-babel": "^2.1.1",
+				"eslint-plugin-mocha": "^0.5.1",
+				"eslint-plugin-react": "^3.3.2",
+				"file-loader": "^0.8.4",
+				"history": "^1.9.1",
+				"html-webpack-plugin": "^1.6.1",
+				"karma": "^0.13.9",
+				"karma-cli": "^0.1.0",
+				"karma-mocha": "^0.2.0",
+				"karma-mocha-reporter": "^1.1.1",
+				"karma-phantomjs-launcher": "^0.2.1",
+				"karma-sinon-chai": "^1.1.0",
+				"karma-sourcemap-loader": "^0.3.5",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.5.1",
+				"less-loader": "^2.2.0",
+				"mocha": "^2.3.2",
+				"mt-changelog": "^0.6.2",
+				"node-libs-browser": "^0.5.2",
+				"phantomjs": "^1.9.18",
+				"react": "^0.14.0-rc1",
+				"react-bootstrap": "^0.25.100-react-pre.1",
+				"react-dom": "^0.14.0-rc1",
+				"react-router": "^1.0.0-rc1",
+				"release-script": "^0.2.7",
+				"style-loader": "^0.12.3",
+				"url-loader": "^0.5.6",
+				"webpack": "^1.12.1",
+				"webpack-dev-server": "^1.10.1",
+				"yargs": "^3.25.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0 || >=0.14.0-rc1",
+				"react-router": ">=1.0.0-rc1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "202bb1f2c656a461796f17d04bf01ce72c0a70a7",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.19.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.19.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.19.1",
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-core": "^5.8.25",
+				"babel-eslint": "^4.1.3",
+				"babel-loader": "^5.3.2",
+				"bootstrap": "^3.3.5",
+				"css-loader": "^0.19.0",
+				"es5-shim": "^4.1.14",
+				"eslint": "1.6.x",
+				"eslint-config-airbnb": "0.1.0",
+				"eslint-plugin-babel": "^2.1.1",
+				"eslint-plugin-mocha": "^1.0.0",
+				"eslint-plugin-react": "^3.5.1",
+				"file-loader": "^0.8.4",
+				"history": "^1.12.3",
+				"html-webpack-plugin": "^1.6.2",
+				"karma": "^0.13.10",
+				"karma-cli": "^0.1.1",
+				"karma-mocha": "^0.2.0",
+				"karma-mocha-reporter": "^1.1.1",
+				"karma-phantomjs-launcher": "^0.2.1",
+				"karma-sinon-chai": "^1.1.0",
+				"karma-sourcemap-loader": "^0.3.5",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.5.3",
+				"less-loader": "^2.2.1",
+				"mocha": "^2.3.3",
+				"mt-changelog": "^0.6.2",
+				"node-libs-browser": "^0.5.3",
+				"phantomjs": "^1.9.18",
+				"react": "^0.14.0",
+				"react-bootstrap": "^0.27.1",
+				"react-dom": "^0.14.0",
+				"react-router": "^1.0.0-rc3",
+				"release-script": "^0.5.3",
+				"style-loader": "^0.12.4",
+				"url-loader": "^0.5.6",
+				"webpack": "^1.12.2",
+				"webpack-dev-server": "^1.12.0",
+				"yargs": "^3.27.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0",
+				"react-router": ">=1.0.0-rc1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d549923626fdb6b415f07ff34d08200cef641d61",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.19.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.19.2": {
+			"name": "react-router-bootstrap",
+			"version": "0.19.2",
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-core": "^5.8.25",
+				"babel-eslint": "^4.1.3",
+				"babel-loader": "^5.3.2",
+				"bootstrap": "^3.3.5",
+				"colors": "^1.1.2",
+				"css-loader": "^0.19.0",
+				"es5-shim": "^4.1.14",
+				"eslint": "1.6.x",
+				"eslint-config-airbnb": "0.1.0",
+				"eslint-plugin-babel": "^2.1.1",
+				"eslint-plugin-mocha": "^1.0.0",
+				"eslint-plugin-react": "^3.5.1",
+				"file-loader": "^0.8.4",
+				"history": "^1.12.3",
+				"html-webpack-plugin": "^1.6.2",
+				"karma": "^0.13.10",
+				"karma-cli": "^0.1.1",
+				"karma-mocha": "^0.2.0",
+				"karma-mocha-reporter": "^1.1.1",
+				"karma-phantomjs-launcher": "^0.2.1",
+				"karma-sinon-chai": "^1.1.0",
+				"karma-sourcemap-loader": "^0.3.5",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.5.3",
+				"less-loader": "^2.2.1",
+				"lodash": "^3.10.1",
+				"mocha": "^2.3.3",
+				"mt-changelog": "^0.6.2",
+				"node-libs-browser": "^0.5.3",
+				"phantomjs": "^1.9.18",
+				"react": "^0.14.0",
+				"react-bootstrap": "^0.27.1",
+				"react-dom": "^0.14.0",
+				"react-router": "^1.0.0-rc3",
+				"release-script": "^0.5.3",
+				"rimraf": "^2.4.3",
+				"shelljs": "^0.5.3",
+				"style-loader": "^0.12.4",
+				"url-loader": "^0.5.6",
+				"webpack": "^1.12.2",
+				"webpack-dev-server": "^1.12.0",
+				"yargs": "^3.27.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0",
+				"react-router": ">=1.0.0-rc1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5e19e90550e157f597bc80f27d6ff3d74d2f5833",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.19.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.19.3": {
+			"name": "react-router-bootstrap",
+			"version": "0.19.3",
+			"devDependencies": {
+				"babel": "^5.8.23",
+				"babel-core": "^5.8.25",
+				"babel-eslint": "^4.1.3",
+				"babel-loader": "^5.3.2",
+				"bootstrap": "^3.3.5",
+				"colors": "^1.1.2",
+				"css-loader": "^0.19.0",
+				"es5-shim": "^4.1.14",
+				"eslint": "^1.7.1",
+				"eslint-config-airbnb": "^0.1.0",
+				"eslint-plugin-babel": "^2.1.1",
+				"eslint-plugin-mocha": "^1.0.0",
+				"eslint-plugin-react": "^3.5.1",
+				"file-loader": "^0.8.4",
+				"history": "^1.12.5",
+				"html-webpack-plugin": "^1.6.2",
+				"karma": "^0.13.11",
+				"karma-cli": "^0.1.1",
+				"karma-mocha": "^0.2.0",
+				"karma-mocha-reporter": "^1.1.1",
+				"karma-phantomjs-launcher": "^0.2.1",
+				"karma-sinon-chai": "^1.1.0",
+				"karma-sourcemap-loader": "^0.3.6",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.5.3",
+				"less-loader": "^2.2.1",
+				"lodash": "^3.10.1",
+				"mocha": "^2.3.3",
+				"mt-changelog": "^0.6.2",
+				"node-libs-browser": "^0.5.3",
+				"phantomjs": "^1.9.18",
+				"react": "^0.14.0",
+				"react-bootstrap": "^0.27.2",
+				"react-dom": "^0.14.0",
+				"react-router": "^1.0.0-rc3",
+				"release-script": "^0.5.4",
+				"rimraf": "^2.4.3",
+				"shelljs": "^0.5.3",
+				"style-loader": "^0.12.4",
+				"url-loader": "^0.5.6",
+				"webpack": "^1.12.2",
+				"webpack-dev-server": "^1.12.0",
+				"yargs": "^3.27.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.13.0",
+				"react-router": ">=1.0.0-rc3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5c41b116f86fed437dfee3f74d88254d562f6fd7",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.19.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.20.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.20.0",
+			"devDependencies": {
+				"babel": "5.x",
+				"babel-core": "5.x",
+				"babel-eslint": "^4.1.6",
+				"babel-loader": "5.x",
+				"bootstrap": "^3.3.6",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"es5-shim": "^4.4.1",
+				"eslint": "^1.10.3",
+				"eslint-config-airbnb": "^2.1.1",
+				"eslint-plugin-babel": "^3.0.0",
+				"eslint-plugin-mocha": "^1.1.0",
+				"eslint-plugin-react": "^3.13.1",
+				"file-loader": "^0.8.5",
+				"history": "^1.17.0",
+				"html-webpack-plugin": "^1.7.0",
+				"karma": "^0.13.16",
+				"karma-cli": "^0.1.2",
+				"karma-mocha": "^0.2.1",
+				"karma-mocha-reporter": "^1.1.5",
+				"karma-phantomjs-launcher": "^0.2.2",
+				"karma-sinon-chai": "^1.1.0",
+				"karma-sourcemap-loader": "^0.3.6",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.5.3",
+				"less-loader": "^2.2.2",
+				"lodash": "^3.10.1",
+				"mocha": "^2.3.4",
+				"mt-changelog": "^0.6.2",
+				"node-libs-browser": "^0.5.3",
+				"phantomjs": "^1.9.19",
+				"react": "^0.14.5",
+				"react-bootstrap": "^0.28.1",
+				"react-dom": "^0.14.5",
+				"react-router": "^2.0.0-rc4",
+				"release-script": "^0.5.6",
+				"rimraf": "^2.5.0",
+				"shelljs": "^0.5.3",
+				"style-loader": "^0.13.0",
+				"url-loader": "^0.5.7",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0",
+				"yargs": "^3.31.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0",
+				"react-router": ">=2.0.0-rc2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "216d3cf24daf0888eb238b51c751b88eca0f80e6",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.20.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.20.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.20.1",
+			"devDependencies": {
+				"babel": "5.x",
+				"babel-core": "5.x",
+				"babel-eslint": "^4.1.6",
+				"babel-loader": "5.x",
+				"bootstrap": "^3.3.6",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"es5-shim": "^4.4.1",
+				"eslint": "^1.10.3",
+				"eslint-config-airbnb": "^2.1.1",
+				"eslint-plugin-babel": "^3.0.0",
+				"eslint-plugin-mocha": "^1.1.0",
+				"eslint-plugin-react": "^3.13.1",
+				"file-loader": "^0.8.5",
+				"history": "^1.17.0",
+				"html-webpack-plugin": "^1.7.0",
+				"karma": "^0.13.16",
+				"karma-cli": "^0.1.2",
+				"karma-mocha": "^0.2.1",
+				"karma-mocha-reporter": "^1.1.5",
+				"karma-phantomjs-launcher": "^0.2.2",
+				"karma-sinon-chai": "^1.1.0",
+				"karma-sourcemap-loader": "^0.3.6",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.5.3",
+				"less-loader": "^2.2.2",
+				"lodash": "^3.10.1",
+				"mocha": "^2.3.4",
+				"mt-changelog": "^0.6.2",
+				"node-libs-browser": "^0.5.3",
+				"phantomjs": "^1.9.19",
+				"react": "^0.14.5",
+				"react-bootstrap": "^0.28.1",
+				"react-dom": "^0.14.5",
+				"react-router": "^2.0.0-rc4",
+				"release-script": "^0.5.6",
+				"rimraf": "^2.5.0",
+				"shelljs": "^0.5.3",
+				"style-loader": "^0.13.0",
+				"url-loader": "^0.5.7",
+				"webpack": "^1.12.9",
+				"webpack-dev-server": "^1.14.0",
+				"yargs": "^3.31.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0",
+				"react-router": ">=2.0.0-rc2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fc2059660e268b022b05abc69db5281ca32b63b3",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.20.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.21.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.21.0",
+			"devDependencies": {
+				"babel": "^5.8.38",
+				"babel-core": "^5.8.38",
+				"babel-eslint": "^4.1.8",
+				"babel-loader": "^5.4.0",
+				"bootstrap": "^3.3.6",
+				"chai": "^3.5.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"es5-shim": "^4.5.7",
+				"eslint": "^1.10.3",
+				"eslint-config-airbnb": "^2.1.1",
+				"eslint-plugin-babel": "^3.2.0",
+				"eslint-plugin-mocha": "^1.1.0",
+				"eslint-plugin-react": "^3.16.1",
+				"file-loader": "^0.8.5",
+				"history": "^2.0.1",
+				"html-webpack-plugin": "^2.15.0",
+				"karma": "^0.13.22",
+				"karma-cli": "^0.1.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^2.0.0",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sinon-chai": "^1.2.0",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.6.1",
+				"less-loader": "^2.2.3",
+				"lodash": "^3.10.1",
+				"lolex": "^1.4.0",
+				"mocha": "^2.4.5",
+				"node-libs-browser": "^1.0.0",
+				"phantomjs-prebuilt": "^2.1.7",
+				"react": "^15.0.0",
+				"react-bootstrap": "^0.28.5",
+				"react-dom": "^15.0.0",
+				"release-script": "^1.0.2",
+				"rimraf": "^2.5.2",
+				"rrtr": "^2.1.2",
+				"shelljs": "^0.6.0",
+				"sinon": "^1.17.3",
+				"sinon-chai": "^2.8.0",
+				"style-loader": "^0.13.1",
+				"url-loader": "^0.5.7",
+				"webpack": "^1.12.14",
+				"webpack-dev-server": "^1.14.1",
+				"yargs": "^4.4.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0",
+				"rrtr": ">=2.1.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a336d1a413ea701b30f969bcaba54a16bbc4c320",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.21.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.22.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.22.0",
+			"devDependencies": {
+				"babel": "^5.8.38",
+				"babel-core": "^5.8.38",
+				"babel-eslint": "^4.1.8",
+				"babel-loader": "^5.4.0",
+				"bootstrap": "^3.3.6",
+				"chai": "^3.5.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"es5-shim": "^4.5.7",
+				"eslint": "^1.10.3",
+				"eslint-config-airbnb": "^2.1.1",
+				"eslint-plugin-babel": "^3.2.0",
+				"eslint-plugin-mocha": "^1.1.0",
+				"eslint-plugin-react": "^3.16.1",
+				"file-loader": "^0.8.5",
+				"history": "^2.0.1",
+				"html-webpack-plugin": "^2.15.0",
+				"karma": "^0.13.22",
+				"karma-cli": "^0.1.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^2.0.0",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sinon-chai": "^1.2.0",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.6.1",
+				"less-loader": "^2.2.3",
+				"lodash": "^3.10.1",
+				"lolex": "^1.4.0",
+				"mocha": "^2.4.5",
+				"node-libs-browser": "^1.0.0",
+				"phantomjs-prebuilt": "^2.1.7",
+				"react": "^15.0.0",
+				"react-bootstrap": "^0.28.5",
+				"react-dom": "^15.0.0",
+				"react-router": "^2.0.1",
+				"release-script": "^1.0.2",
+				"rimraf": "^2.5.2",
+				"shelljs": "^0.6.0",
+				"sinon": "^1.17.3",
+				"sinon-chai": "^2.8.0",
+				"style-loader": "^0.13.1",
+				"url-loader": "^0.5.7",
+				"webpack": "^1.12.14",
+				"webpack-dev-server": "^1.14.1",
+				"yargs": "^4.4.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0",
+				"react-router": ">=2.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "060882cbfee242b3e64e1f0d6694ebd268521f4b",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.22.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.22.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.22.1",
+			"devDependencies": {
+				"babel": "^5.8.38",
+				"babel-core": "^5.8.38",
+				"babel-eslint": "^4.1.8",
+				"babel-loader": "^5.4.0",
+				"bootstrap": "^3.3.6",
+				"chai": "^3.5.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"es5-shim": "^4.5.7",
+				"eslint": "^1.10.3",
+				"eslint-config-airbnb": "^2.1.1",
+				"eslint-plugin-babel": "^3.2.0",
+				"eslint-plugin-mocha": "^1.1.0",
+				"eslint-plugin-react": "^3.16.1",
+				"file-loader": "^0.8.5",
+				"history": "^2.0.1",
+				"html-webpack-plugin": "^2.15.0",
+				"karma": "^0.13.22",
+				"karma-cli": "^0.1.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^2.0.0",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sinon-chai": "^1.2.0",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.6.1",
+				"less-loader": "^2.2.3",
+				"lodash": "^3.10.1",
+				"lolex": "^1.4.0",
+				"mocha": "^2.4.5",
+				"node-libs-browser": "^1.0.0",
+				"phantomjs-prebuilt": "^2.1.7",
+				"react": "^15.0.0",
+				"react-bootstrap": "^0.28.5",
+				"react-dom": "^15.0.0",
+				"react-router": "^2.0.1",
+				"release-script": "^1.0.2",
+				"rimraf": "^2.5.2",
+				"shelljs": "^0.6.0",
+				"sinon": "^1.17.3",
+				"sinon-chai": "^2.8.0",
+				"style-loader": "^0.13.1",
+				"url-loader": "^0.5.7",
+				"webpack": "^1.12.14",
+				"webpack-dev-server": "^1.14.1",
+				"yargs": "^4.4.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0",
+				"react-router": ">=2.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e9c353a8006e61ffbb50fb27eb7625016f6ab120",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.22.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.23.0": {
+			"name": "react-router-bootstrap",
+			"version": "0.23.0",
+			"devDependencies": {
+				"babel-cli": "^6.5.2",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.0.4",
+				"babel-loader": "^6.2.4",
+				"babel-plugin-add-module-exports": "^0.1.3",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-es2015-loose": "^7.0.0",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"bootstrap": "^3.3.6",
+				"chai": "^3.5.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"es5-shim": "^4.5.8",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb": "^8.0.0",
+				"eslint-plugin-babel": "^3.2.0",
+				"eslint-plugin-import": "^1.6.0",
+				"eslint-plugin-jsx-a11y": "^1.0.3",
+				"eslint-plugin-mocha": "^2.2.0",
+				"eslint-plugin-react": "^5.0.1",
+				"file-loader": "^0.8.5",
+				"history": "^2.1.0",
+				"html-webpack-plugin": "^2.16.0",
+				"karma": "^0.13.22",
+				"karma-cli": "^0.1.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^2.0.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sinon-chai": "^1.2.0",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.6.1",
+				"less-loader": "^2.2.3",
+				"lodash": "^4.11.1",
+				"lolex": "^1.4.0",
+				"mocha": "^2.4.5",
+				"node-libs-browser": "^1.0.0",
+				"phantomjs-prebuilt": "^2.1.7",
+				"react": "^15.0.1",
+				"react-bootstrap": "^0.29.2",
+				"react-dom": "^15.0.1",
+				"react-router": "^2.3.0",
+				"release-script": "^1.0.2",
+				"rimraf": "^2.5.2",
+				"shelljs": "^0.7.0",
+				"sinon": "^1.17.3",
+				"sinon-chai": "^2.8.0",
+				"style-loader": "^0.13.1",
+				"url-loader": "^0.5.7",
+				"webpack": "^1.13.0",
+				"webpack-dev-server": "^1.14.1",
+				"yargs": "^4.6.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0",
+				"react-router": ">=2.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5cd9404f25d34931d1df6f23917dab1b847e929c",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.23.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.23.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.23.1",
+			"devDependencies": {
+				"babel-cli": "^6.5.2",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.0.4",
+				"babel-loader": "^6.2.4",
+				"babel-plugin-add-module-exports": "^0.1.3",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-es2015-loose": "^7.0.0",
+				"babel-preset-react": "^6.5.0",
+				"babel-preset-stage-1": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"bootstrap": "^3.3.6",
+				"chai": "^3.5.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"es5-shim": "^4.5.8",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb": "^8.0.0",
+				"eslint-plugin-babel": "^3.2.0",
+				"eslint-plugin-import": "^1.6.0",
+				"eslint-plugin-jsx-a11y": "^1.0.3",
+				"eslint-plugin-mocha": "^2.2.0",
+				"eslint-plugin-react": "^5.0.1",
+				"file-loader": "^0.8.5",
+				"history": "^2.1.0",
+				"html-webpack-plugin": "^2.16.0",
+				"karma": "^0.13.22",
+				"karma-cli": "^0.1.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^2.0.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sinon-chai": "^1.2.0",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.6.1",
+				"less-loader": "^2.2.3",
+				"lodash": "^4.11.1",
+				"lolex": "^1.4.0",
+				"mocha": "^2.4.5",
+				"node-libs-browser": "^1.0.0",
+				"phantomjs-prebuilt": "^2.1.7",
+				"react": "^15.0.1",
+				"react-bootstrap": "^0.29.2",
+				"react-dom": "^15.0.1",
+				"react-router": "^2.3.0",
+				"release-script": "^1.0.2",
+				"rimraf": "^2.5.2",
+				"shelljs": "^0.7.0",
+				"sinon": "^1.17.3",
+				"sinon-chai": "^2.8.0",
+				"style-loader": "^0.13.1",
+				"url-loader": "^0.5.7",
+				"webpack": "^1.13.0",
+				"webpack-dev-server": "^1.14.1",
+				"yargs": "^4.6.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a1e0b82f49d25a6083c72202ad16aaa64bba0e0c",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.23.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.24.1": {
+			"name": "react-router-bootstrap",
+			"version": "0.24.1",
+			"dependencies": {
+				"prop-types": "^15.5.8"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.11.4",
+				"babel-core": "^6.11.4",
+				"babel-eslint": "^6.1.2",
+				"babel-loader": "^6.2.4",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.9.0",
+				"babel-preset-es2015-loose": "^7.0.0",
+				"babel-preset-react": "^6.11.1",
+				"babel-preset-stage-1": "^6.5.0",
+				"babel-register": "^6.11.5",
+				"bootstrap": "^3.3.7",
+				"chai": "^3.5.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"eslint": "^2.13.1",
+				"eslint-config-airbnb": "^9.0.1",
+				"eslint-plugin-babel": "^3.3.0",
+				"eslint-plugin-import": "^1.11.1",
+				"eslint-plugin-jsx-a11y": "^1.5.5",
+				"eslint-plugin-mocha": "^4.1.0",
+				"eslint-plugin-react": "^5.2.2",
+				"file-loader": "^0.9.0",
+				"history": "^2.1.2",
+				"html-webpack-plugin": "^2.22.0",
+				"karma": "^1.1.1",
+				"karma-chrome-launcher": "^1.0.1",
+				"karma-firefox-launcher": "^1.0.0",
+				"karma-mocha": "^1.1.1",
+				"karma-mocha-reporter": "^2.0.4",
+				"karma-sinon-chai": "^1.2.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.7.1",
+				"less-loader": "^2.2.3",
+				"lodash": "^4.14.0",
+				"mocha": "^2.5.3",
+				"react": "^15.2.1",
+				"react-addons-test-utils": "^15.4.2",
+				"react-bootstrap": "^0.30.0",
+				"react-dom": "^15.2.1",
+				"react-router-dom": "^4.0.0",
+				"release-script": "^1.0.2",
+				"rimraf": "^2.5.4",
+				"shelljs": "^0.7.2",
+				"sinon": "^1.17.4",
+				"sinon-chai": "^2.8.0",
+				"style-loader": "^0.13.1",
+				"url-loader": "^0.5.7",
+				"webpack": "^1.13.1",
+				"webpack-dev-server": "^1.14.1",
+				"yargs": "^4.8.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a390a9d173e99de49c6d2e59c5720d93cacff079",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.24.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.23.2": {
+			"name": "react-router-bootstrap",
+			"version": "0.23.2",
+			"dependencies": {
+				"prop-types": "^15.5.8"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.24.1",
+				"babel-core": "^6.24.1",
+				"babel-eslint": "^7.2.2",
+				"babel-loader": "^6.4.1",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-es2015-loose": "^7.0.0",
+				"babel-preset-react": "^6.24.1",
+				"babel-preset-stage-1": "^6.24.1",
+				"babel-register": "^6.24.1",
+				"bootstrap": "^3.3.7",
+				"chai": "^3.5.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"eslint": "^2.13.1",
+				"eslint-config-airbnb": "^9.0.1",
+				"eslint-plugin-babel": "^3.3.0",
+				"eslint-plugin-import": "^1.11.1",
+				"eslint-plugin-jsx-a11y": "^1.5.5",
+				"eslint-plugin-mocha": "^4.9.0",
+				"eslint-plugin-react": "^5.2.2",
+				"file-loader": "^0.9.0",
+				"history": "^2.1.2",
+				"html-webpack-plugin": "^2.28.0",
+				"karma": "^1.6.0",
+				"karma-chrome-launcher": "^1.0.1",
+				"karma-firefox-launcher": "^1.0.1",
+				"karma-mocha": "^1.3.0",
+				"karma-mocha-reporter": "^2.2.3",
+				"karma-sinon-chai": "^1.3.1",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.7.2",
+				"less-loader": "^2.2.3",
+				"lodash": "^4.17.4",
+				"mocha": "^2.5.3",
+				"react": "^15.5.4",
+				"react-bootstrap": "^0.30.9",
+				"react-dom": "^15.5.4",
+				"react-router": "^2.6.0",
+				"release-script": "^1.0.2",
+				"rimraf": "^2.6.1",
+				"shelljs": "^0.7.7",
+				"sinon": "^2.1.0",
+				"sinon-chai": "^2.9.0",
+				"style-loader": "^0.13.1",
+				"url-loader": "^0.5.8",
+				"webpack": "^1.13.1",
+				"webpack-dev-server": "^1.14.1",
+				"yargs": "^7.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.9"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0d04015d78f846c2e9afe4cc19b2a64b39d6f6ff",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.23.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.24.2": {
+			"name": "react-router-bootstrap",
+			"version": "0.24.2",
+			"dependencies": {
+				"prop-types": "^15.5.8"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.11.4",
+				"babel-core": "^6.11.4",
+				"babel-eslint": "^6.1.2",
+				"babel-loader": "^6.2.4",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.9.0",
+				"babel-preset-es2015-loose": "^7.0.0",
+				"babel-preset-react": "^6.11.1",
+				"babel-preset-stage-1": "^6.5.0",
+				"babel-register": "^6.11.5",
+				"bootstrap": "^3.3.7",
+				"chai": "^3.5.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"eslint": "^2.13.1",
+				"eslint-config-airbnb": "^9.0.1",
+				"eslint-plugin-babel": "^3.3.0",
+				"eslint-plugin-import": "^1.11.1",
+				"eslint-plugin-jsx-a11y": "^1.5.5",
+				"eslint-plugin-mocha": "^4.1.0",
+				"eslint-plugin-react": "^5.2.2",
+				"file-loader": "^0.9.0",
+				"history": "^2.1.2",
+				"html-webpack-plugin": "^2.22.0",
+				"karma": "^1.1.1",
+				"karma-chrome-launcher": "^1.0.1",
+				"karma-firefox-launcher": "^1.0.0",
+				"karma-mocha": "^1.1.1",
+				"karma-mocha-reporter": "^2.0.4",
+				"karma-sinon-chai": "^1.2.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.7.1",
+				"less-loader": "^2.2.3",
+				"lodash": "^4.14.0",
+				"mocha": "^2.5.3",
+				"react": "^15.2.1",
+				"react-addons-test-utils": "^15.4.2",
+				"react-bootstrap": "^0.30.0",
+				"react-dom": "^15.2.1",
+				"react-router-dom": "^4.0.0",
+				"release-script": "^1.0.2",
+				"rimraf": "^2.5.4",
+				"shelljs": "^0.7.2",
+				"sinon": "^1.17.4",
+				"sinon-chai": "^2.8.0",
+				"style-loader": "^0.13.1",
+				"url-loader": "^0.5.7",
+				"webpack": "^1.13.1",
+				"webpack-dev-server": "^1.14.1",
+				"yargs": "^4.8.1"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.0",
+				"react-router-dom": ">=4.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b99f5fcca812989d703eacbf400bed0529d040ab",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.24.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.23.3": {
+			"name": "react-router-bootstrap",
+			"version": "0.23.3",
+			"dependencies": {
+				"prop-types": "^15.5.8"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.24.1",
+				"babel-core": "^6.24.1",
+				"babel-eslint": "^7.2.2",
+				"babel-loader": "^6.4.1",
+				"babel-plugin-add-module-exports": "^0.2.1",
+				"babel-preset-es2015": "^6.24.1",
+				"babel-preset-es2015-loose": "^7.0.0",
+				"babel-preset-react": "^6.24.1",
+				"babel-preset-stage-1": "^6.24.1",
+				"babel-register": "^6.24.1",
+				"bootstrap": "^3.3.7",
+				"chai": "^3.5.0",
+				"colors": "^1.1.2",
+				"css-loader": "^0.23.1",
+				"eslint": "^2.13.1",
+				"eslint-config-airbnb": "^9.0.1",
+				"eslint-plugin-babel": "^3.3.0",
+				"eslint-plugin-import": "^1.11.1",
+				"eslint-plugin-jsx-a11y": "^1.5.5",
+				"eslint-plugin-mocha": "^4.9.0",
+				"eslint-plugin-react": "^5.2.2",
+				"file-loader": "^0.9.0",
+				"history": "^2.1.2",
+				"html-webpack-plugin": "^2.28.0",
+				"karma": "^1.6.0",
+				"karma-chrome-launcher": "^1.0.1",
+				"karma-firefox-launcher": "^1.0.1",
+				"karma-mocha": "^1.3.0",
+				"karma-mocha-reporter": "^2.2.3",
+				"karma-sinon-chai": "^1.3.1",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"less": "^2.7.2",
+				"less-loader": "^2.2.3",
+				"lodash": "^4.17.4",
+				"mocha": "^2.5.3",
+				"react": "^15.5.4",
+				"react-bootstrap": "^0.30.9",
+				"react-dom": "^15.5.4",
+				"react-router": "^3.0.5",
+				"release-script": "^1.0.2",
+				"rimraf": "^2.6.1",
+				"shelljs": "^0.7.7",
+				"sinon": "^2.1.0",
+				"sinon-chai": "^2.9.0",
+				"style-loader": "^0.13.1",
+				"url-loader": "^0.5.8",
+				"webpack": "^1.13.1",
+				"webpack-dev-server": "^1.14.1",
+				"yargs": "^7.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.14.9"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "970c35c53c04c61fb6b110d4ff651a7e8a73b2ba",
+				"tarball": "https://registry.npmjs.org/react-router-bootstrap/-/react-router-bootstrap-0.23.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "react-router-bootstrap",
+	"dist-tags": {
+		"latest": "0.24.2",
+		"rr-v3": "0.23.3"
+	},
+	"modified": "2017-04-25T16:11:38.326Z",
+	"_etag": "W/\"58ff753a-d77d\"",
+	"_lastModified": "Tue, 25 Apr 2017 16:11:38 GMT"
+}

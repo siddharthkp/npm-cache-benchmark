@@ -1,0 +1,864 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "uncontrollable",
+			"version": "1.0.0",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"rimraf": "^2.2.8",
+				"gulp": "^3.8.10",
+				"gulp-less": "^2.0.1",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"mocha": "~1.21.4",
+				"chai": "^1.10.0",
+				"sinon-chai": "^2.6.0",
+				"chai-as-promised": "^4.1.1",
+				"phantomjs": "~1.9.10",
+				"imports-loader": "^0.6.3",
+				"css-loader": "^0.9.1",
+				"style-loader": "^0.8.3",
+				"less-loader": "^2.0.0",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": "^0.12.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f2b2a9caafdcf2a46590078db09048fade4195b4",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "uncontrollable",
+			"version": "1.1.0",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"rimraf": "^2.2.8",
+				"gulp": "^3.8.10",
+				"gulp-less": "^2.0.1",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"mocha": "~1.21.4",
+				"chai": "^1.10.0",
+				"sinon-chai": "^2.6.0",
+				"chai-as-promised": "^4.1.1",
+				"phantomjs": "~1.9.10",
+				"imports-loader": "^0.6.3",
+				"css-loader": "^0.9.1",
+				"style-loader": "^0.8.3",
+				"less-loader": "^2.0.0",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5fddf6b97a95d3e64e3a04b145eb09d7c7ff60d3",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "uncontrollable",
+			"version": "1.1.1",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"rimraf": "^2.2.8",
+				"gulp": "^3.8.10",
+				"gulp-less": "^2.0.1",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"mocha": "~1.21.4",
+				"chai": "^1.10.0",
+				"sinon-chai": "^2.6.0",
+				"chai-as-promised": "^4.1.1",
+				"phantomjs": "~1.9.10",
+				"imports-loader": "^0.6.3",
+				"css-loader": "^0.9.1",
+				"style-loader": "^0.8.3",
+				"less-loader": "^2.0.0",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ff163223a3653cce19d8bb4e183fca750277b2b4",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "uncontrollable",
+			"version": "1.1.2",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1bef5db6af766a4b3b660f761b4f5f727a4cb29a",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.3": {
+			"name": "uncontrollable",
+			"version": "1.1.3",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1ef3492cfe1ac6555d80c25d47a5d199232f5374",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.4": {
+			"name": "uncontrollable",
+			"version": "1.1.4",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3e60ab27ef718c0a8e6e8e6dea8e25ae577e270c",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "uncontrollable",
+			"version": "1.2.0",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f5b5470532f05b13035ecb8aa31c588ca3986ed0",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "uncontrollable",
+			"version": "1.3.0",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"react-layer": "^1.1.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "404d453c238ca53078fb7d9e8560194ef42ffbe8",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.1": {
+			"name": "uncontrollable",
+			"version": "1.3.1",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"react-layer": "^1.1.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "07c9c04a13d6204f47f012114e533bc87dec67df",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.2": {
+			"name": "uncontrollable",
+			"version": "1.3.2",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"react-layer": "^1.1.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2a8ee7acfc99cc839d7937c48f7f42cdd86663e8",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.0": {
+			"name": "uncontrollable",
+			"version": "1.4.0",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"react-layer": "^1.1.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8a80126d8d55beba037ee2b87f25afce3d5b38cc",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-1.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "uncontrollable",
+			"version": "2.0.0",
+			"devDependencies": {
+				"babel": "^4.7.2",
+				"babel-loader": "^4.0.0",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"css-loader": "^0.9.1",
+				"gulp": "^3.8.10",
+				"gulp-babel-helpers": "^1.1.2",
+				"gulp-less": "^2.0.1",
+				"gulp-plumber": "^0.6.6",
+				"gulp-rename": "^1.2.0",
+				"imports-loader": "^0.6.3",
+				"jq-release": "^0.6.1",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"less-loader": "^2.0.0",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": "^0.12.2",
+				"react-hot-loader": "^1.1.7",
+				"react-layer": "^1.1.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4316bcf9ba0e026d6ccdeb3cb5bd683d0c202a57",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "uncontrollable",
+			"version": "3.0.0",
+			"directories": {},
+			"dist": {
+				"shasum": "48c191b3c5a6977389909f51fc0747a7ffd8a8f9",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "uncontrollable",
+			"version": "3.0.1",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "646da7449bb2abfeb9043b6eca1473a11bc86089",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.2": {
+			"name": "uncontrollable",
+			"version": "3.0.2",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0 || 0.14.0-beta3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d334080269db2fc28f48cd3df8a9771ab887b6e4",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "uncontrollable",
+			"version": "3.1.0",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0 || 0.14.0-beta3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5fb24f8e5fc23e27e497bf1a1b2933e6fc65df40",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.3": {
+			"name": "uncontrollable",
+			"version": "3.0.3",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0 || ^0.14.0-beta3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "126f5f85dd2da9e2c06b6d6b84401a5c908d2131",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.1": {
+			"name": "uncontrollable",
+			"version": "3.1.1",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0 || ^0.14.0-beta3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3ab5ba9a77e537fb5431a4d48964758a9bf8aada",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.2": {
+			"name": "uncontrollable",
+			"version": "3.1.2",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0 || ^0.14.0-beta3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1272f3647d85e85fe359a677835b99d9dcab4719",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.3": {
+			"name": "uncontrollable",
+			"version": "3.1.3",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4fdddfba42ffcd83e6186d9c12f18b9102b2514e",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.4": {
+			"name": "uncontrollable",
+			"version": "3.1.4",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7646fae6bfc86ac033e0fe1ada305e4c51098064",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.0": {
+			"name": "uncontrollable",
+			"version": "3.2.0",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ed99a1daadfafc6e042815da6c8a75fbb1f2dc28",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.1": {
+			"name": "uncontrollable",
+			"version": "3.2.1",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "91548ca99d5c414b6c72bfb485952c6816519562",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.3": {
+			"name": "uncontrollable",
+			"version": "3.2.3",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.8.21",
+				"babel-eslint": "^4.0.5",
+				"babel-loader": "^5.3.2",
+				"chai": "^1.10.0",
+				"chai-as-promised": "^4.1.1",
+				"cpy": "^3.4.0",
+				"eslint": "^0.24.1",
+				"imports-loader": "^0.6.3",
+				"karma": "~0.12.23",
+				"karma-mocha": "~0.1.9",
+				"karma-mocha-reporter": "^0.3.1",
+				"karma-phantomjs-launcher": "~0.1.4",
+				"karma-sourcemap-loader": "^0.3.2",
+				"karma-webpack": "~1.2.2",
+				"mocha": "~1.21.4",
+				"phantomjs": "^1.9.16",
+				"react": ">=0.11.0",
+				"rimraf": "^2.2.8",
+				"sinon-chai": "^2.6.0",
+				"style-loader": "^0.8.3",
+				"webpack": "^1.4.15",
+				"webpack-dev-server": "^1.7.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8e210c6f80f63085f7705897a2788e9bffbbe2ce",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.3.0": {
+			"name": "uncontrollable",
+			"version": "3.3.0",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c4fc680ae73e8fd1e0386b4ca22f4da29a686d98",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.3.1": {
+			"name": "uncontrollable",
+			"version": "3.3.1",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e23b402e7a4c69b1853fb4b43ce34b6480c65b6f",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.4": {
+			"name": "uncontrollable",
+			"version": "3.2.4",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9ee00172f98c668c04ca260f73b6b0eacd4f65df",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-3.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "uncontrollable",
+			"version": "4.0.0",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a919bd01683c23a27c632d2e236a7e8c4da858fe",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-4.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.1": {
+			"name": "uncontrollable",
+			"version": "4.0.1",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e1f69b7eb97d39b6bee502db179ba2b9fee8d8a2",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-4.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.2": {
+			"name": "uncontrollable",
+			"version": "4.0.2",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bc184191b26a3bb61c66519e0381a91fa284fe8a",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-4.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.3": {
+			"name": "uncontrollable",
+			"version": "4.0.3",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "06ec76cb9e02914756085d9cea0354fc746b09b4",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-4.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "uncontrollable",
+			"version": "4.1.0",
+			"dependencies": {
+				"invariant": "^2.1.0"
+			},
+			"peerDependencies": {
+				"react": ">=0.11.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e0358291252e1865222d90939b19f2f49f81c1a9",
+				"tarball": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-4.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "uncontrollable",
+	"dist-tags": {
+		"latest": "4.1.0"
+	},
+	"modified": "2017-04-18T17:06:18.641Z",
+	"_etag": "W/\"58f6478a-47af\"",
+	"_lastModified": "Tue, 18 Apr 2017 17:06:18 GMT"
+}

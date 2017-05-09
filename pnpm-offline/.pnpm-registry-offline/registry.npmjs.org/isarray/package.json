@@ -1,0 +1,83 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "isarray",
+			"version": "0.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "643ef22a01dd5b244411c2afedd4347489fb392e",
+				"tarball": "https://registry.npmjs.org/isarray/-/isarray-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "isarray",
+			"version": "0.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8a18acfca9a8f4177e09abfc6038939b05d1eedf",
+				"tarball": "https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "isarray",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~2.13.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bb935d48582cba168c06834957a54a3e07124f11",
+				"tarball": "https://registry.npmjs.org/isarray/-/isarray-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "isarray",
+			"version": "2.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~2.13.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3ac1d0b7cb66703a6aa1feaa92aedcb49b5ebf53",
+				"tarball": "https://registry.npmjs.org/isarray/-/isarray-2.0.0.tgz"
+			},
+			"deprecated": "Just use Array.isArray directly",
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "isarray",
+			"version": "2.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"tape": "~2.13.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a37d94ed9cda2d59865c9f76fe596ee1f338741e",
+				"tarball": "https://registry.npmjs.org/isarray/-/isarray-2.0.1.tgz"
+			},
+			"deprecated": "Just use Array.isArray directly",
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "isarray",
+	"dist-tags": {
+		"latest": "2.0.1"
+	},
+	"modified": "2016-11-01T17:37:47.102Z",
+	"_etag": "W/\"5818d2eb-5f0\"",
+	"_lastModified": "Tue, 01 Nov 2016 17:37:47 GMT"
+}

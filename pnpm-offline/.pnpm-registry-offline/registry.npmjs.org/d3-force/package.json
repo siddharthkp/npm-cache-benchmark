@@ -1,0 +1,571 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "d3-force",
+			"version": "0.0.1",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.2",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ba0525e183d4e0fc0184d91647665cad0a1b23c8",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-force",
+			"version": "0.0.2",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "da69f169dc95535c44301e23d389a0c612cb43a1",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "d3-force",
+			"version": "0.0.3",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6ecefd25009d5162b43c6a44e4b7929389154778",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "d3-force",
+			"version": "0.0.4",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "37272d22e2aa1bf9a6277db704bc848755b025fd",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-force",
+			"version": "0.1.0",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "05b851632a72a7ed681224dbd2ef33893c24c4bd",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-force",
+			"version": "0.2.0",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bfb3b66cd4d88ac43b137e3f16848cd5f914c917",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-force",
+			"version": "0.2.1",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5c56027174ac9de5fc654bbe890be8e0e132b6ae",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "d3-force",
+			"version": "0.2.2",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "335127cd18a68999e233208b59ee2bd5b4b627be",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-force",
+			"version": "0.3.0",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eab8d72ec9cb3eda899ef97038da4ac4ea9bfd4f",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-force",
+			"version": "0.4.0",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2a6583b2d6e2c6150ebc70cf177dc4fc8f0f7b61",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "d3-force",
+			"version": "0.4.1",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7eadcb765ac9a42cb6a28944256df1e661819c9d",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "d3-force",
+			"version": "0.5.0",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "425bfb8533da0b75efa2aa8eea1fd922f3526529",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "d3-force",
+			"version": "0.6.0",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7ac46847f9b9f35539cfa28ffad53e22cf661800",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.1": {
+			"name": "d3-force",
+			"version": "0.6.1",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0d46a36048b1611976a31265a97abfef1e2291fb",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.6.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.2": {
+			"name": "d3-force",
+			"version": "0.6.2",
+			"dependencies": {
+				"d3-collection": "0.1",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a9f1fb5a5ab9abe60c27225617f2aec19d582c2c",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.6.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.3": {
+			"name": "d3-force",
+			"version": "0.6.3",
+			"dependencies": {
+				"d3-collection": "0.2",
+				"d3-dispatch": "0.4",
+				"d3-quadtree": "0.7",
+				"d3-timer": "0.4"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c04d312a62249ec9b1b3ce02c5a706e68062bc0a",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.6.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "d3-force",
+			"version": "0.7.0",
+			"dependencies": {
+				"d3-collection": "0.3",
+				"d3-dispatch": "0.5",
+				"d3-quadtree": "0.8",
+				"d3-timer": "0.5"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "64ef45e323864289433b9cd9a8aa32e723018447",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.1": {
+			"name": "d3-force",
+			"version": "0.7.1",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-quadtree": "1",
+				"d3-timer": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "246e1d5bafad545a37d14dd5bafff932ba9115a8",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-0.7.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-force",
+			"version": "1.0.0",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-quadtree": "1",
+				"d3-timer": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5f195aa126a19c83f041cb148e6af65ae545d2fa",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-force",
+			"version": "1.0.1",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-quadtree": "1",
+				"d3-timer": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bcf2c434e74df044c3bfd5601937fccb9c4ffe35",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-force",
+			"version": "1.0.2",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-quadtree": "1",
+				"d3-timer": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "92dbedeacf9a2d3f6686450c8d6375f3c363af66",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-force",
+			"version": "1.0.3",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-quadtree": "1",
+				"d3-timer": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4b7bc812382b24497954b19a6130b551a33e1b73",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "d3-force",
+			"version": "1.0.4",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-quadtree": "1",
+				"d3-timer": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f84dcbb3200be41de7bc30fa71923143156758bf",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "d3-force",
+			"version": "1.0.5",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-quadtree": "1",
+				"d3-timer": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "be8f65ac70688b8d26a9d9bc1e4699c1525f46b1",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-1.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.6": {
+			"name": "d3-force",
+			"version": "1.0.6",
+			"dependencies": {
+				"d3-collection": "1",
+				"d3-dispatch": "1",
+				"d3-quadtree": "1",
+				"d3-timer": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ea7e1b7730e2664cd314f594d6718c57cc132b79",
+				"tarball": "https://registry.npmjs.org/d3-force/-/d3-force-1.0.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-force",
+	"dist-tags": {
+		"latest": "1.0.6"
+	},
+	"modified": "2017-03-10T18:05:24.962Z",
+	"_etag": "W/\"58c2eae4-276d\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:05:24 GMT"
+}

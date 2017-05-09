@@ -1,0 +1,32 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "jsonify",
+			"version": "0.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"tap": "0.0.x",
+				"garbage": "0.0.x"
+			},
+			"directories": {
+				"lib": ".",
+				"test": "test"
+			},
+			"dist": {
+				"shasum": "2c74b6ee41d93ca51b7b5aaee8f503631d252a73",
+				"tarball": "https://registry.npmjs.org/jsonify/-/jsonify-0.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "jsonify",
+	"dist-tags": {
+		"latest": "0.0.0"
+	},
+	"modified": "2013-01-26T23:27:38.644Z",
+	"_etag": "W/\"5104666a-1ad\"",
+	"_lastModified": "Sat, 26 Jan 2013 23:27:38 GMT"
+}

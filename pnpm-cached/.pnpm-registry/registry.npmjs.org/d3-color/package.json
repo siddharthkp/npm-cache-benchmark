@@ -1,0 +1,429 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "d3-color",
+			"version": "0.0.0",
+			"devDependencies": {
+				"d3": "^3.4.4",
+				"smash": "0.0.12",
+				"uglify-js": "^2.4.13"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "688f59cf01c13ad0f9ce3004b25c5bce2329ba55",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-color",
+			"version": "0.0.2",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "86c50e4f55d5954299f9556c7bfa5be2f8bf7486",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "d3-color",
+			"version": "0.0.3",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6846ff0e9a210c14c1f2537e33f0cdea22b75b92",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "d3-color",
+			"version": "0.0.4",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ef9f28106c03972e45fd69bf00f162ccdea762b6",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-color",
+			"version": "0.1.0",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a776c70eb2f81e9b33695b3f5dba2ee257bc050e",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-color",
+			"version": "0.2.1",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglifyjs": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d27957bab44549ca931edba648798d743a921b71",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "d3-color",
+			"version": "0.2.2",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ba17c433d2625b2bb1a5ffdcf871e5b764c420b0",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "d3-color",
+			"version": "0.2.3",
+			"devDependencies": {
+				"d3-bundler": "~0.2.5",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eb5342116b7d173b33bb0444407250a89e7e4b1b",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.4": {
+			"name": "d3-color",
+			"version": "0.2.4",
+			"devDependencies": {
+				"d3-bundler": "~0.2.8",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2c0ae947f2adf59680ed0a407b89913e5e3f6093",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.5": {
+			"name": "d3-color",
+			"version": "0.2.5",
+			"devDependencies": {
+				"d3-bundler": "~0.2.8",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8cfb4450a5ff4d1b90bcce19e784c8e76ef056d7",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.2.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.6": {
+			"name": "d3-color",
+			"version": "0.2.6",
+			"devDependencies": {
+				"d3-bundler": "~0.2.8",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "95b8d9b2fd9271834499dd2ac8e0d7a65c9a383d",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.2.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.7": {
+			"name": "d3-color",
+			"version": "0.2.7",
+			"devDependencies": {
+				"d3-bundler": "~0.4.0",
+				"faucet": "0.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "524a375da0ae4e34fbab24b9af7abb43d5e0624b",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.2.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.8": {
+			"name": "d3-color",
+			"version": "0.2.8",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "84d5189a1a3252aa52304f6ad5dec767c7daead5",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.2.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-color",
+			"version": "0.3.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "955f017934f57e3153c016c4b8b361c4cddbd740",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-color",
+			"version": "0.3.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cc9a4d9a6baa2bb033ff4ed63a7726498e97c810",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "d3-color",
+			"version": "0.3.2",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b8a34d73f502619bf53a3fe68086b01965d1f5d0",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.3": {
+			"name": "d3-color",
+			"version": "0.3.3",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "35331fd099eb11fc0d0bcd0fabbb9c508fd7b78c",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.3.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.4": {
+			"name": "d3-color",
+			"version": "0.3.4",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eba2fa9532513998b623a077c3b5149cb1df53d7",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.3.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-color",
+			"version": "0.4.0",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1b5ef0ca1e4df8638b4b4cafe8f7243e8dfdec30",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "d3-color",
+			"version": "0.4.1",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bc217d78044079840406b2b27e722790911d81d1",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "d3-color",
+			"version": "0.4.2",
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "df013e789d9bfef0f8ea3986c92340cdf340d8a0",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "d3-color",
+			"version": "0.5.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9a2f4e12f5e4a98bbd5bc5fda5cb3b09b53acdb4",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-color",
+			"version": "1.0.0",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eaabf9db877a2e796d27644a8f5b93ddf9ff6e84",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-color",
+			"version": "1.0.1",
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "73cc91f4ee3f12e00ca06b1596a7c83cf104723a",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-color",
+			"version": "1.0.2",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "83cb4b3a9474e40795f009d97e97a15649830bbc",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-color",
+			"version": "1.0.3",
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bc7643fca8e53a8347e2fbdaffa236796b58509b",
+				"tarball": "https://registry.npmjs.org/d3-color/-/d3-color-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-color",
+	"dist-tags": {
+		"latest": "1.0.3"
+	},
+	"modified": "2017-03-10T18:12:28.998Z",
+	"_etag": "W/\"58c2ec8c-1ede\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:12:28 GMT"
+}

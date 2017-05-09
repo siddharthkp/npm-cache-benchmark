@@ -1,0 +1,423 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "deep-eql",
+			"version": "0.1.0",
+			"dependencies": {
+				"type-detect": "0.1.0"
+			},
+			"devDependencies": {
+				"component": "*",
+				"coveralls": "2.0.16",
+				"jscoverage": "0.3.7",
+				"karma": "0.10.x",
+				"karma-mocha": "*",
+				"mocha": "*",
+				"mocha-lcov-reporter": "0.0.1",
+				"simple-assert": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "165c5c41887f68740408e29cc14bf668124aea7a",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-0.1.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "deep-eql",
+			"version": "0.1.1",
+			"dependencies": {
+				"type-detect": "0.1.0"
+			},
+			"devDependencies": {
+				"component": "*",
+				"coveralls": "2.0.16",
+				"jscoverage": "0.3.7",
+				"karma": "0.10.x",
+				"karma-mocha": "*",
+				"mocha": "*",
+				"mocha-lcov-reporter": "0.0.1",
+				"simple-assert": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0ec6f5f9b6eacae5dd87fa47a0e2c0f42d12419d",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-0.1.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "deep-eql",
+			"version": "0.1.2",
+			"dependencies": {
+				"type-detect": "0.1.0"
+			},
+			"devDependencies": {
+				"component": "*",
+				"coveralls": "2.0.16",
+				"jscoverage": "0.3.7",
+				"karma": "0.10.x",
+				"karma-mocha": "*",
+				"mocha": "*",
+				"mocha-lcov-reporter": "0.0.1",
+				"simple-assert": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b54feed3473a6448fbc198be6a6eca9b95d9c58a",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-0.1.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "deep-eql",
+			"version": "0.1.3",
+			"dependencies": {
+				"type-detect": "0.1.1"
+			},
+			"devDependencies": {
+				"component": "*",
+				"coveralls": "2.0.16",
+				"jscoverage": "0.3.7",
+				"karma": "0.10.x",
+				"karma-mocha": "*",
+				"mocha": "*",
+				"mocha-lcov-reporter": "0.0.1",
+				"simple-assert": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ef558acab8de25206cd713906d74e56930eb69f2",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-0.1.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "deep-eql",
+			"version": "1.0.0",
+			"dependencies": {
+				"type-detect": "^3.0.0"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"component": "*",
+				"coveralls": "2.11.8",
+				"eslint": "^2.4.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^0.13.22",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^0.5.5",
+				"karma-mocha": "^0.2.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^0.3.1",
+				"kewlr": "^0.3.1",
+				"lcov-result-merger": "^1.0.2",
+				"lodash.isequal": "^4.4.0",
+				"mocha": "^2.4.5",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1",
+				"watchify": "^3.7.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3b2ce6cc80645f75fe90af5d7faab39112a15a31",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-1.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "deep-eql",
+			"version": "1.0.1",
+			"dependencies": {
+				"type-detect": "^3.0.0"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"component": "*",
+				"coveralls": "2.11.8",
+				"eslint": "^2.4.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^0.13.22",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^0.5.5",
+				"karma-mocha": "^0.2.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^0.3.1",
+				"kewlr": "^0.3.1",
+				"lcov-result-merger": "^1.0.2",
+				"lodash.isequal": "^4.4.0",
+				"mocha": "^3.1.2",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1",
+				"watchify": "^3.7.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "544eb3359b6710185d442073d60fe1aefdeacfa8",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-1.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "deep-eql",
+			"version": "1.0.2",
+			"dependencies": {
+				"type-detect": "^3.0.0"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"component": "*",
+				"coveralls": "2.11.8",
+				"eslint": "^2.4.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^0.13.22",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^0.5.5",
+				"karma-mocha": "^0.2.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^0.3.1",
+				"kewlr": "^0.3.1",
+				"lcov-result-merger": "^1.0.2",
+				"lodash.isequal": "^4.4.0",
+				"mocha": "^3.1.2",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1",
+				"watchify": "^3.7.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ceeb80d659006af42e0c5610af0b8706bdabc426",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-1.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "deep-eql",
+			"version": "1.0.3",
+			"dependencies": {
+				"type-detect": "^3.0.0"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"component": "*",
+				"coveralls": "2.11.8",
+				"eslint": "^2.4.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^0.13.22",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^0.5.5",
+				"karma-mocha": "^0.2.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^0.3.1",
+				"kewlr": "^0.3.1",
+				"lcov-result-merger": "^1.0.2",
+				"lodash.isequal": "^4.4.0",
+				"mocha": "^3.1.2",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1",
+				"watchify": "^3.7.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8030fe56a2b0e62ebb9217cc23d095c656915b08",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-1.0.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "deep-eql",
+			"version": "2.0.0",
+			"dependencies": {
+				"type-detect": "^3.0.0"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"component": "*",
+				"coveralls": "2.11.8",
+				"eslint": "^2.4.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^0.13.22",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^0.5.5",
+				"karma-mocha": "^0.2.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^0.3.1",
+				"kewlr": "^0.3.1",
+				"lcov-result-merger": "^1.0.2",
+				"lodash.isequal": "^4.4.0",
+				"mocha": "^3.1.2",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1",
+				"watchify": "^3.7.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "842dabddf778c5e99b019168cf1142689b490388",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-2.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.12"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "deep-eql",
+			"version": "2.0.1",
+			"dependencies": {
+				"type-detect": "^3.0.0"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"component": "*",
+				"coveralls": "2.11.8",
+				"eslint": "^2.4.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^0.13.22",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^0.5.5",
+				"karma-mocha": "^0.2.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^0.3.1",
+				"kewlr": "^0.3.1",
+				"lcov-result-merger": "^1.0.2",
+				"lodash.isequal": "^4.4.0",
+				"mocha": "^3.1.2",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1",
+				"watchify": "^3.7.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2d5e54d261d24672a2bcedc9b6f1937fba258bc2",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-2.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.12"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "deep-eql",
+			"version": "2.0.2",
+			"dependencies": {
+				"type-detect": "^3.0.0"
+			},
+			"devDependencies": {
+				"benchmark": "^2.1.0",
+				"browserify": "^13.0.0",
+				"browserify-istanbul": "^1.0.0",
+				"component": "*",
+				"coveralls": "2.11.8",
+				"eslint": "^2.4.0",
+				"eslint-config-strict": "^8.5.0",
+				"eslint-plugin-filenames": "^0.2.0",
+				"ghooks": "^1.0.1",
+				"istanbul": "^0.4.2",
+				"karma": "^0.13.22",
+				"karma-browserify": "^5.0.2",
+				"karma-coverage": "^0.5.5",
+				"karma-mocha": "^0.2.2",
+				"karma-phantomjs-launcher": "^1.0.0",
+				"karma-sauce-launcher": "^0.3.1",
+				"kewlr": "^0.3.1",
+				"lcov-result-merger": "^1.0.2",
+				"lodash.isequal": "^4.4.0",
+				"mocha": "^3.1.2",
+				"phantomjs-prebuilt": "^2.1.5",
+				"semantic-release": "^4.3.5",
+				"simple-assert": "^1.0.0",
+				"travis-after-all": "^1.4.4",
+				"validate-commit-msg": "^2.3.1",
+				"watchify": "^3.7.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b1bac06e56f0a76777686d50c9feb75c2ed7679a",
+				"tarball": "https://registry.npmjs.org/deep-eql/-/deep-eql-2.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.12"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "deep-eql",
+	"dist-tags": {
+		"latest": "2.0.2"
+	},
+	"modified": "2017-05-05T11:19:45.296Z",
+	"_etag": "W/\"590c5fd1-2182\"",
+	"_lastModified": "Fri, 05 May 2017 11:19:45 GMT"
+}

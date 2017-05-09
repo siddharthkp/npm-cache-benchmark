@@ -1,0 +1,696 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "moment-timezone",
+			"version": "0.0.1",
+			"dependencies": {
+				"moment": "2.1.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.1",
+				"grunt-contrib-nodeunit": "0.1.2",
+				"grunt-contrib-jshint": "0.4.3",
+				"grunt-contrib-uglify": "0.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f70d2a354bcadb1f4a4188aeb8f76df1765fa51e",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "moment-timezone",
+			"version": "0.0.2",
+			"dependencies": {
+				"moment": "2.1.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.1",
+				"grunt-contrib-nodeunit": "0.1.2",
+				"grunt-contrib-jshint": "0.4.3",
+				"grunt-contrib-uglify": "0.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fda6d8e42ea3ad9bd4b258fea9aeef090ed70baf",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "moment-timezone",
+			"version": "0.0.3",
+			"dependencies": {
+				"moment": ">= 2.1.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.1",
+				"grunt-contrib-nodeunit": "0.2.0",
+				"grunt-contrib-jshint": "0.4.3",
+				"grunt-contrib-uglify": "0.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ebbd95f9220eba1c1b5e562d078db6c7d971e7ac",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.0.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "moment-timezone",
+			"version": "0.0.5",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "df26526d4379a90b6048a527cd530cd1ce3e7a51",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.0.5.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.6": {
+			"name": "moment-timezone",
+			"version": "0.0.6",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9b677c19f59a03a0706aa74b118a4ac38b4d8e13",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.0.6.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "moment-timezone",
+			"version": "0.1.0",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-clean": "0.5.0",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "879a0e3b45a5a32f8800a1cb5529151450b88cb5",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.1.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "moment-timezone",
+			"version": "0.2.0",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-clean": "0.5.0",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "998201977adeb0b77fca1fa2558557112331ce1e",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.2.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "moment-timezone",
+			"version": "0.2.1",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-clean": "0.5.0",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "840238a791c9287a7fcbfdf130901e66f0334ee8",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.2.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "moment-timezone",
+			"version": "0.2.2",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-clean": "0.5.0",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9ed4ad24c0bae6eebd21ed65e01eb42425e75dcc",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.2.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "moment-timezone",
+			"version": "0.2.3",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-clean": "0.5.0",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fcbcfde20f7baf68c275c84cafff77932e5fdec4",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.2.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.4": {
+			"name": "moment-timezone",
+			"version": "0.2.4",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-clean": "0.5.0",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "331a9dbecf965a8fb185ee30a6ed3fe32ee93012",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.2.4.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.5": {
+			"name": "moment-timezone",
+			"version": "0.2.5",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-clean": "0.5.0",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "99d7a54e9be50bb1f9e4091693dec3ca729b2df2",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.2.5.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "moment-timezone",
+			"version": "0.3.0",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-clean": "0.5.0",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ea67ab9fc84cafe9153f0017e7669b1c869ecbb7",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.3.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "moment-timezone",
+			"version": "0.3.1",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.4",
+				"grunt-contrib-clean": "0.5.0",
+				"grunt-contrib-nodeunit": "0.3.3",
+				"grunt-contrib-jshint": "0.10.0",
+				"grunt-contrib-uglify": "0.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3ef47856b02d53b718a10a5ec2023aa299e07bf5",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.3.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "moment-timezone",
+			"version": "0.4.0",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "571ec43f5d2fb70ddb601c7d23b284e2f63ddab4",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.4.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "moment-timezone",
+			"version": "0.4.1",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "81f598c3ad5e22cdad796b67ecd8d88d0f5baa06",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.4.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "moment-timezone",
+			"version": "0.5.0",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f282c8e5e6e28614b2f6dd1048663754d30ea11f",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "moment-timezone",
+			"version": "0.5.1",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ac7f12f214f3c6945c305de2097d88e924910a67",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.2": {
+			"name": "moment-timezone",
+			"version": "0.5.2",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "862420b0d9f8d334cd705727f427926e9ec906db",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.3": {
+			"name": "moment-timezone",
+			"version": "0.5.3",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "34ba53bd719677975bee9d0e8ba799ad9373f082",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.4": {
+			"name": "moment-timezone",
+			"version": "0.5.4",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b6188b8f08557ea9ffb0d42899f5b171e1858e93",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.4.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.5": {
+			"name": "moment-timezone",
+			"version": "0.5.5",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a1d5410a72c18a5f293f2a2e62870a80ad432dae",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.5.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.6": {
+			"name": "moment-timezone",
+			"version": "0.5.6",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8dcf7bb648d5dcd0f387d6bfd8f3dd9bbba16a86",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.6.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.7": {
+			"name": "moment-timezone",
+			"version": "0.5.7",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1305bcada16f046dbbc7ac89abf66effff886cb5",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.7.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.8": {
+			"name": "moment-timezone",
+			"version": "0.5.8",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3da8d4cd9a4e4e9bf0b5f08a3b30444f67dc3201",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.8.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.9": {
+			"name": "moment-timezone",
+			"version": "0.5.9",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e0ea82036d67d21d793544a91b5057f480eda2dd",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.9.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.10": {
+			"name": "moment-timezone",
+			"version": "0.5.10",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3766249c2d317d08f07d896d3033c26f87c4ae2b",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.10.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.11": {
+			"name": "moment-timezone",
+			"version": "0.5.11",
+			"dependencies": {
+				"moment": ">= 2.6.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9b76c03d8ef514c7e4249a7bbce649eed39ef29f",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.11.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.12": {
+			"name": "moment-timezone",
+			"version": "0.5.12",
+			"dependencies": {
+				"moment": ">= 2.9.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d8d6fa51b365050de1ac7cc5c6e3fa969444edea",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.12.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.13": {
+			"name": "moment-timezone",
+			"version": "0.5.13",
+			"dependencies": {
+				"moment": ">= 2.9.0"
+			},
+			"devDependencies": {
+				"grunt": "0.4.5",
+				"grunt-contrib-clean": "0.6.0",
+				"grunt-contrib-nodeunit": "0.4.1",
+				"grunt-contrib-jshint": "0.11.2",
+				"grunt-contrib-uglify": "0.9.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "99ce5c7d827262eb0f1f702044177f60745d7b90",
+				"tarball": "https://registry.npmjs.org/moment-timezone/-/moment-timezone-0.5.13.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "moment-timezone",
+	"dist-tags": {
+		"latest": "0.5.13"
+	},
+	"modified": "2017-04-09T17:38:24.651Z",
+	"_etag": "W/\"58ea7190-35a4\"",
+	"_lastModified": "Sun, 09 Apr 2017 17:38:24 GMT"
+}

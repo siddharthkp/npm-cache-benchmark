@@ -1,0 +1,586 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "d3-geo",
+			"version": "0.0.0",
+			"devDependencies": {
+				"d3": "^3.4.4",
+				"smash": "0.0.12",
+				"uglify-js": "^2.4.13"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b9e008f8016110380c8b0a063950b6d042694d41",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-0.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "d3-geo",
+			"version": "0.0.1",
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "45cd8dbeeb0007070d47dbc51ac04a49ab34ed00",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-geo",
+			"version": "0.0.2",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7d755d87ef384d0ddb3a7b6f83ca941ea978779c",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "d3-geo",
+			"version": "0.0.3",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c381a5cfd44bfd88eef7b7f60fb119188a86b081",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "d3-geo",
+			"version": "0.0.4",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "37aa3ca8ad7974db2bb5e182a2e8fe2da290d04d",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-0.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-geo",
+			"version": "0.1.0",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9aae64e501895d95ff275035f240bf658d3c197b",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-geo",
+			"version": "1.0.0",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7c44d74bbd3bc8ac4f1fd19e8a5f1fcadc24343e",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "d3-geo",
+			"version": "1.1.0",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "04561c7711ce211e2ee8c3ba2f8e24c87b7f0231",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "d3-geo",
+			"version": "1.1.1",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e03c089a3c409dbbca938ed6e7f5f665da8a9d59",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "d3-geo",
+			"version": "1.2.0",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8eb6dd4d0d3c2923f7570abc1ee3b69d96ae018d",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "d3-geo",
+			"version": "1.2.1",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4fbfeeb4792847bae1d08e4f2e9a8a5243b5d554",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.2": {
+			"name": "d3-geo",
+			"version": "1.2.2",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bbcb1c9cbf0e4dce402b71010b432dbed4584eae",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.3": {
+			"name": "d3-geo",
+			"version": "1.2.3",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9b2430a76a72510f2c4a5862fe1f07305052c6a9",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.4": {
+			"name": "d3-geo",
+			"version": "1.2.4",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d179f3baa76e623ef1e0d83693db705b7c599006",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.2.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.5": {
+			"name": "d3-geo",
+			"version": "1.2.5",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "21f3d15c027e621a6fb505b1d40eee7fc13b8881",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.2.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.6": {
+			"name": "d3-geo",
+			"version": "1.2.6",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fa51288240a30eb6ca4885c15148e9c5256a7b00",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.2.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.0": {
+			"name": "d3-geo",
+			"version": "1.3.0",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "79aa8de09fb53e5d44c0ea95abff49fc05a17fe5",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.3.1": {
+			"name": "d3-geo",
+			"version": "1.3.1",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"topojson": "1",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1299fb6760794f074ccd3b34826cccdd6268323e",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.0": {
+			"name": "d3-geo",
+			"version": "1.4.0",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"topojson-client": "2",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "15e58c414b5bafa1a960eeeb29059c94a60d8408",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.1": {
+			"name": "d3-geo",
+			"version": "1.4.1",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"topojson-client": "2",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0bae53133cd6423bb6235575e7d071e763d0113b",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.2": {
+			"name": "d3-geo",
+			"version": "1.4.2",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"topojson-client": "2",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9ae875f1cb765d637ddfe44e4ec68c0b372a0261",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.5.0": {
+			"name": "d3-geo",
+			"version": "1.5.0",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"topojson-client": "2",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cf32c26f61cc5130382f74d40c4d3503dd226a1f",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.6.0": {
+			"name": "d3-geo",
+			"version": "1.6.0",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"topojson-client": "2",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f72cbb7631e114654023a5907c5b87cf703c8aa9",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.6.1": {
+			"name": "d3-geo",
+			"version": "1.6.1",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"topojson-client": "2",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "071aee9d54bcecc5c74958c4aec7b76c685b6f3b",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.6.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.6.2": {
+			"name": "d3-geo",
+			"version": "1.6.2",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"topojson-client": "2",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "efce6f034b343f13c94a4e680dee353b476c7bca",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.6.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.6.3": {
+			"name": "d3-geo",
+			"version": "1.6.3",
+			"dependencies": {
+				"d3-array": "1"
+			},
+			"devDependencies": {
+				"canvas": "1",
+				"d3-format": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"topojson-client": "2",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "21683a43a061eaba21a7f254b51d5937eb640756",
+				"tarball": "https://registry.npmjs.org/d3-geo/-/d3-geo-1.6.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-geo",
+	"dist-tags": {
+		"latest": "1.6.3"
+	},
+	"modified": "2017-03-13T03:42:08.580Z",
+	"_etag": "W/\"58c61510-26b3\"",
+	"_lastModified": "Mon, 13 Mar 2017 03:42:08 GMT"
+}

@@ -1,0 +1,1726 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "redux",
+			"version": "0.0.1",
+			"dependencies": {
+				"ansi-color": "*"
+			},
+			"devDependencies": {},
+			"bin": {
+				"node-redux": "redux",
+				"redux": "redux"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3b1f03d791f34ae91686275703084e95aa265332",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.0.1.tgz"
+			},
+			"engines": {
+				"node": " 0.4 || 0.5"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "redux",
+			"version": "0.0.2",
+			"dependencies": {
+				"ansi-color": "*",
+				"commander": "*",
+				"coffee-script": "*"
+			},
+			"devDependencies": {},
+			"bin": {
+				"node-redux": "redux.js",
+				"redux": "redux.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f2f07e84f54949d42b1bcd45bbec7f4c6acae8c8",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.0.2.tgz"
+			},
+			"engines": {
+				"node": " 0.4 || 0.5"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "redux",
+			"version": "0.0.3",
+			"dependencies": {
+				"ansi-color": "*",
+				"commander": "*",
+				"coffee-script": "*"
+			},
+			"devDependencies": {},
+			"bin": {
+				"node-redux": "redux.js",
+				"redux": "redux.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "00cbe023f75edc854499a20f788e78c1ed14bce0",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.0.3.tgz"
+			},
+			"engines": {
+				"node": " 0.4 || 0.5"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "redux",
+			"version": "0.0.4",
+			"dependencies": {
+				"ansi-color": "*",
+				"commander": "*",
+				"coffee-script": "*",
+				"yaml": "*"
+			},
+			"devDependencies": {},
+			"bin": {
+				"node-redux": "redux.js",
+				"redux": "redux.js"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1b92500a27528bb8f3c40e4d5900f8419ddb6bd4",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.0.4.tgz"
+			},
+			"engines": {
+				"node": " 0.4 || 0.5"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "redux",
+			"version": "0.1.0",
+			"dependencies": {
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.9",
+				"babel-loader": "^5.1.2",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3a7c821dee358abf21b81e1ed32e21b96452393d",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "redux",
+			"version": "0.2.0",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.9",
+				"babel-loader": "^5.1.2",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e694c3a4bcf0a70484b86bdec1d99d1bdfdaa2a7",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "redux",
+			"version": "0.2.1",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.9",
+				"babel-loader": "^5.1.2",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3c391181d183991e4e87983d81adbc437ea8bfd7",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "redux",
+			"version": "0.2.2",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.9",
+				"babel-loader": "^5.1.2",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1538bd475f50b906482d8cdf4721e08834c5c060",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "redux",
+			"version": "0.3.0",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.9",
+				"babel-loader": "^5.1.2",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cf3bdb7caf73143001b7740bd6f791532c3cd3d9",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "redux",
+			"version": "0.3.1",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.9",
+				"babel-loader": "^5.1.2",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "26f42c9e2514138b22135aaecc2d85cfc949712e",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "redux",
+			"version": "0.4.0",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.9",
+				"babel-loader": "^5.1.2",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2f8b08793595f21b02cdee57dd58f7006e38c586",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "redux",
+			"version": "0.5.0",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.9",
+				"babel-loader": "^5.1.2",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9ce445ec4d88c95dbfd06ae25193d560f923d255",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "redux",
+			"version": "0.5.1",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.9",
+				"babel-loader": "^5.1.2",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f88c039797152017c6c2adb26e2db5bcac01b40d",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "redux",
+			"version": "0.6.0",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.11",
+				"babel-loader": "^5.1.2",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d7c85a57359b7fbfd0f9e678d1170ba6514d9972",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.1": {
+			"name": "redux",
+			"version": "0.6.1",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.11",
+				"babel-loader": "^5.1.2",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a33a74660bdef1cb16225b7d33979083f393faac",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.6.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.2": {
+			"name": "redux",
+			"version": "0.6.2",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.11",
+				"babel-loader": "^5.1.2",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f94bf4cbe06af625c67a0b6351ef042c6503b0ef",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.6.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "redux",
+			"version": "0.7.0",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.11",
+				"babel-loader": "^5.1.2",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9bbd2d496aeaf2a208c50a26d995bb44a7de1254",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "redux",
+			"version": "0.8.0",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.11",
+				"babel-loader": "^5.1.2",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "17aebbaa5aa7353707f34d0410a9da6de0c5ca94",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.8.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.1": {
+			"name": "redux",
+			"version": "0.8.1",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.11",
+				"babel-loader": "^5.1.2",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a3776528509ef8e23b392ea5ade563544e2cecc1",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.8.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "redux",
+			"version": "0.9.0",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3",
+				"react": "^0.13.0"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.11",
+				"babel-loader": "^5.1.2",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4736ce56153595a953a6dd9652fdc5bfa1e1f4e8",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.9.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.0": {
+			"name": "redux",
+			"version": "0.10.0",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.11",
+				"babel-loader": "^5.1.2",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "98722a4e56b826f92580fd18149680cea3050810",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.10.0.tgz"
+			},
+			"deprecated": "Please upgrate to 0.10.1 to fix redux/react entry point being in ES6 instead of ES5.",
+			"_hasShrinkwrap": false
+		},
+		"0.10.1": {
+			"name": "redux",
+			"version": "0.10.1",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.11",
+				"babel-loader": "^5.1.2",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "78a0fcc41878020d61ff242c38475fa75b41a479",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.10.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.11.0": {
+			"name": "redux",
+			"version": "0.11.0",
+			"dependencies": {
+				"babel-runtime": "^5.4.7",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3"
+			},
+			"devDependencies": {
+				"babel": "^5.4.7",
+				"babel-core": "^5.4.7",
+				"babel-eslint": "^3.1.11",
+				"babel-loader": "^5.1.2",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c9bf976137faf3a9acb65c6fee22ff328bd920e5",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.11.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.11.1": {
+			"name": "redux",
+			"version": "0.11.1",
+			"dependencies": {
+				"babel-runtime": "^5.5.8",
+				"envify": "^3.4.0",
+				"invariant": "^2.0.0",
+				"lodash": "^3.9.3"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.5.8",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.22.1",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7682540320c61a31e7ea709a8ec3da4cafdd3e26",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.11.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.12.0": {
+			"name": "redux",
+			"version": "0.12.0",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.5.8",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0099b2f92d1136c5286b976771c5d018ec5971a5",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-0.12.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-alpha": {
+			"name": "redux",
+			"version": "1.0.0-alpha",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.5.8",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"istanbul": "^0.3.15",
+				"jsdom": "~5.4.3",
+				"mocha": "^2.2.5",
+				"mocha-jsdom": "~0.4.0",
+				"react": "^0.13.0",
+				"react-hot-loader": "^1.2.7",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6f6de5defbe886f7117eb1656b1704518d39de97",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-1.0.0-alpha.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0-rc": {
+			"name": "redux",
+			"version": "1.0.0-rc",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.6.0",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f3542be9406e963a460385deb3a1fcea008839b3",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-1.0.0-rc.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "redux",
+			"version": "1.0.0",
+			"dependencies": {
+				"invariant": "^2.0.0",
+				"warning": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"contextify": "^0.1.14",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c22fac40c347c40d7961869f6b28849d9df758e6",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "redux",
+			"version": "1.0.1",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^3.1.15",
+				"babel-loader": "^5.1.4",
+				"contextify": "^0.1.14",
+				"eslint": "^0.23",
+				"eslint-config-airbnb": "0.0.6",
+				"eslint-plugin-react": "^2.3.0",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "23944a23d6b9c715f826844331f3763fc7dccd3d",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "redux",
+			"version": "2.0.0",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"contextify": "^0.1.14",
+				"eslint": "^1.2.1",
+				"eslint-config-airbnb": "0.0.8",
+				"eslint-plugin-react": "^3.2.3",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "38923965e539496d5466f226f0a58c2238ec2a62",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "redux",
+			"version": "3.0.0",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.2.1",
+				"eslint-config-airbnb": "0.0.8",
+				"eslint-plugin-react": "^3.2.3",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"gitbook-plugin-prism": "^0.1.1",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6",
+				"webpack-dev-server": "^1.8.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8dabe144f9df23cfdfe4c3309ce6f4a3acf71a04",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.1": {
+			"name": "redux",
+			"version": "3.0.1",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.2.1",
+				"eslint-config-airbnb": "0.0.8",
+				"eslint-plugin-react": "^3.2.3",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"gitbook-plugin-prism": "^0.1.1",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "445a502f8262406a7d99aab57c542865cad542c9",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.2": {
+			"name": "redux",
+			"version": "3.0.2",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.2.1",
+				"eslint-config-airbnb": "0.0.8",
+				"eslint-plugin-react": "^3.2.3",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"gitbook-plugin-prism": "^0.1.1",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "88295e5a4f123ee1b153b3588c0b84f115164459",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.3": {
+			"name": "redux",
+			"version": "3.0.3",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.2.1",
+				"eslint-config-airbnb": "0.0.8",
+				"eslint-plugin-react": "~3.5.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cf60cc323ca00fcd15fe76197232df3dc32f568f",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.4": {
+			"name": "redux",
+			"version": "3.0.4",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.2.1",
+				"eslint-config-airbnb": "0.0.8",
+				"eslint-plugin-react": "~3.5.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "73019374f7a324765e4e33f367c2730a785a3305",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.5": {
+			"name": "redux",
+			"version": "3.0.5",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.0.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f3f23f780b98c8dd7f84b9187ab5f86fe90199b8",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.6": {
+			"name": "redux",
+			"version": "3.0.6",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.0.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f02db603a8996776f68ef38f571c25705c9ba325",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.0.6.tgz"
+			},
+			"deprecated": "Versions before 3.1.3 are known to crash on IE in some cases. Please update to 3.1.3 or newer.",
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "redux",
+			"version": "3.1.0",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.0.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9073ca4b7e32381d8bd77a66a28b3db7ef8a9ed0",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.1.0.tgz"
+			},
+			"deprecated": "Versions before 3.1.3 are known to crash on IE in some cases. Please update to 3.1.3 or newer.",
+			"_hasShrinkwrap": false
+		},
+		"3.1.1": {
+			"name": "redux",
+			"version": "3.1.1",
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.0.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e50b70ec3670f24a6ecae1d660d311835bf2ecc9",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.1.1.tgz"
+			},
+			"deprecated": "Versions before 3.1.3 are known to crash on IE in some cases. Please update to 3.1.3 or newer.",
+			"_hasShrinkwrap": false
+		},
+		"3.1.2": {
+			"name": "redux",
+			"version": "3.1.2",
+			"dependencies": {
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.7.1",
+				"eslint-config-rackt": "1.0.0",
+				"eslint-plugin-react": "^3.6.3",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0af2bdbd343d8b64e9f3900491f6ece5c75431a7",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.1.2.tgz"
+			},
+			"deprecated": "Versions before 3.1.3 are known to crash on IE in some cases. Please update to 3.1.3 or newer.",
+			"_hasShrinkwrap": false
+		},
+		"3.1.3": {
+			"name": "redux",
+			"version": "3.1.3",
+			"dependencies": {
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "df84c60d7ae63108cffffaacb7a7a17e56c0c739",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.4": {
+			"name": "redux",
+			"version": "3.1.4",
+			"dependencies": {
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "acfbdfdab6c6d221fc19c6ce9262f6aa314c7f09",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.5": {
+			"name": "redux",
+			"version": "3.1.5",
+			"dependencies": {
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6fcbcd7e6b881f24ee9b8df975007b174f827d7c",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.1.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.6": {
+			"name": "redux",
+			"version": "3.1.6",
+			"dependencies": {
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ff5f207c55d6a7d5680fb26c4c451079a8215b94",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.1.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.7": {
+			"name": "redux",
+			"version": "3.1.7",
+			"dependencies": {
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"cross-env": "^1.0.7",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5ed77f877682a7c488e30199a9c72dbff7862848",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.1.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.0": {
+			"name": "redux",
+			"version": "3.2.0",
+			"dependencies": {
+				"lodash": "^4.1.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.5.8",
+				"babel-core": "^5.6.18",
+				"babel-eslint": "^4.1.0",
+				"babel-loader": "^5.1.4",
+				"cross-env": "^1.0.7",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"isparta": "^3.0.3",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "74b8a93fc4a9ab55769676b12d426d155dbfb122",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.1": {
+			"name": "redux",
+			"version": "3.2.1",
+			"dependencies": {
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.3.15",
+				"babel-eslint": "^4.1.6",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"glob": "^6.0.4",
+				"isparta": "^4.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "33f2fadb7f78d3483da6b95660b411ca637a1b76",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.3.0": {
+			"name": "redux",
+			"version": "3.3.0",
+			"dependencies": {
+				"lodash": "^4.2.0",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.3.15",
+				"babel-eslint": "^4.1.6",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"glob": "^6.0.4",
+				"isparta": "^4.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "76ac202913546f0b6baa1c9b402d602e27b8eaed",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.3.1": {
+			"name": "redux",
+			"version": "3.3.1",
+			"dependencies": {
+				"lodash": "^4.2.1",
+				"lodash-es": "^4.2.1",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.3.15",
+				"babel-eslint": "^4.1.6",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"glob": "^6.0.4",
+				"isparta": "^4.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "716df8004786deaf01c93ae396c84fc1041e424b",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.4.0": {
+			"name": "redux",
+			"version": "3.4.0",
+			"dependencies": {
+				"lodash": "^4.2.1",
+				"lodash-es": "^4.2.1",
+				"loose-envify": "^1.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.3.15",
+				"babel-eslint": "^4.1.6",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"glob": "^6.0.4",
+				"isparta": "^4.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"typescript": "^1.8.0",
+				"typescript-definition-tester": "0.0.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2f7dcfa026f35dc039bfe939e77e8cfa7dd35e17",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.5.0": {
+			"name": "redux",
+			"version": "3.5.0",
+			"dependencies": {
+				"lodash": "^4.2.1",
+				"lodash-es": "^4.2.1",
+				"loose-envify": "^1.1.0",
+				"symbol-observable": "^0.2.1"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.3.15",
+				"babel-eslint": "^4.1.6",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"glob": "^6.0.4",
+				"isparta": "^4.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"rxjs": "^5.0.0-beta.6",
+				"typescript": "^1.8.0",
+				"typescript-definition-tester": "0.0.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8b440a2eb44982e13e32a8e3974dad5ac7b8ef71",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.5.1": {
+			"name": "redux",
+			"version": "3.5.1",
+			"dependencies": {
+				"lodash": "^4.2.1",
+				"lodash-es": "^4.2.1",
+				"loose-envify": "^1.1.0",
+				"symbol-observable": "^0.2.1"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.3.15",
+				"babel-eslint": "^4.1.6",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"glob": "^6.0.4",
+				"isparta": "^4.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"rxjs": "^5.0.0-beta.6",
+				"typescript": "^1.8.0",
+				"typescript-definition-tester": "0.0.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "90e543c042fbfc1370101d72b0ef94a45c98aa88",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.5.2": {
+			"name": "redux",
+			"version": "3.5.2",
+			"dependencies": {
+				"lodash": "^4.2.1",
+				"lodash-es": "^4.2.1",
+				"loose-envify": "^1.1.0",
+				"symbol-observable": "^0.2.3"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.3.15",
+				"babel-eslint": "^4.1.6",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-register": "^6.3.13",
+				"cross-env": "^1.0.7",
+				"es3ify": "^0.2.0",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^0.3.4",
+				"glob": "^6.0.4",
+				"isparta": "^4.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"rxjs": "^5.0.0-beta.6",
+				"typescript": "^1.8.0",
+				"typescript-definition-tester": "0.0.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4533745e970b647ec26066a83aa30e9e26faf843",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.6.0": {
+			"name": "redux",
+			"version": "3.6.0",
+			"dependencies": {
+				"lodash": "^4.2.1",
+				"lodash-es": "^4.2.1",
+				"loose-envify": "^1.1.0",
+				"symbol-observable": "^1.0.2"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.3.15",
+				"babel-core": "^6.3.15",
+				"babel-eslint": "^4.1.6",
+				"babel-loader": "^6.2.0",
+				"babel-plugin-check-es2015-constants": "^6.3.13",
+				"babel-plugin-transform-es2015-arrow-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoped-functions": "^6.3.13",
+				"babel-plugin-transform-es2015-block-scoping": "^6.3.13",
+				"babel-plugin-transform-es2015-classes": "^6.3.13",
+				"babel-plugin-transform-es2015-computed-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-destructuring": "^6.3.13",
+				"babel-plugin-transform-es2015-for-of": "^6.3.13",
+				"babel-plugin-transform-es2015-function-name": "^6.3.13",
+				"babel-plugin-transform-es2015-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-modules-commonjs": "^6.3.13",
+				"babel-plugin-transform-es2015-object-super": "^6.3.13",
+				"babel-plugin-transform-es2015-parameters": "^6.3.13",
+				"babel-plugin-transform-es2015-shorthand-properties": "^6.3.13",
+				"babel-plugin-transform-es2015-spread": "^6.3.13",
+				"babel-plugin-transform-es2015-sticky-regex": "^6.3.13",
+				"babel-plugin-transform-es2015-template-literals": "^6.3.13",
+				"babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
+				"babel-plugin-transform-es3-member-expression-literals": "^6.5.0",
+				"babel-plugin-transform-es3-property-literals": "^6.5.0",
+				"babel-plugin-transform-object-rest-spread": "^6.3.13",
+				"babel-register": "^6.3.13",
+				"check-es3-syntax-cli": "^0.1.1",
+				"cross-env": "^1.0.7",
+				"eslint": "^1.10.3",
+				"eslint-config-rackt": "^1.1.1",
+				"eslint-plugin-react": "^3.16.1",
+				"expect": "^1.8.0",
+				"gitbook-cli": "^2.3.0",
+				"glob": "^6.0.4",
+				"isparta": "^4.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.3.4",
+				"rxjs": "^5.0.0-beta.6",
+				"typescript": "^1.8.0",
+				"typescript-definition-tester": "0.0.4",
+				"webpack": "^1.9.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "887c2b3d0b9bd86eca2be70571c27654c19e188d",
+				"tarball": "https://registry.npmjs.org/redux/-/redux-3.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "redux",
+	"dist-tags": {
+		"latest": "3.6.0",
+		"alpha": "1.0.0-alpha",
+		"rc": "1.0.0-rc"
+	},
+	"modified": "2017-05-06T09:55:45.752Z",
+	"_etag": "W/\"590d9da1-9d2f\"",
+	"_lastModified": "Sat, 06 May 2017 09:55:45 GMT"
+}

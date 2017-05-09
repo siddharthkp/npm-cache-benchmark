@@ -1,0 +1,662 @@
+{
+	"versions": {
+		"0.5.0": {
+			"name": "redux-actions",
+			"version": "0.5.0",
+			"dependencies": {
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.15",
+				"babel-eslint": "^3.1.20",
+				"chai": "^3.0.0",
+				"eslint": "^0.24.0",
+				"eslint-config-airbnb": "0.0.6",
+				"lodash.isplainobject": "^3.2.0",
+				"mocha": "^2.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "11379d75d186d98f0f208bebda694b02feb852e3",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "redux-actions",
+			"version": "0.5.1",
+			"dependencies": {
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.15",
+				"babel-eslint": "^3.1.20",
+				"chai": "^3.0.0",
+				"eslint": "^0.24.0",
+				"eslint-config-airbnb": "0.0.6",
+				"lodash.isplainobject": "^3.2.0",
+				"mocha": "^2.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a371a7713992a31a7eb5182f1bdc3b630d324193",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "redux-actions",
+			"version": "0.6.0",
+			"dependencies": {
+				"flux-standard-action": "^0.6.0",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.15",
+				"babel-eslint": "^3.1.20",
+				"chai": "^3.0.0",
+				"eslint": "^0.24.0",
+				"eslint-config-airbnb": "0.0.6",
+				"lodash.isplainobject": "^3.2.0",
+				"mocha": "^2.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fcd418cd0b30ea27f987f862c3fec5d67feac1aa",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "redux-actions",
+			"version": "0.7.0",
+			"dependencies": {
+				"flux-standard-action": "^0.6.0",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.15",
+				"babel-eslint": "^3.1.20",
+				"chai": "^3.0.0",
+				"eslint": "^0.24.0",
+				"eslint-config-airbnb": "0.0.6",
+				"lodash.isplainobject": "^3.2.0",
+				"mocha": "^2.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c9f291360642f1831181e5b2cea955ad704b3e80",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0-alpha": {
+			"name": "redux-actions",
+			"version": "0.8.0-alpha",
+			"dependencies": {
+				"flux-standard-action": "^0.6.0",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.15",
+				"babel-eslint": "^3.1.20",
+				"chai": "^3.0.0",
+				"eslint": "^0.24.0",
+				"eslint-config-airbnb": "0.0.6",
+				"lodash.isplainobject": "^3.2.0",
+				"mocha": "^2.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8321d28bff645d63ce95c45be2c324500b9a8910",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.8.0-alpha.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.0": {
+			"name": "redux-actions",
+			"version": "0.8.0",
+			"dependencies": {
+				"flux-standard-action": "^0.6.0",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.15",
+				"babel-eslint": "^3.1.20",
+				"chai": "^3.0.0",
+				"eslint": "^0.24.0",
+				"eslint-config-airbnb": "0.0.6",
+				"lodash.isplainobject": "^3.2.0",
+				"mocha": "^2.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "39458b5dcbdf499fc60fd900278701c8591c835d",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.8.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "redux-actions",
+			"version": "0.9.0",
+			"dependencies": {
+				"flux-standard-action": "^0.6.0",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.15",
+				"babel-eslint": "^3.1.20",
+				"chai": "^3.0.0",
+				"eslint": "^0.24.0",
+				"eslint-config-airbnb": "0.0.6",
+				"lodash.isplainobject": "^3.2.0",
+				"mocha": "^2.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c60868c4917fe8e42d0744eb0cdf92fd96dccdc0",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.9.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.1": {
+			"name": "redux-actions",
+			"version": "0.9.1",
+			"dependencies": {
+				"flux-standard-action": "^0.6.0",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel": "^5.6.14",
+				"babel-core": "^5.6.15",
+				"babel-eslint": "^3.1.20",
+				"chai": "^3.0.0",
+				"eslint": "^0.24.0",
+				"eslint-config-airbnb": "0.0.6",
+				"lodash.isplainobject": "^3.2.0",
+				"mocha": "^2.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a72767654bc21424c3df3f6240780ffa8872783c",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.9.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.0": {
+			"name": "redux-actions",
+			"version": "0.10.0",
+			"dependencies": {
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"lodash.isplainobject": "^3.2.0",
+				"flux-standard-action": "^0.6.0",
+				"mocha": "^2.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "77817dcd891ff87ee238c4d3406d36bdf3cb6a0a",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.10.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.1": {
+			"name": "redux-actions",
+			"version": "0.10.1",
+			"dependencies": {
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"lodash.isplainobject": "^3.2.0",
+				"flux-standard-action": "^0.6.0",
+				"mocha": "^2.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bb442ee37dd9643a94933e4071e089f435587135",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.10.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.11.0": {
+			"name": "redux-actions",
+			"version": "0.11.0",
+			"dependencies": {
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^0.6.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "055113e6052399f32f7f02783f6704ef6789dc67",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.11.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.12.0": {
+			"name": "redux-actions",
+			"version": "0.12.0",
+			"dependencies": {
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^0.6.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8a4f0114f1bde2e6b61d5b7205d4818004c67461",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.12.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.13.0": {
+			"name": "redux-actions",
+			"version": "0.13.0",
+			"dependencies": {
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^0.6.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "34bf77c5698e86d86b0edb533ea23a1c0658f4fe",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-0.13.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "redux-actions",
+			"version": "1.0.0",
+			"dependencies": {
+				"flux-standard-action": "^1.0.0",
+				"invariant": "^2.2.1",
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ca8a6c8e858ab0b288c1ef460777d94da7e5c783",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "redux-actions",
+			"version": "1.0.1",
+			"dependencies": {
+				"invariant": "^2.2.1",
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^1.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5712ad78190fe319b4dfc28c0983e70ae1e8b803",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "redux-actions",
+			"version": "1.1.0",
+			"dependencies": {
+				"invariant": "^2.2.1",
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^1.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "df8ec791d9e267544e58a8ba2b72fc5c30afba3b",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-1.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "redux-actions",
+			"version": "1.2.0",
+			"dependencies": {
+				"invariant": "^2.2.1",
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^1.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4f421f1aa74c827d5e8abce6c009d5872c4af3e6",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-1.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "redux-actions",
+			"version": "1.2.1",
+			"dependencies": {
+				"invariant": "^2.2.1",
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^1.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "649711d88f49f1dde5bc5a1cea8ceec5b54d9181",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-1.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.2": {
+			"name": "redux-actions",
+			"version": "1.2.2",
+			"dependencies": {
+				"invariant": "^2.2.1",
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^1.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "31f15ba494fe130f05c4a9f486c99cc8725f80cd",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-1.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "redux-actions",
+			"version": "2.0.0",
+			"dependencies": {
+				"invariant": "^2.2.1",
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^1.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "28022a68b63bd03080676fcbb0eaa11e1f9decfa",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "redux-actions",
+			"version": "2.0.1",
+			"dependencies": {
+				"invariant": "^2.2.1",
+				"lodash": "^4.13.1",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^1.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8bae89938987bd0a446c509dfdac6b64e770765a",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-2.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "redux-actions",
+			"version": "2.0.2",
+			"dependencies": {
+				"invariant": "^2.2.1",
+				"lodash": "^4.13.1",
+				"lodash-es": "^4.17.4",
+				"reduce-reducers": "^0.1.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.7.7",
+				"babel-core": "^6.7.7",
+				"babel-eslint": "^6.1.1",
+				"babel-loader": "^6.2.4",
+				"babel-preset-es2015": "^6.6.0",
+				"babel-preset-stage-0": "^6.5.0",
+				"babel-register": "^6.7.2",
+				"chai": "^3.0.0",
+				"cross-env": "^2.0.0",
+				"eslint": "^2.8.0",
+				"eslint-config-airbnb-base": "^1.0.3",
+				"eslint-plugin-import": "^1.5.0",
+				"eslint-watch": "^2.1.13",
+				"flux-standard-action": "^1.0.0",
+				"mocha": "^2.2.5",
+				"rimraf": "^2.5.3",
+				"webpack": "^1.13.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "49b2d9511c240a96cb2c0ca27cb15d016faecec0",
+				"tarball": "https://registry.npmjs.org/redux-actions/-/redux-actions-2.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "redux-actions",
+	"dist-tags": {
+		"latest": "2.0.2",
+		"prerelease": "0.8.0-alpha"
+	},
+	"modified": "2017-05-06T11:13:38.987Z",
+	"_etag": "W/\"590dafe2-3817\"",
+	"_lastModified": "Sat, 06 May 2017 11:13:38 GMT"
+}

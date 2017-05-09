@@ -1,0 +1,56 @@
+{
+	"versions": {
+		"0.2.0": {
+			"name": "json-schema",
+			"version": "0.2.0",
+			"devDependencies": {
+				"vows": "*"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "c17432e27bfedeef39c72c8e5cdc7243f46f70d7",
+				"tarball": "https://registry.npmjs.org/json-schema/-/json-schema-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "json-schema",
+			"version": "0.2.2",
+			"devDependencies": {
+				"vows": "*"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "50354f19f603917c695f70b85afa77c3b0f23506",
+				"tarball": "https://registry.npmjs.org/json-schema/-/json-schema-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "json-schema",
+			"version": "0.2.3",
+			"devDependencies": {
+				"vows": "*"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "b480c892e59a2f05954ce727bd3f2a4e882f9e13",
+				"tarball": "https://registry.npmjs.org/json-schema/-/json-schema-0.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "json-schema",
+	"dist-tags": {
+		"latest": "0.2.3"
+	},
+	"modified": "2016-11-08T14:00:39.872Z",
+	"_etag": "W/\"5821da87-38f\"",
+	"_lastModified": "Tue, 08 Nov 2016 14:00:39 GMT"
+}

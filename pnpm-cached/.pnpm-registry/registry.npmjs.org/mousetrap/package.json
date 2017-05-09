@@ -1,0 +1,123 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "mousetrap",
+			"version": "0.0.1",
+			"directories": {},
+			"dist": {
+				"shasum": "7d3ef6ecfa00761054fe36bda68d0f6cea16058b",
+				"tarball": "https://registry.npmjs.org/mousetrap/-/mousetrap-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.4.6": {
+			"name": "mousetrap",
+			"version": "1.4.6",
+			"devDependencies": {
+				"grunt": "~0.4.1",
+				"grunt-complexity": "~0.1.2",
+				"grunt-mocha": "~0.3.1"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "eaca72e22e56d5b769b7555873b688c3332e390a",
+				"tarball": "https://registry.npmjs.org/mousetrap/-/mousetrap-1.4.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.5.1": {
+			"name": "mousetrap",
+			"version": "1.5.1",
+			"devDependencies": {
+				"grunt": "~0.4.1",
+				"grunt-complexity": "~0.1.2",
+				"grunt-mocha": "~0.3.1"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "6790deb7bcef8d89c641a25c8355bea2c8173732",
+				"tarball": "https://registry.npmjs.org/mousetrap/-/mousetrap-1.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.5.2": {
+			"name": "mousetrap",
+			"version": "1.5.2",
+			"devDependencies": {
+				"grunt": "~0.4.1",
+				"grunt-complexity": "~0.1.2",
+				"grunt-mocha": "~0.3.1"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "35b2a68dc29b65365078d78593643ee23054f9b7",
+				"tarball": "https://registry.npmjs.org/mousetrap/-/mousetrap-1.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.5.3": {
+			"name": "mousetrap",
+			"version": "1.5.3",
+			"devDependencies": {
+				"grunt": "~0.4.1",
+				"grunt-complexity": "~0.1.2",
+				"grunt-mocha": "~0.3.1"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "33a900b15184427c4f583e9d9822ee6c3eaf265b",
+				"tarball": "https://registry.npmjs.org/mousetrap/-/mousetrap-1.5.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.6.0": {
+			"name": "mousetrap",
+			"version": "1.6.0",
+			"devDependencies": {
+				"grunt": "~0.4.1",
+				"grunt-complexity": "~0.1.2",
+				"grunt-mocha": "~0.3.1"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "0168fcabb11d07669e87490324c981208121ac4d",
+				"tarball": "https://registry.npmjs.org/mousetrap/-/mousetrap-1.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.6.1": {
+			"name": "mousetrap",
+			"version": "1.6.1",
+			"devDependencies": {
+				"grunt": "~0.4.1",
+				"grunt-complexity": "~0.1.2",
+				"grunt-mocha": "~0.3.1"
+			},
+			"directories": {
+				"test": "tests"
+			},
+			"dist": {
+				"shasum": "2a085f5c751294c75e7e81f6ec2545b29cbf42d9",
+				"tarball": "https://registry.npmjs.org/mousetrap/-/mousetrap-1.6.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "mousetrap",
+	"dist-tags": {
+		"latest": "1.6.1"
+	},
+	"modified": "2017-05-08T10:49:26.817Z",
+	"_etag": "W/\"59104d36-8c7\"",
+	"_lastModified": "Mon, 08 May 2017 10:49:26 GMT"
+}

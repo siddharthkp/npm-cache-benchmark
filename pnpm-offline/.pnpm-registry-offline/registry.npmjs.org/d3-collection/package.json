@@ -1,0 +1,188 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "d3-collection",
+			"version": "0.1.0",
+			"devDependencies": {
+				"d3-array": "~0.7.0",
+				"faucet": "0.0",
+				"rollup": "0.20.5",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d223d351c57628ffd8e82360d621c69e0b32be64",
+				"tarball": "https://registry.npmjs.org/d3-collection/-/d3-collection-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "d3-collection",
+			"version": "0.1.1",
+			"devDependencies": {
+				"d3-array": "~0.7.0",
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b7b1ee034ef97260a6c0f1a86515f29ed81c0223",
+				"tarball": "https://registry.npmjs.org/d3-collection/-/d3-collection-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "d3-collection",
+			"version": "0.1.2",
+			"devDependencies": {
+				"d3-array": "~0.7.0",
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d1495f5720add3835117e1916607d2b05b186c5a",
+				"tarball": "https://registry.npmjs.org/d3-collection/-/d3-collection-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-collection",
+			"version": "0.2.0",
+			"devDependencies": {
+				"d3-array": "~0.7.0",
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0a7cf362d823f0c65057cc075f4e441c31c300fa",
+				"tarball": "https://registry.npmjs.org/d3-collection/-/d3-collection-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-collection",
+			"version": "0.3.0",
+			"devDependencies": {
+				"d3-array": "~0.8.0",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "619b29b46cb067e6bb299157167ca82da12428fb",
+				"tarball": "https://registry.npmjs.org/d3-collection/-/d3-collection-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-collection",
+			"version": "0.3.1",
+			"devDependencies": {
+				"d3-array": "~0.8.0",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "24c53f81ebb9d1075eca05d6831fd335d031dc0b",
+				"tarball": "https://registry.npmjs.org/d3-collection/-/d3-collection-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-collection",
+			"version": "1.0.0",
+			"devDependencies": {
+				"d3-array": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "119fe633bf946b34d682ba7dae8a282c6f69847b",
+				"tarball": "https://registry.npmjs.org/d3-collection/-/d3-collection-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-collection",
+			"version": "1.0.1",
+			"devDependencies": {
+				"d3-array": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5b5c5626f731122b600b107d71a08833fec049ad",
+				"tarball": "https://registry.npmjs.org/d3-collection/-/d3-collection-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-collection",
+			"version": "1.0.2",
+			"devDependencies": {
+				"d3-array": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "df5acb5400443e9eabe9c1379896c67e52426b39",
+				"tarball": "https://registry.npmjs.org/d3-collection/-/d3-collection-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-collection",
+			"version": "1.0.3",
+			"devDependencies": {
+				"d3-array": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "00bdea94fbc1628d435abbae2f4dc2164e37dd34",
+				"tarball": "https://registry.npmjs.org/d3-collection/-/d3-collection-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-collection",
+	"dist-tags": {
+		"latest": "1.0.3"
+	},
+	"modified": "2017-03-10T18:13:46.289Z",
+	"_etag": "W/\"58c2ecda-dd4\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:13:46 GMT"
+}

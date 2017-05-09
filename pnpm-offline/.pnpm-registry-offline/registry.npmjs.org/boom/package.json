@@ -1,0 +1,1173 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "boom",
+			"version": "0.0.1",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b54cfd1d5d35dee41ac8e203817d8588f1aab30d",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "boom",
+			"version": "0.0.2",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a1dbca35ce8ec93e6196906d9881b1de308d5d79",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "boom",
+			"version": "0.1.0",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "299d65bae35f9b7faa9fa9a8862f841728909610",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "boom",
+			"version": "0.2.0",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "678f9dd0fb179188e2f9100e5e7003f2cf964601",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "boom",
+			"version": "0.2.1",
+			"dependencies": {
+				"hoek": "0.4.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "682e3de92c5c0858c0df0c6740bafce5b85e0a40",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "boom",
+			"version": "0.3.0",
+			"dependencies": {
+				"hoek": "0.4.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1ffedaf893d46793dca8e35cf347dbc93210f5e8",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "boom",
+			"version": "0.3.1",
+			"dependencies": {
+				"hoek": "0.4.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "748b906ffdba5df699086e5f198de3237b6d0e87",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.3.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "boom",
+			"version": "0.3.2",
+			"dependencies": {
+				"hoek": "0.4.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"blanket": "1.0.x",
+				"travis-cov": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f3e94aad663893243cc3ce1047d33200e7dc5c51",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.3.2.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.3": {
+			"name": "boom",
+			"version": "0.3.3",
+			"dependencies": {
+				"hoek": "0.4.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"blanket": "1.0.x",
+				"travis-cov": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4d8ddbae69aadaf87e57fa1fa757de632eef49c9",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.3.3.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.4": {
+			"name": "boom",
+			"version": "0.3.4",
+			"dependencies": {
+				"hoek": "0.6.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"blanket": "1.0.x",
+				"travis-cov": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "64619f147e8b889c93d3825206242989d645337f",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.3.4.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.5": {
+			"name": "boom",
+			"version": "0.3.5",
+			"dependencies": {
+				"hoek": "0.6.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"blanket": "1.0.x",
+				"travis-cov": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "01632a70a5e90a38c0298ae03e37c7fc92dd8b0c",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.3.5.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.6": {
+			"name": "boom",
+			"version": "0.3.6",
+			"dependencies": {
+				"hoek": "0.6.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"blanket": "1.0.x",
+				"travis-cov": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "751fb34955e038358d4d960310dfbeabdb9f8fe8",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.3.6.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.7": {
+			"name": "boom",
+			"version": "0.3.7",
+			"dependencies": {
+				"hoek": "0.7.x"
+			},
+			"devDependencies": {
+				"lab": "0.0.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d55f853de4f12255d1919a014d3dc4cd29eb31f8",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.3.7.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.8": {
+			"name": "boom",
+			"version": "0.3.8",
+			"dependencies": {
+				"hoek": "0.7.x"
+			},
+			"devDependencies": {
+				"lab": "0.0.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c8cdb041435912741628c044ecc732d1d17c09ea",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.3.8.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "boom",
+			"version": "0.4.0",
+			"dependencies": {
+				"hoek": "0.8.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "358c1828b67a2989f11b099d1316a37156f3085c",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.4.0.tgz"
+			},
+			"engines": {
+				"node": "0.10.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "boom",
+			"version": "0.4.1",
+			"dependencies": {
+				"hoek": "0.8.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4e8965d2d64754609ab90b87df32f9eb95fcf6ed",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.4.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.2": {
+			"name": "boom",
+			"version": "0.4.2",
+			"dependencies": {
+				"hoek": "0.9.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7a636e9ded4efcefb19cef4947a3c67dfaee911b",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-0.4.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "boom",
+			"version": "1.0.0",
+			"dependencies": {
+				"hoek": "1.0.x"
+			},
+			"devDependencies": {
+				"lab": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d175443c60b3835371ebe793249243eac5874252",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "boom",
+			"version": "1.0.1",
+			"dependencies": {
+				"hoek": "1.0.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "128282c8ab0decc22602305d7d8dd9230f5eab6d",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-1.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "boom",
+			"version": "1.0.2",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0ac9e4fc2b2cd4883eff6c611255bfd2f4c8c667",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-1.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0": {
+			"name": "boom",
+			"version": "1.1.0",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4e0cde61b0e0e966e2d6a97cae9f746adab06b2d",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-1.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "boom",
+			"version": "1.1.1",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4a98cd224b6248b68dbefac9dbf1cf67f8069c2b",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-1.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "boom",
+			"version": "1.1.2",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "db812dba00d05e54f7b9c1850bedab499b240010",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-1.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.0": {
+			"name": "boom",
+			"version": "1.2.0",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3c419071a44de1dc518e82ad9aeb5c3850bb1fc8",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-1.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.2.1": {
+			"name": "boom",
+			"version": "1.2.1",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "53c07684e9193b0bc2aec800347c91ab6f71f335",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-1.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "boom",
+			"version": "2.0.0",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5e794fa79fe309c8022c8d5403781e6725011bc4",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "boom",
+			"version": "2.1.0",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "386018164c5669791c5140d4b2a999004ce99c6b",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "boom",
+			"version": "2.2.0",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f5e9502793e9ba777cfae502f71f6fa04d746912",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.1": {
+			"name": "boom",
+			"version": "2.2.1",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6a24027608e4e42d1e119f628578fb5d1886e035",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.2": {
+			"name": "boom",
+			"version": "2.2.2",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dd5af390bbb72cb8b32ded2d7095b8b56948677a",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.2.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "boom",
+			"version": "2.3.0",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "2.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1fbdfbd0f2643db2289afb685ecba458645492a1",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.0": {
+			"name": "boom",
+			"version": "2.4.0",
+			"dependencies": {
+				"hoek": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "2.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2efd4a9659134096b07a8e961bf66db9fcd524d2",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.4.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.1": {
+			"name": "boom",
+			"version": "2.4.1",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4a72f7de81f612f7efffce8653fc3e48e3ee5fc2",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.4.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.4.2": {
+			"name": "boom",
+			"version": "2.4.2",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ee85268b06d909a140081a408b2148a255193eb1",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.4.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.5.0": {
+			"name": "boom",
+			"version": "2.5.0",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "01da4acc97c378e9b3904ece8c9cfec1f9b14dbf",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.5.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.5.1": {
+			"name": "boom",
+			"version": "2.5.1",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"lab": "4.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8b1e489b5a108e567e8b97fb16d29fbe63359b72",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.5.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.6.0": {
+			"name": "boom",
+			"version": "2.6.0",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"lab": "4.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "24ebaebd084eb95e28a8ab9c644ce869142dda12",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.6.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.6.1": {
+			"name": "boom",
+			"version": "2.6.1",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4dc8ef9b6dfad9c43bbbfbe71fa4c21419f22753",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.6.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.7.0": {
+			"name": "boom",
+			"version": "2.7.0",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "47c6c7f62dc6d68742a75c4010b035c62615d265",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.7.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.7.1": {
+			"name": "boom",
+			"version": "2.7.1",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fb165c348d337977c61d4363c21e9e1abf526705",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.7.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.7.2": {
+			"name": "boom",
+			"version": "2.7.2",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dad628d897f7fd2e32cc82197f13307971cf8354",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.7.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.8.0": {
+			"name": "boom",
+			"version": "2.8.0",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "317bdfd47018fe7dd79b0e9da73efe244119fdf1",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.8.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.9.0": {
+			"name": "boom",
+			"version": "2.9.0",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a54b7fd2fee477d351bf9e371680cbea67f12715",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.9.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.40"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.10.0": {
+			"name": "boom",
+			"version": "2.10.0",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "6.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ff4cb6a6d3d5246239f6b97a69a8412362d096e4",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.10.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.40"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.10.1": {
+			"name": "boom",
+			"version": "2.10.1",
+			"dependencies": {
+				"hoek": "2.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "7.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "39c8918ceff5799f83f9492a848f625add0c766f",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-2.10.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.40"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "boom",
+			"version": "3.0.0",
+			"dependencies": {
+				"hoek": "3.x.x"
+			},
+			"devDependencies": {
+				"code": "2.x.x",
+				"lab": "7.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cff858cbd00c65c11e6a74b4a9dc90b9e3b906c4",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-3.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "boom",
+			"version": "3.1.0",
+			"dependencies": {
+				"hoek": "3.x.x"
+			},
+			"devDependencies": {
+				"code": "2.x.x",
+				"lab": "7.x.x",
+				"markdown-toc": "0.11.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a7075597e4aea230a907749a462d61d52e127d85",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-3.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.1": {
+			"name": "boom",
+			"version": "3.1.1",
+			"dependencies": {
+				"hoek": "3.x.x"
+			},
+			"devDependencies": {
+				"code": "2.x.x",
+				"lab": "7.x.x",
+				"markdown-toc": "0.11.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b6424f01ed8d492b2b12ae86047c24e8b6a7c937",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-3.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.2": {
+			"name": "boom",
+			"version": "3.1.2",
+			"dependencies": {
+				"hoek": "3.x.x"
+			},
+			"devDependencies": {
+				"code": "2.x.x",
+				"lab": "7.x.x",
+				"markdown-toc": "0.11.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3c6ce72054765f86d7997f1600457d7e94489eb8",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-3.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.3": {
+			"name": "boom",
+			"version": "3.1.3",
+			"dependencies": {
+				"hoek": "4.x.x"
+			},
+			"devDependencies": {
+				"code": "2.x.x",
+				"lab": "10.x.x",
+				"markdown-toc": "0.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "58d440018b3c4987d5e5c02720c1f61e7fffd5bc",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-3.1.3.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.0": {
+			"name": "boom",
+			"version": "3.2.0",
+			"dependencies": {
+				"hoek": "4.x.x"
+			},
+			"devDependencies": {
+				"code": "2.x.x",
+				"lab": "10.x.x",
+				"markdown-toc": "0.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "67dd91850cb4815e051aa5c18b578a4b9a3bfde8",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-3.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.1": {
+			"name": "boom",
+			"version": "3.2.1",
+			"dependencies": {
+				"hoek": "4.x.x"
+			},
+			"devDependencies": {
+				"code": "3.x.x",
+				"lab": "10.x.x",
+				"markdown-toc": "0.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ca993f1b06c1bf8731af06a70ef9bc3c75f879a8",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-3.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.2.2": {
+			"name": "boom",
+			"version": "3.2.2",
+			"dependencies": {
+				"hoek": "4.x.x"
+			},
+			"devDependencies": {
+				"code": "3.x.x",
+				"lab": "10.x.x",
+				"markdown-toc": "0.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0f0cc5d04adc5003b8c7d71f42cca7271fef0e78",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-3.2.2.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "boom",
+			"version": "4.0.0",
+			"dependencies": {
+				"hoek": "4.x.x"
+			},
+			"devDependencies": {
+				"code": "3.x.x",
+				"lab": "10.x.x",
+				"markdown-toc": "0.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7e59469264eaddb74fedfbc1b16524d69a694577",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-4.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "boom",
+			"version": "4.1.0",
+			"dependencies": {
+				"hoek": "4.x.x"
+			},
+			"devDependencies": {
+				"code": "3.x.x",
+				"lab": "10.x.x",
+				"markdown-toc": "0.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8ad7a2b1d5f45d017e4fa65ca49d27a71ffd5268",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-4.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.2.0": {
+			"name": "boom",
+			"version": "4.2.0",
+			"dependencies": {
+				"hoek": "4.x.x"
+			},
+			"devDependencies": {
+				"code": "3.x.x",
+				"lab": "10.x.x",
+				"markdown-toc": "0.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c1a74174b11fbba223f6162d4fd8851a1b82a536",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-4.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.3.0": {
+			"name": "boom",
+			"version": "4.3.0",
+			"dependencies": {
+				"hoek": "4.x.x"
+			},
+			"devDependencies": {
+				"code": "4.x.x",
+				"lab": "13.x.x",
+				"markdown-toc": "0.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1ed1b4b8cd6891b602910debe33e1d511531b847",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-4.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.3.1": {
+			"name": "boom",
+			"version": "4.3.1",
+			"dependencies": {
+				"hoek": "4.x.x"
+			},
+			"devDependencies": {
+				"code": "4.x.x",
+				"lab": "13.x.x",
+				"markdown-toc": "0.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4f8a3005cb4a7e3889f749030fd25b96e01d2e31",
+				"tarball": "https://registry.npmjs.org/boom/-/boom-4.3.1.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "boom",
+	"dist-tags": {
+		"latest": "4.3.1"
+	},
+	"modified": "2017-05-07T21:20:49.250Z",
+	"_etag": "W/\"590f8fb1-489b\"",
+	"_lastModified": "Sun, 07 May 2017 21:20:49 GMT"
+}

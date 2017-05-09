@@ -1,0 +1,1108 @@
+{
+	"versions": {
+		"2.33.0": {
+			"name": "codemirror",
+			"version": "2.33.0",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "19bbe63cc5be105508d8cbf5dcc90d4b7ea791f8",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-2.33.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.14.1": {
+			"name": "codemirror",
+			"version": "3.14.1",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "f61802efd9d9ee6db8e7fb1e71c3267cfddf34f3",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.14.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.15.0": {
+			"name": "codemirror",
+			"version": "3.15.0",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "e9719760e3113d7ee8a944b9503c7d94948e61dc",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.15.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.16.0": {
+			"name": "codemirror",
+			"version": "3.16.0",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "a6c7cc1dea94534ec0dc0713e1ac5f30c13eb5e5",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.16.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.17.0": {
+			"name": "codemirror",
+			"version": "3.17.0",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "94aa58ff869d6c933aa6d92d3bd8e18c0f2b5722",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.17.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.18.0": {
+			"name": "codemirror",
+			"version": "3.18.0",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "fc922d284bdc4faec56629b8436e9f6ac923cff2",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.18.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.19.0": {
+			"name": "codemirror",
+			"version": "3.19.0",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "4e978f8a8df79b913e405798d70f0412afe39071",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.19.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.20.0": {
+			"name": "codemirror",
+			"version": "3.20.0",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "2e10326c2f0bf043b1ede32fdbc06ddfab801c62",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.20.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.21.0": {
+			"name": "codemirror",
+			"version": "3.21.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "c631c60faa90f899b96ae2b8e4c3dd9bdb19420f",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.21.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.22.0": {
+			"name": "codemirror",
+			"version": "3.22.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "a1c5e0d2c6bf7f874d380dc0bf4b40c47be93dcd",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.22.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.23.0": {
+			"name": "codemirror",
+			"version": "3.23.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "3ec25ee1f7a567ce762b3098b8cec4ce009fc094",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.23.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.3": {
+			"name": "codemirror",
+			"version": "4.0.3",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "1fed51e652e33f4b971f28a72e768e093af46c17",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.24.0": {
+			"name": "codemirror",
+			"version": "3.24.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "335634d8aaf469f2d6968d2bc80417213fba99d6",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.24.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "codemirror",
+			"version": "4.1.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "39ab273b2695d66e14ae6a05f764fa1cdf5cc69c",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.2.0": {
+			"name": "codemirror",
+			"version": "4.2.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "c80985c6e6cd5464e7b05a907702757382f0fdc5",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.3.0": {
+			"name": "codemirror",
+			"version": "4.3.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "9373561b577447747a6d2c40e84e3bb079ad412b",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.4.0": {
+			"name": "codemirror",
+			"version": "4.4.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "6b4f9993e64b47a8aa6bb274f542af6844ebec44",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.5.0": {
+			"name": "codemirror",
+			"version": "4.5.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "3bd34166f327b8f51d5d61e47aee3b73f362d5c0",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.6.0": {
+			"name": "codemirror",
+			"version": "4.6.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "b5533e84bcc43bedcbf5ebc72cfc017cc1a30770",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.7.0": {
+			"name": "codemirror",
+			"version": "4.7.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "caea4b29581510d25d78bea91415c6d7ab105d11",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.8.0": {
+			"name": "codemirror",
+			"version": "4.8.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "ffc87d84d7cc082cc3518c31b7d1bcb9040c3d1c",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.8.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.9.0": {
+			"name": "codemirror",
+			"version": "4.9.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "06a068b260c5e268312c6dbbb326aad400746071",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.9.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.10.0": {
+			"name": "codemirror",
+			"version": "4.10.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "7d44b0e40c2115b8027b350ced7cb83fcb32cd9b",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.10.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.11.0": {
+			"name": "codemirror",
+			"version": "4.11.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "647bade68f649e1134f8c291966c53df042019d9",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.11.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.12.0": {
+			"name": "codemirror",
+			"version": "4.12.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "540e20e8f3aac1c945e9529613fb0f0b82796a16",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.12.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.13.0": {
+			"name": "codemirror",
+			"version": "4.13.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "209772d38a7bb99647c37b500db121110dd9af6f",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-4.13.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0": {
+			"name": "codemirror",
+			"version": "5.0.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "97945cdc26866f882ad964173e110f24aeba4bbf",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.1.0": {
+			"name": "codemirror",
+			"version": "5.1.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "ec7e62ee0238431661a852325137c33f58aee5ed",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.2.0": {
+			"name": "codemirror",
+			"version": "5.2.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "8257d46948c68430e1d50b1aeb58c306895d5183",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.3.0": {
+			"name": "codemirror",
+			"version": "5.3.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "243cb268dd61ca78ddb27e82f2ec2cef88fb9461",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.4.0": {
+			"name": "codemirror",
+			"version": "5.4.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "1ae64dcb34fc3ebf4fc22a9acc3cce10285d5d90",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.5.0": {
+			"name": "codemirror",
+			"version": "5.5.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "0fa0e3a02ad51db4c280142e15970df9edaf9900",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.6.0": {
+			"name": "codemirror",
+			"version": "5.6.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "da53d2a03768560d1663ebfb4b3a03523b4c3f4b",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.6.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.7.0": {
+			"name": "codemirror",
+			"version": "5.7.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "ca8ac4c5c79e269226ac14ac59b9770dbfb4ed79",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.7.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.8.0": {
+			"name": "codemirror",
+			"version": "5.8.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "c62b7ea25863926144990dc24f5f94090575d90a",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.8.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.9.0": {
+			"name": "codemirror",
+			"version": "5.9.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "4ad7bfc106837d3a974acedafeeec06c2829d757",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.9.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.10.0": {
+			"name": "codemirror",
+			"version": "5.10.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "30bcc3d7798b19f452110180890f8dc9eaf1dac1",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.10.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.11.0": {
+			"name": "codemirror",
+			"version": "5.11.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "bfb61be4b10c6a8e6a799f298a1c314a11fff1a6",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.11.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.12.0": {
+			"name": "codemirror",
+			"version": "5.12.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "956a472bd2b0f94cb0f730680a1c33671cd7fba3",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.12.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.13.0": {
+			"name": "codemirror",
+			"version": "5.13.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "59a511dd6aaa08c5f5f88667cc51fbacc3b1164a",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.13.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.13.2": {
+			"name": "codemirror",
+			"version": "5.13.2",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "86eea5499e4a00aca5411b14e9a06671ef9eb078",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.13.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.13.4": {
+			"name": "codemirror",
+			"version": "5.13.4",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "e1c01f7ca34a1551f5911d3ec35ce9a51cf787e0",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.13.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.14.0": {
+			"name": "codemirror",
+			"version": "5.14.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "858e4268e7fe592dd4ab2cedbba1c3c8843fe63c",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.14.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.14.2": {
+			"name": "codemirror",
+			"version": "5.14.2",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "5bd0aa57c2d1ee7cf3bef8b11bec100544b8b9ae",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.14.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.15.0": {
+			"name": "codemirror",
+			"version": "5.15.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "172bdd3231f220d4e860a8fe3b9c4db999013734",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.15.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.15.2": {
+			"name": "codemirror",
+			"version": "5.15.2",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "58b3dc732c6d10d7aae806f4c7cdd56a9b87fe8f",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.15.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.16.0": {
+			"name": "codemirror",
+			"version": "5.16.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "468031dc9bda1b52e041f0482e5aa7f2b4e79cef",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.16.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.17.0": {
+			"name": "codemirror",
+			"version": "5.17.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "a9431353373f152fe2851f29502a3aa12c1d6247",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.17.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.18.0": {
+			"name": "codemirror",
+			"version": "5.18.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "32781485fa1c7097afee03578a49e83c19b6c312",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.18.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.18.2": {
+			"name": "codemirror",
+			"version": "5.18.2",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs": "1.9.2-5",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "55b42d0190f72ec86c13f25d945f347cabc16a8e",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.18.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.18.3": {
+			"name": "codemirror",
+			"version": "5.18.3",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "d4184c82844088ea98e8cc7dfd5a02b46049a9fa",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.18.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.19.0": {
+			"name": "codemirror",
+			"version": "5.19.0",
+			"devDependencies": {
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"blint": ">=0.1.1"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "71fa8523b9425216a2be4734e8aba625ff66e7ec",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.19.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.20.0": {
+			"name": "codemirror",
+			"version": "5.20.0",
+			"devDependencies": {
+				"blint": "^0.5.1",
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"rollup": "^0.34.10",
+				"rollup-plugin-buble": "^0.14.0",
+				"rollup-watch": "^2.5.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "ef3822ae6e442dd595d365a86ff424e35c3985b7",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.20.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.20.2": {
+			"name": "codemirror",
+			"version": "5.20.2",
+			"devDependencies": {
+				"blint": "^0.5.1",
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"rollup": "^0.34.10",
+				"rollup-plugin-buble": "^0.14.0",
+				"rollup-watch": "^2.5.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "918e0ece96d57a99030b2f8b33011284bed5217a",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.20.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.21.0": {
+			"name": "codemirror",
+			"version": "5.21.0",
+			"devDependencies": {
+				"blint": "^0.5.1",
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"rollup": "^0.34.10",
+				"rollup-plugin-buble": "^0.14.0",
+				"rollup-watch": "^2.5.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "9ec4caeda50807575b2115226bf12414f85d2246",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.21.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.22.0": {
+			"name": "codemirror",
+			"version": "5.22.0",
+			"devDependencies": {
+				"blint": "^0.5.1",
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"rollup": "^0.34.10",
+				"rollup-plugin-buble": "^0.15.0",
+				"rollup-watch": "^2.5.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "281ec76ed991ef24db4071fdf4deb746e80bff18",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.22.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.22.2": {
+			"name": "codemirror",
+			"version": "5.22.2",
+			"devDependencies": {
+				"blint": "^0.5.1",
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"rollup": "^0.34.10",
+				"rollup-plugin-buble": "^0.15.0",
+				"rollup-watch": "^2.5.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "38274c20e3628b4f7a982bffc2cddb61ceed6a09",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.22.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.23.0": {
+			"name": "codemirror",
+			"version": "5.23.0",
+			"devDependencies": {
+				"blint": "^0.5.1",
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"rollup": "^0.34.10",
+				"rollup-plugin-buble": "^0.15.0",
+				"rollup-watch": "^2.5.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "ac9b6b2e163a79e915b44cf0f43cd115cf6982dc",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.23.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.24.0": {
+			"name": "codemirror",
+			"version": "5.24.0",
+			"devDependencies": {
+				"blint": "^0.5.1",
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"rollup": "^0.34.10",
+				"rollup-plugin-buble": "^0.15.0",
+				"rollup-watch": "^2.5.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "6de108da4db9ab368f8ef7a9b822528a74513830",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.24.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.24.2": {
+			"name": "codemirror",
+			"version": "5.24.2",
+			"devDependencies": {
+				"blint": "^0.5.1",
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"rollup": "^0.34.10",
+				"rollup-plugin-buble": "^0.15.0",
+				"rollup-watch": "^2.5.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "b55ca950fa009709c37df68eb133310ed89cf2fe",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.24.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.25.0": {
+			"name": "codemirror",
+			"version": "5.25.0",
+			"devDependencies": {
+				"blint": "^0.5.1",
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"rollup": "^0.41.0",
+				"rollup-plugin-buble": "^0.15.0",
+				"rollup-watch": "^3.2.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "78e06939c7bb41f65707b8aa9c5328111948b756",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.25.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.25.2": {
+			"name": "codemirror",
+			"version": "5.25.2",
+			"devDependencies": {
+				"blint": "^0.5.1",
+				"node-static": "0.6.0",
+				"phantomjs-prebuilt": "^2.1.12",
+				"rollup": "^0.41.0",
+				"rollup-plugin-buble": "^0.15.0",
+				"rollup-watch": "^3.2.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "8c77677ca9c9248d757d3a07ed1e89a8404850b7",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-5.25.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.11.1": {
+			"name": "codemirror",
+			"version": "3.11.1",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "82edd3894c1f73ffa69516717cb138ac8a5e9d57",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.11.01.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.12.0": {
+			"name": "codemirror",
+			"version": "3.12.0",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "93c92a12fe445f50e724d47e871b63346df299f0",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.12.00.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.13.0": {
+			"name": "codemirror",
+			"version": "3.13.0",
+			"devDependencies": {
+				"node-static": "0.6.0"
+			},
+			"directories": {
+				"lib": "./lib"
+			},
+			"dist": {
+				"shasum": "b6fc0062749424dd8977325bfdc5ddb0dfb3650b",
+				"tarball": "https://registry.npmjs.org/codemirror/-/codemirror-3.13.00.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "codemirror",
+	"dist-tags": {
+		"latest": "5.25.2"
+	},
+	"modified": "2017-04-20T10:11:08.961Z",
+	"_etag": "W/\"58f8893c-51ef\"",
+	"_lastModified": "Thu, 20 Apr 2017 10:11:08 GMT"
+}

@@ -1,0 +1,361 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "cookie",
+			"version": "0.0.0",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a134b9c981df85c8a67b1620be5a36c0db1bdc63",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.1": {
+			"name": "cookie",
+			"version": "0.0.1",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3162dd34ea833740e2e0d6e7129f2dcd55dcf7ed",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.0.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "cookie",
+			"version": "0.0.2",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "17aedf62bc6af53745fecb55c45c3f097c2e858b",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.0.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "cookie",
+			"version": "0.0.3",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "732b0e64cb77186954f5e36b0b6bcfd062a12e91",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.0.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "cookie",
+			"version": "0.0.4",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5456bd47aee2666eac976ea80a6105940483fe98",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.0.4.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "cookie",
+			"version": "0.0.5",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f9acf9db57eb7568c9fcc596256b7bb22e307c81",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.0.5.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.6": {
+			"name": "cookie",
+			"version": "0.0.6",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7bc6bb50205dcb98cf13ad09d6c60bc523f6fcb7",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.0.6.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "cookie",
+			"version": "0.1.0",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "90eb469ddce905c866de687efc43131d8801f9d0",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.1.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "cookie",
+			"version": "0.1.1",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cbd4b537aa65f800b6c66ead2520ba8d6afbdf54",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.1.1.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "cookie",
+			"version": "0.1.2",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "72fec3d24e48a3432073d90c12642005061004b1",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.1.2.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "cookie",
+			"version": "0.1.3",
+			"devDependencies": {
+				"istanbul": "0.3.9",
+				"mocha": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e734a5c1417fce472d5aef82c381cabb64d1a435",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.1.3.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "cookie",
+			"version": "0.2.0",
+			"devDependencies": {
+				"istanbul": "0.3.17",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9708beeaa361857de7d16516fea779572625caad",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.2.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.4": {
+			"name": "cookie",
+			"version": "0.1.4",
+			"devDependencies": {
+				"istanbul": "0.3.20",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4955c0bd32fffa83b7433586185875876ea04e4b",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.1.4.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "cookie",
+			"version": "0.2.1",
+			"devDependencies": {
+				"istanbul": "0.3.20",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e1bc7c07d1985c17ad7347502bac1a0eb072ac9a",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.2.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.5": {
+			"name": "cookie",
+			"version": "0.1.5",
+			"devDependencies": {
+				"istanbul": "0.3.20",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6ab9948a4b1ae21952cd2588530a4722d4044d7c",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.1.5.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "cookie",
+			"version": "0.2.2",
+			"devDependencies": {
+				"istanbul": "0.3.20",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "579ef8bc9b2d6f7e975a16bf4164d572e752e540",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.2.2.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "cookie",
+			"version": "0.2.3",
+			"devDependencies": {
+				"istanbul": "0.3.22",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1a59536af68537a21178a01346f87cb059d2ae5c",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.2.3.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.4": {
+			"name": "cookie",
+			"version": "0.2.4",
+			"devDependencies": {
+				"istanbul": "0.4.3",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a8c155aa7b9b2cf2c4d32ebc7b9a0aa288ccc6bd",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.2.4.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "cookie",
+			"version": "0.3.0",
+			"devDependencies": {
+				"istanbul": "0.4.3",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a4bdd609d86748a5ce6c64d7ede6f4840ba434d8",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.3.0.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "cookie",
+			"version": "0.3.1",
+			"devDependencies": {
+				"istanbul": "0.4.3",
+				"mocha": "1.21.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e7e0a1f9ef43b4c8ba925c5c5a96e806d16873bb",
+				"tarball": "https://registry.npmjs.org/cookie/-/cookie-0.3.1.tgz"
+			},
+			"engines": {
+				"node": ">= 0.6"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "cookie",
+	"dist-tags": {
+		"latest": "0.3.1"
+	},
+	"modified": "2017-04-26T00:01:29.328Z",
+	"_etag": "W/\"58ffe359-1819\"",
+	"_lastModified": "Wed, 26 Apr 2017 00:01:29 GMT"
+}

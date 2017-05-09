@@ -1,0 +1,38 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "redux-create-types",
+			"version": "0.0.1",
+			"dependencies": {
+				"babel-runtime": "^6.11.6",
+				"invariant": "^2.2.1"
+			},
+			"devDependencies": {
+				"ava": "^0.16.0",
+				"babel": "^6.5.2",
+				"babel-cli": "^6.14.0",
+				"babel-eslint": "^6.1.2",
+				"babel-plugin-dev-expression": "^0.2.1",
+				"babel-plugin-transform-runtime": "^6.15.0",
+				"babel-preset-es2015": "^6.14.0",
+				"coveralls": "^2.11.14",
+				"eslint": "^3.5.0",
+				"eslint-plugin-import": "^1.15.0",
+				"nyc": "^8.3.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "320892c1dc173a0162c75ed3a01d2da74f72b5ba",
+				"tarball": "https://registry.npmjs.org/redux-create-types/-/redux-create-types-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "redux-create-types",
+	"dist-tags": {
+		"latest": "0.0.1"
+	},
+	"modified": "2016-09-22T04:01:39.341Z",
+	"_etag": "W/\"57e357a3-2d3\"",
+	"_lastModified": "Thu, 22 Sep 2016 04:01:39 GMT"
+}

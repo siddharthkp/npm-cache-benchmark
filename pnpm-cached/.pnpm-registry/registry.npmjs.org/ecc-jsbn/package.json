@@ -1,0 +1,37 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "ecc-jsbn",
+			"version": "0.0.1",
+			"dependencies": {
+				"jsbn": "git+https://github.com/rynomad/jsbn.git"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "970577ba31b4976fb1889a298cb7451d896c466d",
+				"tarball": "https://registry.npmjs.org/ecc-jsbn/-/ecc-jsbn-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "ecc-jsbn",
+			"version": "0.1.1",
+			"dependencies": {
+				"jsbn": "~0.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0fc73a9ed5f0d53c38193398523ef7e543777505",
+				"tarball": "https://registry.npmjs.org/ecc-jsbn/-/ecc-jsbn-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "ecc-jsbn",
+	"dist-tags": {
+		"latest": "0.1.1"
+	},
+	"modified": "2016-11-01T17:18:21.280Z",
+	"_etag": "W/\"5818ce5d-278\"",
+	"_lastModified": "Tue, 01 Nov 2016 17:18:21 GMT"
+}

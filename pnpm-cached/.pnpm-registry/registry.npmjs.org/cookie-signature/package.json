@@ -1,0 +1,131 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "cookie-signature",
+			"version": "0.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "13d3603b5cf63befbf85a8801e37aa900db46985",
+				"tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "cookie-signature",
+			"version": "1.0.0",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0044f332ac623df851c914e88eacc57f0c9704fe",
+				"tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "cookie-signature",
+			"version": "1.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "44e072148af01e6e8e24afbf12690d68ae698ecb",
+				"tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "cookie-signature",
+			"version": "1.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3d8ed55a70e4bcd474f699af0d03b5b652fe85ba",
+				"tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "cookie-signature",
+			"version": "1.0.3",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "91cd997cc51fb641595738c69cda020328f50ff9",
+				"tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "cookie-signature",
+			"version": "1.0.4",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0edd22286e3a111b9a2a70db363e925e867f6aca",
+				"tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "cookie-signature",
+			"version": "1.0.5",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a122e3f1503eca0f5355795b0711bb2368d450f9",
+				"tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.6": {
+			"name": "cookie-signature",
+			"version": "1.0.6",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "*",
+				"should": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e303a882b342cc3ee8ca513a79999734dab3ae2c",
+				"tarball": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "cookie-signature",
+	"dist-tags": {
+		"latest": "1.0.6"
+	},
+	"modified": "2017-02-23T08:53:36.585Z",
+	"_etag": "W/\"58aea310-9e5\"",
+	"_lastModified": "Thu, 23 Feb 2017 08:53:36 GMT"
+}

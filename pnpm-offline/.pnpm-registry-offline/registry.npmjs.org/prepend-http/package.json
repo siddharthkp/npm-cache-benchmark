@@ -1,0 +1,93 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "prepend-http",
+			"version": "1.0.0",
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6a1593cab70b433bfa3f2bdddd4fe794f2aed27a",
+				"tarball": "https://registry.npmjs.org/prepend-http/-/prepend-http-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "prepend-http",
+			"version": "1.0.1",
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5f13dad9a434fa4f346aa51cf03f3cea15fe4eb3",
+				"tarball": "https://registry.npmjs.org/prepend-http/-/prepend-http-1.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "prepend-http",
+			"version": "1.0.2",
+			"devDependencies": {
+				"ava": "0.0.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4eefdfe40f99ac9256fdb8a1e5cb80ecddfc669e",
+				"tarball": "https://registry.npmjs.org/prepend-http/-/prepend-http-1.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "prepend-http",
+			"version": "1.0.3",
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4d0d2b6f9efcf1190c23931325b4f3a9dba84869",
+				"tarball": "https://registry.npmjs.org/prepend-http/-/prepend-http-1.0.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "prepend-http",
+			"version": "1.0.4",
+			"devDependencies": {
+				"ava": "*",
+				"xo": "*"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d4f4562b0ce3696e41ac52d0e002e57a635dc6dc",
+				"tarball": "https://registry.npmjs.org/prepend-http/-/prepend-http-1.0.4.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.0"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "prepend-http",
+	"dist-tags": {
+		"latest": "1.0.4"
+	},
+	"modified": "2016-05-10T05:21:23.363Z",
+	"_etag": "W/\"57316fd3-627\"",
+	"_lastModified": "Tue, 10 May 2016 05:21:23 GMT"
+}

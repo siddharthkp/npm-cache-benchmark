@@ -1,0 +1,24 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "buffer-shims",
+			"version": "1.0.0",
+			"devDependencies": {
+				"tape": "^4.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9978ce317388c649ad8793028c3477ef044a8b51",
+				"tarball": "https://registry.npmjs.org/buffer-shims/-/buffer-shims-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "buffer-shims",
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"modified": "2016-05-06T18:54:51.096Z",
+	"_etag": "W/\"572ce87b-171\"",
+	"_lastModified": "Fri, 06 May 2016 18:54:51 GMT"
+}

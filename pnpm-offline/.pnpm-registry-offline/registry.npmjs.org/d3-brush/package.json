@@ -1,0 +1,445 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "d3-brush",
+			"version": "0.0.1",
+			"dependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "a58a64d726f5e28187824f9ed92ce2934aa55fbd",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "d3-brush",
+			"version": "0.0.2",
+			"dependencies": {
+				"d3-transition": "~0.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7c1af28a2c946ec2c6db4999602a53fb2b21cc07",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "d3-brush",
+			"version": "0.0.3",
+			"dependencies": {
+				"d3-transition": "~0.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f47fe03c5154a4c5a09f67863cdd94cbccf18bbf",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "d3-brush",
+			"version": "0.0.4",
+			"dependencies": {
+				"d3-transition": "~0.2.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6fdf652561d3dd2df141274fe6a4be6e771c8fd2",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-brush",
+			"version": "0.1.0",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4866ec3f6dcecd998b72c82e1c5e9c0dd9163d5d",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.1": {
+			"name": "d3-brush",
+			"version": "0.1.1",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e72f08fa649030ce1ca8dbe12b68a87a06f67559",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.1.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.2": {
+			"name": "d3-brush",
+			"version": "0.1.2",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "56f08133b35865c8ef9a0768848df7d16b6618a5",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.1.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.3": {
+			"name": "d3-brush",
+			"version": "0.1.3",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cc8831fb1f2f14de831ac222d2afdbfdf2c877ef",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.1.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.4": {
+			"name": "d3-brush",
+			"version": "0.1.4",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cfa0532da3600c98eb7429f83465796900fbfe58",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.1.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.5": {
+			"name": "d3-brush",
+			"version": "0.1.5",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8d7c66085b515aa815fdc631051e2fb4ce3ddf54",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.1.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.6": {
+			"name": "d3-brush",
+			"version": "0.1.6",
+			"dependencies": {
+				"d3-dispatch": "~0.4.3",
+				"d3-drag": "~0.2.0",
+				"d3-interpolate": "~0.8.0",
+				"d3-selection": "~0.7.2",
+				"d3-transition": "~0.2.8"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "57c28daffe9a098449f5b28f76c7025829160cf8",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.1.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-brush",
+			"version": "0.2.0",
+			"dependencies": {
+				"d3-dispatch": "~0.5.0",
+				"d3-drag": "~0.3.0",
+				"d3-interpolate": "~0.9.0",
+				"d3-selection": "~0.8.0",
+				"d3-transition": "~0.3.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ef50eeeb1c37e951aceefaad9d0dc0dc6586520f",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-brush",
+			"version": "0.2.1",
+			"dependencies": {
+				"d3-dispatch": "~0.5.0",
+				"d3-drag": "~0.3.0",
+				"d3-interpolate": "~0.9.0",
+				"d3-selection": "~0.8.0",
+				"d3-transition": "~0.3.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "571070e43cbfd9000e0c7d2d0b7e9f2d7fb9854b",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "d3-brush",
+			"version": "0.2.2",
+			"dependencies": {
+				"d3-dispatch": "~0.5.0",
+				"d3-drag": "~0.3.0",
+				"d3-interpolate": "~0.9.0",
+				"d3-selection": "~0.8.0",
+				"d3-transition": "~0.3.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "231e128d3740910f9542907675ed571d5baa4948",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "d3-brush",
+			"version": "0.2.3",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "~0.3.1",
+				"d3-interpolate": "1",
+				"d3-selection": "~0.9.0",
+				"d3-transition": "~0.3.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.31",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "03696cf89a8e1f7aea4fa9e015b7e92f3f5630d0",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-0.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-brush",
+			"version": "1.0.0",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ad16b42bbac50f099e1ca1794087b877e1ffd738",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-brush",
+			"version": "1.0.1",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d457affc2671a54cc1cc5429eff6c4c00bd0c8e3",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-brush",
+			"version": "1.0.2",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c9a725d0d7f7d69245551ff96e264215e59a82eb",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-brush",
+			"version": "1.0.3",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4fa5374cc3b755d0990bf76b71b7a66417751c74",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "d3-brush",
+			"version": "1.0.4",
+			"dependencies": {
+				"d3-dispatch": "1",
+				"d3-drag": "1",
+				"d3-interpolate": "1",
+				"d3-selection": "1",
+				"d3-transition": "1"
+			},
+			"devDependencies": {
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "00c2f238019f24f6c0a194a26d41a1530ffe7bc4",
+				"tarball": "https://registry.npmjs.org/d3-brush/-/d3-brush-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-brush",
+	"dist-tags": {
+		"latest": "1.0.4"
+	},
+	"modified": "2017-03-10T18:15:07.241Z",
+	"_etag": "W/\"58c2ed2b-1fe1\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:15:07 GMT"
+}

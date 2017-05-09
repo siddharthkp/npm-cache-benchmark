@@ -1,0 +1,357 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "d3-axis",
+			"version": "0.0.1",
+			"dependencies": {
+				"d3-scale": "~0.5.0",
+				"d3-selection": "~0.5.1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.24.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4dd2a96d2c307050c8411fd9a8ca5a7cbbfeeb5b",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "d3-axis",
+			"version": "0.1.0",
+			"dependencies": {
+				"d3-scale": "~0.5.0",
+				"d3-selection": "~0.5.1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.24.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1bbe85f42d3196b122208aedb336e7fe790bca66",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "d3-axis",
+			"version": "0.2.0",
+			"dependencies": {
+				"d3-scale": "~0.5.0",
+				"d3-selection": "~0.5.1"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.24.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7c9fe10d924a06381a62030f2778064afd3c3eff",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.1": {
+			"name": "d3-axis",
+			"version": "0.2.1",
+			"dependencies": {
+				"d3-scale": "~0.5.0",
+				"d3-selection": "~0.6.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.24.0",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1de8c685aff9f153006416541a2f8ac42c9cb691",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.2": {
+			"name": "d3-axis",
+			"version": "0.2.2",
+			"dependencies": {
+				"d3-scale": "~0.5.0",
+				"d3-selection": "~0.6.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "27d64f606bc55fba1bfdc7bbbdd61c914b3e4181",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.2.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.3": {
+			"name": "d3-axis",
+			"version": "0.2.3",
+			"dependencies": {
+				"d3-scale": "~0.6.0",
+				"d3-selection": "~0.6.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1495b343d2fc428988129425bd3a7288da84d9e2",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.2.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "d3-axis",
+			"version": "0.3.0",
+			"dependencies": {
+				"d3-scale": "~0.6.0",
+				"d3-selection": "~0.7.0",
+				"d3-transition": "~0.2.0"
+			},
+			"devDependencies": {
+				"faucet": "0.0",
+				"rollup": "0.25",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "223eeab1cf6f275d3ce372acfb7c214e251f793d",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.1": {
+			"name": "d3-axis",
+			"version": "0.3.1",
+			"dependencies": {
+				"d3-scale": "~0.7.0",
+				"d3-selection": "~0.7.0",
+				"d3-transition": "~0.2.0"
+			},
+			"devDependencies": {
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "94516886fc505f0b1e94db5de05e7810f564c6cf",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.2": {
+			"name": "d3-axis",
+			"version": "0.3.2",
+			"dependencies": {
+				"d3-scale": "~0.7.0",
+				"d3-selection": "~0.7.0",
+				"d3-transition": "~0.2.0"
+			},
+			"devDependencies": {
+				"eslint": "2",
+				"json2module": "0.0",
+				"rollup": "0.26",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "222c97909c3fff72ddc5d6991fae23926eec7485",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "d3-axis",
+			"version": "0.4.0",
+			"devDependencies": {
+				"d3-scale": "~0.9.0",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3dd0066a90028068be6726b980be719e2c2b06b5",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.1": {
+			"name": "d3-axis",
+			"version": "0.4.1",
+			"devDependencies": {
+				"d3-scale": "~0.9.0",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.27",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fe0d93761673777c77fd16ce1d887cb0d358fa84",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-0.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "d3-axis",
+			"version": "1.0.0",
+			"devDependencies": {
+				"d3-scale": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.33",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b132857b1f0e80247d64861ad57699d79187a4f1",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "d3-axis",
+			"version": "1.0.1",
+			"devDependencies": {
+				"d3-scale": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "653161f73ee795f97ac0c46dfe878fd938274796",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "d3-axis",
+			"version": "1.0.2",
+			"devDependencies": {
+				"d3-scale": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d803ddd5e6655881006a0b7a4c51766aac5fa73d",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "d3-axis",
+			"version": "1.0.3",
+			"devDependencies": {
+				"d3-scale": "1",
+				"eslint": "2",
+				"package-preamble": "0.0",
+				"rollup": "0.34",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ddcbd8a23c2a568d3787de0dee00a36413c5d595",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "d3-axis",
+			"version": "1.0.4",
+			"devDependencies": {
+				"d3-scale": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.36",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bdfdcf5e859824062e0f17ad920f76236e72512c",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "d3-axis",
+			"version": "1.0.5",
+			"devDependencies": {
+				"d3-scale": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "865db17a7b54433e3b35c1d2b1a76bdb7c3d434d",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-1.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.6": {
+			"name": "d3-axis",
+			"version": "1.0.6",
+			"devDependencies": {
+				"d3-scale": "1",
+				"eslint": "3",
+				"package-preamble": "0.0",
+				"rollup": "0.41",
+				"tape": "4",
+				"uglify-js": "^2.8.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dccbc21a73e5786de820bf1a22b237f522b878be",
+				"tarball": "https://registry.npmjs.org/d3-axis/-/d3-axis-1.0.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "d3-axis",
+	"dist-tags": {
+		"latest": "1.0.6"
+	},
+	"modified": "2017-03-10T18:16:16.067Z",
+	"_etag": "W/\"58c2ed70-18cf\"",
+	"_lastModified": "Fri, 10 Mar 2017 18:16:16 GMT"
+}

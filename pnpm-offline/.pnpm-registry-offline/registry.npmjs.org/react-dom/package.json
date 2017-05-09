@@ -1,0 +1,1091 @@
+{
+	"versions": {
+		"0.1.0": {
+			"name": "react-dom",
+			"version": "0.1.0",
+			"devDependencies": {
+				"jasmine-node": "2.0.0-beta4",
+				"react": "0.10.0",
+				"uglify-js": "2.4.13",
+				"colors": "0.6.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6c821d418caed4f8ed39424cf0fad36f03fb35c4",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.1.0.tgz"
+			},
+			"deprecated": "The old react-dom package has been deprecated. Until React v0.14 is officially released, please installed react-dom with npm install react-dom@latest.",
+			"_hasShrinkwrap": false
+		},
+		"0.14.0-beta1": {
+			"name": "react-dom",
+			"version": "0.14.0-beta1",
+			"dependencies": {
+				"react": "^0.14.0-beta1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a008dd5eeb41c60a11e77738eb43c00d7ff390b8",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.0-beta1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.0-beta2": {
+			"name": "react-dom",
+			"version": "0.14.0-beta2",
+			"dependencies": {
+				"fbjs": "0.1.0-alpha.4",
+				"react": "^0.14.0-beta2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6376465678604bf925158ce0068c5f5524f00d21",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.0-beta2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.0-beta3": {
+			"name": "react-dom",
+			"version": "0.14.0-beta3",
+			"dependencies": {
+				"fbjs": "0.1.0-alpha.4",
+				"react": "^0.14.0-beta3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "548dd048f39c71f1092ed942eb119ba37bf1b7e3",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.0-beta3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.0-rc1": {
+			"name": "react-dom",
+			"version": "0.14.0-rc1",
+			"dependencies": {
+				"react": "^0.14.0-rc1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "84a71d326d9326951bf562cdbea75330bd9be638",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.0-rc1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.0": {
+			"name": "react-dom",
+			"version": "0.14.0",
+			"dependencies": {
+				"react": "^0.14.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fc2e792ab27d88db009a76ecbcfd5611368a849e",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.1": {
+			"name": "react-dom",
+			"version": "0.14.1",
+			"dependencies": {
+				"react": "^0.14.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9c2e416d9703cd8dcdbae41f76caa3b0eb3ad664",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.2": {
+			"name": "react-dom",
+			"version": "0.14.2",
+			"peerDependencies": {
+				"react": "^0.14.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ba979850dca2513f99cf9fb3fb574ad9de3dab84",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.3": {
+			"name": "react-dom",
+			"version": "0.14.3",
+			"peerDependencies": {
+				"react": "^0.14.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b3f0aeeed1a433b20c5458e34439a51916818628",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.4": {
+			"name": "react-dom",
+			"version": "0.14.4",
+			"peerDependencies": {
+				"react": "^0.14.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d0064c711fbc90c744385fd6fba045c62ed93c9d",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.5": {
+			"name": "react-dom",
+			"version": "0.14.5",
+			"peerDependencies": {
+				"react": "^0.14.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f0018bee7a941b2236d89ebe64b02adf15512002",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.6": {
+			"name": "react-dom",
+			"version": "0.14.6",
+			"peerDependencies": {
+				"react": "^0.14.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "46d4e3243884f277e89ce8759131e8a16ac23e65",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.15.0-alpha.1": {
+			"name": "react-dom",
+			"version": "0.15.0-alpha.1",
+			"peerDependencies": {
+				"react": "^0.15.0-alpha.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0104a450f753a834946b99ead6ed6170f5da25b6",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.15.0-alpha.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.7": {
+			"name": "react-dom",
+			"version": "0.14.7",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^0.14.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "973c302110b3a680c9afe69d07c623b9c0952d82",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.0-rc.1": {
+			"name": "react-dom",
+			"version": "15.0.0-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.0-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3d4edb346860eafae6d91ec906a4c230119962c3",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.0-rc.2": {
+			"name": "react-dom",
+			"version": "15.0.0-rc.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.0-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "abb4fa8963dc9f9c4d1bcb1674389711caa3d398",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.8": {
+			"name": "react-dom",
+			"version": "0.14.8",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^0.14.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0f1c547514263f771bd31814a739e5306575069e",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.0": {
+			"name": "react-dom",
+			"version": "15.0.0",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "49a91a663d8ff9f699eb4997f0027ead8abe0d44",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.1": {
+			"name": "react-dom",
+			"version": "15.0.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "33c67f557b43ab27a6ba3ec3200321681921c48d",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.2-alpha.1": {
+			"name": "react-dom",
+			"version": "15.0.2-alpha.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.2-alpha.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "872a03e463beb41b62d5970ee67e791da1c35d5d",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.2-alpha.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.2-alpha.2": {
+			"name": "react-dom",
+			"version": "15.0.2-alpha.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.2-alpha.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cdfe435d05b6bacc1e6f9abde356bc0b20098ce4",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.2-alpha.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.2-alpha.3": {
+			"name": "react-dom",
+			"version": "15.0.2-alpha.3",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.2-alpha.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "37335f91b914b5ab603bd8ba8e5f1e3141a8bd3e",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.2-alpha.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.2-alpha.4": {
+			"name": "react-dom",
+			"version": "15.0.2-alpha.4",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.2-alpha.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9f90af3b43a885b7e26acf68ba571a4915ec6f75",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.2-alpha.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.2": {
+			"name": "react-dom",
+			"version": "15.0.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f8a20ac1bc2da9eb494fce3b44c3ec19d0951e27",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.3-alpha.1": {
+			"name": "react-dom",
+			"version": "15.0.3-alpha.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.3-alpha.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d4ddac83991b9e01884e613605b4e999f5b6a31f",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.3-alpha.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.0.3-alpha.2": {
+			"name": "react-dom",
+			"version": "15.0.3-alpha.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.0.3-alpha.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "df4e216dd9f9bc10365697baf7aad1b585b1b579",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.0.3-alpha.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.1.0-alpha.1": {
+			"name": "react-dom",
+			"version": "15.1.0-alpha.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.1.0-alpha.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eea28251915d5c6479c12dd51b0b775da3abdfab",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.1.0-alpha.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.1.0": {
+			"name": "react-dom",
+			"version": "15.1.0",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.1.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d0c2b24c8b47a41a2b9ec766662d4e686f353153",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.2.0-rc.1": {
+			"name": "react-dom",
+			"version": "15.2.0-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.2.0-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e0d6cf5fa044c4cbcf041f0b901775ca28298764",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.2.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.2.0-rc.2": {
+			"name": "react-dom",
+			"version": "15.2.0-rc.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.2.0-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cb4f4b72b0186d2195285043578666c0e69c9e6c",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.2.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.2.0": {
+			"name": "react-dom",
+			"version": "15.2.0",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.2.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "cc9b9a2f51e460d6a727c7b23058fe94f42c874c",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.2.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.2.1": {
+			"name": "react-dom",
+			"version": "15.2.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.2.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dc942a5268f955e180158c9d4d2609fec9388ff0",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.2.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.0-rc.1": {
+			"name": "react-dom",
+			"version": "15.3.0-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.0-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e2f43cc147725ff45fbe5639cb2ebbf137bfe84e",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.3.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.0-rc.2": {
+			"name": "react-dom",
+			"version": "15.3.0-rc.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.0-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c8caac9560b881abd4a2593980e7dfbde2b1b8c6",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.3.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.0-rc.3": {
+			"name": "react-dom",
+			"version": "15.3.0-rc.3",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.0-rc.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "29864a63b14ecf38ef5740f2d6156866d9fe1987",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.3.0-rc.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.0": {
+			"name": "react-dom",
+			"version": "15.3.0",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "24a6a3df67969656b8a8225fd0d7fcb939d28bdd",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.3.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.1-rc.1": {
+			"name": "react-dom",
+			"version": "15.3.1-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.1-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f6b3809b3e2a9a10a62175a82c0c2cc8fb06916d",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.3.1-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.1-rc.2": {
+			"name": "react-dom",
+			"version": "15.3.1-rc.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.1-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3771828474cbf1ca4f2dab5065fa1c61315c4913",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.3.1-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.1": {
+			"name": "react-dom",
+			"version": "15.3.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6d42cd2b64c8c5e0b693f3ffaec301e6e627e24e",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.3.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.2-rc.1": {
+			"name": "react-dom",
+			"version": "15.3.2-rc.1",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.2-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ef51d9353982b6702086a7b45f551851c57618f9",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.3.2-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.3.2": {
+			"name": "react-dom",
+			"version": "15.3.2",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^15.3.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c46b0aa5380d7b838e7a59c4a7beff2ed315531f",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.3.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.0-rc.1": {
+			"name": "react-dom",
+			"version": "15.4.0-rc.1",
+			"dependencies": {
+				"fbjs": "^0.8.1",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^15.4.0-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b19c1a16290d435bfdd3dade2c0642b245f59b24",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.4.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.0-rc.2": {
+			"name": "react-dom",
+			"version": "15.4.0-rc.2",
+			"dependencies": {
+				"fbjs": "^0.8.1",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^15.4.0-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a9dd33a076d0db4ab77101a4b3add4b8378b29de",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.4.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.0-rc.3": {
+			"name": "react-dom",
+			"version": "15.4.0-rc.3",
+			"dependencies": {
+				"fbjs": "^0.8.1",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^15.4.0-rc.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "01f71014a907bb66dd1a103a5e33b06665755327",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.4.0-rc.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.0-rc.4": {
+			"name": "react-dom",
+			"version": "15.4.0-rc.4",
+			"dependencies": {
+				"fbjs": "^0.8.1",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^15.4.0-rc.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e95bbe99d47aeefd60bad9a0502ca926283d960a",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.4.0-rc.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.0": {
+			"name": "react-dom",
+			"version": "15.4.0",
+			"dependencies": {
+				"fbjs": "^0.8.1",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^15.4.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6a97a69000966570db48c746bc4b7b0ca50d1534",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.4.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.1": {
+			"name": "react-dom",
+			"version": "15.4.1",
+			"dependencies": {
+				"fbjs": "^0.8.1",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^15.4.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d54c913261aaedb17adc20410d029dcc18a1344a",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.4.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.4.2": {
+			"name": "react-dom",
+			"version": "15.4.2",
+			"dependencies": {
+				"fbjs": "^0.8.1",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^15.4.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "015363f05b0a1fd52ae9efdd3a0060d90695208f",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.4.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha",
+			"dependencies": {
+				"fbjs": "^0.8.4",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "51c7e7c0d34342a29614e3a91f3905625fc134af",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.0": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.0",
+			"dependencies": {
+				"fbjs": "^0.8.4",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "80ea996b10d0f49cf280eacc9c7b1738c6de29aa",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.2": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.2",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b2c916b0b0d8b34567967bdb945f55827a571c29",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.3": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.3",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9cf304ea4bcdafe026f29ec2e71373316ec597ab",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.4": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.4",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "feb5782eea58d945afcb0bed110deda9df75818a",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.5": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.5",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.5"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2e1b8efc3ba1c3000210ad364a6b385f1306655c",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.6": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.6",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.6"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a70fa5dd62d7cc11c6a01868b45de95dc2095c90",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.6.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.0-rc.1": {
+			"name": "react-dom",
+			"version": "15.5.0-rc.1",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^15.5.0-rc.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "eceb19edad0b809843ef149417d78600bdacc4a0",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.5.0-rc.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.7": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.7",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.7"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "28c421402680b3409fae12320e64f7d64ae74483",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.7.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.0-rc.2": {
+			"name": "react-dom",
+			"version": "15.5.0-rc.2",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0",
+				"prop-types": "~15.5.0"
+			},
+			"peerDependencies": {
+				"react": "^15.5.0-rc.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d484e85619ee2dacaa910896a5e81c0364190f92",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.5.0-rc.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.8": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.8",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.8"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a46ab177f08fff1f3601b06ebd7867d2b97bc306",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.8.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.0": {
+			"name": "react-dom",
+			"version": "15.5.0",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0",
+				"prop-types": "~15.5.0"
+			},
+			"peerDependencies": {
+				"react": "^15.5.0"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "86a8d6dcde388473815039de3840706e1f28f697",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.5.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.1": {
+			"name": "react-dom",
+			"version": "15.5.1",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0",
+				"prop-types": "~15.5.0"
+			},
+			"peerDependencies": {
+				"react": "^15.5.1"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "05a75129171a5d4937cc206d4189a518149bee36",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.5.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.2": {
+			"name": "react-dom",
+			"version": "15.5.2",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0",
+				"prop-types": "~15.5.0"
+			},
+			"peerDependencies": {
+				"react": "^15.5.2"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9248038cf37427ff675efdefbb78924c229e085d",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.5.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.3": {
+			"name": "react-dom",
+			"version": "15.5.3",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0",
+				"prop-types": "~15.5.0"
+			},
+			"peerDependencies": {
+				"react": "^15.5.3"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2ee127ce942df55da53111ae303316e68072b5c5",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.5.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"15.5.4": {
+			"name": "react-dom",
+			"version": "15.5.4",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0",
+				"prop-types": "~15.5.7"
+			},
+			"peerDependencies": {
+				"react": "^15.5.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ba0c28786fd52ed7e4f2135fe0288d462aef93da",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-15.5.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.9": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.9",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0",
+				"prop-types": "^15.5.6"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.9"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8630250db53956b974220ddc11ce3e3cc4efff2b",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.9.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.9": {
+			"name": "react-dom",
+			"version": "0.14.9",
+			"dependencies": {},
+			"peerDependencies": {
+				"react": "^0.14.9"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "05064a3dcf0fb1880a3b2bfc9d58c55d8d9f6293",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-0.14.9.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.10": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.10",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0",
+				"prop-types": "^15.5.6"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.10"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bf1baf39f065ca3cfd696cd23a59b760442d9152",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.10.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.11": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.11",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0",
+				"prop-types": "^15.5.6"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.11"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f35df79a5542448a4e256d71f1519c9a5ed723f5",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.11.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"16.0.0-alpha.12": {
+			"name": "react-dom",
+			"version": "16.0.0-alpha.12",
+			"dependencies": {
+				"fbjs": "^0.8.9",
+				"loose-envify": "^1.1.0",
+				"object-assign": "^4.1.0",
+				"prop-types": "^15.5.6"
+			},
+			"peerDependencies": {
+				"react": "^16.0.0-alpha.12"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c9894ccfd9600ef87952e05340903180b013171e",
+				"tarball": "https://registry.npmjs.org/react-dom/-/react-dom-16.0.0-alpha.12.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "react-dom",
+	"dist-tags": {
+		"latest": "15.5.4",
+		"next": "16.0.0-alpha.12",
+		"dev": "15.5.0-rc.2",
+		"0.14-stable": "0.14.9"
+	},
+	"modified": "2017-05-03T16:21:48.786Z",
+	"_etag": "W/\"590a039c-57d0\"",
+	"_lastModified": "Wed, 03 May 2017 16:21:48 GMT"
+}

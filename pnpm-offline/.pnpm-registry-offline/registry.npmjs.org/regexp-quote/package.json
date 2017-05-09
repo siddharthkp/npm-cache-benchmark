@@ -1,0 +1,27 @@
+{
+	"versions": {
+		"0.0.0": {
+			"name": "regexp-quote",
+			"version": "0.0.0",
+			"dependencies": {},
+			"optionalDependencies": {},
+			"devDependencies": {},
+			"directories": {},
+			"dist": {
+				"shasum": "1e0f4650c862dcbfed54fd42b148e9bb1721fcf2",
+				"tarball": "https://registry.npmjs.org/regexp-quote/-/regexp-quote-0.0.0.tgz"
+			},
+			"engines": {
+				"node": "*"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "regexp-quote",
+	"dist-tags": {
+		"latest": "0.0.0"
+	},
+	"modified": "2012-04-29T22:49:12.200Z",
+	"_etag": "W/\"4f9dc568-1a5\"",
+	"_lastModified": "Sun, 29 Apr 2012 22:49:12 GMT"
+}

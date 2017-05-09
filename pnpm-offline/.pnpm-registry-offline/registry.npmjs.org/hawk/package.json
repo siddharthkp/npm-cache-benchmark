@@ -1,0 +1,1532 @@
+{
+	"versions": {
+		"0.0.1": {
+			"name": "hawk",
+			"version": "0.0.1",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"should": "1.x.x",
+				"chai": "1.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3239371d26a774aaf434f7e5cdb9393da227fe7b",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.2": {
+			"name": "hawk",
+			"version": "0.0.2",
+			"dependencies": {},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"should": "1.x.x",
+				"chai": "1.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0ae74652f21b0ef64f3c847d10d08c81d321d97f",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.0.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.3": {
+			"name": "hawk",
+			"version": "0.0.3",
+			"dependencies": {},
+			"devDependencies": {
+				"request": "2.11.x",
+				"mocha": "1.x.x",
+				"should": "1.x.x",
+				"chai": "1.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "635da77abc8730055464c8a79a8e2e802781809f",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.0.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.4": {
+			"name": "hawk",
+			"version": "0.0.4",
+			"dependencies": {},
+			"devDependencies": {
+				"request": "2.11.x",
+				"mocha": "1.x.x",
+				"should": "1.x.x",
+				"chai": "1.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e9e73330e9f460f18c09a0a46acfdd8e6884c856",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.0.4.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.5": {
+			"name": "hawk",
+			"version": "0.0.5",
+			"dependencies": {},
+			"devDependencies": {
+				"request": "2.11.x",
+				"mocha": "1.x.x",
+				"should": "1.x.x",
+				"chai": "1.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "2e982d78eb8f62cf7cf765d221ed27ac45a81c3a",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.0.5.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.6": {
+			"name": "hawk",
+			"version": "0.0.6",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"request": "2.11.x",
+				"mocha": "1.x.x",
+				"should": "1.x.x",
+				"chai": "1.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "022d437bfc347d7465cc780160833c59308e7eae",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.0.6.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.7": {
+			"name": "hawk",
+			"version": "0.0.7",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"request": "2.11.x",
+				"mocha": "1.x.x",
+				"should": "1.x.x",
+				"chai": "1.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f67861fd67bb6f641cd6eb379bbc4c673e7930bf",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.0.7.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.0.8": {
+			"name": "hawk",
+			"version": "0.0.8",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "30223856fa153215e54cbe0f42a69a909fa029df",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.0.8.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.1.0": {
+			"name": "hawk",
+			"version": "0.1.0",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8e283f0c1831d2b625c97f06252fa6497886dfa4",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.2.0": {
+			"name": "hawk",
+			"version": "0.2.0",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b9828493d756aab575f202eb7b7d5cd83237154f",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.3.0": {
+			"name": "hawk",
+			"version": "0.3.0",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b0692a6200b719acf14281ef8c579dc743b2acad",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.4.0": {
+			"name": "hawk",
+			"version": "0.4.0",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fb3c535ca3cc14cf86fbee0a7d82de77b399f9a2",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.4.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.0": {
+			"name": "hawk",
+			"version": "0.5.0",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"request": "2.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1c62917dc568df4da11be80216a83530e7459273",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.5.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.1": {
+			"name": "hawk",
+			"version": "0.5.1",
+			"dependencies": {
+				"hoek": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"request": "2.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "12ba5026aa14ffb6bb578cd12d3c9857ecd5deda",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.5.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.2": {
+			"name": "hawk",
+			"version": "0.5.2",
+			"dependencies": {
+				"hoek": "0.0.x",
+				"boom": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"request": "2.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3a70892eb66080e283c6a790f3b2df6d3cdb0a40",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.5.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.5.3": {
+			"name": "hawk",
+			"version": "0.5.3",
+			"dependencies": {
+				"hoek": "0.0.x",
+				"boom": "0.0.x",
+				"cryptiles": "0.0.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"request": "2.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "679ec22b4c9ffa2ba945b1c6f6f57483229d7958",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.5.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.0": {
+			"name": "hawk",
+			"version": "0.6.0",
+			"dependencies": {
+				"hoek": "0.0.x",
+				"boom": "0.1.x",
+				"cryptiles": "0.0.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"request": "2.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3bbecc9f6d09c1011c0a5ea86525de597fc2b4ae",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.6.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.6.1": {
+			"name": "hawk",
+			"version": "0.6.1",
+			"dependencies": {
+				"hoek": "0.4.x",
+				"boom": "0.2.x",
+				"cryptiles": "0.0.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"request": "2.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3c9ad6cde8b623b67fa0d188c4d5404a48ee1225",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.6.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.0": {
+			"name": "hawk",
+			"version": "0.7.0",
+			"dependencies": {
+				"hoek": "0.4.x",
+				"boom": "0.3.x",
+				"cryptiles": "0.1.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"request": "2.12.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "4f050728cc9220db1401f650e6f4e91b4e6c92c1",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.7.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.7.1": {
+			"name": "hawk",
+			"version": "0.7.1",
+			"dependencies": {
+				"hoek": "0.4.x",
+				"boom": "0.3.x",
+				"cryptiles": "0.1.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"request": "2.12.x",
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"blanket": "1.0.x",
+				"travis-cov": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "c53ae2ec49faabe847244ea6dfa5daab47e45b4a",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.7.1.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.8.1": {
+			"name": "hawk",
+			"version": "0.8.1",
+			"dependencies": {
+				"hoek": "0.4.x",
+				"boom": "0.3.x",
+				"cryptiles": "0.1.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"request": "2.12.x",
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"blanket": "1.0.x",
+				"travis-cov": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5d16288ca8cc6110bae1d7b71ad71c9a380b3624",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.8.1.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.9.0": {
+			"name": "hawk",
+			"version": "0.9.0",
+			"dependencies": {
+				"hoek": "0.6.x",
+				"boom": "0.3.x",
+				"cryptiles": "0.1.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"blanket": "1.0.x",
+				"travis-cov": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b1d0277d5ed6da344b86096872f32afb0a14b92d",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.9.0.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.0": {
+			"name": "hawk",
+			"version": "0.10.0",
+			"dependencies": {
+				"hoek": "0.6.x",
+				"boom": "0.3.x",
+				"cryptiles": "0.1.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"blanket": "1.0.x",
+				"travis-cov": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f1990d419c1c3e7f99ecaff62c15caa732ca3adc",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.10.0.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.1": {
+			"name": "hawk",
+			"version": "0.10.1",
+			"dependencies": {
+				"hoek": "0.6.x",
+				"boom": "0.3.x",
+				"cryptiles": "0.1.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"mocha": "1.x.x",
+				"chai": "1.x.x",
+				"blanket": "1.0.x",
+				"travis-cov": "0.2.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "87e740f756b49e0fdc2f5ebf99e8bb1ad1b13695",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.10.1.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.10.2": {
+			"name": "hawk",
+			"version": "0.10.2",
+			"dependencies": {
+				"hoek": "0.7.x",
+				"boom": "0.3.x",
+				"cryptiles": "0.1.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"lab": "0.0.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9b361dee95a931640e6d504e05609a8fc3ac45d2",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.10.2.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.11.0": {
+			"name": "hawk",
+			"version": "0.11.0",
+			"dependencies": {
+				"hoek": "0.7.x",
+				"boom": "0.3.x",
+				"cryptiles": "0.1.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"lab": "0.0.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "67fbf2fa1713662c2aa38d302bad5c126659ddbe",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.11.0.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.11.1": {
+			"name": "hawk",
+			"version": "0.11.1",
+			"dependencies": {
+				"hoek": "0.7.x",
+				"boom": "0.3.x",
+				"cryptiles": "0.1.x",
+				"sntp": "0.1.x"
+			},
+			"devDependencies": {
+				"lab": "0.0.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1cae6adc91319d6e9ca44a424ffaa3f151fa7afe",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.11.1.tgz"
+			},
+			"engines": {
+				"node": "0.8.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.12.0": {
+			"name": "hawk",
+			"version": "0.12.0",
+			"dependencies": {
+				"hoek": "0.8.x",
+				"boom": "0.4.x",
+				"cryptiles": "0.2.x",
+				"sntp": "0.2.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9866098fd4f2f016666751fcc6f25d39bc0255a6",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.12.0.tgz"
+			},
+			"engines": {
+				"node": "0.10.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.12.1": {
+			"name": "hawk",
+			"version": "0.12.1",
+			"dependencies": {
+				"hoek": "0.8.x",
+				"boom": "0.4.x",
+				"cryptiles": "0.2.x",
+				"sntp": "0.2.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d78fe4fbeb873778ea45e0311a64e311d9677928",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.12.1.tgz"
+			},
+			"engines": {
+				"node": "0.10.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.12.2": {
+			"name": "hawk",
+			"version": "0.12.2",
+			"dependencies": {
+				"hoek": "0.8.x",
+				"boom": "0.4.x",
+				"cryptiles": "0.2.x",
+				"sntp": "0.2.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "80502d491d39564a00f938ffbc438aac8699af2c",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.12.2.tgz"
+			},
+			"engines": {
+				"node": "0.10.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.13.0": {
+			"name": "hawk",
+			"version": "0.13.0",
+			"dependencies": {
+				"hoek": "0.8.x",
+				"boom": "0.4.x",
+				"cryptiles": "0.2.x",
+				"sntp": "0.2.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "308e1530bc989498bb08479dcb55b03ec4954405",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.13.0.tgz"
+			},
+			"engines": {
+				"node": "0.10.x"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.13.1": {
+			"name": "hawk",
+			"version": "0.13.1",
+			"dependencies": {
+				"hoek": "0.8.x",
+				"boom": "0.4.x",
+				"cryptiles": "0.2.x",
+				"sntp": "0.2.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3617958821f58311e4d7f6de291fca662b412ef4",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.13.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.14.0": {
+			"name": "hawk",
+			"version": "0.14.0",
+			"dependencies": {
+				"hoek": "0.9.x",
+				"boom": "0.4.x",
+				"cryptiles": "0.2.x",
+				"sntp": "0.2.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "190f60c98f6c1383b844b9542bfd6ac8d3183ed2",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.14.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"0.15.0": {
+			"name": "hawk",
+			"version": "0.15.0",
+			"dependencies": {
+				"hoek": "0.9.x",
+				"boom": "0.4.x",
+				"cryptiles": "0.2.x",
+				"sntp": "0.2.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1151e3cab2906629dc969fd601f04eab16c3421b",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-0.15.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.0": {
+			"name": "hawk",
+			"version": "1.0.0",
+			"dependencies": {
+				"hoek": "0.9.x",
+				"boom": "0.4.x",
+				"cryptiles": "0.2.x",
+				"sntp": "0.2.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b90bb169807285411da7ffcb8dd2598502d3b52d",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-1.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.0-pre": {
+			"name": "hawk",
+			"version": "1.1.0-pre",
+			"dependencies": {
+				"hoek": "0.9.x",
+				"boom": "0.4.x",
+				"cryptiles": "0.2.x",
+				"sntp": "0.2.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "354205178e2719b033558cf13729b65b86b52702",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-1.1.0-pre.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.1": {
+			"name": "hawk",
+			"version": "1.1.1",
+			"dependencies": {
+				"hoek": "0.9.x",
+				"boom": "0.4.x",
+				"cryptiles": "0.2.x",
+				"sntp": "0.2.x"
+			},
+			"devDependencies": {
+				"lab": "0.1.x",
+				"complexity-report": "0.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "87cd491f9b46e4e2aeaca335416766885d2d1ed9",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-1.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.1.2": {
+			"name": "hawk",
+			"version": "1.1.2",
+			"dependencies": {
+				"hoek": "1.x.x",
+				"boom": "1.x.x",
+				"cryptiles": "1.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "d9d75763fa2af6c5a0283052456bad9c7eaf0bb3",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-1.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "hawk",
+			"version": "2.0.0",
+			"dependencies": {
+				"hoek": "1.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1770e303ac197a226abd75aae7c4cb155b4a7846",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "hawk",
+			"version": "2.1.0",
+			"dependencies": {
+				"hoek": "1.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a137d07ed04d67c9b140c1537429d7f8046debb8",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.1": {
+			"name": "hawk",
+			"version": "2.1.1",
+			"dependencies": {
+				"hoek": "1.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "5d30ab93a1a305bbc18cab367d1931a59d154991",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.2": {
+			"name": "hawk",
+			"version": "2.1.2",
+			"dependencies": {
+				"hoek": "1.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "46a5073176f176d3ae000abe543a1866b10ea4af",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.3": {
+			"name": "hawk",
+			"version": "2.1.3",
+			"dependencies": {
+				"hoek": "1.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "1.x.x",
+				"localStorage": "1.0.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "fbb084a59b0627dbeac548bec5c7f25f84e08967",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.1.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.0": {
+			"name": "hawk",
+			"version": "2.2.0",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "6d4b126c426484fe41d55706fd46311222b3a58a",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.2.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.1": {
+			"name": "hawk",
+			"version": "2.2.1",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8cf62d374d22a51848a8b8debde2321edec25e9d",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.2.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.2": {
+			"name": "hawk",
+			"version": "2.2.2",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "0bf58e4c0763b1ca044e5d3ce4172ea7af9568cd",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.2.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.2.3": {
+			"name": "hawk",
+			"version": "2.2.3",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "3.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "581397d484d9b747703064f03f6fcf43e92195d7",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.2.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.0": {
+			"name": "hawk",
+			"version": "2.3.0",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"lab": "4.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "20864369707c2264bb823d1c4172acd5d77ed509",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.3.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.3.1": {
+			"name": "hawk",
+			"version": "2.3.1",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1e731ce39447fa1d0f6d707f7bceebec0fd1ec1f",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-2.3.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.8.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.0.0": {
+			"name": "hawk",
+			"version": "3.0.0",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ad66f265fc9124c1a5a99badd8d473c63b171143",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-3.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.32"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.0": {
+			"name": "hawk",
+			"version": "3.1.0",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "^2.8.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "8a13ae19977ec607602f3f0b9fd676f18c384e44",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-3.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.32"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.1": {
+			"name": "hawk",
+			"version": "3.1.1",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "^2.8.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "f2d952b8f9c8ca30cc6d4132d4be702dc14e91bb",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-3.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.32"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.0": {
+			"name": "hawk",
+			"version": "4.0.0",
+			"dependencies": {
+				"hoek": "3.x.x",
+				"boom": "3.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "2.x.x",
+				"lab": "7.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "27cdc3d403b686214e8ceb5e3890ab5a42a5e849",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-4.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.2": {
+			"name": "hawk",
+			"version": "3.1.2",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "90c90118886e21975d1ad4ae9b3e284ed19a2de8",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-3.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.32"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.0.1": {
+			"name": "hawk",
+			"version": "4.0.1",
+			"dependencies": {
+				"hoek": "3.x.x",
+				"boom": "3.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "2.x.x",
+				"lab": "8.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "63d0d09c253df175513eb34fbe233a5271e8b2f6",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-4.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.0": {
+			"name": "hawk",
+			"version": "4.1.0",
+			"dependencies": {
+				"hoek": "3.x.x",
+				"boom": "3.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "2.x.x",
+				"lab": "8.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "95ae2914d2070ee18772f4ca43f8f3095d22e9de",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-4.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.1": {
+			"name": "hawk",
+			"version": "4.1.1",
+			"dependencies": {
+				"hoek": "3.x.x",
+				"boom": "3.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "2.x.x",
+				"lab": "8.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "704444b8dab40909072d7f5366736172cd82a8fd",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-4.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"3.1.3": {
+			"name": "hawk",
+			"version": "3.1.3",
+			"dependencies": {
+				"hoek": "2.x.x",
+				"boom": "2.x.x",
+				"cryptiles": "2.x.x",
+				"sntp": "1.x.x"
+			},
+			"devDependencies": {
+				"code": "1.x.x",
+				"lab": "5.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "078444bd7c1640b0fe540d2c9b73d59678e8e1c4",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-3.1.3.tgz"
+			},
+			"engines": {
+				"node": ">=0.10.32"
+			},
+			"_hasShrinkwrap": false
+		},
+		"4.1.2": {
+			"name": "hawk",
+			"version": "4.1.2",
+			"dependencies": {
+				"hoek": "3.x.x",
+				"boom": "3.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "2.x.x",
+				"lab": "8.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ba067b0885e9c0726c8cd4f0b000c0edb324aa3c",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-4.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.0": {
+			"name": "hawk",
+			"version": "5.0.0",
+			"dependencies": {
+				"hoek": "4.x.x",
+				"boom": "3.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "3.x.x",
+				"lab": "10.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7bd7c87e6304f9c13d7cac15860ab9415feb8562",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-5.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.0.1": {
+			"name": "hawk",
+			"version": "5.0.1",
+			"dependencies": {
+				"hoek": "4.x.x",
+				"boom": "3.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "3.x.x",
+				"lab": "10.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "25dd6b5c282bf7e0e8c516bbe8c67813fed6177a",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-5.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.1.0": {
+			"name": "hawk",
+			"version": "5.1.0",
+			"dependencies": {
+				"hoek": "4.x.x",
+				"boom": "3.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "3.x.x",
+				"lab": "10.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "dc816a1d91bd9da06430bbdbf7687849b41925b7",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-5.1.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.1.1": {
+			"name": "hawk",
+			"version": "5.1.1",
+			"dependencies": {
+				"hoek": "4.x.x",
+				"boom": "3.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "3.x.x",
+				"lab": "10.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e49930a15c6ee465ff710389af6b782a7ca4645a",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-5.1.1.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"5.1.2": {
+			"name": "hawk",
+			"version": "5.1.2",
+			"dependencies": {
+				"hoek": "4.x.x",
+				"boom": "3.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "3.x.x",
+				"lab": "10.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "bbe87d44e62be14c51b2c71237bba17c7ff73de4",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-5.1.2.tgz"
+			},
+			"engines": {
+				"node": ">=4.0.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.0.0": {
+			"name": "hawk",
+			"version": "6.0.0",
+			"dependencies": {
+				"hoek": "4.x.x",
+				"boom": "4.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "3.x.x",
+				"lab": "11.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "1544b069c5ae3ea0a5f35e936040b0c6ab0417d1",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-6.0.0.tgz"
+			},
+			"engines": {
+				"node": ">=4.5.0"
+			},
+			"_hasShrinkwrap": false
+		},
+		"6.0.1": {
+			"name": "hawk",
+			"version": "6.0.1",
+			"dependencies": {
+				"hoek": "4.x.x",
+				"boom": "4.x.x",
+				"cryptiles": "3.x.x",
+				"sntp": "2.x.x"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.1.2",
+				"babel-preset-es2015": "^6.1.2",
+				"code": "4.x.x",
+				"lab": "11.x.x"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "a78a656d1ef297cf4c313c1d4418c23630065e4d",
+				"tarball": "https://registry.npmjs.org/hawk/-/hawk-6.0.1.tgz"
+			},
+			"engines": {
+				"node": ">=4.5.0"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "hawk",
+	"dist-tags": {
+		"latest": "6.0.1",
+		"node10": "3.1.2"
+	},
+	"modified": "2017-02-23T23:41:50.134Z",
+	"_etag": "W/\"58af733e-6158\"",
+	"_lastModified": "Thu, 23 Feb 2017 23:41:50 GMT"
+}

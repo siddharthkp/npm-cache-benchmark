@@ -1,0 +1,364 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "resolve-pathname",
+			"version": "1.0.0",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-core": "^6.5.2",
+				"babel-eslint": "^5.0.0",
+				"babel-loader": "^6.2.3",
+				"babel-preset-es2015": "^6.5.0",
+				"eslint": "2.2.0",
+				"eslint-config-airbnb": "^6.0.2",
+				"eslint-plugin-react": "^4.1.0",
+				"expect": "^1.14.0",
+				"gzip-size": "^3.0.0",
+				"karma": "^0.13.21",
+				"karma-browserstack-launcher": "^0.1.10",
+				"karma-chrome-launcher": "^0.2.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^1.2.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"mocha": "^2.4.5",
+				"pretty-bytes": "^3.0.1",
+				"readline-sync": "^1.4.1",
+				"rimraf": "^2.5.2",
+				"webpack": "^1.12.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ed3c5f30da44c323341d24f02613cdb1a10ef07e",
+				"tarball": "https://registry.npmjs.org/resolve-pathname/-/resolve-pathname-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "resolve-pathname",
+			"version": "1.0.1",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-core": "^6.5.2",
+				"babel-eslint": "^5.0.0",
+				"babel-loader": "^6.2.3",
+				"babel-plugin-dev-expression": "^0.2.1",
+				"babel-preset-es2015": "^6.5.0",
+				"eslint": "2.2.0",
+				"eslint-config-airbnb": "^6.0.2",
+				"eslint-plugin-react": "^4.1.0",
+				"expect": "^1.14.0",
+				"gzip-size": "^3.0.0",
+				"karma": "^0.13.21",
+				"karma-browserstack-launcher": "^0.1.10",
+				"karma-chrome-launcher": "^0.2.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^1.2.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"mocha": "^2.4.5",
+				"pretty-bytes": "^3.0.1",
+				"readline-sync": "^1.4.1",
+				"rimraf": "^2.5.2",
+				"webpack": "^1.12.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "ecd5f5f2c0a75aa9f91c43920e3df683d1f83781",
+				"tarball": "https://registry.npmjs.org/resolve-pathname/-/resolve-pathname-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.2": {
+			"name": "resolve-pathname",
+			"version": "1.0.2",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-core": "^6.5.2",
+				"babel-eslint": "^5.0.0",
+				"babel-loader": "^6.2.3",
+				"babel-plugin-dev-expression": "^0.2.1",
+				"babel-preset-es2015": "^6.5.0",
+				"eslint": "2.2.0",
+				"eslint-config-airbnb": "^6.0.2",
+				"eslint-plugin-react": "^4.1.0",
+				"expect": "^1.14.0",
+				"gzip-size": "^3.0.0",
+				"karma": "^0.13.21",
+				"karma-browserstack-launcher": "^0.1.10",
+				"karma-chrome-launcher": "^0.2.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^1.2.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"mocha": "^2.4.5",
+				"pretty-bytes": "^3.0.1",
+				"readline-sync": "^1.4.1",
+				"rimraf": "^2.5.2",
+				"webpack": "^1.12.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b2c746881557cad0a5c1c6dcd0c8a33fbb2ba84e",
+				"tarball": "https://registry.npmjs.org/resolve-pathname/-/resolve-pathname-1.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.3": {
+			"name": "resolve-pathname",
+			"version": "1.0.3",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-core": "^6.5.2",
+				"babel-eslint": "^5.0.0",
+				"babel-loader": "^6.2.3",
+				"babel-plugin-dev-expression": "^0.2.1",
+				"babel-preset-es2015": "^6.5.0",
+				"eslint": "2.2.0",
+				"eslint-config-airbnb": "^6.0.2",
+				"eslint-plugin-react": "^4.1.0",
+				"expect": "^1.14.0",
+				"gzip-size": "^3.0.0",
+				"karma": "^0.13.21",
+				"karma-browserstack-launcher": "^0.1.10",
+				"karma-chrome-launcher": "^0.2.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^1.2.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"mocha": "^2.4.5",
+				"pretty-bytes": "^3.0.1",
+				"readline-sync": "^1.4.1",
+				"rimraf": "^2.5.2",
+				"webpack": "^1.12.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "9ad9a0667006f805c7078fbb220a38e6aeb74fd3",
+				"tarball": "https://registry.npmjs.org/resolve-pathname/-/resolve-pathname-1.0.3.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.4": {
+			"name": "resolve-pathname",
+			"version": "1.0.4",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-core": "^6.5.2",
+				"babel-eslint": "^5.0.0",
+				"babel-loader": "^6.2.3",
+				"babel-plugin-dev-expression": "^0.2.1",
+				"babel-preset-es2015": "^6.5.0",
+				"eslint": "2.2.0",
+				"eslint-config-airbnb": "^6.0.2",
+				"eslint-plugin-react": "^4.1.0",
+				"expect": "^1.14.0",
+				"gzip-size": "^3.0.0",
+				"karma": "^0.13.21",
+				"karma-browserstack-launcher": "^0.1.10",
+				"karma-chrome-launcher": "^0.2.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^1.2.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"mocha": "^2.4.5",
+				"pretty-bytes": "^3.0.1",
+				"readline-sync": "^1.4.1",
+				"rimraf": "^2.5.2",
+				"webpack": "^1.12.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3cb147c497c956d97fb9ba821b175a97e5141ec5",
+				"tarball": "https://registry.npmjs.org/resolve-pathname/-/resolve-pathname-1.0.4.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.5": {
+			"name": "resolve-pathname",
+			"version": "1.0.5",
+			"dependencies": {
+				"invariant": "^2.0.0"
+			},
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-core": "^6.5.2",
+				"babel-eslint": "^5.0.0",
+				"babel-loader": "^6.2.3",
+				"babel-plugin-dev-expression": "^0.2.1",
+				"babel-preset-es2015": "^6.5.0",
+				"eslint": "2.2.0",
+				"eslint-config-airbnb": "^6.0.2",
+				"eslint-plugin-react": "^4.1.0",
+				"expect": "^1.14.0",
+				"gzip-size": "^3.0.0",
+				"karma": "^0.13.21",
+				"karma-browserstack-launcher": "^0.1.10",
+				"karma-chrome-launcher": "^0.2.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^1.2.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"mocha": "^2.4.5",
+				"pretty-bytes": "^3.0.1",
+				"readline-sync": "^1.4.1",
+				"rimraf": "^2.5.2",
+				"webpack": "^1.12.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "218a889066205b49a04b90af75131eb83b880f8f",
+				"tarball": "https://registry.npmjs.org/resolve-pathname/-/resolve-pathname-1.0.5.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "resolve-pathname",
+			"version": "2.0.0",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-core": "^6.5.2",
+				"babel-eslint": "^5.0.0",
+				"babel-loader": "^6.2.3",
+				"babel-plugin-dev-expression": "^0.2.1",
+				"babel-preset-es2015": "^6.5.0",
+				"eslint": "2.2.0",
+				"eslint-config-airbnb": "^6.0.2",
+				"eslint-plugin-react": "^4.1.0",
+				"expect": "^1.14.0",
+				"gzip-size": "^3.0.0",
+				"karma": "^0.13.21",
+				"karma-browserstack-launcher": "^0.1.10",
+				"karma-chrome-launcher": "^0.2.2",
+				"karma-mocha": "^0.2.2",
+				"karma-mocha-reporter": "^1.2.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"mocha": "^2.4.5",
+				"pretty-bytes": "^3.0.1",
+				"readline-sync": "^1.4.1",
+				"rimraf": "^2.5.2",
+				"webpack": "^1.12.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "3dcf50cda90d8435ada1592cb3bbb582ba2fde7c",
+				"tarball": "https://registry.npmjs.org/resolve-pathname/-/resolve-pathname-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.1": {
+			"name": "resolve-pathname",
+			"version": "2.0.1",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-core": "^6.5.2",
+				"babel-eslint": "^7.0.0",
+				"babel-loader": "^6.2.3",
+				"babel-preset-es2015": "^6.5.0",
+				"eslint": "^3.2.2",
+				"eslint-plugin-import": "^2.0.0",
+				"expect": "^1.14.0",
+				"gzip-size": "^3.0.0",
+				"karma": "^1.1.2",
+				"karma-browserstack-launcher": "^1.0.0",
+				"karma-chrome-launcher": "^2.0.0",
+				"karma-mocha": "^1.0.1",
+				"karma-mocha-reporter": "^2.0.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"mocha": "^3.0.0",
+				"pretty-bytes": "^4.0.2",
+				"readline-sync": "^1.4.1",
+				"rimraf": "^2.5.2",
+				"webpack": "^1.12.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "7a5d8b8329a5425f6389e661f9a3499c0baf5bef",
+				"tarball": "https://registry.npmjs.org/resolve-pathname/-/resolve-pathname-2.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.2": {
+			"name": "resolve-pathname",
+			"version": "2.0.2",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-core": "^6.5.2",
+				"babel-eslint": "^7.0.0",
+				"babel-loader": "^6.2.3",
+				"babel-preset-es2015": "^6.5.0",
+				"babel-preset-es2015-loose": "^8.0.0",
+				"eslint": "^3.2.2",
+				"eslint-plugin-import": "^2.0.0",
+				"expect": "^1.14.0",
+				"gzip-size": "^3.0.0",
+				"karma": "^1.1.2",
+				"karma-browserstack-launcher": "^1.0.0",
+				"karma-chrome-launcher": "^2.0.0",
+				"karma-mocha": "^1.0.1",
+				"karma-mocha-reporter": "^2.0.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"mocha": "^3.0.0",
+				"pretty-bytes": "^4.0.2",
+				"readline-sync": "^1.4.1",
+				"webpack": "^1.12.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e55c016eb2e9df1de98e85002282bfb38c630436",
+				"tarball": "https://registry.npmjs.org/resolve-pathname/-/resolve-pathname-2.0.2.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "resolve-pathname",
+			"version": "2.1.0",
+			"devDependencies": {
+				"babel-cli": "^6.5.1",
+				"babel-core": "^6.5.2",
+				"babel-eslint": "^7.0.0",
+				"babel-loader": "^6.2.3",
+				"babel-preset-es2015": "^6.5.0",
+				"babel-preset-stage-1": "^6.24.1",
+				"eslint": "^3.2.2",
+				"eslint-plugin-import": "^2.0.0",
+				"expect": "^1.14.0",
+				"gzip-size": "^3.0.0",
+				"in-publish": "^2.0.0",
+				"karma": "^1.1.2",
+				"karma-browserstack-launcher": "^1.0.0",
+				"karma-chrome-launcher": "^2.0.0",
+				"karma-mocha": "^1.0.1",
+				"karma-mocha-reporter": "^2.0.3",
+				"karma-sourcemap-loader": "^0.3.7",
+				"karma-webpack": "^1.7.0",
+				"mocha": "^3.0.0",
+				"pretty-bytes": "^4.0.2",
+				"readline-sync": "^1.4.1",
+				"webpack": "^1.12.14"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "e8358801b86b83b17560d4e3c382d7aef2100944",
+				"tarball": "https://registry.npmjs.org/resolve-pathname/-/resolve-pathname-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "resolve-pathname",
+	"dist-tags": {
+		"latest": "2.1.0"
+	},
+	"modified": "2017-04-21T21:59:01.124Z",
+	"_etag": "W/\"58fa80a5-2160\"",
+	"_lastModified": "Fri, 21 Apr 2017 21:59:01 GMT"
+}

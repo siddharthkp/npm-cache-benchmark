@@ -1,0 +1,67 @@
+{
+	"versions": {
+		"1.0.0": {
+			"name": "is-promise",
+			"version": "1.0.0",
+			"devDependencies": {
+				"better-assert": "~0.1.0",
+				"mocha": "~1.7.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "b998d17551f16f69f7bd4828f58f018cc81e064f",
+				"tarball": "https://registry.npmjs.org/is-promise/-/is-promise-1.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"1.0.1": {
+			"name": "is-promise",
+			"version": "1.0.1",
+			"devDependencies": {
+				"better-assert": "~0.1.0",
+				"mocha": "~1.7.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "31573761c057e33c2e91aab9e96da08cefbe76e5",
+				"tarball": "https://registry.npmjs.org/is-promise/-/is-promise-1.0.1.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.0.0": {
+			"name": "is-promise",
+			"version": "2.0.0",
+			"devDependencies": {
+				"better-assert": "~0.1.0",
+				"mocha": "~1.7.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "058b6404ba57c4df03c92ed987c000bda58753a6",
+				"tarball": "https://registry.npmjs.org/is-promise/-/is-promise-2.0.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		},
+		"2.1.0": {
+			"name": "is-promise",
+			"version": "2.1.0",
+			"devDependencies": {
+				"better-assert": "~0.1.0",
+				"mocha": "~1.7.4"
+			},
+			"directories": {},
+			"dist": {
+				"shasum": "79a2a9ece7f096e80f36d2b2f3bc16c1ff4bf3fa",
+				"tarball": "https://registry.npmjs.org/is-promise/-/is-promise-2.1.0.tgz"
+			},
+			"_hasShrinkwrap": false
+		}
+	},
+	"name": "is-promise",
+	"dist-tags": {
+		"latest": "2.1.0"
+	},
+	"modified": "2017-03-23T16:07:35.745Z",
+	"_etag": "W/\"58d3f2c7-4d7\"",
+	"_lastModified": "Thu, 23 Mar 2017 16:07:35 GMT"
+}
