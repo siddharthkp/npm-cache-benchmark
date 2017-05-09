@@ -33,7 +33,6 @@ try {
 }
 
 // implementation
-
 function runAll() {
   const sampleSize = 5;
   for (let i = 1; i <= sampleSize; i++) {
